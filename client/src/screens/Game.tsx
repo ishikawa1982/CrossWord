@@ -44,6 +44,14 @@ export function Game({ state, playerId, lastResult, onSubmit, onLeave, solo }: P
     [puzzle, selectedWordId]
   );
 
+  // 回答したら入力パネルを隠す（選択解除）。キーボードも閉じる。
+  const handleSubmit = (guess: string) => {
+    if (!selectedWord) return;
+    onSubmit(selectedWord.id, guess);
+    setSelectedWordId(null);
+    (document.activeElement as HTMLElement | null)?.blur();
+  };
+
   // マスをクリック：そのマスを通る単語を選択（選択中の単語の別方向があれば切替）
   const selectCell = (row: number, col: number) => {
     const through = puzzle.words.filter((w) => {
@@ -77,33 +85,31 @@ export function Game({ state, playerId, lastResult, onSubmit, onLeave, solo }: P
       </header>
 
       <div className="game-body">
-        <div className="board-area">
-          <Grid
-            puzzle={puzzle}
-            players={state.players}
-            selectedWordId={selectedWordId}
-            onSelectCell={selectCell}
-          />
+        <div className="board-row">
+          <div className="board-area">
+            <Grid
+              puzzle={puzzle}
+              players={state.players}
+              selectedWordId={selectedWordId}
+              onSelectCell={selectCell}
+            />
+          </div>
+          <Scoreboard players={state.players} playerId={playerId} />
         </div>
 
-        <aside className="side-panel">
-          <Scoreboard players={state.players} playerId={playerId} />
-          <ClueList
-            puzzle={puzzle}
-            players={state.players}
-            selectedWordId={selectedWordId}
-            onSelect={setSelectedWordId}
-          />
-        </aside>
-      </div>
-
-      <div className="answer-dock">
-        <AnswerInput
-          word={selectedWord}
-          lastResult={lastResult}
-          onSubmit={(guess) => selectedWord && onSubmit(selectedWord.id, guess)}
+        <ClueList
+          puzzle={puzzle}
+          players={state.players}
+          selectedWordId={selectedWordId}
+          onSelect={setSelectedWordId}
         />
       </div>
+
+      {selectedWord && (
+        <div className="answer-dock">
+          <AnswerInput word={selectedWord} lastResult={lastResult} onSubmit={handleSubmit} />
+        </div>
+      )}
     </div>
   );
 }

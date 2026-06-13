@@ -93,29 +93,40 @@ button.ghost { background: transparent; color: var(--muted); border: 1px solid v
   overscroll-behavior: none;
 }
 .game-header { display: flex; justify-content: space-between; align-items: center; flex: 0 0 auto; }
+/* 縦並び：上に「盤面＋スコア（右）」、下にスクロールするカギ一覧 */
 .game-body {
   flex: 1 1 auto;
   min-height: 0;
   display: flex;
-  gap: 1.5rem;
-  align-items: stretch;
+  flex-direction: column;
+  gap: 0.75rem;
   overflow: hidden;
 }
+/* 盤面とスコアを横並び（スコアは盤面の右） */
+.board-row {
+  flex: 0 0 auto;
+  display: flex;
+  gap: 0.75rem;
+  align-items: flex-start;
+  min-height: 0;
+  max-height: 50vh;
+}
 /* 盤面：はみ出す場合はこの領域内でスクロール */
-.board-area { flex: 1 1 380px; min-width: 0; overflow: auto; }
-/* サイドパネル（スコア＋カギ一覧）：縦スクロール可能に */
-.side-panel { flex: 1 1 280px; min-width: 260px; min-height: 0; overflow-y: auto; }
+.board-area { flex: 0 1 auto; min-width: 0; overflow: auto; }
+/* スコア欄：盤面の右。横幅は内容に合わせコンパクトに */
+.board-row .scoreboard { flex: 0 0 auto; width: 160px; margin-bottom: 0; align-self: stretch; overflow-y: auto; }
+/* カギ一覧：残りの縦スペースを使ってスクロール */
+.game-body .clue-list { flex: 1 1 auto; min-height: 0; overflow-y: auto; margin-bottom: 0; }
 
 /* 入力ドック：下部固定。ソフトキーボード表示時もこの真上に来る */
 .answer-dock { flex: 0 0 auto; }
 .answer-dock .answer-input { margin-top: 0; }
 
-/* スマホ：縦並びにして、カギ一覧をスクロール領域、入力欄を最下部に */
+/* スマホ：余白とマス目を詰めて縦幅を圧縮 */
 @media (max-width: 760px) {
   .screen.game { gap: 0.5rem; padding: 0.5rem 0.6rem; }
-  .game-body { flex-direction: column; gap: 0.6rem; }
-  .board-area { flex: 0 0 auto; max-height: 45vh; display: flex; justify-content: center; }
-  .side-panel { flex: 1 1 auto; }
+  .board-row { max-height: 42vh; }
+  .board-row .scoreboard { width: 120px; padding: 0.5rem 0.6rem; }
   .cell { width: 30px; height: 30px; }
   .cell-letter { font-size: 16px; }
 }
