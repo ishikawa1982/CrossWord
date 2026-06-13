@@ -25,11 +25,16 @@ export interface Room {
 
 const rooms = new Map<string, Room>();
 
+// ルームコード用のひらがな（紛らわしい・入力しにくい字は除外）
+const CODE_CHARS = 'あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろ';
+
 function generateCode(): string {
-  const chars = 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789'; // 紛らわしい文字を除外
   let code: string;
   do {
-    code = Array.from({ length: 6 }, () => chars[Math.floor(Math.random() * chars.length)]).join('');
+    code = Array.from(
+      { length: 4 },
+      () => CODE_CHARS[Math.floor(Math.random() * CODE_CHARS.length)]
+    ).join('');
   } while (rooms.has(code));
   return code;
 }
@@ -50,7 +55,7 @@ export function createRoom(language: Language): Room {
 }
 
 export function getRoom(code: string): Room | undefined {
-  return rooms.get(code.toUpperCase());
+  return rooms.get(code.trim());
 }
 
 export function addPlayer(

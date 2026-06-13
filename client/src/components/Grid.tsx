@@ -53,6 +53,7 @@ export function Grid({ puzzle, players, selectedWordId, onSelectCell }: Props) {
           onClick={() => onSelectCell(r, c)}
         >
           {cell.number && <span className="cell-number">{cell.number}</span>}
+          {cell.solution && <span className="cell-letter">{cell.solution}</span>}
         </div>
       );
     }

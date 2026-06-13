@@ -1,6 +1,10 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import type { Language } from '@crossword/shared';
 import type { SoloDifficulty } from '../useSoloGame.js';
+
+const NAME_KEY = 'crossword.nickname';
+// ルームコードに使うひらがな（サーバの CODE_CHARS と一致させる）
+const CODE_CHARS = 'あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろ';
 
 interface Props {
   onCreate: (name: string, language: Language) => void;
@@ -11,12 +15,23 @@ interface Props {
 }
 
 export function Home({ onCreate, onJoin, onSolo, error, connected }: Props) {
-  const [name, setName] = useState('');
+  // ニックネームは localStorage から復元し、変更のたびに保存する
+  const [name, setName] = useState(() => localStorage.getItem(NAME_KEY) ?? '');
   const [code, setCode] = useState('');
   const [language, setLanguage] = useState<Language>('ja');
   const [soloOpen, setSoloOpen] = useState(false);
   const [soloLanguage, setSoloLanguage] = useState<Language>('ja');
   const [soloDifficulty, setSoloDifficulty] = useState<SoloDifficulty>('normal');
+
+  useEffect(() => {
+    if (name.trim()) localStorage.setItem(NAME_KEY, name.trim());
+  }, [name]);
+
+  // 入力をひらがな（コード用の字のみ）に絞り、最大4文字に
+  const onCodeChange = (raw: string) => {
+    const filtered = Array.from(raw).filter((ch) => CODE_CHARS.includes(ch)).slice(0, 4).join('');
+    setCode(filtered);
+  };
 
   return (
     <div className="screen home">
@@ -56,12 +71,12 @@ export function Home({ onCreate, onJoin, onSolo, error, connected }: Props) {
       <div className="card">
         <h2>部屋に参加する</h2>
         <label className="field">
-          ルームコード
+          ルームコード（ひらがな4文字）
           <input
             value={code}
-            placeholder="例: ABC123"
-            maxLength={6}
-            onChange={(e) => setCode(e.target.value.toUpperCase())}
+            placeholder="例: さくらの"
+            maxLength={4}
+            onChange={(e) => onCodeChange(e.target.value)}
           />
         </label>
         <button
