@@ -1,11 +1,10 @@
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import type { AnswerResult, GameState } from '@crossword/shared';
 import { Grid } from '../components/Grid.js';
 import { ClueList } from '../components/ClueList.js';
 import { Scoreboard } from '../components/Scoreboard.js';
 import { AnswerInput } from '../components/AnswerInput.js';
 import { formatDuration } from './SoloResults.js';
-import bgmUrl from '../assets/bgm.mp3';
 
 interface SoloInfo {
   startedAt: number;
@@ -27,33 +26,6 @@ const keyOf = (r: number, c: number) => `${r},${c}`;
 export function Game({ state, playerId, lastResult, onSubmit, onLeave, solo }: Props) {
   const [selectedWordId, setSelectedWordId] = useState<string | null>(null);
   const puzzle = state.puzzle!;
-
-  // ゲーム中はBGMをループ再生。画面を離れる（終了・退出）と停止。
-  // ブラウザの自動再生制限で弾かれた場合は、最初の操作で再生を試みる。
-  const bgmRef = useRef<HTMLAudioElement | null>(null);
-  useEffect(() => {
-    const audio = new Audio(bgmUrl);
-    audio.loop = true;
-    audio.volume = 0.35;
-    bgmRef.current = audio;
-    const tryPlay = () => audio.play().catch(() => {});
-    tryPlay();
-    // 自動再生が拒否された場合に備え、最初のユーザー操作で再生
-    const onInteract = () => {
-      tryPlay();
-      window.removeEventListener('pointerdown', onInteract);
-      window.removeEventListener('keydown', onInteract);
-    };
-    window.addEventListener('pointerdown', onInteract);
-    window.addEventListener('keydown', onInteract);
-    return () => {
-      window.removeEventListener('pointerdown', onInteract);
-      window.removeEventListener('keydown', onInteract);
-      audio.pause();
-      audio.currentTime = 0;
-      bgmRef.current = null;
-    };
-  }, []);
 
   // 一人用モードの経過時間を毎秒更新
   const [now, setNow] = useState(Date.now());
