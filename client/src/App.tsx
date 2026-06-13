@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
-import type { AnswerResult, GameState, Language } from '@crossword/shared';
+import type { AnswerResult, GameState, Genre, Language } from '@crossword/shared';
 import { socket } from './socket.js';
 import { Home } from './screens/Home.js';
 import { Lobby } from './screens/Lobby.js';
@@ -88,6 +88,7 @@ export function App() {
     if (soloConfig) solo.start(soloConfig.language, soloConfig.difficulty);
   }, [solo, soloConfig]);
 
+  const handleSetGenre = useCallback((genre: Genre) => socket.emit('setGenre', genre), []);
   const handleStart = useCallback(() => socket.emit('startGame'), []);
   const handleSubmit = useCallback((wordId: string, guess: string) => {
     socket.emit('submitAnswer', { wordId, guess });
@@ -135,7 +136,16 @@ export function App() {
     );
   }
   if (state.status === 'lobby') {
-    return <Lobby state={state} playerId={playerId} onStart={handleStart} onLeave={handleLeave} error={error} />;
+    return (
+      <Lobby
+        state={state}
+        playerId={playerId}
+        onStart={handleStart}
+        onSetGenre={handleSetGenre}
+        onLeave={handleLeave}
+        error={error}
+      />
+    );
   }
   if (state.status === 'finished') {
     return <Results state={state} playerId={playerId} onLeave={handleLeave} />;

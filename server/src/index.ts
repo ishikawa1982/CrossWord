@@ -109,7 +109,7 @@ io.on('connection', (socket) => {
     }
     if (room.status !== 'lobby') return;
 
-    const source = getWords(room.language);
+    const source = getWords(room.language, room.genre);
     room.puzzle = generatePuzzle(source, room.language, { targetWords: TARGET_WORDS });
     if (room.puzzle.words.length < 2) {
       socket.emit('errorMessage', { message: '盤面の生成に失敗しました。もう一度お試しください' });
@@ -156,6 +156,16 @@ io.on('connection', (socket) => {
     } else {
       broadcastState(room, 'gameUpdate');
     }
+  });
+
+  socket.on('setGenre', (genre) => {
+    const room = findRoomBySocket(socket.id);
+    if (!room || room.status !== 'lobby') return;
+    const playerId = room.socketToPlayer.get(socket.id);
+    const host = room.players.find((p) => p.isHost);
+    if (!host || host.id !== playerId) return; // ホストのみ変更可
+    room.genre = genre;
+    broadcastState(room, 'roomUpdate');
   });
 
   socket.on('leaveRoom', () => {

@@ -93,6 +93,7 @@ export function useSoloGame(): SoloGame {
       roomCode: 'SOLO',
       status: 'playing',
       language,
+      genre: 'random',
       players: [player],
       puzzle: stripSolution(puzzle),
       winnerIds: [],

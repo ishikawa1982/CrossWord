@@ -2,12 +2,33 @@
 
 export type Language = 'ja' | 'en';
 
+/** 出題ジャンル（日本語コンテンツ向け）。'random' は全ジャンルから出題 */
+export type Genre =
+  | 'showa'
+  | 'gourmet'
+  | 'culture'
+  | 'nature'
+  | 'entertainment'
+  | 'random';
+
+/** ジャンルの表示名と説明 */
+export const GENRES: { id: Genre; label: string; desc: string }[] = [
+  { id: 'random', label: 'ランダム', desc: '全ジャンルからランダム出題' },
+  { id: 'showa', label: '昭和・平成レトロ', desc: '懐かしのおもちゃ・家電・流行など' },
+  { id: 'gourmet', label: 'グルメ', desc: '料理・食材・食べ物など' },
+  { id: 'culture', label: '教養', desc: 'ことわざ・難読漢字・一般常識など' },
+  { id: 'nature', label: '動物・植物', desc: '生き物や草花など' },
+  { id: 'entertainment', label: 'エンタメ', desc: 'アニメ・漫画・ゲームなど' },
+];
+
 export type Direction = 'across' | 'down';
 
 /** 単語＋カギのデータソース1件 */
 export interface WordEntry {
   answer: string;
   clue: string;
+  /** ジャンル（日本語データで使用。未指定はジャンル無し扱い） */
+  genre?: Genre;
 }
 
 /** 盤面に配置された単語（カギ） */
@@ -61,6 +82,7 @@ export interface GameState {
   roomCode: string;
   status: GameStatus;
   language: Language;
+  genre: Genre;
   players: Player[];
   puzzle: Puzzle | null;
   winnerIds: string[];
@@ -113,6 +135,7 @@ export interface ClientToServerEvents {
   ) => void;
   startGame: () => void;
   submitAnswer: (payload: SubmitAnswerPayload) => void;
+  setGenre: (genre: Genre) => void;
   leaveRoom: () => void;
 }
 

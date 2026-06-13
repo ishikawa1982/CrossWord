@@ -79,6 +79,20 @@ button.ghost { background: transparent; color: var(--muted); border: 1px solid v
 .badge.you { background: var(--accent); }
 .actions { display: flex; gap: 0.75rem; align-items: center; margin-top: 1rem; }
 
+/* ---- ジャンル選択 ---- */
+.genre-section { margin: 1rem 0; }
+.genre-section h2 { margin: 0 0 0.5rem; font-size: 1.1rem; }
+.genre-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 0.5rem; }
+.genre-btn {
+  display: flex; flex-direction: column; gap: 0.2rem; text-align: left;
+  background: var(--panel); border: 1px solid var(--border); color: var(--text);
+  padding: 0.6rem 0.7rem; border-radius: 10px;
+}
+.genre-btn:hover { border-color: var(--accent); }
+.genre-btn.selected { background: var(--accent); border-color: var(--accent); color: #fff; }
+.genre-btn .genre-label { font-weight: 700; font-size: 0.95rem; }
+.genre-btn .genre-desc { font-size: 0.75rem; opacity: 0.8; }
+
 /* ---- ゲーム ---- */
 /* ゲーム画面は全画面・ページ自体はスクロールさせない。
    中の「カギ一覧」だけが必要に応じてスクロールし、入力欄は下部に固定する。 */

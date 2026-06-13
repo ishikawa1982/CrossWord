@@ -2,6 +2,7 @@
 import {
   PLAYER_COLORS,
   type GameState,
+  type Genre,
   type Language,
   type Player,
   type Puzzle,
@@ -12,6 +13,7 @@ const MAX_PLAYERS = 4;
 export interface Room {
   code: string;
   language: Language;
+  genre: Genre;
   status: 'lobby' | 'playing' | 'finished';
   players: Player[];
   /** 解答付きの内部 Puzzle（クライアントには配信しない） */
@@ -43,6 +45,7 @@ export function createRoom(language: Language): Room {
   const room: Room = {
     code: generateCode(),
     language,
+    genre: 'random',
     status: 'lobby',
     players: [],
     puzzle: null,
@@ -114,6 +117,7 @@ export function toGameState(room: Room, strippedPuzzle: Puzzle | null): GameStat
     roomCode: room.code,
     status: room.status,
     language: room.language,
+    genre: room.genre,
     players: room.players,
     puzzle: strippedPuzzle,
     winnerIds: room.winnerIds,
