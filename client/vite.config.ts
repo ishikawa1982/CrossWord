@@ -6,18 +6,20 @@ import { dirname, resolve } from 'path';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const repoRoot = resolve(__dirname, '..');
 
+// GITHUB_PAGES=true のとき /CrossWord/ をベースパスにする（GitHub Pages 用）
+const base = process.env.GITHUB_PAGES === 'true' ? '/CrossWord/' : '/';
+
 export default defineConfig({
   plugins: [react()],
+  base,
   resolve: {
     alias: {
-      // 共有モジュールを TS ソースとして直接解決し、Vite に変換させる
       '@crossword/shared': resolve(repoRoot, 'shared/src/index.ts'),
     },
   },
   server: {
     port: 5173,
     fs: {
-      // ワークスペース外の shared/ を読めるよう許可
       allow: [repoRoot],
     },
   },

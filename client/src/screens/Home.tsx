@@ -5,9 +5,10 @@ interface Props {
   onCreate: (name: string, language: Language) => void;
   onJoin: (code: string, name: string) => void;
   error: string | null;
+  connected: boolean;
 }
 
-export function Home({ onCreate, onJoin, error }: Props) {
+export function Home({ onCreate, onJoin, error, connected }: Props) {
   const [name, setName] = useState('');
   const [code, setCode] = useState('');
   const [language, setLanguage] = useState<Language>('ja');
@@ -16,6 +17,11 @@ export function Home({ onCreate, onJoin, error }: Props) {
     <div className="screen home">
       <h1>対戦型クロスワード</h1>
       <p className="tagline">最大4人で早押し対戦。マスを自分の色で塗りつぶそう！</p>
+      {!connected && (
+        <div className="server-warn">
+          ⚠ サーバに接続中… 接続できない場合はサーバが起動していない可能性があります。
+        </div>
+      )}
 
       <label className="field">
         ニックネーム

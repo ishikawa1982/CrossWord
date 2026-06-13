@@ -61,6 +61,10 @@ button:disabled { opacity: 0.5; cursor: not-allowed; }
 button.primary { background: var(--accent); color: #fff; }
 button.ghost { background: transparent; color: var(--muted); border: 1px solid var(--border); }
 .error { color: #fca5a5; }
+.server-warn {
+  background: #422006; border: 1px solid #92400e; border-radius: 8px;
+  padding: 0.6rem 1rem; margin: 0.5rem 0; color: #fde68a; font-size: 0.9rem;
+}
 
 /* ---- ロビー ---- */
 .room-code { font-size: 1.2rem; margin: 0.5rem 0; }

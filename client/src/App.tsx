@@ -11,7 +11,17 @@ export function App() {
   const [playerId, setPlayerId] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [lastResult, setLastResult] = useState<AnswerResult | null>(null);
+  const [connected, setConnected] = useState(false);
   const playerIdRef = useRef<string | null>(null);
+
+  useEffect(() => {
+    const onConnect = () => setConnected(true);
+    const onDisconnect = () => setConnected(false);
+    socket.on('connect', onConnect);
+    socket.on('disconnect', onDisconnect);
+    if (socket.connected) setConnected(true);
+    return () => { socket.off('connect', onConnect); socket.off('disconnect', onDisconnect); };
+  }, []);
 
   useEffect(() => {
     const onRoom = (s: GameState) => setState(s);
@@ -70,7 +80,7 @@ export function App() {
   }, []);
 
   if (!state || !playerId) {
-    return <Home onCreate={handleCreate} onJoin={handleJoin} error={error} />;
+    return <Home onCreate={handleCreate} onJoin={handleJoin} error={error} connected={connected} />;
   }
   if (state.status === 'lobby') {
     return <Lobby state={state} playerId={playerId} onStart={handleStart} onLeave={handleLeave} error={error} />;

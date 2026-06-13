@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: crossword-server
+    runtime: node
+    buildCommand: npm install
+    startCommand: npm run start -w server
+    envVars:
+      - key: PORT
+        value: 3001
+    # 無料プランは15分無操作でスリープします。
+    # 最初のアクセス時に起動まで30秒ほどかかる場合があります。
