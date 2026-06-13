@@ -87,6 +87,7 @@ export function Game({ state, playerId, lastResult, onSubmit, onLeave, solo }: P
           <AnswerInput
             word={selectedWord}
             lastResult={lastResult}
+            language={state.language}
             onSubmit={(guess) => selectedWord && onSubmit(selectedWord.id, guess)}
           />
         </div>

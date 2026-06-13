@@ -37,3 +37,17 @@ export function normalizeWord(word: string, lang: Language): string[] {
 export function normalizeForCompare(word: string, lang: Language): string {
   return normalizeWord(word, lang).join('');
 }
+
+/**
+ * 入力欄用フィルタ：許可文字のみを残す（スマホ・PCのIME差を吸収して統一）。
+ * - ja: カタカナのみ（ひらがなは自動でカタカナに変換、長音符ーも許可）
+ * - en: 英大文字のみ（小文字は大文字化）
+ */
+export function filterInput(raw: string, lang: Language): string {
+  if (lang === 'en') return raw.toUpperCase().replace(/[^A-Z]/g, '');
+  // ひらがな→カタカナに変換し、カタカナ・ブロック（長音符ーを含む）以外を除去
+  const kata = toKatakana(raw);
+  return Array.from(kata)
+    .filter((ch) => /[゠-ヿ]/.test(ch))
+    .join('');
+}

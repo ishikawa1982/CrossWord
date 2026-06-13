@@ -1,13 +1,14 @@
 import { useEffect, useRef, useState } from 'react';
-import type { AnswerResult, PlacedWord } from '@crossword/shared';
+import { filterInput, type AnswerResult, type Language, type PlacedWord } from '@crossword/shared';
 
 interface Props {
   word: PlacedWord | null;
   lastResult: AnswerResult | null;
+  language: Language;
   onSubmit: (guess: string) => void;
 }
 
-export function AnswerInput({ word, lastResult, onSubmit }: Props) {
+export function AnswerInput({ word, lastResult, language, onSubmit }: Props) {
   const [guess, setGuess] = useState('');
   const [now, setNow] = useState(Date.now());
   const [feedback, setFeedback] = useState<'correct' | 'wrong' | null>(null);
@@ -63,9 +64,9 @@ export function AnswerInput({ word, lastResult, onSubmit }: Props) {
         <input
           ref={inputRef}
           value={guess}
-          placeholder="答えを入力"
+          placeholder={language === 'ja' ? 'カタカナで入力' : 'ENTER ANSWER'}
           disabled={onCooldown}
-          onChange={(e) => setGuess(e.target.value)}
+          onChange={(e) => setGuess(filterInput(e.target.value, language))}
           onKeyDown={(e) => {
             if (e.key === 'Enter') submit();
           }}
