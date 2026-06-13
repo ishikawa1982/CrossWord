@@ -1,0 +1,142 @@
+:root {
+  --bg: #0f172a;
+  --panel: #1e293b;
+  --panel-2: #334155;
+  --text: #e2e8f0;
+  --muted: #94a3b8;
+  --accent: #3b82f6;
+  --border: #475569;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, 'Segoe UI', 'Hiragino Sans', 'Noto Sans JP', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+.screen {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+h1 { margin-top: 0; }
+.tagline, .hint { color: var(--muted); }
+
+/* ---- フォーム / カード ---- */
+.card {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1rem 1.25rem;
+  margin: 1rem 0;
+}
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  margin: 0.6rem 0;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+input, select {
+  padding: 0.6rem 0.7rem;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--panel-2);
+  color: var(--text);
+  font-size: 1rem;
+}
+button {
+  cursor: pointer;
+  border-radius: 8px;
+  border: none;
+  padding: 0.6rem 1rem;
+  font-size: 1rem;
+}
+button:disabled { opacity: 0.5; cursor: not-allowed; }
+button.primary { background: var(--accent); color: #fff; }
+button.ghost { background: transparent; color: var(--muted); border: 1px solid var(--border); }
+.error { color: #fca5a5; }
+
+/* ---- ロビー ---- */
+.room-code { font-size: 1.2rem; margin: 0.5rem 0; }
+.room-code.small { font-size: 0.95rem; color: var(--muted); }
+.player-list { list-style: none; padding: 0; }
+.player-list li {
+  display: flex; align-items: center; gap: 0.5rem;
+  padding: 0.5rem; background: var(--panel); border-radius: 8px; margin: 0.4rem 0;
+}
+.swatch { width: 16px; height: 16px; border-radius: 4px; display: inline-block; }
+.badge { font-size: 0.7rem; background: var(--panel-2); padding: 0.1rem 0.4rem; border-radius: 999px; }
+.badge.you { background: var(--accent); }
+.actions { display: flex; gap: 0.75rem; align-items: center; margin-top: 1rem; }
+
+/* ---- ゲーム ---- */
+.game-header { display: flex; justify-content: space-between; align-items: center; }
+.game-body { display: flex; gap: 1.5rem; flex-wrap: wrap; align-items: flex-start; }
+.board-area { flex: 1 1 380px; min-width: 320px; }
+.side-panel { flex: 1 1 280px; min-width: 260px; }
+
+.grid {
+  display: inline-flex;
+  flex-direction: column;
+  background: #000;
+  border: 2px solid #000;
+  border-radius: 4px;
+}
+.grid-row { display: flex; }
+.cell {
+  width: 34px; height: 34px;
+  position: relative;
+  border: 1px solid #1f2937;
+}
+.cell.blank { background: transparent; border: none; }
+.cell.filled { background: #f8fafc; color: #0f172a; cursor: pointer; }
+.cell.filled.highlight { outline: 3px solid var(--accent); outline-offset: -3px; z-index: 1; }
+.cell-number { position: absolute; top: 1px; left: 2px; font-size: 9px; font-weight: 700; }
+
+/* ---- 回答入力 ---- */
+.answer-input {
+  margin-top: 1rem; padding: 1rem;
+  background: var(--panel); border: 1px solid var(--border); border-radius: 12px;
+}
+.answer-input.empty { color: var(--muted); }
+.answer-input.correct { border-color: #22c55e; }
+.answer-input.wrong { border-color: #ef4444; }
+.selected-clue { display: flex; flex-direction: column; gap: 0.2rem; margin-bottom: 0.6rem; }
+.input-row { display: flex; gap: 0.5rem; }
+.input-row input { flex: 1; }
+.cooldown { color: #fca5a5; margin: 0.5rem 0 0; }
+.ok { color: #86efac; margin: 0.5rem 0 0; }
+
+/* ---- スコア / カギ ---- */
+.scoreboard, .clue-list { background: var(--panel); border: 1px solid var(--border); border-radius: 12px; padding: 0.75rem 1rem; margin-bottom: 1rem; }
+.scoreboard ul { list-style: none; padding: 0; margin: 0; }
+.scoreboard li { display: flex; align-items: center; gap: 0.5rem; padding: 0.3rem 0; }
+.scoreboard li.me { font-weight: 700; }
+.scoreboard .name { flex: 1; }
+.scoreboard .count { font-variant-numeric: tabular-nums; font-weight: 700; }
+
+.clue-group h4 { margin: 0.5rem 0 0.25rem; }
+.clue-list ul { list-style: none; padding: 0; margin: 0; }
+.clue-list li {
+  display: flex; align-items: center; gap: 0.4rem;
+  padding: 0.35rem 0.4rem; border-radius: 6px; cursor: pointer;
+}
+.clue-list li:hover { background: var(--panel-2); }
+.clue-list li.selected { background: var(--accent); color: #fff; }
+.clue-list .num { font-weight: 700; }
+.clue-list .text { flex: 1; font-size: 0.9rem; }
+.owner-dot { width: 12px; height: 12px; border-radius: 50%; }
+
+/* ---- 結果 ---- */
+.winner-banner { font-size: 1.3rem; }
+.final-scores { padding-left: 0; }
+.final-scores li { display: flex; align-items: center; gap: 0.6rem; padding: 0.4rem 0; list-style: none; }
+.final-scores .rank { width: 1.5rem; font-weight: 700; text-align: center; }
+.final-scores .name { flex: 1; }
+.final-scores li.me { font-weight: 700; }
