@@ -80,10 +80,45 @@ button.ghost { background: transparent; color: var(--muted); border: 1px solid v
 .actions { display: flex; gap: 0.75rem; align-items: center; margin-top: 1rem; }
 
 /* ---- ゲーム ---- */
-.game-header { display: flex; justify-content: space-between; align-items: center; }
-.game-body { display: flex; gap: 1.5rem; flex-wrap: wrap; align-items: flex-start; }
-.board-area { flex: 1 1 380px; min-width: 320px; }
-.side-panel { flex: 1 1 280px; min-width: 260px; }
+/* ゲーム画面は全画面・ページ自体はスクロールさせない。
+   中の「カギ一覧」だけが必要に応じてスクロールし、入力欄は下部に固定する。 */
+.screen.game {
+  height: 100dvh;
+  max-width: 1100px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+  overflow: hidden;
+  overscroll-behavior: none;
+}
+.game-header { display: flex; justify-content: space-between; align-items: center; flex: 0 0 auto; }
+.game-body {
+  flex: 1 1 auto;
+  min-height: 0;
+  display: flex;
+  gap: 1.5rem;
+  align-items: stretch;
+  overflow: hidden;
+}
+/* 盤面：はみ出す場合はこの領域内でスクロール */
+.board-area { flex: 1 1 380px; min-width: 0; overflow: auto; }
+/* サイドパネル（スコア＋カギ一覧）：縦スクロール可能に */
+.side-panel { flex: 1 1 280px; min-width: 260px; min-height: 0; overflow-y: auto; }
+
+/* 入力ドック：下部固定。ソフトキーボード表示時もこの真上に来る */
+.answer-dock { flex: 0 0 auto; }
+.answer-dock .answer-input { margin-top: 0; }
+
+/* スマホ：縦並びにして、カギ一覧をスクロール領域、入力欄を最下部に */
+@media (max-width: 760px) {
+  .screen.game { gap: 0.5rem; padding: 0.5rem 0.6rem; }
+  .game-body { flex-direction: column; gap: 0.6rem; }
+  .board-area { flex: 0 0 auto; max-height: 45vh; display: flex; justify-content: center; }
+  .side-panel { flex: 1 1 auto; }
+  .cell { width: 30px; height: 30px; }
+  .cell-letter { font-size: 16px; }
+}
 
 .grid {
   display: inline-flex;

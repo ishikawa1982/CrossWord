@@ -84,11 +84,6 @@ export function Game({ state, playerId, lastResult, onSubmit, onLeave, solo }: P
             selectedWordId={selectedWordId}
             onSelectCell={selectCell}
           />
-          <AnswerInput
-            word={selectedWord}
-            lastResult={lastResult}
-            onSubmit={(guess) => selectedWord && onSubmit(selectedWord.id, guess)}
-          />
         </div>
 
         <aside className="side-panel">
@@ -100,6 +95,14 @@ export function Game({ state, playerId, lastResult, onSubmit, onLeave, solo }: P
             onSelect={setSelectedWordId}
           />
         </aside>
+      </div>
+
+      <div className="answer-dock">
+        <AnswerInput
+          word={selectedWord}
+          lastResult={lastResult}
+          onSubmit={(guess) => selectedWord && onSubmit(selectedWord.id, guess)}
+        />
       </div>
     </div>
   );
