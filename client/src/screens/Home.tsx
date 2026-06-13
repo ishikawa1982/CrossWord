@@ -14,46 +14,15 @@ export function Home({ onCreate, onJoin, onSolo, error, connected }: Props) {
   const [name, setName] = useState('');
   const [code, setCode] = useState('');
   const [language, setLanguage] = useState<Language>('ja');
+  const [soloOpen, setSoloOpen] = useState(false);
   const [soloLanguage, setSoloLanguage] = useState<Language>('ja');
   const [soloDifficulty, setSoloDifficulty] = useState<SoloDifficulty>('normal');
 
   return (
     <div className="screen home">
-      <h1>クロスワード</h1>
-      <p className="tagline">一人でじっくり、みんなで早押し対戦。マスを埋めて遊ぼう！</p>
+      <h1>対戦型クロスワード</h1>
+      <p className="tagline">最大4人で早押し対戦。マスを自分の色で塗りつぶそう！</p>
 
-      <div className="card">
-        <h2>一人で遊ぶ</h2>
-        <p className="hint">自動生成された盤面を一人で解きます。サーバ接続は不要です。</p>
-        <div className="solo-options">
-          <label className="field">
-            言語
-            <select
-              value={soloLanguage}
-              onChange={(e) => setSoloLanguage(e.target.value as Language)}
-            >
-              <option value="ja">日本語（かな）</option>
-              <option value="en">英語</option>
-            </select>
-          </label>
-          <label className="field">
-            難易度
-            <select
-              value={soloDifficulty}
-              onChange={(e) => setSoloDifficulty(e.target.value as SoloDifficulty)}
-            >
-              <option value="easy">かんたん（6語）</option>
-              <option value="normal">ふつう（10語）</option>
-              <option value="hard">むずかしい（14語）</option>
-            </select>
-          </label>
-        </div>
-        <button className="primary" onClick={() => onSolo(soloLanguage, soloDifficulty)}>
-          一人用をはじめる
-        </button>
-      </div>
-
-      <h2 className="section-label">オンライン対戦</h2>
       {!connected && (
         <div className="server-warn">
           ⚠ サーバに接続中… 接続できない場合はサーバが起動していない可能性があります。
@@ -105,6 +74,42 @@ export function Home({ onCreate, onJoin, onSolo, error, connected }: Props) {
       </div>
 
       {error && <p className="error">{error}</p>}
+
+      <div className="solo-section">
+        <button className="solo-toggle" onClick={() => setSoloOpen((o) => !o)}>
+          一人で遊ぶ <span className="solo-chevron">{soloOpen ? '▲' : '▼'}</span>
+        </button>
+        {soloOpen && (
+          <div className="solo-panel">
+            <div className="solo-options">
+              <label className="field">
+                言語
+                <select
+                  value={soloLanguage}
+                  onChange={(e) => setSoloLanguage(e.target.value as Language)}
+                >
+                  <option value="ja">日本語（かな）</option>
+                  <option value="en">英語</option>
+                </select>
+              </label>
+              <label className="field">
+                難易度
+                <select
+                  value={soloDifficulty}
+                  onChange={(e) => setSoloDifficulty(e.target.value as SoloDifficulty)}
+                >
+                  <option value="easy">かんたん（6語）</option>
+                  <option value="normal">ふつう（10語）</option>
+                  <option value="hard">むずかしい（14語）</option>
+                </select>
+              </label>
+            </div>
+            <button className="ghost solo-start" onClick={() => onSolo(soloLanguage, soloDifficulty)}>
+              はじめる
+            </button>
+          </div>
+        )}
+      </div>
 
       <footer className="app-footer">v{__APP_VERSION__}</footer>
     </div>
