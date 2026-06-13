@@ -1,6 +1,6 @@
 // エントリポイント：Express + Socket.IO サーバ
 import { createServer } from 'http';
-import { readFileSync, existsSync } from 'fs';
+import { existsSync } from 'fs';
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
 import express from 'express';
@@ -11,19 +11,13 @@ import {
   computeScores,
   generatePuzzle,
   getWinners,
+  getWords,
   isComplete,
   stripSolution,
   validateAnswer,
   type ClientToServerEvents,
   type ServerToClientEvents,
-  type WordEntry,
 } from '@crossword/shared';
-
-const __dirname = dirname(fileURLToPath(import.meta.url));
-const loadWords = (file: string): WordEntry[] =>
-  JSON.parse(readFileSync(join(__dirname, 'data', file), 'utf-8')) as WordEntry[];
-const enWords = loadWords('words.en.json');
-const jaWords = loadWords('words.ja.json');
 import {
   addPlayer,
   createRoom,
@@ -33,14 +27,11 @@ import {
   type Room,
 } from './rooms.js';
 
+const __dirname = dirname(fileURLToPath(import.meta.url));
+
 const PORT = Number(process.env.PORT ?? 3001);
 const COOLDOWN_MS = 5000; // 誤答時のクールダウン
 const TARGET_WORDS = 10;
-
-const WORDS: Record<string, WordEntry[]> = {
-  en: enWords,
-  ja: jaWords,
-};
 
 const app = express();
 app.use(cors());
@@ -118,7 +109,7 @@ io.on('connection', (socket) => {
     }
     if (room.status !== 'lobby') return;
 
-    const source = WORDS[room.language] ?? WORDS.en;
+    const source = getWords(room.language);
     room.puzzle = generatePuzzle(source, room.language, { targetWords: TARGET_WORDS });
     if (room.puzzle.words.length < 2) {
       socket.emit('errorMessage', { message: '盤面の生成に失敗しました。もう一度お試しください' });

@@ -137,6 +137,20 @@ button.ghost { background: transparent; color: var(--muted); border: 1px solid v
 .clue-list .text { flex: 1; font-size: 0.9rem; }
 .owner-dot { width: 12px; height: 12px; border-radius: 50%; }
 
+/* ---- 一人用モード ---- */
+.section-label { margin: 1.5rem 0 0.25rem; color: var(--muted); font-size: 1rem; }
+.solo-options { display: flex; gap: 1rem; flex-wrap: wrap; }
+.solo-options .field { flex: 1 1 160px; }
+.solo-stats { font-size: 0.95rem; font-variant-numeric: tabular-nums; }
+.solo-stat-list { list-style: none; padding: 0; margin: 1rem 0; }
+.solo-stat-list li {
+  display: flex; justify-content: space-between; align-items: baseline;
+  padding: 0.6rem 0.9rem; margin: 0.4rem 0;
+  background: var(--panel); border: 1px solid var(--border); border-radius: 10px;
+}
+.solo-stat-list .label { color: var(--muted); }
+.solo-stat-list .value { font-size: 1.25rem; font-weight: 700; font-variant-numeric: tabular-nums; }
+
 /* ---- 結果 ---- */
 .winner-banner { font-size: 1.3rem; }
 .final-scores { padding-left: 0; }
