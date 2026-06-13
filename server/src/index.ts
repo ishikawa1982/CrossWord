@@ -1,6 +1,6 @@
 // エントリポイント：Express + Socket.IO サーバ
 import { createServer } from 'http';
-import { readFileSync } from 'fs';
+import { readFileSync, existsSync } from 'fs';
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
 import express from 'express';
@@ -45,6 +45,18 @@ const WORDS: Record<string, WordEntry[]> = {
 const app = express();
 app.use(cors());
 app.get('/health', (_req, res) => res.json({ ok: true }));
+
+// ビルド済みクライアント（client/dist）があれば同一オリジンで配信する。
+// これにより Render など1つのサービスで画面＋通信をまとめて動かせる。
+const clientDist = join(__dirname, '..', '..', 'client', 'dist');
+if (existsSync(clientDist)) {
+  app.use(express.static(clientDist));
+  // SPA フォールバック（socket.io / health 以外は index.html を返す）
+  app.get(/^(?!\/(socket\.io|health)).*/, (_req, res) => {
+    res.sendFile(join(clientDist, 'index.html'));
+  });
+  console.log(`Serving client from ${clientDist}`);
+}
 
 const httpServer = createServer(app);
 const io = new Server<ClientToServerEvents, ServerToClientEvents>(httpServer, {

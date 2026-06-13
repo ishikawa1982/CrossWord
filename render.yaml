@@ -1,11 +1,13 @@
 services:
   - type: web
-    name: crossword-server
+    name: crossword
     runtime: node
-    buildCommand: npm install
+    # 依存インストール → クライアントをビルド（client/dist 生成）
+    buildCommand: npm install && npm run build -w client
+    # サーバ起動（client/dist を同一オリジンで配信し、Socket.IO も同じポートで受ける）
     startCommand: npm run start -w server
     envVars:
-      - key: PORT
-        value: 3001
+      - key: NODE_VERSION
+        value: 22
     # 無料プランは15分無操作でスリープします。
     # 最初のアクセス時に起動まで30秒ほどかかる場合があります。
