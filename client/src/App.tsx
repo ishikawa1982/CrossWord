@@ -1,10 +1,12 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
-import type { AnswerResult, GameState } from '@crossword/shared';
+import type { AnswerResult, GameState, Language } from '@crossword/shared';
 import { socket } from './socket.js';
 import { Home } from './screens/Home.js';
 import { Lobby } from './screens/Lobby.js';
 import { Game } from './screens/Game.js';
 import { Results } from './screens/Results.js';
+import { SoloResults } from './screens/SoloResults.js';
+import { useSoloGame, type SoloDifficulty } from './useSoloGame.js';
 
 export function App() {
   const [state, setState] = useState<GameState | null>(null);
@@ -13,6 +15,8 @@ export function App() {
   const [lastResult, setLastResult] = useState<AnswerResult | null>(null);
   const [connected, setConnected] = useState(false);
   const playerIdRef = useRef<string | null>(null);
+  const solo = useSoloGame();
+  const [soloConfig, setSoloConfig] = useState<{ language: Language; difficulty: SoloDifficulty } | null>(null);
 
   useEffect(() => {
     const onConnect = () => setConnected(true);
@@ -68,6 +72,22 @@ export function App() {
     });
   }, []);
 
+  const handleSolo = useCallback(
+    (language: Language, difficulty: SoloDifficulty) => {
+      setError(null);
+      if (solo.start(language, difficulty)) {
+        setSoloConfig({ language, difficulty });
+      } else {
+        setError('盤面の生成に失敗しました。もう一度お試しください');
+      }
+    },
+    [solo]
+  );
+
+  const handleSoloPlayAgain = useCallback(() => {
+    if (soloConfig) solo.start(soloConfig.language, soloConfig.difficulty);
+  }, [solo, soloConfig]);
+
   const handleStart = useCallback(() => socket.emit('startGame'), []);
   const handleSubmit = useCallback((wordId: string, guess: string) => {
     socket.emit('submitAnswer', { wordId, guess });
@@ -79,8 +99,40 @@ export function App() {
     playerIdRef.current = null;
   }, []);
 
+  // 一人用モード（クライアント完結。オンライン状態より優先）
+  if (solo.state) {
+    if (solo.state.status === 'finished' && solo.stats) {
+      return (
+        <SoloResults
+          stats={solo.stats}
+          totalWords={solo.state.puzzle?.words.length ?? 0}
+          onPlayAgain={handleSoloPlayAgain}
+          onExit={solo.exit}
+        />
+      );
+    }
+    return (
+      <Game
+        state={solo.state}
+        playerId="solo"
+        lastResult={solo.lastResult}
+        onSubmit={solo.submit}
+        onLeave={solo.exit}
+        solo={solo.stats ? { startedAt: solo.stats.startedAt, mistakes: solo.stats.mistakes } : undefined}
+      />
+    );
+  }
+
   if (!state || !playerId) {
-    return <Home onCreate={handleCreate} onJoin={handleJoin} error={error} connected={connected} />;
+    return (
+      <Home
+        onCreate={handleCreate}
+        onJoin={handleJoin}
+        onSolo={handleSolo}
+        error={error}
+        connected={connected}
+      />
+    );
   }
   if (state.status === 'lobby') {
     return <Lobby state={state} playerId={playerId} onStart={handleStart} onLeave={handleLeave} error={error} />;

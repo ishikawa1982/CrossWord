@@ -1,8 +1,8 @@
 {
   "name": "crossword-battle",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
-  "description": "対戦型クロスワードパズル — 最大4名のネットワーク対戦",
+  "description": "クロスワードパズル — ソロ＆最大4名のネットワーク対戦",
   "workspaces": [
     "shared",
     "server",
