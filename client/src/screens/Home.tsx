@@ -105,6 +105,8 @@ export function Home({ onCreate, onJoin, onSolo, error, connected }: Props) {
       </div>
 
       {error && <p className="error">{error}</p>}
+
+      <footer className="app-footer">v{__APP_VERSION__}</footer>
     </div>
   );
 }
