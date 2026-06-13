@@ -2,6 +2,7 @@ services:
   - type: web
     name: crossword
     runtime: node
+    plan: free
     # 依存インストール → クライアントをビルド（client/dist 生成）
     buildCommand: npm install && npm run build -w client
     # サーバ起動（client/dist を同一オリジンで配信し、Socket.IO も同じポートで受ける）
