@@ -141,9 +141,21 @@ button.ghost { background: transparent; color: var(--muted); border: 1px solid v
 .app-footer { margin-top: 2rem; color: var(--muted); font-size: 0.8rem; text-align: right; }
 
 /* ---- 一人用モード ---- */
-.section-label { margin: 1.5rem 0 0.25rem; color: var(--muted); font-size: 1rem; }
-.solo-options { display: flex; gap: 1rem; flex-wrap: wrap; }
+.solo-section { margin-top: 1.5rem; }
+.solo-toggle {
+  background: none; border: none; padding: 0;
+  color: var(--muted); font-size: 0.9rem; cursor: pointer;
+  display: flex; align-items: center; gap: 0.4rem;
+}
+.solo-toggle:hover { color: var(--text); }
+.solo-chevron { font-size: 0.75rem; }
+.solo-panel {
+  margin-top: 0.75rem; padding: 0.9rem 1rem;
+  background: var(--panel); border: 1px solid var(--border); border-radius: 10px;
+}
+.solo-options { display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: 0.75rem; }
 .solo-options .field { flex: 1 1 160px; }
+.solo-start { font-size: 0.9rem; padding: 0.45rem 0.9rem; }
 .solo-stats { font-size: 0.95rem; font-variant-numeric: tabular-nums; }
 .solo-stat-list { list-style: none; padding: 0; margin: 1rem 0; }
 .solo-stat-list li {
