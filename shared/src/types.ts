@@ -5,6 +5,7 @@ export type Language = 'ja' | 'en';
 /** 出題ジャンル（日本語コンテンツ向け）。'random' は全ジャンルから出題 */
 export type Genre =
   | 'showa'
+  | 'reiwa'
   | 'gourmet'
   | 'culture'
   | 'nature'
@@ -15,6 +16,7 @@ export type Genre =
 export const GENRES: { id: Genre; label: string; desc: string }[] = [
   { id: 'random', label: 'ランダム', desc: '全ジャンルからランダム出題' },
   { id: 'showa', label: '昭和・平成レトロ', desc: '懐かしのおもちゃ・家電・流行など' },
+  { id: 'reiwa', label: '令和', desc: '令和の流行・ことば・カルチャーなど' },
   { id: 'gourmet', label: 'グルメ', desc: '料理・食材・食べ物など' },
   { id: 'culture', label: '教養', desc: 'ことわざ・難読漢字・一般常識など' },
   { id: 'nature', label: '動物・植物', desc: '生き物や草花など' },
