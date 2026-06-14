@@ -86,6 +86,8 @@ export interface GameState {
   players: Player[];
   puzzle: Puzzle | null;
   winnerIds: string[];
+  /** 正解済みの単語 ID 一覧（先着1名のみ解答可） */
+  solvedWordIds: string[];
 }
 
 // ---- ソケットイベント I/F ----
@@ -108,6 +110,8 @@ export interface AnswerResult {
   correct: boolean;
   /** 誤答時のクールダウン期限（epoch ms） */
   cooldownUntil?: number;
+  /** 解答済みの単語に再挑戦した場合 true（クールダウンは発生しない） */
+  alreadySolved?: boolean;
 }
 
 export interface ErrorPayload {

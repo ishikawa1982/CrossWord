@@ -119,6 +119,7 @@ io.on('connection', (socket) => {
     room.status = 'playing';
     room.winnerIds = [];
     room.cooldownUntil.clear();
+    room.solvedWordIds.clear();
     computeScores(room.puzzle, room.players);
     broadcastState(room, 'gameUpdate');
   });
@@ -128,6 +129,12 @@ io.on('connection', (socket) => {
     if (!room || room.status !== 'playing' || !room.puzzle) return;
     const playerId = room.socketToPlayer.get(socket.id);
     if (!playerId) return;
+
+    // 解答済みの単語は2回目以降の解答を拒否（クールダウンなし）
+    if (room.solvedWordIds.has(payload.wordId)) {
+      socket.emit('answerResult', { wordId: payload.wordId, correct: false, alreadySolved: true });
+      return;
+    }
 
     const now = Date.now();
     const until = room.cooldownUntil.get(playerId) ?? 0;
@@ -144,7 +151,8 @@ io.on('connection', (socket) => {
       return;
     }
 
-    // 正解：単語の全マスを上書きしてスコア再計算
+    // 正解：単語を解答済みに登録し、全マスを自分の色に
+    room.solvedWordIds.add(payload.wordId);
     applyOwnership(room.puzzle, payload.wordId, playerId);
     computeScores(room.puzzle, room.players);
     socket.emit('answerResult', { wordId: payload.wordId, correct: true });

@@ -5,12 +5,14 @@ interface Props {
   puzzle: Puzzle;
   players: Player[];
   selectedWordId: string | null;
+  solvedWordIds: string[];
   onSelect: (wordId: string) => void;
 }
 
 const keyOf = (r: number, c: number) => `${r},${c}`;
 
-export function ClueList({ puzzle, players, selectedWordId, onSelect }: Props) {
+export function ClueList({ puzzle, players, selectedWordId, solvedWordIds, onSelect }: Props) {
+  const solvedSet = useMemo(() => new Set(solvedWordIds), [solvedWordIds]);
   const colorById = useMemo(() => new Map(players.map((p) => [p.id, p.color])), [players]);
   const cellByKey = useMemo(
     () => new Map(puzzle.cells.map((cell) => [keyOf(cell.row, cell.col), cell])),
@@ -41,12 +43,13 @@ export function ClueList({ puzzle, players, selectedWordId, onSelect }: Props) {
       <h4>{title}</h4>
       <ul>
         {words.map((w) => {
+          const solved = solvedSet.has(w.id);
           const c = wordOwnerColor(w.id);
           return (
             <li
               key={w.id}
-              className={w.id === selectedWordId ? 'selected' : ''}
-              onClick={() => onSelect(w.id)}
+              className={solved ? 'solved' : w.id === selectedWordId ? 'selected' : ''}
+              onClick={solved ? undefined : () => onSelect(w.id)}
             >
               <span className="num">{w.number}.</span>
               <span className="text">{w.clue}（{w.length}文字）</span>

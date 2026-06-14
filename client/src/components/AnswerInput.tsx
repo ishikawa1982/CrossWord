@@ -75,6 +75,9 @@ export function AnswerInput({ word, lastResult, onSubmit }: Props) {
         </button>
       </div>
       {onCooldown && <p className="cooldown">不正解！ {remaining} 秒待ってください</p>}
+      {!onCooldown && lastResult?.alreadySolved && lastResult.wordId === word?.id && (
+        <p className="cooldown">この問題はすでに解答済みです</p>
+      )}
       {feedback === 'correct' && <p className="ok">正解！マスを獲得しました</p>}
     </div>
   );

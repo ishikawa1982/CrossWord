@@ -23,6 +23,8 @@ export interface Room {
   cooldownUntil: Map<string, number>;
   /** socket.id -> playerId */
   socketToPlayer: Map<string, string>;
+  /** 先着正解済みの単語 ID（2回目以降の解答を拒否するため） */
+  solvedWordIds: Set<string>;
 }
 
 const rooms = new Map<string, Room>();
@@ -52,6 +54,7 @@ export function createRoom(language: Language): Room {
     winnerIds: [],
     cooldownUntil: new Map(),
     socketToPlayer: new Map(),
+    solvedWordIds: new Set(),
   };
   rooms.set(room.code, room);
   return room;
@@ -121,5 +124,6 @@ export function toGameState(room: Room, strippedPuzzle: Puzzle | null): GameStat
     players: room.players,
     puzzle: strippedPuzzle,
     winnerIds: room.winnerIds,
+    solvedWordIds: [...room.solvedWordIds],
   };
 }

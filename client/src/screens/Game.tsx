@@ -52,9 +52,13 @@ export function Game({ state, playerId, lastResult, onSubmit, onLeave, solo }: P
     (document.activeElement as HTMLElement | null)?.blur();
   };
 
-  // マスをクリック：そのマスを通る単語を選択（選択中の単語の別方向があれば切替）
+  const solvedWordIds = state.solvedWordIds ?? [];
+
+  // マスをクリック：そのマスを通る未解答の単語を選択（選択中の単語の別方向があれば切替）
   const selectCell = (row: number, col: number) => {
+    const solvedSet = new Set(solvedWordIds);
     const through = puzzle.words.filter((w) => {
+      if (solvedSet.has(w.id)) return false;
       const dr = w.direction === 'down' ? 1 : 0;
       const dc = w.direction === 'across' ? 1 : 0;
       for (let i = 0; i < w.length; i++) {
@@ -101,6 +105,7 @@ export function Game({ state, playerId, lastResult, onSubmit, onLeave, solo }: P
           puzzle={puzzle}
           players={state.players}
           selectedWordId={selectedWordId}
+          solvedWordIds={solvedWordIds}
           onSelect={setSelectedWordId}
         />
       </div>

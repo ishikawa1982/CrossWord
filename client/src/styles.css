@@ -203,8 +203,9 @@ button.ghost { background: transparent; color: var(--muted); border: 1px solid v
   display: flex; align-items: center; gap: 0.4rem;
   padding: 0.35rem 0.4rem; border-radius: 6px; cursor: pointer;
 }
-.clue-list li:hover { background: var(--panel-2); }
+.clue-list li:not(.solved):hover { background: var(--panel-2); }
 .clue-list li.selected { background: var(--accent); color: #fff; }
+.clue-list li.solved { opacity: 0.4; cursor: default; text-decoration: line-through; }
 .clue-list .num { font-weight: 700; }
 .clue-list .text { flex: 1; font-size: 0.9rem; }
 .owner-dot { width: 12px; height: 12px; border-radius: 50%; }

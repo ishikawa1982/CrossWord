@@ -69,6 +69,7 @@ export function useSoloGame(): SoloGame {
   // 解答付きの内部盤面（UI には stripSolution したものを渡す）
   const solutionRef = useRef<Puzzle | null>(null);
   const langRef = useRef<Language>('ja');
+  const solvedWordIdsRef = useRef<Set<string>>(new Set());
 
   const start = useCallback((language: Language, difficulty: SoloDifficulty): boolean => {
     const source = getWords(language);
@@ -87,6 +88,7 @@ export function useSoloGame(): SoloGame {
     computeScores(puzzle, [player]);
     solutionRef.current = puzzle;
     langRef.current = language;
+    solvedWordIdsRef.current = new Set();
     setLastResult(null);
     setStats({ startedAt: Date.now(), finishedAt: null, mistakes: 0, solvedWords: 0 });
     setState({
@@ -97,6 +99,7 @@ export function useSoloGame(): SoloGame {
       players: [player],
       puzzle: stripSolution(puzzle),
       winnerIds: [],
+      solvedWordIds: [],
     });
     return true;
   }, []);
@@ -105,15 +108,21 @@ export function useSoloGame(): SoloGame {
     const puzzle = solutionRef.current;
     if (!puzzle) return;
 
+    // 解答済みの単語はスキップ
+    if (solvedWordIdsRef.current.has(wordId)) {
+      setLastResult({ wordId, correct: false, alreadySolved: true });
+      return;
+    }
+
     const correct = validateAnswer(puzzle, wordId, guess, langRef.current);
     if (!correct) {
       setStats((s) => (s ? { ...s, mistakes: s.mistakes + 1 } : s));
-      // クールダウンは設けず、誤答フィードバックのみ返す（新規オブジェクトで再表示）
       setLastResult({ wordId, correct: false });
       return;
     }
 
     // 正解：単語の全マスを自分の色に塗り、スコアと進捗を更新
+    solvedWordIdsRef.current.add(wordId);
     applyOwnership(puzzle, wordId, SOLO_PLAYER_ID);
     const player = makeSoloPlayer();
     computeScores(puzzle, [player]);
@@ -130,6 +139,7 @@ export function useSoloGame(): SoloGame {
             players: [player],
             puzzle: stripSolution(puzzle),
             winnerIds: done ? [SOLO_PLAYER_ID] : [],
+            solvedWordIds: [...solvedWordIdsRef.current],
           }
         : prev
     );
