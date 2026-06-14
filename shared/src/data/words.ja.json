@@ -9658,5 +9658,1715 @@
     "answer": "メイシーン",
     "clue": "心に残る印象的な場面",
     "genre": "subculture"
+  },
+  {
+    "answer": "アメリカ",
+    "clue": "星条旗で知られる北米の大国",
+    "genre": "geography"
+  },
+  {
+    "answer": "カナダ",
+    "clue": "メープルの葉を国旗に描く北米の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "メキシコ",
+    "clue": "タコスや古代遺跡で有名な中米の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ブラジル",
+    "clue": "サッカーとカーニバルで有名な南米最大の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "アルゼンチン",
+    "clue": "タンゴとパンパで知られる南米の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "チリ",
+    "clue": "南北に細長く伸びる南米の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ペルー",
+    "clue": "マチュピチュがある南米の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "イギリス",
+    "clue": "ロンドンを首都とするヨーロッパの島国",
+    "genre": "geography"
+  },
+  {
+    "answer": "フランス",
+    "clue": "エッフェル塔やワインで有名な国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ドイツ",
+    "clue": "ビールとソーセージで知られる中欧の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "イタリア",
+    "clue": "長靴の形をしたパスタの本場の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "スペイン",
+    "clue": "闘牛とフラメンコで有名な国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ポルトガル",
+    "clue": "イベリア半島の西端にある国",
+    "genre": "geography"
+  },
+  {
+    "answer": "オランダ",
+    "clue": "風車とチューリップで有名な低地の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ベルギー",
+    "clue": "ワッフルとチョコで知られる西欧の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "スイス",
+    "clue": "アルプスと時計で有名な永世中立国",
+    "genre": "geography"
+  },
+  {
+    "answer": "オーストリア",
+    "clue": "音楽の都ウィーンがある中欧の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ギリシャ",
+    "clue": "古代神話とパルテノン神殿で名高い国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ロシア",
+    "clue": "世界で最も面積の広い国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ノルウェー",
+    "clue": "フィヨルドとオーロラで知られる北欧の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "スウェーデン",
+    "clue": "北欧最大で福祉や家具で有名な国",
+    "genre": "geography"
+  },
+  {
+    "answer": "フィンランド",
+    "clue": "サウナとオーロラで知られる北欧の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "エジプト",
+    "clue": "ピラミッドとナイルで有名な国",
+    "genre": "geography"
+  },
+  {
+    "answer": "モロッコ",
+    "clue": "砂漠と迷路のような旧市街で知られる北アフリカの国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ケニア",
+    "clue": "サバンナのサファリで有名な東アフリカの国",
+    "genre": "geography"
+  },
+  {
+    "answer": "インド",
+    "clue": "カレーとタージマハルで知られる南アジアの大国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ベトナム",
+    "clue": "フォーや美しい湾で知られる東南アジアの国",
+    "genre": "geography"
+  },
+  {
+    "answer": "インドネシア",
+    "clue": "多くの島からなる東南アジアの国",
+    "genre": "geography"
+  },
+  {
+    "answer": "フィリピン",
+    "clue": "七千以上の島からなる東南アジアの国",
+    "genre": "geography"
+  },
+  {
+    "answer": "マレーシア",
+    "clue": "ツインタワーで知られる東南アジアの国",
+    "genre": "geography"
+  },
+  {
+    "answer": "シンガポール",
+    "clue": "マーライオンで有名な都市国家",
+    "genre": "geography"
+  },
+  {
+    "answer": "カンコク",
+    "clue": "キムチとハングルで知られる隣の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "チュウゴク",
+    "clue": "万里の長城で知られる人口最大の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "モンゴル",
+    "clue": "大草原と遊牧で知られる内陸の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "トルコ",
+    "clue": "アジアとヨーロッパにまたがる国",
+    "genre": "geography"
+  },
+  {
+    "answer": "イラン",
+    "clue": "ペルシャと呼ばれた西アジアの国",
+    "genre": "geography"
+  },
+  {
+    "answer": "サウジアラビア",
+    "clue": "メッカと石油で知られる中東の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "オーストラリア",
+    "clue": "コアラとカンガルーがすむ南半球の大陸国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ニュージーランド",
+    "clue": "キウイと羊で知られる南半球の島国",
+    "genre": "geography"
+  },
+  {
+    "answer": "トウキョウ",
+    "clue": "日本の首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "パリ",
+    "clue": "フランスの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ロンドン",
+    "clue": "イギリスの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ベルリン",
+    "clue": "ドイツの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ローマ",
+    "clue": "イタリアの首都で古代帝国の中心地",
+    "genre": "geography"
+  },
+  {
+    "answer": "マドリード",
+    "clue": "スペインの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ワシントン",
+    "clue": "アメリカの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ペキン",
+    "clue": "中国の首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "モスクワ",
+    "clue": "ロシアの首都で赤の広場がある",
+    "genre": "geography"
+  },
+  {
+    "answer": "アテネ",
+    "clue": "ギリシャの首都で古代文明の発祥地",
+    "genre": "geography"
+  },
+  {
+    "answer": "ウィーン",
+    "clue": "オーストリアの首都で音楽の都",
+    "genre": "geography"
+  },
+  {
+    "answer": "アムステルダム",
+    "clue": "オランダの首都で運河が巡る都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "ニューヨーク",
+    "clue": "自由の女神で知られるアメリカの大都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "ロサンゼルス",
+    "clue": "映画産業で知られるアメリカ西海岸の都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "シカゴ",
+    "clue": "高層ビル発祥のアメリカの風の街",
+    "genre": "geography"
+  },
+  {
+    "answer": "バンコク",
+    "clue": "タイの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ハノイ",
+    "clue": "ベトナムの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ジャカルタ",
+    "clue": "インドネシアの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "マニラ",
+    "clue": "フィリピンの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "デリー",
+    "clue": "インドの首都が置かれる都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "シャンハイ",
+    "clue": "中国最大の経済都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "ホンコン",
+    "clue": "高層ビルと夜景で知られる中国の特別行政区",
+    "genre": "geography"
+  },
+  {
+    "answer": "ドバイ",
+    "clue": "砂漠に建つ超高層ビルで有名な中東の都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "シドニー",
+    "clue": "オペラハウスで有名なオーストラリアの都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "ベネチア",
+    "clue": "運河とゴンドラで知られる水の都",
+    "genre": "geography"
+  },
+  {
+    "answer": "フィレンツェ",
+    "clue": "ルネサンス美術で名高いイタリアの都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "バルセロナ",
+    "clue": "サグラダファミリアで知られるスペインの都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "エベレスト",
+    "clue": "世界で最も高い山",
+    "genre": "geography"
+  },
+  {
+    "answer": "フジサン",
+    "clue": "日本一高い山",
+    "genre": "geography"
+  },
+  {
+    "answer": "キリマンジャロ",
+    "clue": "アフリカ最高峰の山",
+    "genre": "geography"
+  },
+  {
+    "answer": "マッターホルン",
+    "clue": "とがった姿で有名なアルプスの山",
+    "genre": "geography"
+  },
+  {
+    "answer": "アンデス",
+    "clue": "南米を縦断する長大な山脈",
+    "genre": "geography"
+  },
+  {
+    "answer": "ヒマラヤ",
+    "clue": "世界の屋根と呼ばれる大山脈",
+    "genre": "geography"
+  },
+  {
+    "answer": "アルプス",
+    "clue": "ヨーロッパ中央にそびえる山脈",
+    "genre": "geography"
+  },
+  {
+    "answer": "ロッキー",
+    "clue": "北米西部を貫く大山脈",
+    "genre": "geography"
+  },
+  {
+    "answer": "ナイル",
+    "clue": "エジプトを流れる世界最長級の川",
+    "genre": "geography"
+  },
+  {
+    "answer": "アマゾン",
+    "clue": "南米を流れる流域世界一の大河",
+    "genre": "geography"
+  },
+  {
+    "answer": "ミシシッピ",
+    "clue": "アメリカを南北に流れる大河",
+    "genre": "geography"
+  },
+  {
+    "answer": "ガンジス",
+    "clue": "インドの人々に聖なる川とされる大河",
+    "genre": "geography"
+  },
+  {
+    "answer": "ドナウ",
+    "clue": "ヨーロッパ数カ国を流れる国際河川",
+    "genre": "geography"
+  },
+  {
+    "answer": "ライン",
+    "clue": "ドイツを流れる古城が点在する川",
+    "genre": "geography"
+  },
+  {
+    "answer": "テムズ",
+    "clue": "ロンドンを流れる川",
+    "genre": "geography"
+  },
+  {
+    "answer": "セーヌ",
+    "clue": "パリを流れる川",
+    "genre": "geography"
+  },
+  {
+    "answer": "タイヘイヨウ",
+    "clue": "世界で最も広い海",
+    "genre": "geography"
+  },
+  {
+    "answer": "タイセイヨウ",
+    "clue": "南北アメリカとヨーロッパの間に広がる海",
+    "genre": "geography"
+  },
+  {
+    "answer": "インドヨウ",
+    "clue": "インド亜大陸の南に広がる海",
+    "genre": "geography"
+  },
+  {
+    "answer": "チチュウカイ",
+    "clue": "ヨーロッパとアフリカに囲まれた海",
+    "genre": "geography"
+  },
+  {
+    "answer": "シカイ",
+    "clue": "塩分が濃く体が浮く中東の湖",
+    "genre": "geography"
+  },
+  {
+    "answer": "カスピカイ",
+    "clue": "世界最大の湖",
+    "genre": "geography"
+  },
+  {
+    "answer": "ビクトリアコ",
+    "clue": "アフリカ最大の湖",
+    "genre": "geography"
+  },
+  {
+    "answer": "サハラ",
+    "clue": "アフリカ北部に広がる世界最大の砂漠",
+    "genre": "geography"
+  },
+  {
+    "answer": "ゴビ",
+    "clue": "モンゴルと中国にまたがる砂漠",
+    "genre": "geography"
+  },
+  {
+    "answer": "グランドキャニオン",
+    "clue": "アメリカにある雄大な大峡谷",
+    "genre": "geography"
+  },
+  {
+    "answer": "ナイアガラ",
+    "clue": "アメリカとカナダの国境にある大きな滝",
+    "genre": "geography"
+  },
+  {
+    "answer": "ガラパゴス",
+    "clue": "独自の生き物がすむ太平洋の諸島",
+    "genre": "geography"
+  },
+  {
+    "answer": "ハワイ",
+    "clue": "常夏の楽園として知られる太平洋の諸島",
+    "genre": "geography"
+  },
+  {
+    "answer": "アイスランド",
+    "clue": "火山と氷河で知られる北の島国",
+    "genre": "geography"
+  },
+  {
+    "answer": "グリーンランド",
+    "clue": "世界最大の島",
+    "genre": "geography"
+  },
+  {
+    "answer": "マダガスカル",
+    "clue": "アフリカの東に浮かぶ巨大な島",
+    "genre": "geography"
+  },
+  {
+    "answer": "キューバ",
+    "clue": "葉巻とサルサで知られるカリブの島国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ジャマイカ",
+    "clue": "レゲエ発祥のカリブの島国",
+    "genre": "geography"
+  },
+  {
+    "answer": "セキドウ",
+    "clue": "地球を一周する緯度ゼロの線",
+    "genre": "geography"
+  },
+  {
+    "answer": "ホッキョク",
+    "clue": "地球の北の果て",
+    "genre": "geography"
+  },
+  {
+    "answer": "ナンキョク",
+    "clue": "ペンギンがすむ氷の大陸",
+    "genre": "geography"
+  },
+  {
+    "answer": "オアシス",
+    "clue": "砂漠の中で水がわく緑の場所",
+    "genre": "geography"
+  },
+  {
+    "answer": "ハントウ",
+    "clue": "三方を海に囲まれ陸に続く地形",
+    "genre": "geography"
+  },
+  {
+    "answer": "ミサキ",
+    "clue": "海に突き出た陸地の先端",
+    "genre": "geography"
+  },
+  {
+    "answer": "カイキョウ",
+    "clue": "二つの陸地に挟まれた狭い海",
+    "genre": "geography"
+  },
+  {
+    "answer": "ウンガ",
+    "clue": "船を通すために人が掘った水路",
+    "genre": "geography"
+  },
+  {
+    "answer": "カザン",
+    "clue": "マグマを噴き出す山",
+    "genre": "geography"
+  },
+  {
+    "answer": "オンセン",
+    "clue": "地中から湧き出る温かい水",
+    "genre": "geography"
+  },
+  {
+    "answer": "コウゲン",
+    "clue": "標高が高く平らに広がる土地",
+    "genre": "geography"
+  },
+  {
+    "answer": "ボンチ",
+    "clue": "周りを山に囲まれた平らな土地",
+    "genre": "geography"
+  },
+  {
+    "answer": "ヘイヤ",
+    "clue": "広く平らに開けた土地",
+    "genre": "geography"
+  },
+  {
+    "answer": "ジョウリュウ",
+    "clue": "川の水源に近い側",
+    "genre": "geography"
+  },
+  {
+    "answer": "カリュウ",
+    "clue": "川が海に近づく下の側",
+    "genre": "geography"
+  },
+  {
+    "answer": "カコウ",
+    "clue": "川が海に注ぐ出口",
+    "genre": "geography"
+  },
+  {
+    "answer": "ミズウミ",
+    "clue": "陸地に囲まれてたまった水域",
+    "genre": "geography"
+  },
+  {
+    "answer": "シマグニ",
+    "clue": "周りを海に囲まれた国",
+    "genre": "geography"
+  },
+  {
+    "answer": "タイリク",
+    "clue": "地球上の大きな陸のかたまり",
+    "genre": "geography"
+  },
+  {
+    "answer": "アフリカ",
+    "clue": "サバンナと砂漠が広がる大陸",
+    "genre": "geography"
+  },
+  {
+    "answer": "ヨーロッパ",
+    "clue": "多くの国が集まる西の大陸",
+    "genre": "geography"
+  },
+  {
+    "answer": "アジア",
+    "clue": "日本も属する世界最大の大陸",
+    "genre": "geography"
+  },
+  {
+    "answer": "ピラミッド",
+    "clue": "エジプトの王の墓とされる巨大な石の建造物",
+    "genre": "geography"
+  },
+  {
+    "answer": "スフィンクス",
+    "clue": "ピラミッドのそばにある人面獣身の像",
+    "genre": "geography"
+  },
+  {
+    "answer": "コロッセオ",
+    "clue": "ローマにある古代の円形闘技場",
+    "genre": "geography"
+  },
+  {
+    "answer": "ピサノシャトウ",
+    "clue": "傾いた姿で有名なイタリアの塔",
+    "genre": "geography"
+  },
+  {
+    "answer": "バンリノチョウジョウ",
+    "clue": "中国にある延々と続く防壁",
+    "genre": "geography"
+  },
+  {
+    "answer": "タージマハル",
+    "clue": "インドにある白い大理石の霊廟",
+    "genre": "geography"
+  },
+  {
+    "answer": "ジユウノメガミ",
+    "clue": "ニューヨークの港に立つ巨大な像",
+    "genre": "geography"
+  },
+  {
+    "answer": "エッフェルトウ",
+    "clue": "パリにある鉄の大きな塔",
+    "genre": "geography"
+  },
+  {
+    "answer": "オペラハウス",
+    "clue": "貝殻のような屋根のシドニーの建物",
+    "genre": "geography"
+  },
+  {
+    "answer": "ストーンヘンジ",
+    "clue": "イギリスにある謎の巨石の遺跡",
+    "genre": "geography"
+  },
+  {
+    "answer": "マチュピチュ",
+    "clue": "アンデスの山中にあるインカの空中都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "アンコールワット",
+    "clue": "カンボジアにある巨大な石造寺院",
+    "genre": "geography"
+  },
+  {
+    "answer": "モアイ",
+    "clue": "イースター島に立ち並ぶ巨大な石像",
+    "genre": "geography"
+  },
+  {
+    "answer": "イド",
+    "clue": "赤道に平行な南北の位置を示す線",
+    "genre": "geography"
+  },
+  {
+    "answer": "ケイド",
+    "clue": "東西の位置を示す縦の線",
+    "genre": "geography"
+  },
+  {
+    "answer": "チズ",
+    "clue": "土地の様子を縮めて描いたもの",
+    "genre": "geography"
+  },
+  {
+    "answer": "チキュウギ",
+    "clue": "地球を球の形に表した模型",
+    "genre": "geography"
+  },
+  {
+    "answer": "ジサ",
+    "clue": "地域によって異なる時刻のずれ",
+    "genre": "geography"
+  },
+  {
+    "answer": "シュト",
+    "clue": "その国の政治の中心となる都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "オダノブナガ",
+    "clue": "天下統一を目前に本能寺で倒れた戦国武将",
+    "genre": "history"
+  },
+  {
+    "answer": "トヨトミヒデヨシ",
+    "clue": "農民から天下人にのぼりつめた戦国武将",
+    "genre": "history"
+  },
+  {
+    "answer": "トクガワイエヤス",
+    "clue": "江戸幕府を開いた初代将軍",
+    "genre": "history"
+  },
+  {
+    "answer": "タケダシンゲン",
+    "clue": "甲斐の虎と呼ばれた戦国の名将",
+    "genre": "history"
+  },
+  {
+    "answer": "ウエスギケンシン",
+    "clue": "越後の龍と呼ばれた戦国の名将",
+    "genre": "history"
+  },
+  {
+    "answer": "ダテマサムネ",
+    "clue": "独眼竜と呼ばれた仙台の戦国大名",
+    "genre": "history"
+  },
+  {
+    "answer": "サナダユキムラ",
+    "clue": "大坂の陣で活躍した戦国の名将",
+    "genre": "history"
+  },
+  {
+    "answer": "アケチミツヒデ",
+    "clue": "本能寺で主君に反旗をひるがえした武将",
+    "genre": "history"
+  },
+  {
+    "answer": "ミナモトノヨリトモ",
+    "clue": "鎌倉幕府を開いた初代将軍",
+    "genre": "history"
+  },
+  {
+    "answer": "ミナモトノヨシツネ",
+    "clue": "兄に追われた悲劇の名将",
+    "genre": "history"
+  },
+  {
+    "answer": "タイラノキヨモリ",
+    "clue": "平家の全盛を築いた武将",
+    "genre": "history"
+  },
+  {
+    "answer": "アシカガタカウジ",
+    "clue": "室町幕府を開いた初代将軍",
+    "genre": "history"
+  },
+  {
+    "answer": "ショウトクタイシ",
+    "clue": "十七条憲法を定めた飛鳥時代の政治家",
+    "genre": "history"
+  },
+  {
+    "answer": "フジワラノミチナガ",
+    "clue": "平安時代に栄華を極めた貴族",
+    "genre": "history"
+  },
+  {
+    "answer": "セイショウナゴン",
+    "clue": "枕草子を著した平安の女性",
+    "genre": "history"
+  },
+  {
+    "answer": "ムラサキシキブ",
+    "clue": "源氏物語を著した平安の女性",
+    "genre": "history"
+  },
+  {
+    "answer": "サカモトリョウマ",
+    "clue": "幕末に活躍し新時代を切り開いた志士",
+    "genre": "history"
+  },
+  {
+    "answer": "サイゴウタカモリ",
+    "clue": "明治維新を導いた薩摩の英傑",
+    "genre": "history"
+  },
+  {
+    "answer": "カツカイシュウ",
+    "clue": "江戸城を無血開城に導いた幕臣",
+    "genre": "history"
+  },
+  {
+    "answer": "フクザワユキチ",
+    "clue": "学問のすゝめを著した啓蒙思想家",
+    "genre": "history"
+  },
+  {
+    "answer": "イトウヒロブミ",
+    "clue": "初代内閣総理大臣",
+    "genre": "history"
+  },
+  {
+    "answer": "ペリー",
+    "clue": "黒船で来航し開国を迫った米国の提督",
+    "genre": "history"
+  },
+  {
+    "answer": "ナポレオン",
+    "clue": "フランスで皇帝となった軍人",
+    "genre": "history"
+  },
+  {
+    "answer": "カエサル",
+    "clue": "古代ローマの英雄的な将軍",
+    "genre": "history"
+  },
+  {
+    "answer": "クレオパトラ",
+    "clue": "古代エジプトの絶世の美女とされる女王",
+    "genre": "history"
+  },
+  {
+    "answer": "アレクサンドロス",
+    "clue": "東方へ大遠征した古代の大王",
+    "genre": "history"
+  },
+  {
+    "answer": "コロンブス",
+    "clue": "新大陸に到達した冒険家",
+    "genre": "history"
+  },
+  {
+    "answer": "マゼラン",
+    "clue": "世界一周の航海を初めて成し遂げた一行を率いた人物",
+    "genre": "history"
+  },
+  {
+    "answer": "マルコポーロ",
+    "clue": "東方見聞録を残した旅行家",
+    "genre": "history"
+  },
+  {
+    "answer": "チンギスハン",
+    "clue": "モンゴル帝国を築いた英雄",
+    "genre": "history"
+  },
+  {
+    "answer": "リンカーン",
+    "clue": "奴隷解放を進めたアメリカの大統領",
+    "genre": "history"
+  },
+  {
+    "answer": "ガンジー",
+    "clue": "非暴力でインド独立を導いた指導者",
+    "genre": "history"
+  },
+  {
+    "answer": "ジャンヌダルク",
+    "clue": "フランスを救った少女の英雄",
+    "genre": "history"
+  },
+  {
+    "answer": "エジソン",
+    "clue": "電球などを発明した発明王",
+    "genre": "history"
+  },
+  {
+    "answer": "ニュートン",
+    "clue": "万有引力を発見した科学者",
+    "genre": "history"
+  },
+  {
+    "answer": "ガリレオ",
+    "clue": "地動説を唱えた天文学者",
+    "genre": "history"
+  },
+  {
+    "answer": "ダヴィンチ",
+    "clue": "モナリザを描いた万能の天才",
+    "genre": "history"
+  },
+  {
+    "answer": "ベートーベン",
+    "clue": "運命などを作曲した楽聖",
+    "genre": "history"
+  },
+  {
+    "answer": "ジョウモン",
+    "clue": "縄目の文様の土器が使われた古い時代",
+    "genre": "history"
+  },
+  {
+    "answer": "ヤヨイ",
+    "clue": "稲作が広まった古代日本の時代",
+    "genre": "history"
+  },
+  {
+    "answer": "アスカ",
+    "clue": "仏教が伝わり都が置かれた古代の時代",
+    "genre": "history"
+  },
+  {
+    "answer": "ヘイアン",
+    "clue": "貴族文化が栄え京に都があった時代",
+    "genre": "history"
+  },
+  {
+    "answer": "カマクラ",
+    "clue": "武士が幕府を開いた時代",
+    "genre": "history"
+  },
+  {
+    "answer": "ムロマチ",
+    "clue": "足利氏が幕府を開いた時代",
+    "genre": "history"
+  },
+  {
+    "answer": "センゴク",
+    "clue": "各地の大名が争った戦乱の時代",
+    "genre": "history"
+  },
+  {
+    "answer": "アヅチモモヤマ",
+    "clue": "織田と豊臣が天下を治めた時代",
+    "genre": "history"
+  },
+  {
+    "answer": "エド",
+    "clue": "徳川幕府が続いた泰平の時代",
+    "genre": "history"
+  },
+  {
+    "answer": "メイジ",
+    "clue": "文明開化が進んだ近代の始まりの時代",
+    "genre": "history"
+  },
+  {
+    "answer": "タイショウ",
+    "clue": "モダンな文化が花開いた短い時代",
+    "genre": "history"
+  },
+  {
+    "answer": "ショウワ",
+    "clue": "戦争と高度成長を経た時代",
+    "genre": "history"
+  },
+  {
+    "answer": "ヘイジョウキョウ",
+    "clue": "奈良に置かれた古代の都",
+    "genre": "history"
+  },
+  {
+    "answer": "ヘイアンキョウ",
+    "clue": "京都に置かれた古代の都",
+    "genre": "history"
+  },
+  {
+    "answer": "ヘイケ",
+    "clue": "平安末に栄え壇ノ浦で滅んだ一族",
+    "genre": "history"
+  },
+  {
+    "answer": "ゲンジ",
+    "clue": "平氏と争った武士の一族",
+    "genre": "history"
+  },
+  {
+    "answer": "バクフ",
+    "clue": "武士が政治を行った政府",
+    "genre": "history"
+  },
+  {
+    "answer": "ショウグン",
+    "clue": "武士のかしらとして政治を率いた者",
+    "genre": "history"
+  },
+  {
+    "answer": "ダイミョウ",
+    "clue": "広い領地を治めた武士",
+    "genre": "history"
+  },
+  {
+    "answer": "サムライ",
+    "clue": "刀を差し主君に仕えた武人",
+    "genre": "history"
+  },
+  {
+    "answer": "ニンジャ",
+    "clue": "影で諜報や暗殺を行った者",
+    "genre": "history"
+  },
+  {
+    "answer": "ロウニン",
+    "clue": "主君を持たない武士",
+    "genre": "history"
+  },
+  {
+    "answer": "キゾク",
+    "clue": "朝廷に仕えた高い身分の人々",
+    "genre": "history"
+  },
+  {
+    "answer": "テンノウ",
+    "clue": "日本の象徴とされる位",
+    "genre": "history"
+  },
+  {
+    "answer": "セッショウ",
+    "clue": "幼い天皇に代わって政治を行った職",
+    "genre": "history"
+  },
+  {
+    "answer": "カンパク",
+    "clue": "成人した天皇を補佐した職",
+    "genre": "history"
+  },
+  {
+    "answer": "ケンズイシ",
+    "clue": "隋に派遣された使者",
+    "genre": "history"
+  },
+  {
+    "answer": "ケントウシ",
+    "clue": "唐に派遣された使者",
+    "genre": "history"
+  },
+  {
+    "answer": "カイコク",
+    "clue": "閉ざした国を外に開くこと",
+    "genre": "history"
+  },
+  {
+    "answer": "イシン",
+    "clue": "明治に古い体制を改めた大変革",
+    "genre": "history"
+  },
+  {
+    "answer": "ハイハンチケン",
+    "clue": "藩を廃し県を置いた明治の改革",
+    "genre": "history"
+  },
+  {
+    "answer": "オウセイフッコ",
+    "clue": "幕府を廃し天皇中心の政治に戻した明治の宣言",
+    "genre": "history"
+  },
+  {
+    "answer": "ホンノウジ",
+    "clue": "織田信長が倒れた京都の寺",
+    "genre": "history"
+  },
+  {
+    "answer": "セキガハラ",
+    "clue": "天下分け目の大合戦が行われた地",
+    "genre": "history"
+  },
+  {
+    "answer": "オオサカノジン",
+    "clue": "豊臣家が滅んだ徳川との戦い",
+    "genre": "history"
+  },
+  {
+    "answer": "ナガシノ",
+    "clue": "鉄砲を活用した織田の有名な合戦の地",
+    "genre": "history"
+  },
+  {
+    "answer": "オケハザマ",
+    "clue": "織田信長が今川を破った合戦の地",
+    "genre": "history"
+  },
+  {
+    "answer": "ダンノウラ",
+    "clue": "平家が滅んだ海の合戦の地",
+    "genre": "history"
+  },
+  {
+    "answer": "オウニンノラン",
+    "clue": "京都を荒廃させ戦国の発端となった内乱",
+    "genre": "history"
+  },
+  {
+    "answer": "ルネサンス",
+    "clue": "ヨーロッパで芸術が花開いた文化運動",
+    "genre": "history"
+  },
+  {
+    "answer": "ジュウジグン",
+    "clue": "聖地奪回を掲げた中世ヨーロッパの遠征軍",
+    "genre": "history"
+  },
+  {
+    "answer": "サンギョウカクメイ",
+    "clue": "イギリスで始まった機械化による大変革",
+    "genre": "history"
+  },
+  {
+    "answer": "フランスカクメイ",
+    "clue": "王政を倒した十八世紀の市民の革命",
+    "genre": "history"
+  },
+  {
+    "answer": "ダイコウカイ",
+    "clue": "欧州が新航路を求めて海に乗り出した時代",
+    "genre": "history"
+  },
+  {
+    "answer": "レイセン",
+    "clue": "米ソが直接戦わず対立した状態",
+    "genre": "history"
+  },
+  {
+    "answer": "ローマテイコク",
+    "clue": "地中海一帯を支配した古代の大帝国",
+    "genre": "history"
+  },
+  {
+    "answer": "シルクロード",
+    "clue": "東西を結んだ古代の交易路",
+    "genre": "history"
+  },
+  {
+    "answer": "ツタンカーメン",
+    "clue": "黄金のマスクで有名な古代エジプトの王",
+    "genre": "history"
+  },
+  {
+    "answer": "ハンムラビ",
+    "clue": "古代メソポタミアで法典を定めた王",
+    "genre": "history"
+  },
+  {
+    "answer": "コウシ",
+    "clue": "儒教を説いた古代中国の思想家",
+    "genre": "history"
+  },
+  {
+    "answer": "シコウテイ",
+    "clue": "中国を初めて統一した皇帝",
+    "genre": "history"
+  },
+  {
+    "answer": "ヒミコ",
+    "clue": "邪馬台国を治めたとされる女王",
+    "genre": "history"
+  },
+  {
+    "answer": "ヤマタイコク",
+    "clue": "卑弥呼が治めたとされる古代の国",
+    "genre": "history"
+  },
+  {
+    "answer": "コフン",
+    "clue": "豪族の墓として築かれた大きな塚",
+    "genre": "history"
+  },
+  {
+    "answer": "ハニワ",
+    "clue": "古墳に並べられた素焼きの人形",
+    "genre": "history"
+  },
+  {
+    "answer": "ドキ",
+    "clue": "粘土を焼いて作った古代の器",
+    "genre": "history"
+  },
+  {
+    "answer": "ヨロイ",
+    "clue": "武士が身を守るために着けた防具",
+    "genre": "history"
+  },
+  {
+    "answer": "カブト",
+    "clue": "武士が頭を守るためにかぶった防具",
+    "genre": "history"
+  },
+  {
+    "answer": "カタナ",
+    "clue": "武士が腰に差した刀剣",
+    "genre": "history"
+  },
+  {
+    "answer": "テッポウ",
+    "clue": "戦国時代に伝わった火器",
+    "genre": "history"
+  },
+  {
+    "answer": "カロウ",
+    "clue": "大名の家を支えた重臣",
+    "genre": "history"
+  },
+  {
+    "answer": "ブシドウ",
+    "clue": "武士が重んじた道徳の心得",
+    "genre": "history"
+  },
+  {
+    "answer": "ハンシュ",
+    "clue": "藩を治めた大名",
+    "genre": "history"
+  },
+  {
+    "answer": "ジョウカマチ",
+    "clue": "城を中心に発展した町",
+    "genre": "history"
+  },
+  {
+    "answer": "シュクバ",
+    "clue": "街道沿いで旅人が休んだ宿場町",
+    "genre": "history"
+  },
+  {
+    "answer": "カイドウ",
+    "clue": "主要な土地を結んだ古い道",
+    "genre": "history"
+  },
+  {
+    "answer": "トウカイドウ",
+    "clue": "江戸と京を結んだ主要な街道",
+    "genre": "history"
+  },
+  {
+    "answer": "カゴ",
+    "clue": "人を乗せて担いで運んだ乗り物",
+    "genre": "history"
+  },
+  {
+    "answer": "ヒキャク",
+    "clue": "手紙や荷を走って届けた者",
+    "genre": "history"
+  },
+  {
+    "answer": "コバン",
+    "clue": "江戸時代に使われた小判形の金貨",
+    "genre": "history"
+  },
+  {
+    "answer": "ネング",
+    "clue": "農民が米などで納めた税",
+    "genre": "history"
+  },
+  {
+    "answer": "ヒャクショウ",
+    "clue": "田畑を耕した昔の農民",
+    "genre": "history"
+  },
+  {
+    "answer": "チョウニン",
+    "clue": "城下町で商いをした人々",
+    "genre": "history"
+  },
+  {
+    "answer": "カブキ",
+    "clue": "江戸時代に栄えた庶民の演劇",
+    "genre": "history"
+  },
+  {
+    "answer": "ウキヨエ",
+    "clue": "江戸の風俗を描いた木版画",
+    "genre": "history"
+  },
+  {
+    "answer": "テラコヤ",
+    "clue": "庶民の子が読み書きを学んだ場所",
+    "genre": "history"
+  },
+  {
+    "answer": "ランガク",
+    "clue": "江戸時代にオランダ経由で学んだ西洋の学問",
+    "genre": "history"
+  },
+  {
+    "answer": "カイカ",
+    "clue": "明治に西洋文化を取り入れたこと",
+    "genre": "history"
+  },
+  {
+    "answer": "ジョウヤク",
+    "clue": "国と国とが結ぶ約束",
+    "genre": "history"
+  },
+  {
+    "answer": "ドレイ",
+    "clue": "人として売買され働かされた人々",
+    "genre": "history"
+  },
+  {
+    "answer": "コウテイ",
+    "clue": "帝国を治める最高位の君主",
+    "genre": "history"
+  },
+  {
+    "answer": "オウサマ",
+    "clue": "国を治める君主",
+    "genre": "history"
+  },
+  {
+    "answer": "ジョオウ",
+    "clue": "国を治める女性の君主",
+    "genre": "history"
+  },
+  {
+    "answer": "キシ",
+    "clue": "中世ヨーロッパで主君に仕えた戦士",
+    "genre": "history"
+  },
+  {
+    "answer": "シロ",
+    "clue": "領主が住み守りを固めた建物",
+    "genre": "history"
+  },
+  {
+    "answer": "カイヅカ",
+    "clue": "古代の人が捨てた貝殻が積もった遺跡",
+    "genre": "history"
+  },
+  {
+    "answer": "イセキ",
+    "clue": "昔の人の暮らしの跡が残る場所",
+    "genre": "history"
+  },
+  {
+    "answer": "ミイラ",
+    "clue": "腐らずに乾いて残った古代の遺体",
+    "genre": "history"
+  },
+  {
+    "answer": "カセキ",
+    "clue": "大昔の生き物が地層に残ったもの",
+    "genre": "history"
+  },
+  {
+    "answer": "ネンゴウ",
+    "clue": "時代を区切って付ける年の呼び名",
+    "genre": "history"
+  },
+  {
+    "answer": "セイキ",
+    "clue": "百年をひと区切りとする年代の数え方",
+    "genre": "history"
+  },
+  {
+    "answer": "ハクブツカン",
+    "clue": "歴史の資料や美術品を集めて見せる施設",
+    "genre": "history"
+  },
+  {
+    "answer": "ネンピョウ",
+    "clue": "出来事を年代順に並べた表",
+    "genre": "history"
+  },
+  {
+    "answer": "ポーランド",
+    "clue": "ショパンの生まれた東欧の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ハンガリー",
+    "clue": "ブダペストを首都とする中欧の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "チェコ",
+    "clue": "プラハの古い街並みで知られる中欧の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ウクライナ",
+    "clue": "東ヨーロッパにある広大な平原の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "アイルランド",
+    "clue": "イギリスの西にある緑豊かな島国",
+    "genre": "geography"
+  },
+  {
+    "answer": "デンマーク",
+    "clue": "人魚姫の像で知られる北欧の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ナイジェリア",
+    "clue": "アフリカで最も人口の多い国",
+    "genre": "geography"
+  },
+  {
+    "answer": "エチオピア",
+    "clue": "コーヒー発祥とされる東アフリカの国",
+    "genre": "geography"
+  },
+  {
+    "answer": "パキスタン",
+    "clue": "インドの西隣にある南アジアの国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ネパール",
+    "clue": "エベレストのふもとに広がる山国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ミャンマー",
+    "clue": "黄金の仏塔が多い東南アジアの国",
+    "genre": "geography"
+  },
+  {
+    "answer": "イスラエル",
+    "clue": "エルサレムを擁する中東の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "コロンビア",
+    "clue": "コーヒーとエメラルドで知られる南米の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ベネズエラ",
+    "clue": "世界一落差の大きい滝がある南米の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ヒョウガ",
+    "clue": "長い年月で積もった雪が凍り流れ下る巨大な氷",
+    "genre": "geography"
+  },
+  {
+    "answer": "サンゴショウ",
+    "clue": "暖かい海でサンゴが作る地形",
+    "genre": "geography"
+  },
+  {
+    "answer": "ヒョウザン",
+    "clue": "海に浮かぶ巨大な氷のかたまり",
+    "genre": "geography"
+  },
+  {
+    "answer": "カルデラ",
+    "clue": "噴火でできた大きなくぼ地",
+    "genre": "geography"
+  },
+  {
+    "answer": "ツンドラ",
+    "clue": "寒さで樹木が育たない極北の荒野",
+    "genre": "geography"
+  },
+  {
+    "answer": "ジャングル",
+    "clue": "熱帯の生い茂った密林",
+    "genre": "geography"
+  },
+  {
+    "answer": "デルタ",
+    "clue": "川が運んだ土砂が河口に作る三角の地形",
+    "genre": "geography"
+  },
+  {
+    "answer": "トウゲ",
+    "clue": "山道で最も高くなる地点",
+    "genre": "geography"
+  },
+  {
+    "answer": "タキ",
+    "clue": "川の水が崖から流れ落ちる所",
+    "genre": "geography"
+  },
+  {
+    "answer": "ホクイ",
+    "clue": "赤道より北の緯度",
+    "genre": "geography"
+  },
+  {
+    "answer": "ナンイ",
+    "clue": "赤道より南の緯度",
+    "genre": "geography"
+  },
+  {
+    "answer": "ヒョウコウ",
+    "clue": "海面からの高さ",
+    "genre": "geography"
+  },
+  {
+    "answer": "コッキョウ",
+    "clue": "国と国とを分ける境",
+    "genre": "geography"
+  },
+  {
+    "answer": "ジンコウ",
+    "clue": "その地域に住む人の数",
+    "genre": "geography"
+  },
+  {
+    "answer": "オタワ",
+    "clue": "カナダの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "リスボン",
+    "clue": "ポルトガルの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ストックホルム",
+    "clue": "スウェーデンの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ヘルシンキ",
+    "clue": "フィンランドの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "プラハ",
+    "clue": "チェコの首都で百塔の街と呼ばれる都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "イスタンブール",
+    "clue": "アジアと欧州にまたがるトルコ最大の都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "リオデジャネイロ",
+    "clue": "カーニバルと巨大なキリスト像で有名な都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "ラスベガス",
+    "clue": "砂漠に築かれたアメリカのカジノの街",
+    "genre": "geography"
+  },
+  {
+    "answer": "ナポリ",
+    "clue": "ピザ発祥とされるイタリア南部の都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "ジュネーブ",
+    "clue": "国際機関が集まるスイスの都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "ソクラテス",
+    "clue": "問答で知られる古代ギリシャの哲学者",
+    "genre": "history"
+  },
+  {
+    "answer": "プラトン",
+    "clue": "イデア論を説いた古代ギリシャの哲学者",
+    "genre": "history"
+  },
+  {
+    "answer": "アリストテレス",
+    "clue": "万学の祖と呼ばれる古代ギリシャの学者",
+    "genre": "history"
+  },
+  {
+    "answer": "シェイクスピア",
+    "clue": "ハムレットを書いた英国の劇作家",
+    "genre": "history"
+  },
+  {
+    "answer": "モーツァルト",
+    "clue": "神童とうたわれた音楽家",
+    "genre": "history"
+  },
+  {
+    "answer": "ピカソ",
+    "clue": "キュビズムで知られる画家",
+    "genre": "history"
+  },
+  {
+    "answer": "ダーウィン",
+    "clue": "進化論を唱えた科学者",
+    "genre": "history"
+  },
+  {
+    "answer": "アインシュタイン",
+    "clue": "相対性理論を唱えた物理学者",
+    "genre": "history"
+  },
+  {
+    "answer": "ノーベル",
+    "clue": "ダイナマイトを発明し賞を遺した人物",
+    "genre": "history"
+  },
+  {
+    "answer": "ザビエル",
+    "clue": "日本にキリスト教を伝えた宣教師",
+    "genre": "history"
+  },
+  {
+    "answer": "コペルニクス",
+    "clue": "太陽中心の宇宙観を唱えた天文学者",
+    "genre": "history"
+  },
+  {
+    "answer": "チャーチル",
+    "clue": "第二次大戦期の英国の首相",
+    "genre": "history"
+  },
+  {
+    "answer": "ナイチンゲール",
+    "clue": "近代看護の礎を築いた女性",
+    "genre": "history"
+  },
+  {
+    "answer": "ミヤモトムサシ",
+    "clue": "二刀流で知られる剣豪",
+    "genre": "history"
+  },
+  {
+    "answer": "マツオバショウ",
+    "clue": "奥の細道を著した俳人",
+    "genre": "history"
+  },
+  {
+    "answer": "ヨシダショウイン",
+    "clue": "松下村塾で志士を育てた幕末の教育者",
+    "genre": "history"
+  },
+  {
+    "answer": "タカスギシンサク",
+    "clue": "奇兵隊を率いた長州の志士",
+    "genre": "history"
+  },
+  {
+    "answer": "オオクボトシミチ",
+    "clue": "明治政府の中心を担った薩摩出身の政治家",
+    "genre": "history"
+  },
+  {
+    "answer": "クウカイ",
+    "clue": "真言宗を開いた平安の僧",
+    "genre": "history"
+  },
+  {
+    "answer": "ガンジン",
+    "clue": "苦難の末に来日し戒律を伝えた唐の僧",
+    "genre": "history"
+  },
+  {
+    "answer": "ニチレン",
+    "clue": "法華経を重んじる宗派を開いた僧",
+    "genre": "history"
+  },
+  {
+    "answer": "ホウジョウマサコ",
+    "clue": "尼将軍と呼ばれた頼朝の妻",
+    "genre": "history"
+  },
+  {
+    "answer": "ナカトミノカマタリ",
+    "clue": "大化の改新で中心となった人物",
+    "genre": "history"
+  },
+  {
+    "answer": "タイカノカイシン",
+    "clue": "蘇我氏を倒し天皇中心の国を目指した改革",
+    "genre": "history"
+  },
+  {
+    "answer": "ゲンコウ",
+    "clue": "鎌倉時代に元の大軍が攻めてきた出来事",
+    "genre": "history"
+  },
+  {
+    "answer": "ナンボクチョウ",
+    "clue": "二つの朝廷が並び立った動乱の時代",
+    "genre": "history"
+  },
+  {
+    "answer": "ニチロセンソウ",
+    "clue": "日本がロシアと戦った明治の戦争",
+    "genre": "history"
+  },
+  {
+    "answer": "ニッシンセンソウ",
+    "clue": "日本が清と戦った明治の戦争",
+    "genre": "history"
+  },
+  {
+    "answer": "セイナンセンソウ",
+    "clue": "西郷隆盛が起こした士族の反乱",
+    "genre": "history"
+  },
+  {
+    "answer": "ロウジュウ",
+    "clue": "江戸幕府で政務を統括した最高の役職",
+    "genre": "history"
+  },
+  {
+    "answer": "ブギョウ",
+    "clue": "江戸時代に行政や裁判を担った役人",
+    "genre": "history"
+  },
+  {
+    "answer": "ショウエン",
+    "clue": "貴族や寺社が持った私有の領地",
+    "genre": "history"
   }
 ]
