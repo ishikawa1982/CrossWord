@@ -72,7 +72,7 @@ export function addPlayer(
   const color = PLAYER_COLORS[room.players.length];
   const player: Player = {
     id: playerId,
-    name: name.trim().slice(0, 16) || `Player${room.players.length + 1}`,
+    name: name.trim().slice(0, 4) || `P${room.players.length + 1}`,
     color,
     score: 0,
     isHost: room.players.length === 0,

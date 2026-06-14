@@ -45,10 +45,10 @@ export function Home({ onCreate, onJoin, onSolo, error, connected }: Props) {
       )}
 
       <label className="field">
-        ニックネーム
+        ニックネーム（4文字まで）
         <input
           value={name}
-          maxLength={16}
+          maxLength={4}
           placeholder="あなたの名前"
           onChange={(e) => setName(e.target.value)}
         />
