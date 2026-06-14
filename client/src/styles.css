@@ -212,6 +212,36 @@ button.ghost { background: transparent; color: var(--muted); border: 1px solid v
 .clue-list .text { flex: 1; font-size: 0.9rem; }
 .owner-dot { width: 12px; height: 12px; border-radius: 50%; }
 
+/* ---- カウントダウンオーバーレイ（全員に表示） ---- */
+.countdown-overlay {
+  position: fixed; inset: 0; z-index: 100;
+  display: flex; align-items: center; justify-content: center;
+  background: rgba(0, 0, 0, 0.72);
+  pointer-events: none;
+}
+.countdown-number {
+  font-size: 8rem; font-weight: 900; color: #fff;
+  text-shadow: 0 0 40px rgba(59, 130, 246, 0.8);
+  animation: countdown-pop 0.9s ease-out forwards;
+}
+@keyframes countdown-pop {
+  0% { transform: scale(1.8); opacity: 0; }
+  20% { transform: scale(1); opacity: 1; }
+  75% { transform: scale(1); opacity: 1; }
+  100% { transform: scale(0.7); opacity: 0; }
+}
+
+/* ---- GAME START!! バッジ ---- */
+.game-start-badge {
+  font-size: 2.8rem; font-weight: 900; letter-spacing: 0.05em;
+  padding: 1rem 2.5rem; border-radius: 16px;
+  color: #fff; white-space: nowrap;
+  background: linear-gradient(135deg, #3b82f6 0%, #8b5cf6 100%);
+  border: 3px solid #a78bfa;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+  animation: result-pop 2s ease-out forwards;
+}
+
 /* ---- 解答結果エフェクト（解答者本人のみ表示） ---- */
 .result-effect {
   position: fixed; inset: 0; z-index: 50;

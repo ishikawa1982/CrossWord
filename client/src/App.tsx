@@ -1,6 +1,7 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
 import type { AnswerResult, GameState, Genre, Language } from '@crossword/shared';
 import { socket } from './socket.js';
+import React from 'react';
 import { Home } from './screens/Home.js';
 import { Lobby } from './screens/Lobby.js';
 import { Game } from './screens/Game.js';
@@ -100,10 +101,23 @@ export function App() {
     playerIdRef.current = null;
   }, []);
 
-  // 一人用モード（クライアント完結。オンライン状態より優先）
+  // カウントダウン（全員に表示）
+  const [countdown, setCountdown] = useState<number | null>(null);
+  useEffect(() => {
+    const onCountdown = (n: number) => setCountdown(n);
+    socket.on('countdown', onCountdown);
+    return () => { socket.off('countdown', onCountdown); };
+  }, []);
+  // ゲーム開始（gameUpdate）が来たらカウントダウンをクリア
+  useEffect(() => {
+    if (state?.status === 'playing') setCountdown(null);
+  }, [state?.status]);
+
+  // 表示する画面を決定
+  let screen: React.ReactNode;
   if (solo.state) {
     if (solo.state.status === 'finished' && solo.stats) {
-      return (
+      screen = (
         <SoloResults
           stats={solo.stats}
           totalWords={solo.state.puzzle?.words.length ?? 0}
@@ -111,21 +125,20 @@ export function App() {
           onExit={solo.exit}
         />
       );
+    } else {
+      screen = (
+        <Game
+          state={solo.state}
+          playerId="solo"
+          lastResult={solo.lastResult}
+          onSubmit={solo.submit}
+          onLeave={solo.exit}
+          solo={solo.stats ? { startedAt: solo.stats.startedAt, mistakes: solo.stats.mistakes } : undefined}
+        />
+      );
     }
-    return (
-      <Game
-        state={solo.state}
-        playerId="solo"
-        lastResult={solo.lastResult}
-        onSubmit={solo.submit}
-        onLeave={solo.exit}
-        solo={solo.stats ? { startedAt: solo.stats.startedAt, mistakes: solo.stats.mistakes } : undefined}
-      />
-    );
-  }
-
-  if (!state || !playerId) {
-    return (
+  } else if (!state || !playerId) {
+    screen = (
       <Home
         onCreate={handleCreate}
         onJoin={handleJoin}
@@ -134,9 +147,8 @@ export function App() {
         connected={connected}
       />
     );
-  }
-  if (state.status === 'lobby') {
-    return (
+  } else if (state.status === 'lobby') {
+    screen = (
       <Lobby
         state={state}
         playerId={playerId}
@@ -146,17 +158,28 @@ export function App() {
         error={error}
       />
     );
+  } else if (state.status === 'finished') {
+    screen = <Results state={state} playerId={playerId} onLeave={handleLeave} />;
+  } else {
+    screen = (
+      <Game
+        state={state}
+        playerId={playerId}
+        lastResult={lastResult}
+        onSubmit={handleSubmit}
+        onLeave={handleLeave}
+      />
+    );
   }
-  if (state.status === 'finished') {
-    return <Results state={state} playerId={playerId} onLeave={handleLeave} />;
-  }
+
   return (
-    <Game
-      state={state}
-      playerId={playerId}
-      lastResult={lastResult}
-      onSubmit={handleSubmit}
-      onLeave={handleLeave}
-    />
+    <>
+      {screen}
+      {countdown !== null && (
+        <div className="countdown-overlay">
+          <div className="countdown-number" key={countdown}>{countdown}</div>
+        </div>
+      )}
+    </>
   );
 }

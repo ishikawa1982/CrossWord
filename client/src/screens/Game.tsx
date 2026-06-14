@@ -27,6 +27,14 @@ export function Game({ state, playerId, lastResult, onSubmit, onLeave, solo }: P
   const [selectedWordId, setSelectedWordId] = useState<string | null>(null);
   const puzzle = state.puzzle!;
 
+  // GAME START!! エフェクト（マウント直後に全員の画面で表示）
+  const [showStart, setShowStart] = useState(!solo); // ソロはカウントダウンなしなので非表示
+  useEffect(() => {
+    if (!showStart) return;
+    const t = setTimeout(() => setShowStart(false), 2000);
+    return () => clearTimeout(t);
+  }, []);
+
   // 解答結果エフェクト（解答者本人のみ。lastResult は本人にしか届かない）
   const [effect, setEffect] = useState<{ kind: 'correct' | 'wrong'; id: number } | null>(null);
   useEffect(() => {
@@ -131,6 +139,12 @@ export function Game({ state, playerId, lastResult, onSubmit, onLeave, solo }: P
           <div className={`result-effect-badge ${effect.kind}`}>
             {effect.kind === 'correct' ? '⭕️ 正解‼︎' : '❌ 不正解…'}
           </div>
+        </div>
+      )}
+
+      {showStart && (
+        <div className="result-effect">
+          <div className="game-start-badge">GAME START!!</div>
         </div>
       )}
     </div>

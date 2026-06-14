@@ -29,6 +29,8 @@ export interface Room {
   hintedCells: Set<string>;
   /** ヒントタイマーの ID（クリア用） */
   hintTimer: ReturnType<typeof setTimeout> | null;
+  /** カウントダウン中は true（二重開始を防止） */
+  countingDown: boolean;
 }
 
 const rooms = new Map<string, Room>();
@@ -69,6 +71,7 @@ export function createRoom(language: Language): Room {
     solvedWordIds: new Set(),
     hintedCells: new Set(),
     hintTimer: null,
+    countingDown: false,
   };
   rooms.set(room.code, room);
   return room;

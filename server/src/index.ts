@@ -130,24 +130,41 @@ io.on('connection', (socket) => {
       socket.emit('errorMessage', { message: 'ホストのみ開始できます' });
       return;
     }
-    if (room.status !== 'lobby') return;
+    if (room.status !== 'lobby' || room.countingDown) return;
 
-    const source = getWords(room.language, room.genre);
-    room.puzzle = generatePuzzle(source, room.language, { targetWords: TARGET_WORDS });
-    if (room.puzzle.words.length < 2) {
-      socket.emit('errorMessage', { message: '盤面の生成に失敗しました。もう一度お試しください' });
-      room.puzzle = null;
-      return;
-    }
-    room.status = 'playing';
-    room.winnerIds = [];
-    room.cooldownUntil.clear();
-    room.solvedWordIds.clear();
-    room.hintedCells.clear();
-    clearHintTimer(room);
-    startHintTimer(room);
-    computeScores(room.puzzle, room.players);
-    broadcastState(room, 'gameUpdate');
+    room.countingDown = true;
+
+    // 5→1 カウントダウンを1秒ごとに全員へ配信、終了後にゲーム生成
+    let count = 5;
+    const tick = () => {
+      io.to(room.code).emit('countdown', count);
+      if (count > 1) {
+        count--;
+        setTimeout(tick, 1000);
+      } else {
+        // 最後の "1" から1秒後にゲームスタート
+        setTimeout(() => {
+          room.countingDown = false;
+          const source = getWords(room.language, room.genre);
+          room.puzzle = generatePuzzle(source, room.language, { targetWords: TARGET_WORDS });
+          if (room.puzzle.words.length < 2) {
+            socket.emit('errorMessage', { message: '盤面の生成に失敗しました。もう一度お試しください' });
+            room.puzzle = null;
+            return;
+          }
+          room.status = 'playing';
+          room.winnerIds = [];
+          room.cooldownUntil.clear();
+          room.solvedWordIds.clear();
+          room.hintedCells.clear();
+          clearHintTimer(room);
+          startHintTimer(room);
+          computeScores(room.puzzle, room.players);
+          broadcastState(room, 'gameUpdate');
+        }, 1000);
+      }
+    };
+    tick();
   });
 
   socket.on('submitAnswer', (payload) => {

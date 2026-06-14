@@ -125,6 +125,8 @@ export interface ServerToClientEvents {
   answerResult: (result: AnswerResult) => void;
   gameOver: (state: GameState) => void;
   errorMessage: (err: ErrorPayload) => void;
+  /** ゲーム開始前カウントダウン（5→1）。0 の代わりに gameUpdate が来る */
+  countdown: (count: number) => void;
 }
 
 /** クライアント → サーバ */
