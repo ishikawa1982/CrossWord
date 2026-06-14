@@ -8023,5 +8023,1640 @@
     "answer": "シモンニンショウ",
     "clue": "指紋で本人を確かめる技術（指紋認証）",
     "genre": "reiwa"
+  },
+  {
+    "answer": "オタク",
+    "clue": "ある趣味に深くのめり込む人",
+    "genre": "subculture"
+  },
+  {
+    "answer": "モエ",
+    "clue": "キャラクターに抱くいとおしい感情",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ツンデレ",
+    "clue": "素っ気ない態度の裏に好意を隠す性格",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ヤンデレ",
+    "clue": "好きすぎて病んでしまう性格",
+    "genre": "subculture"
+  },
+  {
+    "answer": "スパチャ",
+    "clue": "配信者へ送る投げ銭",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ハイシン",
+    "clue": "動画や音声をネットで流すこと",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ストリーマー",
+    "clue": "ゲームなどを生放送する人",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ユーチューバー",
+    "clue": "動画投稿で活動する人",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ニコニコ",
+    "clue": "コメントが動画に流れる投稿サイト",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ボカロ",
+    "clue": "合成音声で歌わせる音楽ソフトの通称",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ボーカロイド",
+    "clue": "歌声を合成する技術の正式名",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ハツネミク",
+    "clue": "青緑の髪の代表的な合成音声キャラ",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ウタッテミタ",
+    "clue": "既存曲を自分で歌った投稿動画",
+    "genre": "subculture"
+  },
+  {
+    "answer": "オドッテミタ",
+    "clue": "振り付けを踊った投稿動画",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ダンマク",
+    "clue": "画面を埋め尽くすコメントや弾の雨",
+    "genre": "subculture"
+  },
+  {
+    "answer": "バズ",
+    "clue": "ネットで一気に話題が広がること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ドウジン",
+    "clue": "同じ趣味の仲間が自主制作すること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ドウジンシ",
+    "clue": "ファンが自主制作する冊子",
+    "genre": "subculture"
+  },
+  {
+    "answer": "コミケ",
+    "clue": "同人誌即売会の通称",
+    "genre": "subculture"
+  },
+  {
+    "answer": "サークル",
+    "clue": "同人活動を行う制作グループ",
+    "genre": "subculture"
+  },
+  {
+    "answer": "カップリング",
+    "clue": "キャラ同士の組み合わせの好み",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ニジソウサク",
+    "clue": "既存作品を元にした創作",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ファンアート",
+    "clue": "ファンが描く作品の絵",
+    "genre": "subculture"
+  },
+  {
+    "answer": "イラスト",
+    "clue": "説明や装飾のために描く絵",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ラクガキ",
+    "clue": "気軽に描いた絵",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ペンタブ",
+    "clue": "パソコンで絵を描く板状の道具",
+    "genre": "subculture"
+  },
+  {
+    "answer": "アニソン",
+    "clue": "アニメの主題歌や挿入歌",
+    "genre": "subculture"
+  },
+  {
+    "answer": "デフォルメ",
+    "clue": "特徴を誇張して簡略化すること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ユルキャラ",
+    "clue": "地域や企業のゆるい雰囲気のマスコット",
+    "genre": "subculture"
+  },
+  {
+    "answer": "マスコット",
+    "clue": "親しみを込めた象徴のキャラ",
+    "genre": "subculture"
+  },
+  {
+    "answer": "セルガ",
+    "clue": "透明シートに描く昔のアニメの絵",
+    "genre": "subculture"
+  },
+  {
+    "answer": "フキダシ",
+    "clue": "漫画でセリフを囲む形",
+    "genre": "subculture"
+  },
+  {
+    "answer": "オノマトペ",
+    "clue": "音や様子を表す言葉",
+    "genre": "subculture"
+  },
+  {
+    "answer": "トーン",
+    "clue": "漫画で陰影を付ける貼り付け素材",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ネーム",
+    "clue": "漫画の下書きとなるコマ割り",
+    "genre": "subculture"
+  },
+  {
+    "answer": "レンサイ",
+    "clue": "雑誌などで続き物を載せること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "タンコウボン",
+    "clue": "連載をまとめた本",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ヨミキリ",
+    "clue": "一話で完結する作品",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ソシャゲ",
+    "clue": "スマホで遊ぶ基本無料のゲーム",
+    "genre": "subculture"
+  },
+  {
+    "answer": "レトロゲー",
+    "clue": "昔懐かしい古いゲーム",
+    "genre": "subculture"
+  },
+  {
+    "answer": "インディーズ",
+    "clue": "個人や小規模で作る作品",
+    "genre": "subculture"
+  },
+  {
+    "answer": "リアタイ",
+    "clue": "放送や配信をその時間に楽しむこと",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ヤリコミ",
+    "clue": "隅々まで遊び尽くすこと",
+    "genre": "subculture"
+  },
+  {
+    "answer": "チート",
+    "clue": "不正に有利にするずる",
+    "genre": "subculture"
+  },
+  {
+    "answer": "リセマラ",
+    "clue": "良い結果が出るまでやり直すこと",
+    "genre": "subculture"
+  },
+  {
+    "answer": "レイド",
+    "clue": "大勢で強敵に挑む戦い",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ギルド",
+    "clue": "プレイヤーが集まる組織",
+    "genre": "subculture"
+  },
+  {
+    "answer": "スキン",
+    "clue": "キャラや道具の見た目を変える着せ替え",
+    "genre": "subculture"
+  },
+  {
+    "answer": "エモート",
+    "clue": "キャラにさせる感情表現の動作",
+    "genre": "subculture"
+  },
+  {
+    "answer": "アクスタ",
+    "clue": "アクリル製の立てて飾る小物",
+    "genre": "subculture"
+  },
+  {
+    "answer": "カンバッジ",
+    "clue": "留め具の付いた円い記念の品",
+    "genre": "subculture"
+  },
+  {
+    "answer": "プラモ",
+    "clue": "部品を組み立てる模型",
+    "genre": "subculture"
+  },
+  {
+    "answer": "トレカ",
+    "clue": "集めて交換する小さなカード",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ボードゲーム",
+    "clue": "盤上で遊ぶ卓上ゲーム",
+    "genre": "subculture"
+  },
+  {
+    "answer": "マダミス",
+    "clue": "犯人を推理して遊ぶ物語型ゲーム",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ダツシュツ",
+    "clue": "仕掛けを解いて部屋から逃げ出す遊び",
+    "genre": "subculture"
+  },
+  {
+    "answer": "メイドカフェ",
+    "clue": "給仕がメイド姿の喫茶店",
+    "genre": "subculture"
+  },
+  {
+    "answer": "アキバ",
+    "clue": "電気街でおなじみのオタク文化の聖地",
+    "genre": "subculture"
+  },
+  {
+    "answer": "アングラ",
+    "clue": "表に出ない地下的な文化",
+    "genre": "subculture"
+  },
+  {
+    "answer": "サブカル",
+    "clue": "主流から外れた趣味やカルチャー",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ミーム",
+    "clue": "ネットで模倣され広まるネタ",
+    "genre": "subculture"
+  },
+  {
+    "answer": "パロディ",
+    "clue": "元ネタをまねて笑いに変えた作品",
+    "genre": "subculture"
+  },
+  {
+    "answer": "オマージュ",
+    "clue": "敬意を込めて元作品をまねること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ヘビロテ",
+    "clue": "何度も繰り返し楽しむこと",
+    "genre": "subculture"
+  },
+  {
+    "answer": "コレクター",
+    "clue": "物を集めることに熱心な人",
+    "genre": "subculture"
+  },
+  {
+    "answer": "マニア",
+    "clue": "特定の分野に詳しく熱中する人",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ジャケ",
+    "clue": "作品の表紙やパッケージの絵",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ニジゲン",
+    "clue": "漫画やアニメなど絵で描かれた世界",
+    "genre": "subculture"
+  },
+  {
+    "answer": "トクテン",
+    "clue": "購入者への特別なおまけ",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ヨヤク",
+    "clue": "発売前に買う約束をすること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ゲンテイ",
+    "clue": "数や期間が限られた品",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ガレキ",
+    "clue": "自分で組む樹脂製の精巧な模型",
+    "genre": "subculture"
+  },
+  {
+    "answer": "コスプレイヤー",
+    "clue": "衣装でキャラに扮する人",
+    "genre": "subculture"
+  },
+  {
+    "answer": "イタシャ",
+    "clue": "好きなキャラを車体に描いた車",
+    "genre": "subculture"
+  },
+  {
+    "answer": "オタゲイ",
+    "clue": "ライブで繰り出す独特の応援動作",
+    "genre": "subculture"
+  },
+  {
+    "answer": "カプセルトイ",
+    "clue": "機械から出るカプセル入りの玩具",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ジッキョウ",
+    "clue": "プレイの様子を語りながら見せる配信",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ヤミツキ",
+    "clue": "やめられなくなるほど夢中なこと",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ライトノベル",
+    "clue": "若者向けの挿絵付き小説",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ラノベ",
+    "clue": "挿絵の多い若者向け小説の略称",
+    "genre": "subculture"
+  },
+  {
+    "answer": "イセカイ",
+    "clue": "別世界に転移する人気の物語類型",
+    "genre": "subculture"
+  },
+  {
+    "answer": "テンセイ",
+    "clue": "別の世界に生まれ変わる物語の設定",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ハーレム",
+    "clue": "主人公が多くの異性に好かれる設定",
+    "genre": "subculture"
+  },
+  {
+    "answer": "バトルモノ",
+    "clue": "戦いを中心に描く作品の種類",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ニチジョウケイ",
+    "clue": "平凡な日常を描く作品の種類",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ギャグ",
+    "clue": "笑いを狙ったおどけた表現",
+    "genre": "subculture"
+  },
+  {
+    "answer": "シリアス",
+    "clue": "まじめで重い雰囲気のさま",
+    "genre": "subculture"
+  },
+  {
+    "answer": "フラグ",
+    "clue": "後の展開を予感させる前触れ",
+    "genre": "subculture"
+  },
+  {
+    "answer": "アニメカ",
+    "clue": "漫画や小説が動く作品になること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ジッシャカ",
+    "clue": "漫画などが俳優の作品になること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "メディアミックス",
+    "clue": "一つの作品を様々な媒体で展開すること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "スタンプ",
+    "clue": "メッセージに使う絵柄",
+    "genre": "subculture"
+  },
+  {
+    "answer": "トレンド",
+    "clue": "その時よく話題になっている事柄",
+    "genre": "subculture"
+  },
+  {
+    "answer": "リプ",
+    "clue": "投稿への返信",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ヌシ",
+    "clue": "掲示板などの場の常連の主",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ピックアップ",
+    "clue": "特定の対象が出やすくなる催し",
+    "genre": "subculture"
+  },
+  {
+    "answer": "オンリーイベント",
+    "clue": "特定作品だけのファンの集い",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ハンプ",
+    "clue": "同人誌などを配ること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "シキシ",
+    "clue": "サインや絵を描く厚紙",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ラババン",
+    "clue": "ゴム製の腕輪のグッズ",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ナマライブ",
+    "clue": "観客の前で行う実演",
+    "genre": "subculture"
+  },
+  {
+    "answer": "オンエア",
+    "clue": "番組が放送されること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ハマる",
+    "clue": "夢中になって抜け出せないこと",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ネトゲ",
+    "clue": "ネットで他人とつながって遊ぶゲーム",
+    "genre": "subculture"
+  },
+  {
+    "answer": "インスタ",
+    "clue": "写真共有で人気のアプリの通称",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ジッキョウシャ",
+    "clue": "プレイ実況を投稿する人",
+    "genre": "subculture"
+  },
+  {
+    "answer": "アイコン",
+    "clue": "ネット上で自分を表す小さな画像",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ハンドルネーム",
+    "clue": "ネットで使う仮の名前",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ロムる",
+    "clue": "書き込まず読むだけでいること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "エゴサ",
+    "clue": "自分の評判をネットで検索すること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "テンプレ",
+    "clue": "決まりきった型や言い回し",
+    "genre": "subculture"
+  },
+  {
+    "answer": "カオス",
+    "clue": "混沌として無秩序なさま",
+    "genre": "subculture"
+  },
+  {
+    "answer": "シュール",
+    "clue": "非現実的で不条理なおかしさ",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ニヤニヤ",
+    "clue": "にやけて笑うさま",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ワロタ",
+    "clue": "笑ったことを表すネット言葉",
+    "genre": "subculture"
+  },
+  {
+    "answer": "クサ",
+    "clue": "笑いを表すネットの表現",
+    "genre": "subculture"
+  },
+  {
+    "answer": "オワコン",
+    "clue": "流行が過ぎて終わった物事",
+    "genre": "subculture"
+  },
+  {
+    "answer": "カミ",
+    "clue": "非常に素晴らしいことを表す語",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ヲタク",
+    "clue": "アニメなどに熱中する人の別表記",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ニワカ",
+    "clue": "にわかに興味を持った経験の浅い人",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ガチオタ",
+    "clue": "本格的に詳しい熱心な愛好者",
+    "genre": "subculture"
+  },
+  {
+    "answer": "スパダリ",
+    "clue": "完璧で理想的な男性像",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ケモミミ",
+    "clue": "動物の耳を持つキャラの特徴",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ツインテール",
+    "clue": "左右で結んだ髪型",
+    "genre": "subculture"
+  },
+  {
+    "answer": "アホゲ",
+    "clue": "頭にぴょこんと跳ねた一本の髪",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ギャルゲー",
+    "clue": "女性キャラと交流する恋愛ゲーム",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ノベルゲー",
+    "clue": "文章を読み進める物語ゲーム",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ドット",
+    "clue": "点で表現した粗い絵",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ピクセル",
+    "clue": "画像を構成する小さな点",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ステマ",
+    "clue": "宣伝と気づかせない宣伝",
+    "genre": "subculture"
+  },
+  {
+    "answer": "スレ",
+    "clue": "掲示板の話題ごとの書き込みの連なり",
+    "genre": "subculture"
+  },
+  {
+    "answer": "マイリス",
+    "clue": "お気に入りの動画をまとめた一覧",
+    "genre": "subculture"
+  },
+  {
+    "answer": "サムネ",
+    "clue": "動画の内容を表す小さな見本画像",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ファゴット",
+    "clue": "低音を担当する大きな木管楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "リコーダー",
+    "clue": "学校でおなじみの縦笛",
+    "genre": "music"
+  },
+  {
+    "answer": "ピッコロ",
+    "clue": "フルートより小さく最も高い音の笛",
+    "genre": "music"
+  },
+  {
+    "answer": "ティンパニ",
+    "clue": "音程を調整できる大きな太鼓",
+    "genre": "music"
+  },
+  {
+    "answer": "マリンバ",
+    "clue": "木の板を並べて叩く鍵盤打楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "ソウル",
+    "clue": "黒人音楽から生まれた情感豊かな音楽",
+    "genre": "music"
+  },
+  {
+    "answer": "ファンク",
+    "clue": "強いビートが特徴のノリの良い音楽",
+    "genre": "music"
+  },
+  {
+    "answer": "ハウス",
+    "clue": "クラブで流れる四つ打ちの電子音楽",
+    "genre": "music"
+  },
+  {
+    "answer": "パンク",
+    "clue": "荒々しく反抗的なロックの一種",
+    "genre": "music"
+  },
+  {
+    "answer": "メタル",
+    "clue": "重く激しい音が特徴のロック",
+    "genre": "music"
+  },
+  {
+    "answer": "カントリー",
+    "clue": "アメリカ南部発祥の素朴な音楽",
+    "genre": "music"
+  },
+  {
+    "answer": "ゴスペル",
+    "clue": "教会で歌われる宗教的な合唱",
+    "genre": "music"
+  },
+  {
+    "answer": "シャンソン",
+    "clue": "フランスの叙情的な歌",
+    "genre": "music"
+  },
+  {
+    "answer": "ミンヨウ",
+    "clue": "各地に伝わる庶民の伝統的な歌",
+    "genre": "music"
+  },
+  {
+    "answer": "ドウヨウ",
+    "clue": "子ども向けに作られた歌",
+    "genre": "music"
+  },
+  {
+    "answer": "ガッショウ",
+    "clue": "大勢で声を合わせて歌うこと",
+    "genre": "music"
+  },
+  {
+    "answer": "テンポ",
+    "clue": "曲の速さのこと",
+    "genre": "music"
+  },
+  {
+    "answer": "ハーモニー",
+    "clue": "複数の音が重なって生まれる響き",
+    "genre": "music"
+  },
+  {
+    "answer": "コード",
+    "clue": "いくつかの音を同時に鳴らす和音",
+    "genre": "music"
+  },
+  {
+    "answer": "スケール",
+    "clue": "ドレミのように並ぶ音の階段",
+    "genre": "music"
+  },
+  {
+    "answer": "オクターブ",
+    "clue": "ドから次のドまでの音の隔たり",
+    "genre": "music"
+  },
+  {
+    "answer": "シャープ",
+    "clue": "音を半音上げる記号",
+    "genre": "music"
+  },
+  {
+    "answer": "フラット",
+    "clue": "音を半音下げる記号",
+    "genre": "music"
+  },
+  {
+    "answer": "ゴセン",
+    "clue": "楽譜に引かれた五本の横線",
+    "genre": "music"
+  },
+  {
+    "answer": "ソプラノ",
+    "clue": "女声で最も高い声域",
+    "genre": "music"
+  },
+  {
+    "answer": "アルト",
+    "clue": "女声で低めの声域",
+    "genre": "music"
+  },
+  {
+    "answer": "テノール",
+    "clue": "男声で高い声域",
+    "genre": "music"
+  },
+  {
+    "answer": "バリトン",
+    "clue": "男声で中くらいの声域",
+    "genre": "music"
+  },
+  {
+    "answer": "ファルセット",
+    "clue": "高い音を出すための裏声",
+    "genre": "music"
+  },
+  {
+    "answer": "ビブラート",
+    "clue": "音を細かく揺らす技法",
+    "genre": "music"
+  },
+  {
+    "answer": "スタッカート",
+    "clue": "音を短く切って演奏する奏法",
+    "genre": "music"
+  },
+  {
+    "answer": "レガート",
+    "clue": "音を滑らかにつなげる奏法",
+    "genre": "music"
+  },
+  {
+    "answer": "フォルテ",
+    "clue": "強く演奏することを示す記号",
+    "genre": "music"
+  },
+  {
+    "answer": "クレッシェンド",
+    "clue": "だんだん強くしていく演奏",
+    "genre": "music"
+  },
+  {
+    "answer": "アレグロ",
+    "clue": "速く快活に演奏する速度標語",
+    "genre": "music"
+  },
+  {
+    "answer": "アンダンテ",
+    "clue": "歩く速さで演奏する速度標語",
+    "genre": "music"
+  },
+  {
+    "answer": "アダージョ",
+    "clue": "ゆっくり演奏する速度標語",
+    "genre": "music"
+  },
+  {
+    "answer": "シンコペーション",
+    "clue": "拍子を意図的にずらすリズム",
+    "genre": "music"
+  },
+  {
+    "answer": "アルペジオ",
+    "clue": "和音を一音ずつ分けて鳴らす奏法",
+    "genre": "music"
+  },
+  {
+    "answer": "シンガー",
+    "clue": "歌を歌う人",
+    "genre": "music"
+  },
+  {
+    "answer": "サッキョク",
+    "clue": "曲を作ること",
+    "genre": "music"
+  },
+  {
+    "answer": "サクシ",
+    "clue": "歌詞を作ること",
+    "genre": "music"
+  },
+  {
+    "answer": "ヘンキョク",
+    "clue": "既存の曲を編み直すこと",
+    "genre": "music"
+  },
+  {
+    "answer": "ブラスバンド",
+    "clue": "金管や打楽器を中心とした楽団",
+    "genre": "music"
+  },
+  {
+    "answer": "スイソウガク",
+    "clue": "管楽器を中心とした合奏",
+    "genre": "music"
+  },
+  {
+    "answer": "セッション",
+    "clue": "演奏者が即興で一緒に奏でること",
+    "genre": "music"
+  },
+  {
+    "answer": "ノクターン",
+    "clue": "夜想曲と呼ばれる静かな曲",
+    "genre": "music"
+  },
+  {
+    "answer": "エチュード",
+    "clue": "技術習得のための練習曲",
+    "genre": "music"
+  },
+  {
+    "answer": "ラプソディ",
+    "clue": "自由な形式の幻想的な曲",
+    "genre": "music"
+  },
+  {
+    "answer": "プレリュード",
+    "clue": "前奏として演奏される曲",
+    "genre": "music"
+  },
+  {
+    "answer": "レクイエム",
+    "clue": "死者を悼むために作られた曲",
+    "genre": "music"
+  },
+  {
+    "answer": "チューナー",
+    "clue": "楽器の音程を合わせる道具",
+    "genre": "music"
+  },
+  {
+    "answer": "ピック",
+    "clue": "弦をはじくための小さな板",
+    "genre": "music"
+  },
+  {
+    "answer": "ユニゾン",
+    "clue": "複数で同じ旋律を奏でること",
+    "genre": "music"
+  },
+  {
+    "answer": "ソリスト",
+    "clue": "独奏や独唱を担当する人",
+    "genre": "music"
+  },
+  {
+    "answer": "インスト",
+    "clue": "歌のない演奏だけの曲",
+    "genre": "music"
+  },
+  {
+    "answer": "リフ",
+    "clue": "繰り返される短い印象的な旋律",
+    "genre": "music"
+  },
+  {
+    "answer": "アウトロ",
+    "clue": "曲の終わりの部分",
+    "genre": "music"
+  },
+  {
+    "answer": "ビート",
+    "clue": "音楽の基本的な拍の刻み",
+    "genre": "music"
+  },
+  {
+    "answer": "グルーヴ",
+    "clue": "ノリやうねりを生む演奏の感覚",
+    "genre": "music"
+  },
+  {
+    "answer": "フレーズ",
+    "clue": "ひとまとまりの旋律",
+    "genre": "music"
+  },
+  {
+    "answer": "モチーフ",
+    "clue": "曲の核となる短い旋律の素",
+    "genre": "music"
+  },
+  {
+    "answer": "ハミング",
+    "clue": "口を閉じて鼻歌で歌うこと",
+    "genre": "music"
+  },
+  {
+    "answer": "ファンファーレ",
+    "clue": "祝典などで鳴らす華やかな旋律",
+    "genre": "music"
+  },
+  {
+    "answer": "プレイヤー",
+    "clue": "楽器を演奏する人",
+    "genre": "music"
+  },
+  {
+    "answer": "レパートリー",
+    "clue": "すぐ演奏できる持ち曲の数々",
+    "genre": "music"
+  },
+  {
+    "answer": "アンサンブル",
+    "clue": "複数人で息を合わせる合奏",
+    "genre": "music"
+  },
+  {
+    "answer": "パート",
+    "clue": "各演奏者が受け持つ役割",
+    "genre": "music"
+  },
+  {
+    "answer": "オンガクサイ",
+    "clue": "音楽を楽しむ催し",
+    "genre": "music"
+  },
+  {
+    "answer": "フェス",
+    "clue": "多数の出演者が集まる音楽の祭典",
+    "genre": "music"
+  },
+  {
+    "answer": "ハモる",
+    "clue": "声や音を重ねて響かせること",
+    "genre": "music"
+  },
+  {
+    "answer": "タクト",
+    "clue": "指揮者が振る細い棒",
+    "genre": "music"
+  },
+  {
+    "answer": "ガクダン",
+    "clue": "演奏者が集まった団体",
+    "genre": "music"
+  },
+  {
+    "answer": "ガッキ",
+    "clue": "音を奏でる道具の総称",
+    "genre": "music"
+  },
+  {
+    "answer": "ネイロ",
+    "clue": "それぞれの楽器や声が持つ音の色",
+    "genre": "music"
+  },
+  {
+    "answer": "オンカイ",
+    "clue": "高さの順に並べた音の連なり",
+    "genre": "music"
+  },
+  {
+    "answer": "ドレミ",
+    "clue": "音階を読むときの呼び名",
+    "genre": "music"
+  },
+  {
+    "answer": "キュウフ",
+    "clue": "音を出さずに休む長さを示す記号",
+    "genre": "music"
+  },
+  {
+    "answer": "トオンキゴウ",
+    "clue": "高い音域を示す楽譜の記号",
+    "genre": "music"
+  },
+  {
+    "answer": "ガクショウ",
+    "clue": "大きな曲を区切る一つのまとまり",
+    "genre": "music"
+  },
+  {
+    "answer": "ハンオン",
+    "clue": "隣り合う音との最小の音の隔たり",
+    "genre": "music"
+  },
+  {
+    "answer": "ゼンオン",
+    "clue": "半音二つ分の音の隔たり",
+    "genre": "music"
+  },
+  {
+    "answer": "チョウオン",
+    "clue": "明るい響きを持つ調",
+    "genre": "music"
+  },
+  {
+    "answer": "タンオン",
+    "clue": "暗く悲しい響きを持つ調",
+    "genre": "music"
+  },
+  {
+    "answer": "テンチョウ",
+    "clue": "演奏の途中で調を変えること",
+    "genre": "music"
+  },
+  {
+    "answer": "ボリューム",
+    "clue": "音の大きさ",
+    "genre": "music"
+  },
+  {
+    "answer": "エコー",
+    "clue": "音が反響して返ってくること",
+    "genre": "music"
+  },
+  {
+    "answer": "ミュート",
+    "clue": "音を消したり弱めたりすること",
+    "genre": "music"
+  },
+  {
+    "answer": "ピッチ",
+    "clue": "音の高さのこと",
+    "genre": "music"
+  },
+  {
+    "answer": "オンテイ",
+    "clue": "二つの音の高さの隔たり",
+    "genre": "music"
+  },
+  {
+    "answer": "エレキギター",
+    "clue": "電気で音を増幅させるギター",
+    "genre": "music"
+  },
+  {
+    "answer": "アコギ",
+    "clue": "電気を使わない生のギターの略称",
+    "genre": "music"
+  },
+  {
+    "answer": "ウッドベース",
+    "clue": "弓でも指でも弾く木製の大型低音弦楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "グランドピアノ",
+    "clue": "弦が水平に張られた大型のピアノ",
+    "genre": "music"
+  },
+  {
+    "answer": "チェンバロ",
+    "clue": "弦をはじいて鳴らす古い鍵盤楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "リュート",
+    "clue": "中世ヨーロッパで使われた撥弦楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "シタール",
+    "clue": "インドの独特な響きを持つ弦楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "バグパイプ",
+    "clue": "袋に空気をためて鳴らす笛",
+    "genre": "music"
+  },
+  {
+    "answer": "オカリナ",
+    "clue": "土を焼いて作った卵形の笛",
+    "genre": "music"
+  },
+  {
+    "answer": "ケーナ",
+    "clue": "南米アンデスの素朴な縦笛",
+    "genre": "music"
+  },
+  {
+    "answer": "スティールパン",
+    "clue": "ドラム缶から作る金属の打楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "ビブラフォン",
+    "clue": "電動で音を揺らす金属の鍵盤打楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "モッキン",
+    "clue": "木の板を並べた打楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "テッキン",
+    "clue": "金属の板を並べた打楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "ワダイコ",
+    "clue": "祭りで力強く打つ日本の太鼓",
+    "genre": "music"
+  },
+  {
+    "answer": "メゾソプラノ",
+    "clue": "ソプラノとアルトの中間の女声",
+    "genre": "music"
+  },
+  {
+    "answer": "カウンターテナー",
+    "clue": "裏声で高く歌う男声",
+    "genre": "music"
+  },
+  {
+    "answer": "ボイトレ",
+    "clue": "声を鍛える練習の略称",
+    "genre": "music"
+  },
+  {
+    "answer": "ピチカート",
+    "clue": "弦を指ではじいて鳴らす奏法",
+    "genre": "music"
+  },
+  {
+    "answer": "チョーキング",
+    "clue": "弦を押し上げ音程を変えるギター奏法",
+    "genre": "music"
+  },
+  {
+    "answer": "エフェクター",
+    "clue": "楽器の音を加工する機器",
+    "genre": "music"
+  },
+  {
+    "answer": "フレット",
+    "clue": "ギターの指板に打たれた仕切り",
+    "genre": "music"
+  },
+  {
+    "answer": "フーガ",
+    "clue": "主題を追いかけ重ねる対位法の曲",
+    "genre": "music"
+  },
+  {
+    "answer": "カノン",
+    "clue": "同じ旋律を追いかけて重ねる曲",
+    "genre": "music"
+  },
+  {
+    "answer": "ミサ",
+    "clue": "教会の典礼のために作られた声楽曲",
+    "genre": "music"
+  },
+  {
+    "answer": "オラトリオ",
+    "clue": "宗教的な題材の大規模な声楽曲",
+    "genre": "music"
+  },
+  {
+    "answer": "カンタータ",
+    "clue": "独唱や合唱と楽器による声楽曲",
+    "genre": "music"
+  },
+  {
+    "answer": "スケルツォ",
+    "clue": "快活で諧謔的な三拍子の曲",
+    "genre": "music"
+  },
+  {
+    "answer": "メヌエット",
+    "clue": "優雅な三拍子の古い舞曲",
+    "genre": "music"
+  },
+  {
+    "answer": "ポロネーズ",
+    "clue": "ポーランド生まれの堂々とした舞曲",
+    "genre": "music"
+  },
+  {
+    "answer": "マズルカ",
+    "clue": "ポーランドの軽快な三拍子の舞曲",
+    "genre": "music"
+  },
+  {
+    "answer": "トッカータ",
+    "clue": "速い指の動きを見せる華やかな曲",
+    "genre": "music"
+  },
+  {
+    "answer": "ロンド",
+    "clue": "同じ主題が繰り返し戻ってくる曲",
+    "genre": "music"
+  },
+  {
+    "answer": "アンビエント",
+    "clue": "環境になじむ静かな電子音楽",
+    "genre": "music"
+  },
+  {
+    "answer": "トランス",
+    "clue": "陶酔感を生む反復的なダンス音楽",
+    "genre": "music"
+  },
+  {
+    "answer": "ダブステップ",
+    "clue": "重低音と独特の刻みが特徴の電子音楽",
+    "genre": "music"
+  },
+  {
+    "answer": "スカ",
+    "clue": "裏拍を強調した陽気なリズムの音楽",
+    "genre": "music"
+  },
+  {
+    "answer": "フュージョン",
+    "clue": "ジャズと他ジャンルを融合した音楽",
+    "genre": "music"
+  },
+  {
+    "answer": "シティポップ",
+    "clue": "都会的で洗練された日本の流行歌",
+    "genre": "music"
+  },
+  {
+    "answer": "ヨーデル",
+    "clue": "地声と裏声を素早く切り替える歌唱",
+    "genre": "music"
+  },
+  {
+    "answer": "レコーディング",
+    "clue": "演奏や歌を録音すること",
+    "genre": "music"
+  },
+  {
+    "answer": "マスタリング",
+    "clue": "完成音源を仕上げる最終の調整",
+    "genre": "music"
+  },
+  {
+    "answer": "サウンド",
+    "clue": "耳に響く音や音色のこと",
+    "genre": "music"
+  },
+  {
+    "answer": "トラック",
+    "clue": "録音された一つ一つの曲や音の層",
+    "genre": "music"
+  },
+  {
+    "answer": "ナンバー",
+    "clue": "演奏される一つの曲",
+    "genre": "music"
+  },
+  {
+    "answer": "シングル",
+    "clue": "一曲を中心に売り出す音源",
+    "genre": "music"
+  },
+  {
+    "answer": "アルバム",
+    "clue": "複数の曲をまとめた一枚の作品",
+    "genre": "music"
+  },
+  {
+    "answer": "レーベル",
+    "clue": "音源を世に出す会社や商標",
+    "genre": "music"
+  },
+  {
+    "answer": "カバー",
+    "clue": "他人の曲を自分なりに演奏すること",
+    "genre": "music"
+  },
+  {
+    "answer": "リミックス",
+    "clue": "既存曲を再構成して作り直すこと",
+    "genre": "music"
+  },
+  {
+    "answer": "メドレー",
+    "clue": "複数の曲を続けてつなげて演奏すること",
+    "genre": "music"
+  },
+  {
+    "answer": "アレンジ",
+    "clue": "曲の構成や響きを編み直すこと",
+    "genre": "music"
+  },
+  {
+    "answer": "ループ",
+    "clue": "同じ短い部分を繰り返し鳴らすこと",
+    "genre": "music"
+  },
+  {
+    "answer": "サンプリング",
+    "clue": "既存の音を取り込んで素材に使うこと",
+    "genre": "music"
+  },
+  {
+    "answer": "スクラッチ",
+    "clue": "レコードをこすって音を出す技",
+    "genre": "music"
+  },
+  {
+    "answer": "アンセム",
+    "clue": "多くの人を熱狂させる代表的な曲",
+    "genre": "music"
+  },
+  {
+    "answer": "ライブハウス",
+    "clue": "生演奏を間近で楽しめる小さな会場",
+    "genre": "music"
+  },
+  {
+    "answer": "ワンマン",
+    "clue": "一組だけで行う単独の公演",
+    "genre": "music"
+  },
+  {
+    "answer": "メジャー",
+    "clue": "大手の会社から世に出ること",
+    "genre": "music"
+  },
+  {
+    "answer": "ソングライター",
+    "clue": "曲や詞を作る人",
+    "genre": "music"
+  },
+  {
+    "answer": "コンポーザー",
+    "clue": "曲を作る人を指す言葉",
+    "genre": "music"
+  },
+  {
+    "answer": "バックバンド",
+    "clue": "歌手の後ろで伴奏する楽団",
+    "genre": "music"
+  },
+  {
+    "answer": "コンマス",
+    "clue": "楽団の演奏をまとめる首席奏者",
+    "genre": "music"
+  },
+  {
+    "answer": "トレモロ",
+    "clue": "同じ音を細かく繰り返し震わせる奏法",
+    "genre": "music"
+  },
+  {
+    "answer": "グリッサンド",
+    "clue": "音を滑らせるようにつなげる奏法",
+    "genre": "music"
+  },
+  {
+    "answer": "カデンツァ",
+    "clue": "独奏者が技巧を披露する華やかな部分",
+    "genre": "music"
+  },
+  {
+    "answer": "ラルゴ",
+    "clue": "幅広くゆったり演奏する速度標語",
+    "genre": "music"
+  },
+  {
+    "answer": "ビバーチェ",
+    "clue": "生き生きと速く演奏する速度標語",
+    "genre": "music"
+  },
+  {
+    "answer": "フェルマータ",
+    "clue": "音符を程よく延ばすことを示す記号",
+    "genre": "music"
+  },
+  {
+    "answer": "オブリガート",
+    "clue": "主旋律に寄り添う印象的な助奏",
+    "genre": "music"
+  },
+  {
+    "answer": "スウィング",
+    "clue": "軽快に揺れるジャズ独特のノリ",
+    "genre": "music"
+  },
+  {
+    "answer": "チューン",
+    "clue": "曲や旋律のこと",
+    "genre": "music"
+  },
+  {
+    "answer": "デモ",
+    "clue": "正式録音前のお試しの音源",
+    "genre": "music"
+  },
+  {
+    "answer": "ミックス",
+    "clue": "複数の音を混ぜ合わせて整えること",
+    "genre": "music"
+  },
+  {
+    "answer": "ドルオタ",
+    "clue": "アイドルに熱中する人",
+    "genre": "subculture"
+  },
+  {
+    "answer": "テツオタ",
+    "clue": "鉄道に詳しく夢中な人",
+    "genre": "subculture"
+  },
+  {
+    "answer": "カメコ",
+    "clue": "イベントで撮影に熱中する人",
+    "genre": "subculture"
+  },
+  {
+    "answer": "スクショ",
+    "clue": "画面をそのまま画像として保存すること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "スマホゲー",
+    "clue": "携帯端末で気軽に遊ぶゲーム",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ガチゼイ",
+    "clue": "本気で取り組む熱心な人たち",
+    "genre": "subculture"
+  },
+  {
+    "answer": "リアジュウ",
+    "clue": "現実の生活が充実している人",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ボッチ",
+    "clue": "一人ぼっちでいること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "インキャ",
+    "clue": "内向的で控えめな性格の人",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ヨウキャ",
+    "clue": "明るく社交的な性格の人",
+    "genre": "subculture"
+  },
+  {
+    "answer": "チュウニビョウ",
+    "clue": "思春期にありがちな背伸びした言動",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ファンミ",
+    "clue": "ファンと交流するための集い",
+    "genre": "subculture"
+  },
+  {
+    "answer": "セイチジュンレイ",
+    "clue": "作品の舞台となった場所を訪ねること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "イタバ",
+    "clue": "缶バッジを敷き詰めた応援用のかばん",
+    "genre": "subculture"
+  },
+  {
+    "answer": "オシヘン",
+    "clue": "応援する対象を別の人に変えること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ドウタン",
+    "clue": "同じ対象を応援する仲間",
+    "genre": "subculture"
+  },
+  {
+    "answer": "カミカイ",
+    "clue": "特に出来の良い神がかった回",
+    "genre": "subculture"
+  },
+  {
+    "answer": "クロレキシ",
+    "clue": "思い出したくない過去の言動",
+    "genre": "subculture"
+  },
+  {
+    "answer": "エンバン",
+    "clue": "映像が収められた円い記録媒体",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ゲンサク",
+    "clue": "映像や漫画のもとになった作品",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ゾクヘン",
+    "clue": "前の作品の続きを描いた作品",
+    "genre": "subculture"
+  },
+  {
+    "answer": "フクセン",
+    "clue": "後の展開のために前もって張る仕掛け",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ドンデンガエシ",
+    "clue": "物語の終盤で形勢が一気に覆る展開",
+    "genre": "subculture"
+  },
+  {
+    "answer": "オウドウ",
+    "clue": "お決まりで正統的な定番の流れ",
+    "genre": "subculture"
+  },
+  {
+    "answer": "コラボ",
+    "clue": "別の作品や企業が組んで作ること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "タイアップ",
+    "clue": "作品と商品が手を組んで宣伝すること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "コピペ",
+    "clue": "文章をそのまま写して貼ること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ネカマ",
+    "clue": "ネット上で女性を装う男性",
+    "genre": "subculture"
+  },
+  {
+    "answer": "リポスト",
+    "clue": "他人の投稿を再び広めること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "メイシーン",
+    "clue": "心に残る印象的な場面",
+    "genre": "subculture"
   }
 ]

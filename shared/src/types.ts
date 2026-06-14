@@ -10,6 +10,8 @@ export type Genre =
   | 'culture'
   | 'nature'
   | 'entertainment'
+  | 'subculture'
+  | 'music'
   | 'random';
 
 /** ジャンルの表示名と説明 */
@@ -21,6 +23,8 @@ export const GENRES: { id: Genre; label: string; desc: string }[] = [
   { id: 'culture', label: '教養', desc: 'ことわざ・難読漢字・一般常識など' },
   { id: 'nature', label: '動物・植物', desc: '生き物や草花など' },
   { id: 'entertainment', label: 'エンタメ', desc: 'アニメ・漫画・ゲームなど' },
+  { id: 'subculture', label: 'サブカル', desc: 'アニメ・漫画・ゲーム・ボカロ・ネット文化など' },
+  { id: 'music', label: '音楽', desc: '楽器・音楽ジャンル・名曲・音楽用語など' },
 ];
 
 export type Direction = 'across' | 'down';
