@@ -74,7 +74,7 @@ export function Home({ onCreate, onJoin, onSolo, error, connected }: Props) {
           ルームコード（ひらがな4文字）
           <input
             value={code}
-            placeholder="例: さくらの"
+            placeholder="例: さくらねこ"
             maxLength={4}
             onChange={(e) => onCodeChange(e.target.value)}
           />

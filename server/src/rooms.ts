@@ -29,16 +29,24 @@ export interface Room {
 
 const rooms = new Map<string, Room>();
 
-// ルームコード用のひらがな（紛らわしい・入力しにくい字は除外）
+// ルームコード用の2文字ひらがな単語（意味のある組み合わせを作る）
+const ROOM_CODE_WORDS = [
+  'あさ', 'あめ', 'いぬ', 'いろ', 'うみ', 'うし', 'おり', 'かに', 'かぶ',
+  'かみ', 'くま', 'こい', 'さる', 'しか', 'すい', 'そら', 'たい', 'たこ',
+  'たぬ', 'ちい', 'つき', 'とり', 'なす', 'ねこ', 'ぬま', 'のり', 'はな',
+  'へび', 'ほし', 'まぐ', 'ます', 'みず', 'むし', 'もも', 'やぎ', 'やま',
+  'ゆり', 'よこ', 'よる', 'りす', 'ろば', 'わに', 'めだ', 'べに', 'ぶた'
+];
+
+// ルームコード用のひらがな（サーバの CODE_CHARS と一致させる）
 const CODE_CHARS = 'あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろ';
 
 function generateCode(): string {
   let code: string;
   do {
-    code = Array.from(
-      { length: 4 },
-      () => CODE_CHARS[Math.floor(Math.random() * CODE_CHARS.length)]
-    ).join('');
+    const w1 = ROOM_CODE_WORDS[Math.floor(Math.random() * ROOM_CODE_WORDS.length)];
+    const w2 = ROOM_CODE_WORDS[Math.floor(Math.random() * ROOM_CODE_WORDS.length)];
+    code = w1 + w2;
   } while (rooms.has(code));
   return code;
 }
