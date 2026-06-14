@@ -14703,5 +14703,355 @@
     "answer": "ミーアキャット",
     "clue": "後ろ足で立って見張りをする小動物",
     "genre": "nature"
+  },
+  {
+    "answer": "ワンピース",
+    "clue": "海賊王を目指す少年ルフィの冒険を描く大人気漫画",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ナルト",
+    "clue": "忍者の里を舞台に主人公が火影を目指す漫画",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ブリーチ",
+    "clue": "死神の力を得た少年が虚と戦う漫画",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ドラゴンボール",
+    "clue": "七つの玉を集めると願いがかなう世界の冒険漫画",
+    "genre": "subculture"
+  },
+  {
+    "answer": "スラムダンク",
+    "clue": "不良少年が高校バスケに打ち込む名作漫画",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ハイキュー",
+    "clue": "高校バレーボールにかける青春を描く漫画",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ハンターハンター",
+    "clue": "父を捜す少年ゴンが試験に挑む冒険漫画",
+    "genre": "subculture"
+  },
+  {
+    "answer": "フェアリーテイル",
+    "clue": "魔導士ギルドの仲間たちを描くファンタジー漫画",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ジョジョ",
+    "clue": "奇妙な冒険とスタンド能力で知られる長編漫画",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ベルセルク",
+    "clue": "剣士ガッツの過酷な戦いを描くダークファンタジー",
+    "genre": "subculture"
+  },
+  {
+    "answer": "キングダム",
+    "clue": "古代中国の戦乱で天下統一を目指す漫画",
+    "genre": "subculture"
+  },
+  {
+    "answer": "デスノート",
+    "clue": "名前を書くと人が死ぬノートを巡る頭脳戦の漫画",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ヒロアカ",
+    "clue": "個性という力を持つ生徒たちのヒーロー漫画の略称",
+    "genre": "subculture"
+  },
+  {
+    "answer": "キメツノヤイバ",
+    "clue": "鬼と戦う剣士の兄妹を描く大ヒット漫画",
+    "genre": "subculture"
+  },
+  {
+    "answer": "シンゲキノキョジン",
+    "clue": "巨人と人類の戦いを描くダークな漫画",
+    "genre": "subculture"
+  },
+  {
+    "answer": "エヴァンゲリオン",
+    "clue": "少年が巨大な汎用人型兵器に乗るアニメ",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ガンダム",
+    "clue": "モビルスーツが戦う巨大ロボットアニメの金字塔",
+    "genre": "subculture"
+  },
+  {
+    "answer": "セーラームーン",
+    "clue": "美少女戦士が変身して悪と戦う作品",
+    "genre": "subculture"
+  },
+  {
+    "answer": "プリキュア",
+    "clue": "女の子が変身して戦う人気アニメシリーズ",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ポケモン",
+    "clue": "不思議な生き物を集めて育て戦わせる人気作品",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ドラエモン",
+    "clue": "未来から来た猫型ロボットの国民的漫画",
+    "genre": "subculture"
+  },
+  {
+    "answer": "サザエサン",
+    "clue": "日曜夕方に放送される長寿の家族アニメ",
+    "genre": "subculture"
+  },
+  {
+    "answer": "アンパンマン",
+    "clue": "顔が食べ物のヒーローが活躍する幼児向け作品",
+    "genre": "subculture"
+  },
+  {
+    "answer": "チビマルコ",
+    "clue": "小学三年生の女の子の日常を描く長寿アニメ",
+    "genre": "subculture"
+  },
+  {
+    "answer": "コナン",
+    "clue": "体が小さくなった高校生探偵の推理漫画",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ルパン",
+    "clue": "神出鬼没の大泥棒を描く人気アニメ",
+    "genre": "subculture"
+  },
+  {
+    "answer": "トリコ",
+    "clue": "美食を求める美食屋を描くグルメバトル漫画",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ブラッククローバー",
+    "clue": "魔法が使えない少年が魔法帝を目指す漫画",
+    "genre": "subculture"
+  },
+  {
+    "answer": "リゼロ",
+    "clue": "死に戻りの力を持つ少年の異世界物語の略称",
+    "genre": "subculture"
+  },
+  {
+    "answer": "オーバーロード",
+    "clue": "最強の魔導王となったプレイヤーの異世界譚",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ソードアート",
+    "clue": "ゲーム世界に閉じ込められた剣士の物語",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ドクターストーン",
+    "clue": "文明が消えた世界を科学で復活させる漫画",
+    "genre": "subculture"
+  },
+  {
+    "answer": "マッシュル",
+    "clue": "筋肉で魔法社会に挑む少年のギャグ漫画",
+    "genre": "subculture"
+  },
+  {
+    "answer": "トトロ",
+    "clue": "森にすむ大きな不思議な生き物のジブリ作品",
+    "genre": "subculture"
+  },
+  {
+    "answer": "モノノケヒメ",
+    "clue": "森の神々と人間の争いを描くジブリ映画",
+    "genre": "subculture"
+  },
+  {
+    "answer": "セントチヒロ",
+    "clue": "湯屋に迷い込んだ少女を描くジブリ映画",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ハウル",
+    "clue": "動く城に住む魔法使いを描くジブリ映画",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ルフィ",
+    "clue": "麦わら帽子がトレードマークのワンピースの主人公",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ゾロ",
+    "clue": "三刀流を使うワンピースの剣士",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ナミ",
+    "clue": "航海術に長けたワンピースの航海士",
+    "genre": "subculture"
+  },
+  {
+    "answer": "サンジ",
+    "clue": "足技で戦うワンピースのコック",
+    "genre": "subculture"
+  },
+  {
+    "answer": "チョッパー",
+    "clue": "トナカイの姿をしたワンピースの船医",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ピカチュウ",
+    "clue": "ほっぺで電気を出す黄色いポケモンの代表格",
+    "genre": "subculture"
+  },
+  {
+    "answer": "サトシ",
+    "clue": "相棒のピカチュウと旅をするポケモンの主人公",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ゴクウ",
+    "clue": "ドラゴンボールの主人公であるサイヤ人の戦士",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ベジータ",
+    "clue": "サイヤ人の王子であるドラゴンボールのライバル",
+    "genre": "subculture"
+  },
+  {
+    "answer": "フリーザ",
+    "clue": "ドラゴンボールに登場する冷酷な宇宙の帝王",
+    "genre": "subculture"
+  },
+  {
+    "answer": "サスケ",
+    "clue": "うちは一族の出であるナルトのライバル忍者",
+    "genre": "subculture"
+  },
+  {
+    "answer": "カカシ",
+    "clue": "写輪眼を持つナルトたちの指導者の忍者",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ノビタ",
+    "clue": "ドラえもんに助けを求める気弱な少年",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ドラミ",
+    "clue": "ドラえもんの妹である黄色いロボット",
+    "genre": "subculture"
+  },
+  {
+    "answer": "マリオ",
+    "clue": "任天堂を代表する赤い帽子の配管工のキャラ",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ルイージ",
+    "clue": "緑の帽子をかぶったマリオの弟",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ヨッシー",
+    "clue": "マリオが背に乗る恐竜のような相棒",
+    "genre": "subculture"
+  },
+  {
+    "answer": "カービィ",
+    "clue": "何でも吸い込むピンクの丸いキャラ",
+    "genre": "subculture"
+  },
+  {
+    "answer": "リンク",
+    "clue": "ゼルダの伝説に登場する緑の服の剣士",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ソニック",
+    "clue": "セガを代表する青いハリネズミのキャラ",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ジバニャン",
+    "clue": "妖怪ウォッチに登場する猫の妖怪",
+    "genre": "subculture"
+  },
+  {
+    "answer": "カメハメハ",
+    "clue": "ドラゴンボールで両手を構えて放つ気の波",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ラセンガン",
+    "clue": "ナルトが手のひらに練り上げる渦巻き状の術",
+    "genre": "subculture"
+  },
+  {
+    "answer": "カゲブンシン",
+    "clue": "ナルトが自分の分身を作り出す忍術",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ゲンキダマ",
+    "clue": "周りから気を集めて放つドラゴンボールの大技",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ゴムゴム",
+    "clue": "ルフィが体を伸ばして繰り出す技の名",
+    "genre": "subculture"
+  },
+  {
+    "answer": "バンカイ",
+    "clue": "ブリーチで斬魄刀の力を解き放つ最終形態",
+    "genre": "subculture"
+  },
+  {
+    "answer": "シャリンガン",
+    "clue": "ナルトのうちは一族が持つ特別な眼",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ハドウケン",
+    "clue": "格闘ゲームで両手から放つ波動の飛び道具",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ショウリュウケン",
+    "clue": "格闘ゲームで飛び上がりながら打つ拳",
+    "genre": "subculture"
+  },
+  {
+    "answer": "スタンド",
+    "clue": "ジョジョに登場する精神力が具現化した能力",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ヒッサツワザ",
+    "clue": "勝負を決める一番の得意な大技",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ギアセカンド",
+    "clue": "ルフィが血流を上げて素早くなる戦闘形態",
+    "genre": "subculture"
   }
 ]
