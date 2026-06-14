@@ -137,7 +137,7 @@ export function Game({ state, playerId, lastResult, onSubmit, onLeave, solo }: P
       {effect && (
         <div className="result-effect" key={effect.id}>
           <div className={`result-effect-badge ${effect.kind}`}>
-            {effect.kind === 'correct' ? '⭕️ 正解‼︎' : '❌ 不正解…'}
+            {effect.kind === 'correct' ? '⭕️ 正解‼︎' : '✖️ 不正解…'}
           </div>
         </div>
       )}
