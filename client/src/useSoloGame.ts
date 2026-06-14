@@ -1,6 +1,6 @@
 // 一人用モードのロジック（クライアント完結・オフライン）
 // サーバを介さず、ブラウザ内で盤面を生成・採点する。GitHub Pages 等の静的配信でも動く。
-import { useCallback, useRef, useState } from 'react';
+import { useCallback, useEffect, useRef, useState } from 'react';
 import {
   applyOwnership,
   computeScores,
@@ -70,6 +70,7 @@ export function useSoloGame(): SoloGame {
   const solutionRef = useRef<Puzzle | null>(null);
   const langRef = useRef<Language>('ja');
   const solvedWordIdsRef = useRef<Set<string>>(new Set());
+  const hintedCellsRef = useRef<Set<string>>(new Set());
 
   const start = useCallback((language: Language, difficulty: SoloDifficulty): boolean => {
     const source = getWords(language);
@@ -89,6 +90,7 @@ export function useSoloGame(): SoloGame {
     solutionRef.current = puzzle;
     langRef.current = language;
     solvedWordIdsRef.current = new Set();
+    hintedCellsRef.current = new Set();
     setLastResult(null);
     setStats({ startedAt: Date.now(), finishedAt: null, mistakes: 0, solvedWords: 0 });
     setState({
@@ -97,7 +99,7 @@ export function useSoloGame(): SoloGame {
       language,
       genre: 'random',
       players: [player],
-      puzzle: stripSolution(puzzle),
+      puzzle: stripSolution(puzzle, new Set()),
       winnerIds: [],
       solvedWordIds: [],
     });
@@ -137,13 +139,39 @@ export function useSoloGame(): SoloGame {
             ...prev,
             status: done ? 'finished' : 'playing',
             players: [player],
-            puzzle: stripSolution(puzzle),
+            puzzle: stripSolution(puzzle, hintedCellsRef.current),
             winnerIds: done ? [SOLO_PLAYER_ID] : [],
             solvedWordIds: [...solvedWordIdsRef.current],
           }
         : prev
     );
   }, []);
+
+  // ヒントタイマー：ゲーム開始60秒後から10秒ごとに未解答マスを1つ開示
+  useEffect(() => {
+    if (!stats?.startedAt) return;
+    let timerId: ReturnType<typeof setTimeout>;
+    const reveal = () => {
+      const puzzle = solutionRef.current;
+      if (!puzzle) return;
+      const candidates = puzzle.cells.filter(
+        (c) => c.owner === null && !hintedCellsRef.current.has(`${c.row},${c.col}`)
+      );
+      if (candidates.length === 0) return;
+      const pick = candidates[Math.floor(Math.random() * candidates.length)];
+      hintedCellsRef.current = new Set(hintedCellsRef.current);
+      hintedCellsRef.current.add(`${pick.row},${pick.col}`);
+      setState((prev) => {
+        const puz = solutionRef.current;
+        return prev && puz
+          ? { ...prev, puzzle: stripSolution(puz, hintedCellsRef.current) }
+          : prev;
+      });
+      timerId = setTimeout(reveal, 10_000);
+    };
+    timerId = setTimeout(reveal, 60_000);
+    return () => clearTimeout(timerId);
+  }, [stats?.startedAt]);
 
   const exit = useCallback(() => {
     solutionRef.current = null;

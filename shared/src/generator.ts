@@ -239,14 +239,16 @@ function assemblePuzzle(placed: Placement[], _language: Language): Puzzle {
  * クライアント配信用に解答情報を取り除く。
  * ただし、既に所有者が付いたマス（＝正解された単語のマス）は、
  * その文字を全員に公開するため solution を残す。未解答のマスは秘匿。
+ * hintedKeys を渡すとヒント公開済みのマスも solution を残す。
  */
-export function stripSolution(puzzle: Puzzle): Puzzle {
+export function stripSolution(puzzle: Puzzle, hintedKeys?: Set<string>): Puzzle {
   return {
     width: puzzle.width,
     height: puzzle.height,
     cells: puzzle.cells.map((cell) => {
       const { solution, ...rest } = cell;
-      return cell.owner !== null ? { ...rest, solution } : rest;
+      const k = `${cell.row},${cell.col}`;
+      return (cell.owner !== null || hintedKeys?.has(k)) ? { ...rest, solution } : rest;
     }),
     words: puzzle.words.map(({ answer, ...rest }) => rest),
   };

@@ -45,6 +45,8 @@ export function Grid({ puzzle, players, selectedWordId, onSelectCell }: Props) {
       }
       const owner = cell.owner ? colorById.get(cell.owner) : undefined;
       const isHi = highlighted.has(keyOf(r, c));
+      // owner なし・solution ありはヒント公開済みセル
+      const isHint = !cell.owner && !!cell.solution;
       cols.push(
         <div
           key={c}
@@ -53,7 +55,11 @@ export function Grid({ puzzle, players, selectedWordId, onSelectCell }: Props) {
           onClick={() => onSelectCell(r, c)}
         >
           {cell.number && <span className="cell-number">{cell.number}</span>}
-          {cell.solution && <span className="cell-letter">{cell.solution}</span>}
+          {cell.solution && (
+            <span className={`cell-letter${isHint ? ' hint' : ''}`}>
+              {cell.solution}
+            </span>
+          )}
         </div>
       );
     }

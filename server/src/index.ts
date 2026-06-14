@@ -62,8 +62,31 @@ function nextPlayerId(): string {
 
 /** ルームの全員へ最新状態を配信（解答を除いた盤面） */
 function broadcastState(room: Room, event: 'roomUpdate' | 'gameUpdate' | 'gameOver') {
-  const stripped = room.puzzle ? stripSolution(room.puzzle) : null;
+  const stripped = room.puzzle ? stripSolution(room.puzzle, room.hintedCells) : null;
   io.to(room.code).emit(event, toGameState(room, stripped));
+}
+
+/** 60秒後に開始し10秒ごとに未解答マスを1つずつヒント公開する */
+function startHintTimer(room: Room): void {
+  const reveal = () => {
+    if (!room.puzzle || room.status !== 'playing') return;
+    const candidates = room.puzzle.cells.filter(
+      (c) => c.owner === null && !room.hintedCells.has(`${c.row},${c.col}`)
+    );
+    if (candidates.length === 0) return;
+    const pick = candidates[Math.floor(Math.random() * candidates.length)];
+    room.hintedCells.add(`${pick.row},${pick.col}`);
+    broadcastState(room, 'gameUpdate');
+    room.hintTimer = setTimeout(reveal, 10_000);
+  };
+  room.hintTimer = setTimeout(reveal, 60_000);
+}
+
+function clearHintTimer(room: Room): void {
+  if (room.hintTimer !== null) {
+    clearTimeout(room.hintTimer);
+    room.hintTimer = null;
+  }
 }
 
 io.on('connection', (socket) => {
@@ -120,6 +143,9 @@ io.on('connection', (socket) => {
     room.winnerIds = [];
     room.cooldownUntil.clear();
     room.solvedWordIds.clear();
+    room.hintedCells.clear();
+    clearHintTimer(room);
+    startHintTimer(room);
     computeScores(room.puzzle, room.players);
     broadcastState(room, 'gameUpdate');
   });
@@ -160,6 +186,7 @@ io.on('connection', (socket) => {
     if (isComplete(room.puzzle)) {
       room.status = 'finished';
       room.winnerIds = getWinners(room.players);
+      clearHintTimer(room);
       broadcastState(room, 'gameOver');
     } else {
       broadcastState(room, 'gameUpdate');
@@ -181,14 +208,16 @@ io.on('connection', (socket) => {
     if (!room) return;
     socket.leave(room.code);
     const { empty } = handleDisconnect(room, socket.id);
-    if (!empty) broadcastState(room, room.status === 'playing' ? 'gameUpdate' : 'roomUpdate');
+    if (empty) { clearHintTimer(room); return; }
+    broadcastState(room, room.status === 'playing' ? 'gameUpdate' : 'roomUpdate');
   });
 
   socket.on('disconnect', () => {
     const room = findRoomBySocket(socket.id);
     if (!room) return;
     const { empty } = handleDisconnect(room, socket.id);
-    if (!empty) broadcastState(room, room.status === 'playing' ? 'gameUpdate' : 'roomUpdate');
+    if (empty) { clearHintTimer(room); return; }
+    broadcastState(room, room.status === 'playing' ? 'gameUpdate' : 'roomUpdate');
   });
 });
 

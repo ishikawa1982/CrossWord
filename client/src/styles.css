@@ -172,6 +172,8 @@ button.ghost { background: transparent; color: var(--muted); border: 1px solid v
   display: flex; align-items: center; justify-content: center;
   font-size: 18px; font-weight: 700; text-transform: uppercase;
 }
+/* ヒント文字：薄く・細く表示 */
+.cell-letter.hint { color: #94a3b8; font-weight: 400; opacity: 0.6; }
 
 /* ---- 回答入力 ---- */
 .answer-input {

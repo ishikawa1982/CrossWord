@@ -25,6 +25,10 @@ export interface Room {
   socketToPlayer: Map<string, string>;
   /** 先着正解済みの単語 ID（2回目以降の解答を拒否するため） */
   solvedWordIds: Set<string>;
+  /** ヒントとして文字を公開したマスのキー（"row,col"） */
+  hintedCells: Set<string>;
+  /** ヒントタイマーの ID（クリア用） */
+  hintTimer: ReturnType<typeof setTimeout> | null;
 }
 
 const rooms = new Map<string, Room>();
@@ -63,6 +67,8 @@ export function createRoom(language: Language): Room {
     cooldownUntil: new Map(),
     socketToPlayer: new Map(),
     solvedWordIds: new Set(),
+    hintedCells: new Set(),
+    hintTimer: null,
   };
   rooms.set(room.code, room);
   return room;
