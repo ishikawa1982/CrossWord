@@ -125,8 +125,9 @@ button.ghost { background: transparent; color: var(--muted); border: 1px solid v
   min-height: 0;
   max-height: 50vh;
 }
-/* 盤面：はみ出す場合はこの領域内でスクロール */
-.board-area { flex: 0 1 auto; min-width: 0; overflow: auto; }
+/* 盤面：はみ出す場合はこの領域内でスクロール（高さ上限を持たせないと
+   盤面が下のカギ一覧に重なってしまうため max-height を指定） */
+.board-area { flex: 0 1 auto; min-width: 0; overflow: auto; max-height: 50vh; }
 /* スコア欄：盤面の右。横幅は内容に合わせコンパクトに */
 .board-row .scoreboard { flex: 0 0 auto; width: 120px; margin-bottom: 0; align-self: stretch; overflow-y: auto; }
 /* カギ一覧：残りの縦スペースを使ってスクロール */
@@ -140,6 +141,7 @@ button.ghost { background: transparent; color: var(--muted); border: 1px solid v
 @media (max-width: 760px) {
   .screen.game { gap: 0.5rem; padding: 0.5rem 0.6rem; }
   .board-row { max-height: 42vh; }
+  .board-area { max-height: 42vh; }
   .board-row .scoreboard { width: 90px; padding: 0.3rem 0.4rem; font-size: 0.72rem; }
   .cell { width: 30px; height: 30px; }
   .cell-letter { font-size: 16px; }
