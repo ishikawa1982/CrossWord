@@ -1,509 +1,8027 @@
 [
-  { "answer": "ファミコン", "clue": "昭和に大ヒットした任天堂の家庭用ゲーム機", "genre": "showa" },
-  { "answer": "タマゴッチ", "clue": "平成に大流行したたまご型の育成ペット", "genre": "showa" },
-  { "answer": "ベーゴマ", "clue": "鉄製の、回して当てる昔ながらのおもちゃ", "genre": "showa" },
-  { "answer": "メンコ", "clue": "地面に叩きつけて遊ぶ昔の紙の遊び", "genre": "showa" },
-  { "answer": "フラフープ", "clue": "腰で回して遊ぶ輪の遊具", "genre": "showa" },
-  { "answer": "ポケベル", "clue": "平成初期に流行した携帯型の呼び出し機", "genre": "showa" },
-  { "answer": "プリクラ", "clue": "平成に流行したシール写真", "genre": "showa" },
-  { "answer": "レコード", "clue": "針で音を再生する黒い円盤", "genre": "showa" },
-  { "answer": "カセット", "clue": "昔、音楽の録音に使ったテープ", "genre": "showa" },
-  { "answer": "ウォークマン", "clue": "持ち歩いて音楽を聴くソニーの携帯機器", "genre": "showa" },
-  { "answer": "ゲームボーイ", "clue": "携帯して遊べる任天堂のゲーム機", "genre": "showa" },
-  { "answer": "ブリキ", "clue": "昔のおもちゃに使われた薄い金属", "genre": "showa" },
-  { "answer": "ダルマ", "clue": "願掛けで目を入れる赤い置物", "genre": "showa" },
-  { "answer": "コタツ", "clue": "冬に足を入れて温まる日本の暖房器具", "genre": "showa" },
-  { "answer": "ソロバン", "clue": "珠を弾いて計算する道具", "genre": "showa" },
-  { "answer": "カミシバイ", "clue": "紙の絵を見せながら語る昔の路上演芸", "genre": "showa" },
-  { "answer": "ダガシ", "clue": "子供が小遣いで買った安いお菓子", "genre": "showa" },
-  { "answer": "ラムネ", "clue": "ビー玉が入った瓶でおなじみの飲み物", "genre": "showa" },
-  { "answer": "ミニヨンク", "clue": "昭和末から流行した小型レーシング模型（ミニ四駆）", "genre": "showa" },
-  { "answer": "ブラウンカン", "clue": "昔の分厚いテレビの画面方式", "genre": "showa" },
-  { "answer": "チャブダイ", "clue": "昭和の家庭にあった折りたたみの丸い食卓", "genre": "showa" },
-  { "answer": "ゲタ", "clue": "昔よく履いた木製の履物", "genre": "showa" },
-  { "answer": "コマ", "clue": "ひもを巻いて回す昔ながらのおもちゃ", "genre": "showa" },
-  { "answer": "ヨーヨー", "clue": "ひもで上下させて遊ぶおもちゃ", "genre": "showa" },
-  { "answer": "オハジキ", "clue": "平たいガラス玉をはじいて遊ぶ昔の遊び", "genre": "showa" },
-  { "answer": "ナワトビ", "clue": "縄を回して跳ぶ昔ながらの遊び", "genre": "showa" },
-  { "answer": "ケンダマ", "clue": "玉を皿や先端に乗せる日本の伝統的なおもちゃ", "genre": "showa" },
-  { "answer": "ブリックゲーム", "clue": "平成に流行した、落ちもの系の携帯ゲーム", "genre": "showa" },
-  { "answer": "クロデンワ", "clue": "昔の家庭にあった黒い固定電話", "genre": "showa" },
-  { "answer": "ダイヤル", "clue": "回して番号を合わせる昔の電話の操作部", "genre": "showa" },
-  { "answer": "センプウキ", "clue": "夏に首を振る昔ながらの扇風機", "genre": "showa" },
-  { "answer": "ミシン", "clue": "布を縫う家庭用の機械", "genre": "showa" },
-  { "answer": "ジュークボックス", "clue": "コインで曲を選んで流す機械", "genre": "showa" },
-  { "answer": "クリームソーダ", "clue": "アイスを浮かべた喫茶店の緑の飲み物", "genre": "showa" },
-  { "answer": "ミルクセーキ", "clue": "卵と牛乳を混ぜた昔の飲み物", "genre": "showa" },
-  { "answer": "ナポリタン", "clue": "喫茶店の定番、ケチャップ味のパスタ", "genre": "showa" },
-  { "answer": "リカチャン", "clue": "昭和から人気の着せ替え人形", "genre": "showa" },
-  { "answer": "ローラースケート", "clue": "足につけて滑る車輪付きの遊具", "genre": "showa" },
-  { "answer": "スーパーカー", "clue": "昭和に少年が憧れた高級スポーツ車", "genre": "showa" },
-  { "answer": "ラジカセ", "clue": "ラジオとカセットが一体の音響機器", "genre": "showa" },
-  { "answer": "フロッピー", "clue": "昔のパソコンで使った薄い記憶媒体", "genre": "showa" },
-  { "answer": "ワープロ", "clue": "文書作成専用の昔の機械", "genre": "showa" },
-  { "answer": "ブロマイド", "clue": "スターの肖像を印刷した写真", "genre": "showa" },
-  { "answer": "カンケリ", "clue": "缶を蹴って遊ぶ外遊び", "genre": "showa" },
-  { "answer": "ゴムトビ", "clue": "ゴムひもを跳び越える昔の遊び", "genre": "showa" },
-  { "answer": "ビックリマン", "clue": "シール付きで大流行した菓子", "genre": "showa" },
-  { "answer": "ガチャガチャ", "clue": "昔からあるカプセル玩具の機械", "genre": "showa" },
-  { "answer": "ファミレス", "clue": "昭和に広まった家族向けの飲食店", "genre": "showa" },
-  { "answer": "ボウリング", "clue": "昭和に大ブームになった球技", "genre": "showa" },
-  { "answer": "ディスコ", "clue": "昭和末に流行した踊る店", "genre": "showa" },
-  { "answer": "ブルマ", "clue": "昔の体操着の下", "genre": "showa" },
-  { "answer": "ホッピング", "clue": "ばねで跳ねて遊ぶ棒状の遊具", "genre": "showa" },
-  { "answer": "ダッコチャン", "clue": "腕にかける昭和の人気人形", "genre": "showa" },
-  { "answer": "キンケシ", "clue": "キン肉マンの消しゴム人形", "genre": "showa" },
-  { "answer": "シャーペン", "clue": "芯を出して使う筆記具", "genre": "showa" },
-  { "answer": "ホーロー", "clue": "昔の看板に使われた金属の表面加工", "genre": "showa" },
-  { "answer": "ノレン", "clue": "店先に掛ける布", "genre": "showa" },
-  { "answer": "フロシキ", "clue": "物を包んで運ぶ四角い布", "genre": "showa" },
-  { "answer": "チリトリ", "clue": "ほうきで集めたゴミを取る道具", "genre": "showa" },
-  { "answer": "ヤカン", "clue": "湯を沸かす取っ手付きの容器", "genre": "showa" },
-  { "answer": "ザブトン", "clue": "座るときに敷く四角い布団", "genre": "showa" },
-  { "answer": "シチリン", "clue": "炭火で焼く昔ながらのこんろ", "genre": "showa" },
-  { "answer": "ハネツキ", "clue": "正月に羽根を打ち合う遊び", "genre": "showa" },
-  { "answer": "タコアゲ", "clue": "正月に空へ揚げる遊び", "genre": "showa" },
-  { "answer": "フクワライ", "clue": "目隠しで顔のパーツを置く正月遊び", "genre": "showa" },
-  { "answer": "スゴロク", "clue": "さいころを振って進む盤上の遊び", "genre": "showa" },
-  { "answer": "カルタ", "clue": "札を取り合う正月の遊び", "genre": "showa" },
-  { "answer": "ビーダマ", "clue": "ガラスの玉ではじいて遊ぶ昔の遊び", "genre": "showa" },
-  { "answer": "アマガッパ", "clue": "雨をしのぐ昔ながらの雨具", "genre": "showa" },
-  { "answer": "ゲンコウヨウシ", "clue": "文章を書くマス目の紙", "genre": "showa" },
-  { "answer": "マンネンヒツ", "clue": "インクで書く高級筆記具", "genre": "showa" },
-  { "answer": "シタジキ", "clue": "ノートの下に敷く板", "genre": "showa" },
-  { "answer": "フデバコ", "clue": "鉛筆を入れる箱", "genre": "showa" },
-  { "answer": "オルガン", "clue": "足で踏んで鳴らす昔の鍵盤楽器", "genre": "showa" },
-  { "answer": "ハーモニカ", "clue": "口で吹く小さな楽器", "genre": "showa" },
-  { "answer": "チンドンヤ", "clue": "楽器を鳴らして宣伝した昔の一団", "genre": "showa" },
-  { "answer": "ガリバン", "clue": "昔の簡易印刷（謄写版）の通称", "genre": "showa" },
-  { "answer": "トランジスタ", "clue": "小型ラジオに使われた電子部品", "genre": "showa" },
-  { "answer": "ビデオデッキ", "clue": "テープに録画した昔の機器", "genre": "showa" },
-  { "answer": "レーザーディスク", "clue": "大きな円盤の映像メディア", "genre": "showa" },
-  { "answer": "インベーダー", "clue": "昭和に大流行したアーケードゲーム", "genre": "showa" },
-  { "answer": "パックマン", "clue": "昭和の人気アーケードゲーム", "genre": "showa" },
-  { "answer": "ルービックキューブ", "clue": "面の色をそろえる立体パズル", "genre": "showa" },
-  { "answer": "ピンボール", "clue": "玉をはじいて得点する遊技機", "genre": "showa" },
-  { "answer": "ガングロ", "clue": "平成に流行した日焼けメイク", "genre": "showa" },
-  { "answer": "ルーズソックス", "clue": "平成の女子高生に流行した靴下", "genre": "showa" },
-  { "answer": "シュシュ", "clue": "髪をまとめる平成の小物", "genre": "showa" },
-  { "answer": "ガラケー", "clue": "スマホ前の折りたたみ携帯", "genre": "showa" },
-  { "answer": "アイモード", "clue": "携帯のネット接続サービス", "genre": "showa" },
-  { "answer": "テレホンカード", "clue": "公衆電話で使ったカード", "genre": "showa" },
-  { "answer": "ポンキッキ", "clue": "昭和の子供向けテレビ番組", "genre": "showa" },
-  { "answer": "ヒバチ", "clue": "炭で暖をとった昔の暖房具", "genre": "showa" },
-  { "answer": "ハエタタキ", "clue": "ハエを叩く昔ながらの道具", "genre": "showa" },
-  { "answer": "カヤ", "clue": "夏に虫を防ぐためつった網", "genre": "showa" },
-  { "answer": "カミデッポウ", "clue": "紙を鳴らして遊ぶ昔のおもちゃ", "genre": "showa" },
-  { "answer": "オジャミ", "clue": "小さな袋を投げて遊ぶ昔の遊び（お手玉）", "genre": "showa" },
-  { "answer": "アヤトリ", "clue": "ひもを指にかけて形を作る遊び", "genre": "showa" },
-  { "answer": "ゴーカート", "clue": "昭和の遊園地で人気の小型カート", "genre": "showa" },
-  { "answer": "ブランコ", "clue": "公園で揺れて遊ぶ遊具", "genre": "showa" },
-  { "answer": "ジャングルジム", "clue": "公園の鉄棒を組んだ遊具", "genre": "showa" },
-
-  { "answer": "ペペロンチーノ", "clue": "パスタの王道、トウガラシとニンニクのオイル系", "genre": "gourmet" },
-  { "answer": "コンブ", "clue": "出汁をとるのに使う海の野菜（海藻）", "genre": "gourmet" },
-  { "answer": "カツオブシ", "clue": "出汁の定番、カツオを乾燥させて削ったもの", "genre": "gourmet" },
-  { "answer": "ミソ", "clue": "大豆を発酵させた日本の調味料", "genre": "gourmet" },
-  { "answer": "ショウユ", "clue": "大豆から作る黒い和の調味料", "genre": "gourmet" },
-  { "answer": "スシ", "clue": "酢飯に魚などをのせた日本料理", "genre": "gourmet" },
-  { "answer": "テンプラ", "clue": "衣をつけて油で揚げる和食", "genre": "gourmet" },
-  { "answer": "ラーメン", "clue": "中華麺をスープで食べる人気の麺料理", "genre": "gourmet" },
-  { "answer": "ウドン", "clue": "太い小麦の麺", "genre": "gourmet" },
-  { "answer": "ソバ", "clue": "そば粉で作る細い和の麺", "genre": "gourmet" },
-  { "answer": "カレー", "clue": "スパイスで煮込むインド由来の料理", "genre": "gourmet" },
-  { "answer": "ギョウザ", "clue": "皮で包んで焼く中華の点心", "genre": "gourmet" },
-  { "answer": "オムレツ", "clue": "卵を巻いて作る洋食", "genre": "gourmet" },
-  { "answer": "ハンバーグ", "clue": "ひき肉をこねて焼く洋食の定番", "genre": "gourmet" },
-  { "answer": "コロッケ", "clue": "じゃがいもを丸めて揚げる総菜", "genre": "gourmet" },
-  { "answer": "メロンパン", "clue": "表面に格子模様のある甘い菓子パン", "genre": "gourmet" },
-  { "answer": "プリン", "clue": "卵と牛乳で作るカラメルの冷たいデザート", "genre": "gourmet" },
-  { "answer": "ヨーグルト", "clue": "乳を発酵させた酸味のある食品", "genre": "gourmet" },
-  { "answer": "チョコレート", "clue": "カカオから作る甘い菓子", "genre": "gourmet" },
-  { "answer": "ダイコン", "clue": "おでんや煮物に使う白い根菜", "genre": "gourmet" },
-  { "answer": "ニンジン", "clue": "オレンジ色の甘い根菜", "genre": "gourmet" },
-  { "answer": "タマネギ", "clue": "切ると涙が出る球形の野菜", "genre": "gourmet" },
-  { "answer": "ジャガイモ", "clue": "男爵やメークインで知られるいも", "genre": "gourmet" },
-  { "answer": "トマト", "clue": "赤くて生でも食べる夏野菜", "genre": "gourmet" },
-  { "answer": "ナットウ", "clue": "大豆を発酵させた粘る日本の食品", "genre": "gourmet" },
-  { "answer": "メンタイコ", "clue": "唐辛子で味付けしたスケトウダラの卵", "genre": "gourmet" },
-  { "answer": "ワサビ", "clue": "寿司に添えるツンとくる薬味", "genre": "gourmet" },
-  { "answer": "ミリン", "clue": "煮物に甘みとつやを出す和の調味料", "genre": "gourmet" },
-  { "answer": "スパゲッティ", "clue": "細長いイタリアの麺料理", "genre": "gourmet" },
-  { "answer": "ピザ", "clue": "生地に具をのせて焼くイタリア料理", "genre": "gourmet" },
-  { "answer": "リゾット", "clue": "米を煮込むイタリア料理", "genre": "gourmet" },
-  { "answer": "グラタン", "clue": "ソースをかけて焼く洋食", "genre": "gourmet" },
-  { "answer": "ドリア", "clue": "ご飯にソースをかけて焼く料理", "genre": "gourmet" },
-  { "answer": "シチュー", "clue": "具材を煮込む洋風の煮物", "genre": "gourmet" },
-  { "answer": "ポトフ", "clue": "野菜と肉を煮込むフランスの料理", "genre": "gourmet" },
-  { "answer": "パエリア", "clue": "米と魚介を炊くスペイン料理", "genre": "gourmet" },
-  { "answer": "タコス", "clue": "トルティーヤに具を挟むメキシコ料理", "genre": "gourmet" },
-  { "answer": "ケバブ", "clue": "肉を回し焼きにする中東料理", "genre": "gourmet" },
-  { "answer": "ナン", "clue": "カレーに添える平たいパン", "genre": "gourmet" },
-  { "answer": "チャーハン", "clue": "ご飯を炒める中華料理", "genre": "gourmet" },
-  { "answer": "シュウマイ", "clue": "蒸して食べる中華の点心", "genre": "gourmet" },
-  { "answer": "マーボードウフ", "clue": "豆腐を辛く煮る中華料理", "genre": "gourmet" },
-  { "answer": "エビチリ", "clue": "エビを辛いソースで炒める料理", "genre": "gourmet" },
-  { "answer": "ホイコーロー", "clue": "豚肉とキャベツの中華炒め", "genre": "gourmet" },
-  { "answer": "タンタンメン", "clue": "ごまと辛みのスープの麺", "genre": "gourmet" },
-  { "answer": "ヤキソバ", "clue": "麺を炒めるソース味の料理", "genre": "gourmet" },
-  { "answer": "オコノミヤキ", "clue": "生地に具を混ぜて焼く粉物", "genre": "gourmet" },
-  { "answer": "タコヤキ", "clue": "タコを入れた丸い粉物", "genre": "gourmet" },
-  { "answer": "モンジャヤキ", "clue": "鉄板で焼く下町の粉物", "genre": "gourmet" },
-  { "answer": "スキヤキ", "clue": "肉と野菜を甘辛く煮る鍋", "genre": "gourmet" },
-  { "answer": "シャブシャブ", "clue": "薄切り肉を湯にくぐらせる鍋", "genre": "gourmet" },
-  { "answer": "オデン", "clue": "大根や卵を出汁で煮込む料理", "genre": "gourmet" },
-  { "answer": "チャワンムシ", "clue": "卵を蒸した和食", "genre": "gourmet" },
-  { "answer": "サシミ", "clue": "生の魚を切って食べる和食", "genre": "gourmet" },
-  { "answer": "ヤキトリ", "clue": "鶏肉を串で焼く料理", "genre": "gourmet" },
-  { "answer": "トンカツ", "clue": "豚肉に衣をつけて揚げる料理", "genre": "gourmet" },
-  { "answer": "カラアゲ", "clue": "鶏肉を揚げた料理", "genre": "gourmet" },
-  { "answer": "エビフライ", "clue": "エビに衣をつけて揚げる料理", "genre": "gourmet" },
-  { "answer": "ギュウドン", "clue": "牛肉をご飯にのせた丼", "genre": "gourmet" },
-  { "answer": "カツドン", "clue": "トンカツを卵でとじた丼", "genre": "gourmet" },
-  { "answer": "オヤコドン", "clue": "鶏肉と卵をのせた丼", "genre": "gourmet" },
-  { "answer": "テンドン", "clue": "天ぷらをのせた丼", "genre": "gourmet" },
-  { "answer": "オニギリ", "clue": "米を握った携帯食", "genre": "gourmet" },
-  { "answer": "オチャヅケ", "clue": "ご飯に茶や出汁をかける料理", "genre": "gourmet" },
-  { "answer": "ゾウスイ", "clue": "具を入れて煮る米の料理", "genre": "gourmet" },
-  { "answer": "モチ", "clue": "米をついて作る食べ物", "genre": "gourmet" },
-  { "answer": "ダンゴ", "clue": "串に刺した丸い和菓子", "genre": "gourmet" },
-  { "answer": "ダイフク", "clue": "あんを餅で包んだ和菓子", "genre": "gourmet" },
-  { "answer": "ヨウカン", "clue": "小豆を固めた和菓子", "genre": "gourmet" },
-  { "answer": "センベイ", "clue": "米を焼いた塩辛い菓子", "genre": "gourmet" },
-  { "answer": "ワタアメ", "clue": "ふわふわした砂糖の菓子", "genre": "gourmet" },
-  { "answer": "アンミツ", "clue": "寒天と餡の和風デザート", "genre": "gourmet" },
-  { "answer": "カキゴオリ", "clue": "削った氷にシロップをかける夏の食べ物", "genre": "gourmet" },
-  { "answer": "ソフトクリーム", "clue": "巻いて作る冷たい菓子", "genre": "gourmet" },
-  { "answer": "ドーナツ", "clue": "輪の形をした揚げ菓子", "genre": "gourmet" },
-  { "answer": "ホットケーキ", "clue": "生地を焼いた甘い洋菓子", "genre": "gourmet" },
-  { "answer": "ショートケーキ", "clue": "いちごをのせたスポンジ菓子", "genre": "gourmet" },
-  { "answer": "シュークリーム", "clue": "クリームを詰めた洋菓子", "genre": "gourmet" },
-  { "answer": "クッキー", "clue": "焼いた小さな甘い菓子", "genre": "gourmet" },
-  { "answer": "キャラメル", "clue": "甘く煮詰めた小さな菓子", "genre": "gourmet" },
-  { "answer": "ポテトチップス", "clue": "じゃがいもを薄く揚げた菓子", "genre": "gourmet" },
-  { "answer": "ポップコーン", "clue": "はじけさせたとうもろこしの菓子", "genre": "gourmet" },
-  { "answer": "キャベツ", "clue": "葉が重なる球形の野菜", "genre": "gourmet" },
-  { "answer": "レタス", "clue": "サラダに使う葉物野菜", "genre": "gourmet" },
-  { "answer": "キュウリ", "clue": "細長い緑の夏野菜", "genre": "gourmet" },
-  { "answer": "ナス", "clue": "紫色の夏野菜", "genre": "gourmet" },
-  { "answer": "ピーマン", "clue": "苦みのある緑の野菜", "genre": "gourmet" },
-  { "answer": "カボチャ", "clue": "甘みのある大きな実の野菜", "genre": "gourmet" },
-  { "answer": "ホウレンソウ", "clue": "鉄分の多い緑の葉野菜", "genre": "gourmet" },
-  { "answer": "ゴボウ", "clue": "細長い茶色の根菜", "genre": "gourmet" },
-  { "answer": "レンコン", "clue": "穴のあいた根菜", "genre": "gourmet" },
-  { "answer": "シイタケ", "clue": "出汁にも使うきのこ", "genre": "gourmet" },
-  { "answer": "エノキ", "clue": "細くて白いきのこ", "genre": "gourmet" },
-  { "answer": "トウフ", "clue": "大豆から作る白い加工食品", "genre": "gourmet" },
-  { "answer": "アゲ", "clue": "豆腐を薄く切って揚げたもの（油揚げ）", "genre": "gourmet" },
-  { "answer": "チクワ", "clue": "穴のあいた練り物", "genre": "gourmet" },
-  { "answer": "カマボコ", "clue": "板にのった白い練り物", "genre": "gourmet" },
-
-  { "answer": "ブタニシンジュ", "clue": "「猫に小判」と同じ意味のことわざ（豚に真珠）", "genre": "culture" },
-  { "answer": "クラゲ", "clue": "「海月」と書いて何と読む？", "genre": "culture" },
-  { "answer": "ヒマワリ", "clue": "「向日葵」と書く夏の花", "genre": "culture" },
-  { "answer": "アジサイ", "clue": "「紫陽花」と書く梅雨の花", "genre": "culture" },
-  { "answer": "イルカ", "clue": "「海豚」と書く海の哺乳類", "genre": "culture" },
-  { "answer": "サバ", "clue": "「鯖」と読む青魚", "genre": "culture" },
-  { "answer": "ワニ", "clue": "「鰐」と書く爬虫類", "genre": "culture" },
-  { "answer": "イチョウ", "clue": "「銀杏」と書く、秋に黄色くなる木", "genre": "culture" },
-  { "answer": "ナマズ", "clue": "「鯰」と書く、ひげのある魚", "genre": "culture" },
-  { "answer": "タコ", "clue": "「蛸」と読む海の生き物", "genre": "culture" },
-  { "answer": "タイ", "clue": "「鯛」と読む、めでたい魚", "genre": "culture" },
-  { "answer": "ホタル", "clue": "「蛍」と書く、光る昆虫", "genre": "culture" },
-  { "answer": "カエル", "clue": "「蛙」と書く、池にいる生き物", "genre": "culture" },
-  { "answer": "スズメ", "clue": "「雀」と書く小鳥", "genre": "culture" },
-  { "answer": "ツバキ", "clue": "「椿」と書く冬から春の花", "genre": "culture" },
-  { "answer": "ボタン", "clue": "「牡丹」と書く大きな花", "genre": "culture" },
-  { "answer": "キリン", "clue": "「麒麟」とも書く、首の長い動物", "genre": "culture" },
-  { "answer": "アサガオ", "clue": "「朝顔」と書く夏の花", "genre": "culture" },
-  { "answer": "サンマ", "clue": "「秋刀魚」と書く秋の魚", "genre": "culture" },
-  { "answer": "ウナギ", "clue": "「鰻」と書く、蒲焼きで有名な魚", "genre": "culture" },
-  { "answer": "セミ", "clue": "「蝉」と書く、夏に鳴く虫", "genre": "culture" },
-  { "answer": "ネコノテ", "clue": "「猫の手も借りたい」＝とても忙しいこと", "genre": "culture" },
-  { "answer": "ウマノミミ", "clue": "「馬の耳に念仏」＝意見を聞き流すこと", "genre": "culture" },
-  { "answer": "サルジエ", "clue": "浅はかな知恵のこと（猿知恵）", "genre": "culture" },
-  { "answer": "イシバシ", "clue": "「○○を叩いて渡る」＝とても用心深いこと", "genre": "culture" },
-  { "answer": "ヌカニクギ", "clue": "手応えがないことのたとえ（糠に釘）", "genre": "culture" },
-  { "answer": "アクビ", "clue": "「欠伸」と書く、眠いときに出るもの", "genre": "culture" },
-  { "answer": "クシャミ", "clue": "「嚏」と書く、鼻から出る反射", "genre": "culture" },
-  { "answer": "マツゲ", "clue": "「睫毛」と書く、目のふちの毛", "genre": "culture" },
-  { "answer": "ヒジ", "clue": "「肘」と書く、腕の関節", "genre": "culture" },
-  { "answer": "ヒザ", "clue": "「膝」と書く、脚の関節", "genre": "culture" },
-  { "answer": "ノド", "clue": "「喉」と書く、首の前の部分", "genre": "culture" },
-  { "answer": "ホオ", "clue": "「頬」と書く、顔の横の部分", "genre": "culture" },
-  { "answer": "マブタ", "clue": "「瞼」と書く、目を覆う皮膚", "genre": "culture" },
-  { "answer": "アズキ", "clue": "「小豆」と読む赤い豆", "genre": "culture" },
-  { "answer": "エダマメ", "clue": "「枝豆」と書く、夏のつまみ", "genre": "culture" },
-  { "answer": "ゴマ", "clue": "「胡麻」と書く小さな種子", "genre": "culture" },
-  { "answer": "ワカメ", "clue": "「若布」と書く海藻", "genre": "culture" },
-  { "answer": "ノリ", "clue": "「海苔」と書く、おにぎりを巻く海藻", "genre": "culture" },
-  { "answer": "カキ", "clue": "「牡蠣」と書く、海のミルクと呼ばれる貝", "genre": "culture" },
-  { "answer": "ハマグリ", "clue": "「蛤」と書く二枚貝", "genre": "culture" },
-  { "answer": "アサリ", "clue": "「浅蜊」と書く貝", "genre": "culture" },
-  { "answer": "エビ", "clue": "「海老」と書く曲がった生き物", "genre": "culture" },
-  { "answer": "カニ", "clue": "「蟹」と書く、横歩きする生き物", "genre": "culture" },
-  { "answer": "ナメクジ", "clue": "「蛞蝓」と書く、殻のない生き物", "genre": "culture" },
-  { "answer": "カタツムリ", "clue": "「蝸牛」と書く、殻を背負う生き物", "genre": "culture" },
-  { "answer": "ミミズ", "clue": "「蚯蚓」と書く、土の中の生き物", "genre": "culture" },
-  { "answer": "カマキリ", "clue": "「蟷螂」と書く、鎌を持つ虫", "genre": "culture" },
-  { "answer": "トンボ", "clue": "「蜻蛉」と書く、羽の透けた虫", "genre": "culture" },
-  { "answer": "クモ", "clue": "「蜘蛛」と書く、巣を張る生き物", "genre": "culture" },
-  { "answer": "ハチ", "clue": "「蜂」と書く、針を持つ虫", "genre": "culture" },
-  { "answer": "アリ", "clue": "「蟻」と書く、列を作る小さな虫", "genre": "culture" },
-  { "answer": "ハエ", "clue": "「蠅」と書く、飛び回る虫", "genre": "culture" },
-  { "answer": "ムカデ", "clue": "「百足」と書く、足の多い生き物", "genre": "culture" },
-  { "answer": "コウモリ", "clue": "「蝙蝠」と書く、夜飛ぶ哺乳類", "genre": "culture" },
-  { "answer": "モグラ", "clue": "「土竜」と書く、地中の動物", "genre": "culture" },
-  { "answer": "イタチ", "clue": "「鼬」と書く、細長い動物", "genre": "culture" },
-  { "answer": "タヌキ", "clue": "「狸」と書く、化けるとされる動物", "genre": "culture" },
-  { "answer": "オオカミ", "clue": "「狼」と書く、群れる肉食獣", "genre": "culture" },
-  { "answer": "ヤギ", "clue": "「山羊」と書く、紙を食べるとされる動物", "genre": "culture" },
-  { "answer": "ラクダ", "clue": "「駱駝」と書く、背にこぶのある動物", "genre": "culture" },
-  { "answer": "シカ", "clue": "「鹿」と書く、角のある動物", "genre": "culture" },
-  { "answer": "イノシシ", "clue": "「猪」と書く、突進する動物", "genre": "culture" },
-  { "answer": "クジャク", "clue": "「孔雀」と書く、羽の美しい鳥", "genre": "culture" },
-  { "answer": "ツル", "clue": "「鶴」と書く、長寿の象徴の鳥", "genre": "culture" },
-  { "answer": "ハト", "clue": "「鳩」と書く、平和の象徴の鳥", "genre": "culture" },
-  { "answer": "カラス", "clue": "「烏」と書く、黒い鳥", "genre": "culture" },
-  { "answer": "タカ", "clue": "「鷹」と書く、狩りに使う鳥", "genre": "culture" },
-  { "answer": "ウグイス", "clue": "「鶯」と書く、春に鳴く鳥", "genre": "culture" },
-  { "answer": "ニワトリ", "clue": "「鶏」と書く、卵を産む鳥", "genre": "culture" },
-  { "answer": "アヒル", "clue": "「家鴨」と書く水鳥", "genre": "culture" },
-  { "answer": "サンシスイメイ", "clue": "自然の景色が美しいこと（山紫水明）", "genre": "culture" },
-  { "answer": "イシンデンシン", "clue": "言葉なく心が通じること（以心伝心）", "genre": "culture" },
-  { "answer": "イチゴイチエ", "clue": "一生に一度の出会い（一期一会）", "genre": "culture" },
-  { "answer": "ジガジサン", "clue": "自分で自分をほめること（自画自賛）", "genre": "culture" },
-  { "answer": "ジュウニントイロ", "clue": "人それぞれ好みが違うこと（十人十色）", "genre": "culture" },
-  { "answer": "イチモウダジン", "clue": "一度に全部を捕らえること（一網打尽）", "genre": "culture" },
-  { "answer": "ニッシンゲッポ", "clue": "絶えず進歩すること（日進月歩）", "genre": "culture" },
-  { "answer": "ハッポウビジン", "clue": "誰にでも愛想よくすること（八方美人）", "genre": "culture" },
-  { "answer": "ガデンインスイ", "clue": "自分に都合よくすること（我田引水）", "genre": "culture" },
-  { "answer": "イクドウオン", "clue": "みなが同じことを言うこと（異口同音）", "genre": "culture" },
-  { "answer": "サルモキカラ", "clue": "「○○木から落ちる」＝名人も失敗する（猿も木から落ちる）", "genre": "culture" },
-  { "answer": "トラヌタヌキ", "clue": "「○○の皮算用」＝当てにならない計算（捕らぬ狸の皮算用）", "genre": "culture" },
-  { "answer": "ハナヨリダンゴ", "clue": "風流より実利を選ぶこと（花より団子）", "genre": "culture" },
-  { "answer": "ナナコロビ", "clue": "「○○八起き」＝何度失敗しても立ち上がる（七転び八起き）", "genre": "culture" },
-  { "answer": "イソガバマワレ", "clue": "急ぐときほど確実な道を（急がば回れ）", "genre": "culture" },
-  { "answer": "センリノミチモ", "clue": "「○○一歩から」＝大事も小さな一歩から（千里の道も一歩から）", "genre": "culture" },
-  { "answer": "チリモツモレバ", "clue": "「○○山となる」＝小さくても積もれば大きい（塵も積もれば山となる）", "genre": "culture" },
-  { "answer": "ゴウニイレバ", "clue": "「○○郷に従え」＝その土地の習慣に従う（郷に入れば郷に従え）", "genre": "culture" },
-  { "answer": "アタマカクシテ", "clue": "「○○尻隠さず」＝一部だけ隠して全部隠したつもり（頭隠して尻隠さず）", "genre": "culture" },
-  { "answer": "イヌモアルケバ", "clue": "「○○棒に当たる」＝何かすれば思わぬ幸運（犬も歩けば棒に当たる）", "genre": "culture" },
-  { "answer": "ニカイカラ", "clue": "「○○目薬」＝効き目がないこと（二階から目薬）", "genre": "culture" },
-  { "answer": "ノレンニウデオシ", "clue": "手応えがないことのたとえ（暖簾に腕押し）", "genre": "culture" },
-  { "answer": "タデクウムシ", "clue": "「○○も好き好き」＝人の好みはさまざま（蓼食う虫も好き好き）", "genre": "culture" },
-  { "answer": "ノドモトスギレバ", "clue": "「○○熱さを忘れる」＝苦難も過ぎれば忘れる（喉元過ぎれば熱さを忘れる）", "genre": "culture" },
-
-  { "answer": "ライオン", "clue": "百獣の王と呼ばれる動物", "genre": "nature" },
-  { "answer": "サクラ", "clue": "春にピンクの花を咲かせる日本の代表的な木", "genre": "nature" },
-  { "answer": "ゾウ", "clue": "鼻が長い陸上最大の動物", "genre": "nature" },
-  { "answer": "パンダ", "clue": "白黒の模様で笹を食べる動物", "genre": "nature" },
-  { "answer": "コアラ", "clue": "ユーカリの葉を食べる有袋類", "genre": "nature" },
-  { "answer": "ウサギ", "clue": "長い耳で跳ねる小動物", "genre": "nature" },
-  { "answer": "リス", "clue": "どんぐりを好む、しっぽの大きい小動物", "genre": "nature" },
-  { "answer": "カバ", "clue": "水辺で過ごす、大きな口の動物", "genre": "nature" },
-  { "answer": "ペンギン", "clue": "南極にすむ飛べない鳥", "genre": "nature" },
-  { "answer": "クジラ", "clue": "海にすむ最大級の哺乳類", "genre": "nature" },
-  { "answer": "カメ", "clue": "甲羅を持つ、ゆっくり歩く生き物", "genre": "nature" },
-  { "answer": "ヘビ", "clue": "体が細長く足のない爬虫類", "genre": "nature" },
-  { "answer": "ワシ", "clue": "鋭いくちばしの大型の猛禽", "genre": "nature" },
-  { "answer": "フクロウ", "clue": "夜に活動する丸い顔の鳥", "genre": "nature" },
-  { "answer": "チョウ", "clue": "花の蜜を吸う、羽の美しい昆虫", "genre": "nature" },
-  { "answer": "タンポポ", "clue": "黄色い花の後に綿毛を飛ばす草", "genre": "nature" },
-  { "answer": "バラ", "clue": "とげのある美しい花の代表", "genre": "nature" },
-  { "answer": "チューリップ", "clue": "春に咲く、球根から育つ花", "genre": "nature" },
-  { "answer": "マツ", "clue": "常緑で、正月飾りにも使う木", "genre": "nature" },
-  { "answer": "タケ", "clue": "まっすぐ伸びる、節のある植物", "genre": "nature" },
-  { "answer": "モミジ", "clue": "秋に赤く色づく木", "genre": "nature" },
-  { "answer": "スギ", "clue": "花粉症で知られる、まっすぐな木", "genre": "nature" },
-  { "answer": "キツネ", "clue": "コンとも鳴く、しっぽの大きい動物", "genre": "nature" },
-  { "answer": "サル", "clue": "木に登るのが得意な、人に近い動物", "genre": "nature" },
-  { "answer": "トラ", "clue": "黄色と黒の縞模様の大型のネコ科", "genre": "nature" },
-  { "answer": "クマ", "clue": "冬眠することで知られる大きな動物", "genre": "nature" },
-  { "answer": "シマウマ", "clue": "白黒の縞模様の草食動物", "genre": "nature" },
-  { "answer": "カンガルー", "clue": "腹の袋で子を育てる動物", "genre": "nature" },
-  { "answer": "サイ", "clue": "鼻に角のある大型の動物", "genre": "nature" },
-  { "answer": "チーター", "clue": "最も速く走る肉食獣", "genre": "nature" },
-  { "answer": "ヒョウ", "clue": "斑点模様のしなやかな肉食獣", "genre": "nature" },
-  { "answer": "ゴリラ", "clue": "群れで暮らす大型の類人猿", "genre": "nature" },
-  { "answer": "チンパンジー", "clue": "道具を使う賢い類人猿", "genre": "nature" },
-  { "answer": "ナマケモノ", "clue": "木にぶら下がりゆっくり動く動物", "genre": "nature" },
-  { "answer": "アライグマ", "clue": "食べ物を洗うしぐさで知られる動物", "genre": "nature" },
-  { "answer": "ハリネズミ", "clue": "背中に針を持つ小動物", "genre": "nature" },
-  { "answer": "カワウソ", "clue": "川や海辺で泳ぐ動物", "genre": "nature" },
-  { "answer": "アザラシ", "clue": "氷の上で休む海の哺乳類", "genre": "nature" },
-  { "answer": "セイウチ", "clue": "大きな牙を持つ海の動物", "genre": "nature" },
-  { "answer": "シャチ", "clue": "黒白の大型の海の捕食者", "genre": "nature" },
-  { "answer": "サメ", "clue": "鋭い歯を持つ海の魚", "genre": "nature" },
-  { "answer": "エイ", "clue": "平たい体で泳ぐ魚", "genre": "nature" },
-  { "answer": "マグロ", "clue": "大きく速く泳ぐ青魚", "genre": "nature" },
-  { "answer": "クマノミ", "clue": "イソギンチャクと暮らす魚", "genre": "nature" },
-  { "answer": "タツノオトシゴ", "clue": "馬のような顔の小さな魚", "genre": "nature" },
-  { "answer": "ヒトデ", "clue": "星の形をした海の生き物", "genre": "nature" },
-  { "answer": "ウニ", "clue": "とげに覆われた海の生き物", "genre": "nature" },
-  { "answer": "イモリ", "clue": "水辺にすむ赤い腹の両生類", "genre": "nature" },
-  { "answer": "ヤモリ", "clue": "家の壁に現れる小さな爬虫類", "genre": "nature" },
-  { "answer": "トカゲ", "clue": "細長い体の小さな爬虫類", "genre": "nature" },
-  { "answer": "カメレオン", "clue": "体の色を変える爬虫類", "genre": "nature" },
-  { "answer": "ダチョウ", "clue": "飛べない世界最大の鳥", "genre": "nature" },
-  { "answer": "フラミンゴ", "clue": "ピンク色の脚の長い鳥", "genre": "nature" },
-  { "answer": "ツバメ", "clue": "春に来て巣を作る渡り鳥", "genre": "nature" },
-  { "answer": "カモメ", "clue": "海辺を飛ぶ白い鳥", "genre": "nature" },
-  { "answer": "キツツキ", "clue": "木をつついて穴をあける鳥", "genre": "nature" },
-  { "answer": "インコ", "clue": "言葉をまねる色鮮やかな鳥", "genre": "nature" },
-  { "answer": "ハチドリ", "clue": "空中で止まれる小さな鳥", "genre": "nature" },
-  { "answer": "テントウムシ", "clue": "赤い体に黒い点の昆虫", "genre": "nature" },
-  { "answer": "カブトムシ", "clue": "角を持つ人気の昆虫", "genre": "nature" },
-  { "answer": "クワガタ", "clue": "大あごを持つ昆虫", "genre": "nature" },
-  { "answer": "バッタ", "clue": "草むらで跳ねる昆虫", "genre": "nature" },
-  { "answer": "ホタル", "clue": "夜に光る昆虫", "genre": "nature" },
-  { "answer": "ユリ", "clue": "大きく香りのよい花", "genre": "nature" },
-  { "answer": "アヤメ", "clue": "初夏に咲く紫の花", "genre": "nature" },
-  { "answer": "スイセン", "clue": "冬から春に咲く白い花", "genre": "nature" },
-  { "answer": "コスモス", "clue": "秋に咲く可憐な花", "genre": "nature" },
-  { "answer": "キク", "clue": "秋を代表する花", "genre": "nature" },
-  { "answer": "ウメ", "clue": "早春に香る花", "genre": "nature" },
-  { "answer": "モモ", "clue": "春に桃色の花を咲かせる木", "genre": "nature" },
-  { "answer": "フジ", "clue": "房状に垂れ下がる紫の花", "genre": "nature" },
-  { "answer": "レンゲ", "clue": "田に咲く春の花", "genre": "nature" },
-  { "answer": "スズラン", "clue": "鈴のような白い小花", "genre": "nature" },
-  { "answer": "カーネーション", "clue": "母の日に贈る花", "genre": "nature" },
-  { "answer": "ラベンダー", "clue": "香りのよい紫の花", "genre": "nature" },
-  { "answer": "ハス", "clue": "池に咲く大きな花", "genre": "nature" },
-  { "answer": "スミレ", "clue": "道端に咲く小さな紫の花", "genre": "nature" },
-  { "answer": "ナノハナ", "clue": "春に一面を黄色に染める花", "genre": "nature" },
-  { "answer": "クローバー", "clue": "四つ葉が幸運とされる草", "genre": "nature" },
-  { "answer": "シダ", "clue": "胞子でふえる緑の植物", "genre": "nature" },
-  { "answer": "コケ", "clue": "湿った所に生える小さな植物", "genre": "nature" },
-  { "answer": "ケヤキ", "clue": "街路樹に多い大きな木", "genre": "nature" },
-  { "answer": "カエデ", "clue": "秋に紅葉する木", "genre": "nature" },
-  { "answer": "ヤシ", "clue": "南国に育つ木", "genre": "nature" },
-  { "answer": "サボテン", "clue": "とげを持つ乾燥地の植物", "genre": "nature" },
-  { "answer": "アサガオ", "clue": "夏の朝に咲くつる性の花", "genre": "nature" },
-  { "answer": "ヒマワリ", "clue": "夏に大きな黄色い花を咲かせる", "genre": "nature" },
-  { "answer": "イチョウ", "clue": "秋に黄色く色づく木", "genre": "nature" },
-  { "answer": "タイヨウチョウ", "clue": "蜜を吸う、金属光沢の小さな鳥", "genre": "nature" },
-  { "answer": "オットセイ", "clue": "ひれ足で泳ぐ海の哺乳類", "genre": "nature" },
-  { "answer": "ジュゴン", "clue": "人魚のモデルともされる海の動物", "genre": "nature" },
-  { "answer": "ミツバチ", "clue": "蜜を集めて巣に蓄える昆虫", "genre": "nature" },
-  { "answer": "カタクリ", "clue": "春先に下向きに咲く紫の花", "genre": "nature" },
-  { "answer": "ツツジ", "clue": "春に赤や白の花を咲かせる低木", "genre": "nature" },
-
-  { "answer": "アニメ", "clue": "日本発祥の、絵を動かした映像作品", "genre": "entertainment" },
-  { "answer": "マンガ", "clue": "絵とコマで物語を描く出版物", "genre": "entertainment" },
-  { "answer": "ゲーム", "clue": "コントローラーなどで遊ぶ娯楽", "genre": "entertainment" },
-  { "answer": "ヒーロー", "clue": "悪と戦う正義の主人公", "genre": "entertainment" },
-  { "answer": "ロボット", "clue": "SF作品によく登場する機械の人型", "genre": "entertainment" },
-  { "answer": "アイドル", "clue": "歌やダンスで活躍する人気者", "genre": "entertainment" },
-  { "answer": "ライブ", "clue": "観客の前で行う音楽の生演奏", "genre": "entertainment" },
-  { "answer": "カラオケ", "clue": "伴奏に合わせて歌う娯楽", "genre": "entertainment" },
-  { "answer": "エイガ", "clue": "映画館で観る映像作品", "genre": "entertainment" },
-  { "answer": "ドラマ", "clue": "連続で放送される物語番組", "genre": "entertainment" },
-  { "answer": "コント", "clue": "短い笑いの寸劇", "genre": "entertainment" },
-  { "answer": "マンザイ", "clue": "ボケとツッコミの掛け合いお笑い", "genre": "entertainment" },
-  { "answer": "リモコン", "clue": "テレビなどを離れて操作する機器", "genre": "entertainment" },
-  { "answer": "サントラ", "clue": "作品の挿入曲を集めた音源", "genre": "entertainment" },
-  { "answer": "コスプレ", "clue": "好きなキャラの衣装を着る遊び", "genre": "entertainment" },
-  { "answer": "フィギュア", "clue": "キャラクターを立体化した模型", "genre": "entertainment" },
-  { "answer": "ガチャ", "clue": "カプセル玩具、または抽選の俗称", "genre": "entertainment" },
-  { "answer": "シナリオ", "clue": "物語の筋書き・脚本", "genre": "entertainment" },
-  { "answer": "セリフ", "clue": "登場人物が話す言葉", "genre": "entertainment" },
-  { "answer": "ヒロイン", "clue": "物語の女性主人公", "genre": "entertainment" },
-  { "answer": "ボス", "clue": "ゲーム終盤に現れる強敵", "genre": "entertainment" },
-  { "answer": "レベル", "clue": "ゲームで上がる強さの段階", "genre": "entertainment" },
-  { "answer": "アイテム", "clue": "ゲーム中で手に入れる道具", "genre": "entertainment" },
-  { "answer": "ステージ", "clue": "ゲームの各場面・面", "genre": "entertainment" },
-  { "answer": "コントローラー", "clue": "ゲーム機を操作する機器", "genre": "entertainment" },
-  { "answer": "オープニング", "clue": "番組や作品の冒頭の映像・曲", "genre": "entertainment" },
-  { "answer": "エンディング", "clue": "作品の結末・終わりの場面", "genre": "entertainment" },
-  { "answer": "ジャンプ", "clue": "多くの人気漫画を載せる少年誌の代表的呼称", "genre": "entertainment" },
-  { "answer": "キャラクター", "clue": "作品に登場する人物", "genre": "entertainment" },
-  { "answer": "ストーリー", "clue": "物語の筋", "genre": "entertainment" },
-  { "answer": "プロット", "clue": "物語の構成", "genre": "entertainment" },
-  { "answer": "クライマックス", "clue": "物語の最高潮の場面", "genre": "entertainment" },
-  { "answer": "ナレーション", "clue": "場面を説明する語り", "genre": "entertainment" },
-  { "answer": "テロップ", "clue": "画面に出る文字", "genre": "entertainment" },
-  { "answer": "エキストラ", "clue": "背景に映る出演者", "genre": "entertainment" },
-  { "answer": "カメオ", "clue": "有名人の特別出演", "genre": "entertainment" },
-  { "answer": "オーディション", "clue": "出演者を選ぶ審査", "genre": "entertainment" },
-  { "answer": "デビュー", "clue": "初めて世に出ること", "genre": "entertainment" },
-  { "answer": "ブレイク", "clue": "急に人気が出ること", "genre": "entertainment" },
-  { "answer": "ファンクラブ", "clue": "愛好者の集まり", "genre": "entertainment" },
-  { "answer": "サイン", "clue": "有名人の自筆の署名", "genre": "entertainment" },
-  { "answer": "アンコール", "clue": "演奏後の追加の求め", "genre": "entertainment" },
-  { "answer": "ゲイメイ", "clue": "芸能人の活動上の名前（芸名）", "genre": "entertainment" },
-  { "answer": "デュエット", "clue": "二人で歌うこと", "genre": "entertainment" },
-  { "answer": "バラード", "clue": "ゆっくりした感動的な曲", "genre": "entertainment" },
-  { "answer": "メロディー", "clue": "曲の旋律", "genre": "entertainment" },
-  { "answer": "リズム", "clue": "音楽の拍子", "genre": "entertainment" },
-  { "answer": "ボーカル", "clue": "歌を担当する人", "genre": "entertainment" },
-  { "answer": "ギター", "clue": "弦をはじく楽器", "genre": "entertainment" },
-  { "answer": "ドラム", "clue": "たたいて鳴らす打楽器", "genre": "entertainment" },
-  { "answer": "ベース", "clue": "低音を担当する弦楽器", "genre": "entertainment" },
-  { "answer": "ピアノ", "clue": "鍵盤で奏でる楽器", "genre": "entertainment" },
-  { "answer": "バンド", "clue": "複数で演奏する音楽グループ", "genre": "entertainment" },
-  { "answer": "ヒットチャート", "clue": "売れた曲の順位表", "genre": "entertainment" },
-  { "answer": "ミュージックビデオ", "clue": "曲に合わせた映像", "genre": "entertainment" },
-  { "answer": "ヘッドホン", "clue": "耳に当てて聴く機器", "genre": "entertainment" },
-  { "answer": "イヤホン", "clue": "耳に入れて聴く小型機器", "genre": "entertainment" },
-  { "answer": "スピーカー", "clue": "音を出す装置", "genre": "entertainment" },
-  { "answer": "マイク", "clue": "声を拾う機器", "genre": "entertainment" },
-  { "answer": "スポットライト", "clue": "一点を照らす舞台の照明", "genre": "entertainment" },
-  { "answer": "ミュージカル", "clue": "歌と踊りの舞台劇", "genre": "entertainment" },
-  { "answer": "オペラ", "clue": "歌で演じる西洋の舞台", "genre": "entertainment" },
-  { "answer": "バレエ", "clue": "つま先で踊る舞踊", "genre": "entertainment" },
-  { "answer": "サーカス", "clue": "曲芸を見せる興行", "genre": "entertainment" },
-  { "answer": "マジック", "clue": "手品・奇術", "genre": "entertainment" },
-  { "answer": "ダンス", "clue": "音楽に合わせて踊ること", "genre": "entertainment" },
-  { "answer": "リハーサル", "clue": "本番前の練習", "genre": "entertainment" },
-  { "answer": "スタジオ", "clue": "収録や撮影をする場所", "genre": "entertainment" },
-  { "answer": "ロケ", "clue": "屋外などでの撮影", "genre": "entertainment" },
-  { "answer": "カメラ", "clue": "映像を撮る機器", "genre": "entertainment" },
-  { "answer": "モニター", "clue": "映像を映す画面", "genre": "entertainment" },
-  { "answer": "エフェクト", "clue": "映像や音の効果", "genre": "entertainment" },
-  { "answer": "アクション", "clue": "激しい動きの場面", "genre": "entertainment" },
-  { "answer": "スタント", "clue": "危険な演技の代役", "genre": "entertainment" },
-  { "answer": "ホラー", "clue": "恐怖を描く作品", "genre": "entertainment" },
-  { "answer": "コメディー", "clue": "笑いを描く作品", "genre": "entertainment" },
-  { "answer": "ミステリー", "clue": "謎解きを描く作品", "genre": "entertainment" },
-  { "answer": "ファンタジー", "clue": "空想の世界を描く作品", "genre": "entertainment" },
-  { "answer": "ラブストーリー", "clue": "恋愛を描く物語", "genre": "entertainment" },
-  { "answer": "シューティング", "clue": "撃ち合うジャンルのゲーム", "genre": "entertainment" },
-  { "answer": "ロールプレイング", "clue": "役になり冒険するゲーム", "genre": "entertainment" },
-  { "answer": "セーブ", "clue": "ゲームの進行を記録すること", "genre": "entertainment" },
-  { "answer": "クリア", "clue": "ゲームを解き終えること", "genre": "entertainment" },
-  { "answer": "リセット", "clue": "最初からやり直すこと", "genre": "entertainment" },
-  { "answer": "コンティニュー", "clue": "続きから再開すること", "genre": "entertainment" },
-  { "answer": "ハイスコア", "clue": "最高得点", "genre": "entertainment" },
-  { "answer": "ライバル", "clue": "競い合う相手", "genre": "entertainment" },
-  { "answer": "パーティー", "clue": "一緒に冒険する仲間", "genre": "entertainment" },
-  { "answer": "ダンジョン", "clue": "探索する迷宮", "genre": "entertainment" },
-  { "answer": "クエスト", "clue": "達成すべき任務", "genre": "entertainment" },
-  { "answer": "バトル", "clue": "戦闘の場面", "genre": "entertainment" },
-  { "answer": "スキル", "clue": "キャラの特殊な技", "genre": "entertainment" },
-  { "answer": "エンカウント", "clue": "敵との遭遇", "genre": "entertainment" },
-  { "answer": "ラスボス", "clue": "最後に戦う強敵", "genre": "entertainment" },
-  { "answer": "エンドロール", "clue": "終わりに流れる出演者名", "genre": "entertainment" },
-  { "answer": "スクリーン", "clue": "映画を映す大きな幕", "genre": "entertainment" },
-  { "answer": "チケット", "clue": "公演や映画を観るための券", "genre": "entertainment" },
-  { "answer": "プロデューサー", "clue": "作品の制作を統括する責任者", "genre": "entertainment" },
-  { "answer": "カントク", "clue": "映画やドラマの演出責任者", "genre": "entertainment" },
-  { "answer": "ヤクシャ", "clue": "役を演じる人", "genre": "entertainment" },
-
-  { "answer": "ハクサイ", "clue": "鍋に使う大きな白い葉野菜", "genre": "gourmet" },
-  { "answer": "ネギ", "clue": "薬味に使う細長い緑の野菜", "genre": "gourmet" },
-  { "answer": "モヤシ", "clue": "安くてシャキシャキの発芽野菜", "genre": "gourmet" },
-
-  { "answer": "イシノウエニモ", "clue": "「○○三年」＝辛抱すれば報われる（石の上にも三年）", "genre": "culture" },
-  { "answer": "ナクツラニハチ", "clue": "不運が重なること（泣きっ面に蜂）", "genre": "culture" },
-  { "answer": "アブハチトラズ", "clue": "欲張ると両方失うこと（虻蜂取らず）", "genre": "culture" },
-  { "answer": "オニニカナボウ", "clue": "強い者がさらに強くなること（鬼に金棒）", "genre": "culture" },
-  { "answer": "ネミミニミズ", "clue": "不意の出来事に驚くこと（寝耳に水）", "genre": "culture" },
-
-  { "answer": "アシカ", "clue": "芸をすることもある海の哺乳類", "genre": "nature" },
-  { "answer": "ラッコ", "clue": "貝を石で割って食べる海の動物", "genre": "nature" },
-  { "answer": "カワセミ", "clue": "水辺で魚をとる青い鳥", "genre": "nature" },
-  { "answer": "メダカ", "clue": "小川にすむ小さな魚", "genre": "nature" },
-  { "answer": "キンギョ", "clue": "飼育される赤い観賞魚", "genre": "nature" },
-  { "answer": "ドングリ", "clue": "ナラやカシの木の実", "genre": "nature" }
+  {
+    "answer": "ファミコン",
+    "clue": "昭和に大ヒットした任天堂の家庭用ゲーム機",
+    "genre": "showa"
+  },
+  {
+    "answer": "タマゴッチ",
+    "clue": "平成に大流行したたまご型の育成ペット",
+    "genre": "showa"
+  },
+  {
+    "answer": "ベーゴマ",
+    "clue": "鉄製の、回して当てる昔ながらのおもちゃ",
+    "genre": "showa"
+  },
+  {
+    "answer": "メンコ",
+    "clue": "地面に叩きつけて遊ぶ昔の紙の遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "フラフープ",
+    "clue": "腰で回して遊ぶ輪の遊具",
+    "genre": "showa"
+  },
+  {
+    "answer": "ポケベル",
+    "clue": "平成初期に流行した携帯型の呼び出し機",
+    "genre": "showa"
+  },
+  {
+    "answer": "プリクラ",
+    "clue": "平成に流行したシール写真",
+    "genre": "showa"
+  },
+  {
+    "answer": "レコード",
+    "clue": "針で音を再生する黒い円盤",
+    "genre": "showa"
+  },
+  {
+    "answer": "カセット",
+    "clue": "昔、音楽の録音に使ったテープ",
+    "genre": "showa"
+  },
+  {
+    "answer": "ウォークマン",
+    "clue": "持ち歩いて音楽を聴くソニーの携帯機器",
+    "genre": "showa"
+  },
+  {
+    "answer": "ゲームボーイ",
+    "clue": "携帯して遊べる任天堂のゲーム機",
+    "genre": "showa"
+  },
+  {
+    "answer": "ブリキ",
+    "clue": "昔のおもちゃに使われた薄い金属",
+    "genre": "showa"
+  },
+  {
+    "answer": "ダルマ",
+    "clue": "願掛けで目を入れる赤い置物",
+    "genre": "showa"
+  },
+  {
+    "answer": "コタツ",
+    "clue": "冬に足を入れて温まる日本の暖房器具",
+    "genre": "showa"
+  },
+  {
+    "answer": "ソロバン",
+    "clue": "珠を弾いて計算する道具",
+    "genre": "showa"
+  },
+  {
+    "answer": "カミシバイ",
+    "clue": "紙の絵を見せながら語る昔の路上演芸",
+    "genre": "showa"
+  },
+  {
+    "answer": "ダガシ",
+    "clue": "子供が小遣いで買った安いお菓子",
+    "genre": "showa"
+  },
+  {
+    "answer": "ラムネ",
+    "clue": "ビー玉が入った瓶でおなじみの飲み物",
+    "genre": "showa"
+  },
+  {
+    "answer": "ミニヨンク",
+    "clue": "昭和末から流行した小型レーシング模型（ミニ四駆）",
+    "genre": "showa"
+  },
+  {
+    "answer": "ブラウンカン",
+    "clue": "昔の分厚いテレビの画面方式",
+    "genre": "showa"
+  },
+  {
+    "answer": "チャブダイ",
+    "clue": "昭和の家庭にあった折りたたみの丸い食卓",
+    "genre": "showa"
+  },
+  {
+    "answer": "ゲタ",
+    "clue": "昔よく履いた木製の履物",
+    "genre": "showa"
+  },
+  {
+    "answer": "コマ",
+    "clue": "ひもを巻いて回す昔ながらのおもちゃ",
+    "genre": "showa"
+  },
+  {
+    "answer": "ヨーヨー",
+    "clue": "ひもで上下させて遊ぶおもちゃ",
+    "genre": "showa"
+  },
+  {
+    "answer": "オハジキ",
+    "clue": "平たいガラス玉をはじいて遊ぶ昔の遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "ナワトビ",
+    "clue": "縄を回して跳ぶ昔ながらの遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "ケンダマ",
+    "clue": "玉を皿や先端に乗せる日本の伝統的なおもちゃ",
+    "genre": "showa"
+  },
+  {
+    "answer": "ブリックゲーム",
+    "clue": "平成に流行した、落ちもの系の携帯ゲーム",
+    "genre": "showa"
+  },
+  {
+    "answer": "クロデンワ",
+    "clue": "昔の家庭にあった黒い固定電話",
+    "genre": "showa"
+  },
+  {
+    "answer": "ダイヤル",
+    "clue": "回して番号を合わせる昔の電話の操作部",
+    "genre": "showa"
+  },
+  {
+    "answer": "センプウキ",
+    "clue": "夏に首を振る昔ながらの扇風機",
+    "genre": "showa"
+  },
+  {
+    "answer": "ミシン",
+    "clue": "布を縫う家庭用の機械",
+    "genre": "showa"
+  },
+  {
+    "answer": "ジュークボックス",
+    "clue": "コインで曲を選んで流す機械",
+    "genre": "showa"
+  },
+  {
+    "answer": "クリームソーダ",
+    "clue": "アイスを浮かべた喫茶店の緑の飲み物",
+    "genre": "showa"
+  },
+  {
+    "answer": "ミルクセーキ",
+    "clue": "卵と牛乳を混ぜた昔の飲み物",
+    "genre": "showa"
+  },
+  {
+    "answer": "ナポリタン",
+    "clue": "喫茶店の定番、ケチャップ味のパスタ",
+    "genre": "showa"
+  },
+  {
+    "answer": "リカチャン",
+    "clue": "昭和から人気の着せ替え人形",
+    "genre": "showa"
+  },
+  {
+    "answer": "ローラースケート",
+    "clue": "足につけて滑る車輪付きの遊具",
+    "genre": "showa"
+  },
+  {
+    "answer": "スーパーカー",
+    "clue": "昭和に少年が憧れた高級スポーツ車",
+    "genre": "showa"
+  },
+  {
+    "answer": "ラジカセ",
+    "clue": "ラジオとカセットが一体の音響機器",
+    "genre": "showa"
+  },
+  {
+    "answer": "フロッピー",
+    "clue": "昔のパソコンで使った薄い記憶媒体",
+    "genre": "showa"
+  },
+  {
+    "answer": "ワープロ",
+    "clue": "文書作成専用の昔の機械",
+    "genre": "showa"
+  },
+  {
+    "answer": "ブロマイド",
+    "clue": "スターの肖像を印刷した写真",
+    "genre": "showa"
+  },
+  {
+    "answer": "カンケリ",
+    "clue": "缶を蹴って遊ぶ外遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "ゴムトビ",
+    "clue": "ゴムひもを跳び越える昔の遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "ビックリマン",
+    "clue": "シール付きで大流行した菓子",
+    "genre": "showa"
+  },
+  {
+    "answer": "ガチャガチャ",
+    "clue": "昔からあるカプセル玩具の機械",
+    "genre": "showa"
+  },
+  {
+    "answer": "ファミレス",
+    "clue": "昭和に広まった家族向けの飲食店",
+    "genre": "showa"
+  },
+  {
+    "answer": "ボウリング",
+    "clue": "昭和に大ブームになった球技",
+    "genre": "showa"
+  },
+  {
+    "answer": "ディスコ",
+    "clue": "昭和末に流行した踊る店",
+    "genre": "showa"
+  },
+  {
+    "answer": "ブルマ",
+    "clue": "昔の体操着の下",
+    "genre": "showa"
+  },
+  {
+    "answer": "ホッピング",
+    "clue": "ばねで跳ねて遊ぶ棒状の遊具",
+    "genre": "showa"
+  },
+  {
+    "answer": "ダッコチャン",
+    "clue": "腕にかける昭和の人気人形",
+    "genre": "showa"
+  },
+  {
+    "answer": "キンケシ",
+    "clue": "キン肉マンの消しゴム人形",
+    "genre": "showa"
+  },
+  {
+    "answer": "シャーペン",
+    "clue": "芯を出して使う筆記具",
+    "genre": "showa"
+  },
+  {
+    "answer": "ホーロー",
+    "clue": "昔の看板に使われた金属の表面加工",
+    "genre": "showa"
+  },
+  {
+    "answer": "ノレン",
+    "clue": "店先に掛ける布",
+    "genre": "showa"
+  },
+  {
+    "answer": "フロシキ",
+    "clue": "物を包んで運ぶ四角い布",
+    "genre": "showa"
+  },
+  {
+    "answer": "チリトリ",
+    "clue": "ほうきで集めたゴミを取る道具",
+    "genre": "showa"
+  },
+  {
+    "answer": "ヤカン",
+    "clue": "湯を沸かす取っ手付きの容器",
+    "genre": "showa"
+  },
+  {
+    "answer": "ザブトン",
+    "clue": "座るときに敷く四角い布団",
+    "genre": "showa"
+  },
+  {
+    "answer": "シチリン",
+    "clue": "炭火で焼く昔ながらのこんろ",
+    "genre": "showa"
+  },
+  {
+    "answer": "ハネツキ",
+    "clue": "正月に羽根を打ち合う遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "タコアゲ",
+    "clue": "正月に空へ揚げる遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "フクワライ",
+    "clue": "目隠しで顔のパーツを置く正月遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "スゴロク",
+    "clue": "さいころを振って進む盤上の遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "カルタ",
+    "clue": "札を取り合う正月の遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "ビーダマ",
+    "clue": "ガラスの玉ではじいて遊ぶ昔の遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "アマガッパ",
+    "clue": "雨をしのぐ昔ながらの雨具",
+    "genre": "showa"
+  },
+  {
+    "answer": "ゲンコウヨウシ",
+    "clue": "文章を書くマス目の紙",
+    "genre": "showa"
+  },
+  {
+    "answer": "マンネンヒツ",
+    "clue": "インクで書く高級筆記具",
+    "genre": "showa"
+  },
+  {
+    "answer": "シタジキ",
+    "clue": "ノートの下に敷く板",
+    "genre": "showa"
+  },
+  {
+    "answer": "フデバコ",
+    "clue": "鉛筆を入れる箱",
+    "genre": "showa"
+  },
+  {
+    "answer": "オルガン",
+    "clue": "足で踏んで鳴らす昔の鍵盤楽器",
+    "genre": "showa"
+  },
+  {
+    "answer": "ハーモニカ",
+    "clue": "口で吹く小さな楽器",
+    "genre": "showa"
+  },
+  {
+    "answer": "チンドンヤ",
+    "clue": "楽器を鳴らして宣伝した昔の一団",
+    "genre": "showa"
+  },
+  {
+    "answer": "ガリバン",
+    "clue": "昔の簡易印刷（謄写版）の通称",
+    "genre": "showa"
+  },
+  {
+    "answer": "トランジスタ",
+    "clue": "小型ラジオに使われた電子部品",
+    "genre": "showa"
+  },
+  {
+    "answer": "ビデオデッキ",
+    "clue": "テープに録画した昔の機器",
+    "genre": "showa"
+  },
+  {
+    "answer": "レーザーディスク",
+    "clue": "大きな円盤の映像メディア",
+    "genre": "showa"
+  },
+  {
+    "answer": "インベーダー",
+    "clue": "昭和に大流行したアーケードゲーム",
+    "genre": "showa"
+  },
+  {
+    "answer": "パックマン",
+    "clue": "昭和の人気アーケードゲーム",
+    "genre": "showa"
+  },
+  {
+    "answer": "ルービックキューブ",
+    "clue": "面の色をそろえる立体パズル",
+    "genre": "showa"
+  },
+  {
+    "answer": "ピンボール",
+    "clue": "玉をはじいて得点する遊技機",
+    "genre": "showa"
+  },
+  {
+    "answer": "ガングロ",
+    "clue": "平成に流行した日焼けメイク",
+    "genre": "showa"
+  },
+  {
+    "answer": "ルーズソックス",
+    "clue": "平成の女子高生に流行した靴下",
+    "genre": "showa"
+  },
+  {
+    "answer": "シュシュ",
+    "clue": "髪をまとめる平成の小物",
+    "genre": "showa"
+  },
+  {
+    "answer": "ガラケー",
+    "clue": "スマホ前の折りたたみ携帯",
+    "genre": "showa"
+  },
+  {
+    "answer": "アイモード",
+    "clue": "携帯のネット接続サービス",
+    "genre": "showa"
+  },
+  {
+    "answer": "テレホンカード",
+    "clue": "公衆電話で使ったカード",
+    "genre": "showa"
+  },
+  {
+    "answer": "ポンキッキ",
+    "clue": "昭和の子供向けテレビ番組",
+    "genre": "showa"
+  },
+  {
+    "answer": "ヒバチ",
+    "clue": "炭で暖をとった昔の暖房具",
+    "genre": "showa"
+  },
+  {
+    "answer": "ハエタタキ",
+    "clue": "ハエを叩く昔ながらの道具",
+    "genre": "showa"
+  },
+  {
+    "answer": "カヤ",
+    "clue": "夏に虫を防ぐためつった網",
+    "genre": "showa"
+  },
+  {
+    "answer": "カミデッポウ",
+    "clue": "紙を鳴らして遊ぶ昔のおもちゃ",
+    "genre": "showa"
+  },
+  {
+    "answer": "オジャミ",
+    "clue": "小さな袋を投げて遊ぶ昔の遊び（お手玉）",
+    "genre": "showa"
+  },
+  {
+    "answer": "アヤトリ",
+    "clue": "ひもを指にかけて形を作る遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "ゴーカート",
+    "clue": "昭和の遊園地で人気の小型カート",
+    "genre": "showa"
+  },
+  {
+    "answer": "ブランコ",
+    "clue": "公園で揺れて遊ぶ遊具",
+    "genre": "showa"
+  },
+  {
+    "answer": "ジャングルジム",
+    "clue": "公園の鉄棒を組んだ遊具",
+    "genre": "showa"
+  },
+  {
+    "answer": "ペペロンチーノ",
+    "clue": "パスタの王道、トウガラシとニンニクのオイル系",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "コンブ",
+    "clue": "出汁をとるのに使う海の野菜（海藻）",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "カツオブシ",
+    "clue": "出汁の定番、カツオを乾燥させて削ったもの",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ミソ",
+    "clue": "大豆を発酵させた日本の調味料",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ショウユ",
+    "clue": "大豆から作る黒い和の調味料",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "スシ",
+    "clue": "酢飯に魚などをのせた日本料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "テンプラ",
+    "clue": "衣をつけて油で揚げる和食",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ラーメン",
+    "clue": "中華麺をスープで食べる人気の麺料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ウドン",
+    "clue": "太い小麦の麺",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ソバ",
+    "clue": "そば粉で作る細い和の麺",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "カレー",
+    "clue": "スパイスで煮込むインド由来の料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ギョウザ",
+    "clue": "皮で包んで焼く中華の点心",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "オムレツ",
+    "clue": "卵を巻いて作る洋食",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ハンバーグ",
+    "clue": "ひき肉をこねて焼く洋食の定番",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "コロッケ",
+    "clue": "じゃがいもを丸めて揚げる総菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "メロンパン",
+    "clue": "表面に格子模様のある甘い菓子パン",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "プリン",
+    "clue": "卵と牛乳で作るカラメルの冷たいデザート",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ヨーグルト",
+    "clue": "乳を発酵させた酸味のある食品",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "チョコレート",
+    "clue": "カカオから作る甘い菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ダイコン",
+    "clue": "おでんや煮物に使う白い根菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ニンジン",
+    "clue": "オレンジ色の甘い根菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "タマネギ",
+    "clue": "切ると涙が出る球形の野菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ジャガイモ",
+    "clue": "男爵やメークインで知られるいも",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "トマト",
+    "clue": "赤くて生でも食べる夏野菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ナットウ",
+    "clue": "大豆を発酵させた粘る日本の食品",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "メンタイコ",
+    "clue": "唐辛子で味付けしたスケトウダラの卵",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ワサビ",
+    "clue": "寿司に添えるツンとくる薬味",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ミリン",
+    "clue": "煮物に甘みとつやを出す和の調味料",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "スパゲッティ",
+    "clue": "細長いイタリアの麺料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ピザ",
+    "clue": "生地に具をのせて焼くイタリア料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "リゾット",
+    "clue": "米を煮込むイタリア料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "グラタン",
+    "clue": "ソースをかけて焼く洋食",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ドリア",
+    "clue": "ご飯にソースをかけて焼く料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "シチュー",
+    "clue": "具材を煮込む洋風の煮物",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ポトフ",
+    "clue": "野菜と肉を煮込むフランスの料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "パエリア",
+    "clue": "米と魚介を炊くスペイン料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "タコス",
+    "clue": "トルティーヤに具を挟むメキシコ料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ケバブ",
+    "clue": "肉を回し焼きにする中東料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ナン",
+    "clue": "カレーに添える平たいパン",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "チャーハン",
+    "clue": "ご飯を炒める中華料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "シュウマイ",
+    "clue": "蒸して食べる中華の点心",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "マーボードウフ",
+    "clue": "豆腐を辛く煮る中華料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "エビチリ",
+    "clue": "エビを辛いソースで炒める料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ホイコーロー",
+    "clue": "豚肉とキャベツの中華炒め",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "タンタンメン",
+    "clue": "ごまと辛みのスープの麺",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ヤキソバ",
+    "clue": "麺を炒めるソース味の料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "オコノミヤキ",
+    "clue": "生地に具を混ぜて焼く粉物",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "タコヤキ",
+    "clue": "タコを入れた丸い粉物",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "モンジャヤキ",
+    "clue": "鉄板で焼く下町の粉物",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "スキヤキ",
+    "clue": "肉と野菜を甘辛く煮る鍋",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "シャブシャブ",
+    "clue": "薄切り肉を湯にくぐらせる鍋",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "オデン",
+    "clue": "大根や卵を出汁で煮込む料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "チャワンムシ",
+    "clue": "卵を蒸した和食",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "サシミ",
+    "clue": "生の魚を切って食べる和食",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ヤキトリ",
+    "clue": "鶏肉を串で焼く料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "トンカツ",
+    "clue": "豚肉に衣をつけて揚げる料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "カラアゲ",
+    "clue": "鶏肉を揚げた料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "エビフライ",
+    "clue": "エビに衣をつけて揚げる料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ギュウドン",
+    "clue": "牛肉をご飯にのせた丼",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "カツドン",
+    "clue": "トンカツを卵でとじた丼",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "オヤコドン",
+    "clue": "鶏肉と卵をのせた丼",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "テンドン",
+    "clue": "天ぷらをのせた丼",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "オニギリ",
+    "clue": "米を握った携帯食",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "オチャヅケ",
+    "clue": "ご飯に茶や出汁をかける料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ゾウスイ",
+    "clue": "具を入れて煮る米の料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "モチ",
+    "clue": "米をついて作る食べ物",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ダンゴ",
+    "clue": "串に刺した丸い和菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ダイフク",
+    "clue": "あんを餅で包んだ和菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ヨウカン",
+    "clue": "小豆を固めた和菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "センベイ",
+    "clue": "米を焼いた塩辛い菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ワタアメ",
+    "clue": "ふわふわした砂糖の菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "アンミツ",
+    "clue": "寒天と餡の和風デザート",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "カキゴオリ",
+    "clue": "削った氷にシロップをかける夏の食べ物",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ソフトクリーム",
+    "clue": "巻いて作る冷たい菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ドーナツ",
+    "clue": "輪の形をした揚げ菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ホットケーキ",
+    "clue": "生地を焼いた甘い洋菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ショートケーキ",
+    "clue": "いちごをのせたスポンジ菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "シュークリーム",
+    "clue": "クリームを詰めた洋菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "クッキー",
+    "clue": "焼いた小さな甘い菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "キャラメル",
+    "clue": "甘く煮詰めた小さな菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ポテトチップス",
+    "clue": "じゃがいもを薄く揚げた菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ポップコーン",
+    "clue": "はじけさせたとうもろこしの菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "キャベツ",
+    "clue": "葉が重なる球形の野菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "レタス",
+    "clue": "サラダに使う葉物野菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "キュウリ",
+    "clue": "細長い緑の夏野菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ナス",
+    "clue": "紫色の夏野菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ピーマン",
+    "clue": "苦みのある緑の野菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "カボチャ",
+    "clue": "甘みのある大きな実の野菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ホウレンソウ",
+    "clue": "鉄分の多い緑の葉野菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ゴボウ",
+    "clue": "細長い茶色の根菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "レンコン",
+    "clue": "穴のあいた根菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "シイタケ",
+    "clue": "出汁にも使うきのこ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "エノキ",
+    "clue": "細くて白いきのこ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "トウフ",
+    "clue": "大豆から作る白い加工食品",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "アゲ",
+    "clue": "豆腐を薄く切って揚げたもの（油揚げ）",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "チクワ",
+    "clue": "穴のあいた練り物",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "カマボコ",
+    "clue": "板にのった白い練り物",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ブタニシンジュ",
+    "clue": "「猫に小判」と同じ意味のことわざ（豚に真珠）",
+    "genre": "culture"
+  },
+  {
+    "answer": "クラゲ",
+    "clue": "「海月」と書いて何と読む？",
+    "genre": "culture"
+  },
+  {
+    "answer": "ヒマワリ",
+    "clue": "「向日葵」と書く夏の花",
+    "genre": "culture"
+  },
+  {
+    "answer": "アジサイ",
+    "clue": "「紫陽花」と書く梅雨の花",
+    "genre": "culture"
+  },
+  {
+    "answer": "イルカ",
+    "clue": "「海豚」と書く海の哺乳類",
+    "genre": "culture"
+  },
+  {
+    "answer": "サバ",
+    "clue": "「鯖」と読む青魚",
+    "genre": "culture"
+  },
+  {
+    "answer": "ワニ",
+    "clue": "「鰐」と書く爬虫類",
+    "genre": "culture"
+  },
+  {
+    "answer": "イチョウ",
+    "clue": "「銀杏」と書く、秋に黄色くなる木",
+    "genre": "culture"
+  },
+  {
+    "answer": "ナマズ",
+    "clue": "「鯰」と書く、ひげのある魚",
+    "genre": "culture"
+  },
+  {
+    "answer": "タコ",
+    "clue": "「蛸」と読む海の生き物",
+    "genre": "culture"
+  },
+  {
+    "answer": "タイ",
+    "clue": "「鯛」と読む、めでたい魚",
+    "genre": "culture"
+  },
+  {
+    "answer": "ホタル",
+    "clue": "「蛍」と書く、光る昆虫",
+    "genre": "culture"
+  },
+  {
+    "answer": "カエル",
+    "clue": "「蛙」と書く、池にいる生き物",
+    "genre": "culture"
+  },
+  {
+    "answer": "スズメ",
+    "clue": "「雀」と書く小鳥",
+    "genre": "culture"
+  },
+  {
+    "answer": "ツバキ",
+    "clue": "「椿」と書く冬から春の花",
+    "genre": "culture"
+  },
+  {
+    "answer": "ボタン",
+    "clue": "「牡丹」と書く大きな花",
+    "genre": "culture"
+  },
+  {
+    "answer": "キリン",
+    "clue": "「麒麟」とも書く、首の長い動物",
+    "genre": "culture"
+  },
+  {
+    "answer": "アサガオ",
+    "clue": "「朝顔」と書く夏の花",
+    "genre": "culture"
+  },
+  {
+    "answer": "サンマ",
+    "clue": "「秋刀魚」と書く秋の魚",
+    "genre": "culture"
+  },
+  {
+    "answer": "ウナギ",
+    "clue": "「鰻」と書く、蒲焼きで有名な魚",
+    "genre": "culture"
+  },
+  {
+    "answer": "セミ",
+    "clue": "「蝉」と書く、夏に鳴く虫",
+    "genre": "culture"
+  },
+  {
+    "answer": "ネコノテ",
+    "clue": "「猫の手も借りたい」＝とても忙しいこと",
+    "genre": "culture"
+  },
+  {
+    "answer": "ウマノミミ",
+    "clue": "「馬の耳に念仏」＝意見を聞き流すこと",
+    "genre": "culture"
+  },
+  {
+    "answer": "サルジエ",
+    "clue": "浅はかな知恵のこと（猿知恵）",
+    "genre": "culture"
+  },
+  {
+    "answer": "イシバシ",
+    "clue": "「○○を叩いて渡る」＝とても用心深いこと",
+    "genre": "culture"
+  },
+  {
+    "answer": "ヌカニクギ",
+    "clue": "手応えがないことのたとえ（糠に釘）",
+    "genre": "culture"
+  },
+  {
+    "answer": "アクビ",
+    "clue": "「欠伸」と書く、眠いときに出るもの",
+    "genre": "culture"
+  },
+  {
+    "answer": "クシャミ",
+    "clue": "「嚏」と書く、鼻から出る反射",
+    "genre": "culture"
+  },
+  {
+    "answer": "マツゲ",
+    "clue": "「睫毛」と書く、目のふちの毛",
+    "genre": "culture"
+  },
+  {
+    "answer": "ヒジ",
+    "clue": "「肘」と書く、腕の関節",
+    "genre": "culture"
+  },
+  {
+    "answer": "ヒザ",
+    "clue": "「膝」と書く、脚の関節",
+    "genre": "culture"
+  },
+  {
+    "answer": "ノド",
+    "clue": "「喉」と書く、首の前の部分",
+    "genre": "culture"
+  },
+  {
+    "answer": "ホオ",
+    "clue": "「頬」と書く、顔の横の部分",
+    "genre": "culture"
+  },
+  {
+    "answer": "マブタ",
+    "clue": "「瞼」と書く、目を覆う皮膚",
+    "genre": "culture"
+  },
+  {
+    "answer": "アズキ",
+    "clue": "「小豆」と読む赤い豆",
+    "genre": "culture"
+  },
+  {
+    "answer": "エダマメ",
+    "clue": "「枝豆」と書く、夏のつまみ",
+    "genre": "culture"
+  },
+  {
+    "answer": "ゴマ",
+    "clue": "「胡麻」と書く小さな種子",
+    "genre": "culture"
+  },
+  {
+    "answer": "ワカメ",
+    "clue": "「若布」と書く海藻",
+    "genre": "culture"
+  },
+  {
+    "answer": "ノリ",
+    "clue": "「海苔」と書く、おにぎりを巻く海藻",
+    "genre": "culture"
+  },
+  {
+    "answer": "カキ",
+    "clue": "「牡蠣」と書く、海のミルクと呼ばれる貝",
+    "genre": "culture"
+  },
+  {
+    "answer": "ハマグリ",
+    "clue": "「蛤」と書く二枚貝",
+    "genre": "culture"
+  },
+  {
+    "answer": "アサリ",
+    "clue": "「浅蜊」と書く貝",
+    "genre": "culture"
+  },
+  {
+    "answer": "エビ",
+    "clue": "「海老」と書く曲がった生き物",
+    "genre": "culture"
+  },
+  {
+    "answer": "カニ",
+    "clue": "「蟹」と書く、横歩きする生き物",
+    "genre": "culture"
+  },
+  {
+    "answer": "ナメクジ",
+    "clue": "「蛞蝓」と書く、殻のない生き物",
+    "genre": "culture"
+  },
+  {
+    "answer": "カタツムリ",
+    "clue": "「蝸牛」と書く、殻を背負う生き物",
+    "genre": "culture"
+  },
+  {
+    "answer": "ミミズ",
+    "clue": "「蚯蚓」と書く、土の中の生き物",
+    "genre": "culture"
+  },
+  {
+    "answer": "カマキリ",
+    "clue": "「蟷螂」と書く、鎌を持つ虫",
+    "genre": "culture"
+  },
+  {
+    "answer": "トンボ",
+    "clue": "「蜻蛉」と書く、羽の透けた虫",
+    "genre": "culture"
+  },
+  {
+    "answer": "クモ",
+    "clue": "「蜘蛛」と書く、巣を張る生き物",
+    "genre": "culture"
+  },
+  {
+    "answer": "ハチ",
+    "clue": "「蜂」と書く、針を持つ虫",
+    "genre": "culture"
+  },
+  {
+    "answer": "アリ",
+    "clue": "「蟻」と書く、列を作る小さな虫",
+    "genre": "culture"
+  },
+  {
+    "answer": "ハエ",
+    "clue": "「蠅」と書く、飛び回る虫",
+    "genre": "culture"
+  },
+  {
+    "answer": "ムカデ",
+    "clue": "「百足」と書く、足の多い生き物",
+    "genre": "culture"
+  },
+  {
+    "answer": "コウモリ",
+    "clue": "「蝙蝠」と書く、夜飛ぶ哺乳類",
+    "genre": "culture"
+  },
+  {
+    "answer": "モグラ",
+    "clue": "「土竜」と書く、地中の動物",
+    "genre": "culture"
+  },
+  {
+    "answer": "イタチ",
+    "clue": "「鼬」と書く、細長い動物",
+    "genre": "culture"
+  },
+  {
+    "answer": "タヌキ",
+    "clue": "「狸」と書く、化けるとされる動物",
+    "genre": "culture"
+  },
+  {
+    "answer": "オオカミ",
+    "clue": "「狼」と書く、群れる肉食獣",
+    "genre": "culture"
+  },
+  {
+    "answer": "ヤギ",
+    "clue": "「山羊」と書く、紙を食べるとされる動物",
+    "genre": "culture"
+  },
+  {
+    "answer": "ラクダ",
+    "clue": "「駱駝」と書く、背にこぶのある動物",
+    "genre": "culture"
+  },
+  {
+    "answer": "シカ",
+    "clue": "「鹿」と書く、角のある動物",
+    "genre": "culture"
+  },
+  {
+    "answer": "イノシシ",
+    "clue": "「猪」と書く、突進する動物",
+    "genre": "culture"
+  },
+  {
+    "answer": "クジャク",
+    "clue": "「孔雀」と書く、羽の美しい鳥",
+    "genre": "culture"
+  },
+  {
+    "answer": "ツル",
+    "clue": "「鶴」と書く、長寿の象徴の鳥",
+    "genre": "culture"
+  },
+  {
+    "answer": "ハト",
+    "clue": "「鳩」と書く、平和の象徴の鳥",
+    "genre": "culture"
+  },
+  {
+    "answer": "カラス",
+    "clue": "「烏」と書く、黒い鳥",
+    "genre": "culture"
+  },
+  {
+    "answer": "タカ",
+    "clue": "「鷹」と書く、狩りに使う鳥",
+    "genre": "culture"
+  },
+  {
+    "answer": "ウグイス",
+    "clue": "「鶯」と書く、春に鳴く鳥",
+    "genre": "culture"
+  },
+  {
+    "answer": "ニワトリ",
+    "clue": "「鶏」と書く、卵を産む鳥",
+    "genre": "culture"
+  },
+  {
+    "answer": "アヒル",
+    "clue": "「家鴨」と書く水鳥",
+    "genre": "culture"
+  },
+  {
+    "answer": "サンシスイメイ",
+    "clue": "自然の景色が美しいこと（山紫水明）",
+    "genre": "culture"
+  },
+  {
+    "answer": "イシンデンシン",
+    "clue": "言葉なく心が通じること（以心伝心）",
+    "genre": "culture"
+  },
+  {
+    "answer": "イチゴイチエ",
+    "clue": "一生に一度の出会い（一期一会）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ジガジサン",
+    "clue": "自分で自分をほめること（自画自賛）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ジュウニントイロ",
+    "clue": "人それぞれ好みが違うこと（十人十色）",
+    "genre": "culture"
+  },
+  {
+    "answer": "イチモウダジン",
+    "clue": "一度に全部を捕らえること（一網打尽）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ニッシンゲッポ",
+    "clue": "絶えず進歩すること（日進月歩）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ハッポウビジン",
+    "clue": "誰にでも愛想よくすること（八方美人）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ガデンインスイ",
+    "clue": "自分に都合よくすること（我田引水）",
+    "genre": "culture"
+  },
+  {
+    "answer": "イクドウオン",
+    "clue": "みなが同じことを言うこと（異口同音）",
+    "genre": "culture"
+  },
+  {
+    "answer": "サルモキカラ",
+    "clue": "「○○木から落ちる」＝名人も失敗する（猿も木から落ちる）",
+    "genre": "culture"
+  },
+  {
+    "answer": "トラヌタヌキ",
+    "clue": "「○○の皮算用」＝当てにならない計算（捕らぬ狸の皮算用）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ハナヨリダンゴ",
+    "clue": "風流より実利を選ぶこと（花より団子）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ナナコロビ",
+    "clue": "「○○八起き」＝何度失敗しても立ち上がる（七転び八起き）",
+    "genre": "culture"
+  },
+  {
+    "answer": "イソガバマワレ",
+    "clue": "急ぐときほど確実な道を（急がば回れ）",
+    "genre": "culture"
+  },
+  {
+    "answer": "センリノミチモ",
+    "clue": "「○○一歩から」＝大事も小さな一歩から（千里の道も一歩から）",
+    "genre": "culture"
+  },
+  {
+    "answer": "チリモツモレバ",
+    "clue": "「○○山となる」＝小さくても積もれば大きい（塵も積もれば山となる）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ゴウニイレバ",
+    "clue": "「○○郷に従え」＝その土地の習慣に従う（郷に入れば郷に従え）",
+    "genre": "culture"
+  },
+  {
+    "answer": "アタマカクシテ",
+    "clue": "「○○尻隠さず」＝一部だけ隠して全部隠したつもり（頭隠して尻隠さず）",
+    "genre": "culture"
+  },
+  {
+    "answer": "イヌモアルケバ",
+    "clue": "「○○棒に当たる」＝何かすれば思わぬ幸運（犬も歩けば棒に当たる）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ニカイカラ",
+    "clue": "「○○目薬」＝効き目がないこと（二階から目薬）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ノレンニウデオシ",
+    "clue": "手応えがないことのたとえ（暖簾に腕押し）",
+    "genre": "culture"
+  },
+  {
+    "answer": "タデクウムシ",
+    "clue": "「○○も好き好き」＝人の好みはさまざま（蓼食う虫も好き好き）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ノドモトスギレバ",
+    "clue": "「○○熱さを忘れる」＝苦難も過ぎれば忘れる（喉元過ぎれば熱さを忘れる）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ライオン",
+    "clue": "百獣の王と呼ばれる動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "サクラ",
+    "clue": "春にピンクの花を咲かせる日本の代表的な木",
+    "genre": "nature"
+  },
+  {
+    "answer": "ゾウ",
+    "clue": "鼻が長い陸上最大の動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "パンダ",
+    "clue": "白黒の模様で笹を食べる動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "コアラ",
+    "clue": "ユーカリの葉を食べる有袋類",
+    "genre": "nature"
+  },
+  {
+    "answer": "ウサギ",
+    "clue": "長い耳で跳ねる小動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "リス",
+    "clue": "どんぐりを好む、しっぽの大きい小動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "カバ",
+    "clue": "水辺で過ごす、大きな口の動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "ペンギン",
+    "clue": "南極にすむ飛べない鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "クジラ",
+    "clue": "海にすむ最大級の哺乳類",
+    "genre": "nature"
+  },
+  {
+    "answer": "カメ",
+    "clue": "甲羅を持つ、ゆっくり歩く生き物",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヘビ",
+    "clue": "体が細長く足のない爬虫類",
+    "genre": "nature"
+  },
+  {
+    "answer": "ワシ",
+    "clue": "鋭いくちばしの大型の猛禽",
+    "genre": "nature"
+  },
+  {
+    "answer": "フクロウ",
+    "clue": "夜に活動する丸い顔の鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "チョウ",
+    "clue": "花の蜜を吸う、羽の美しい昆虫",
+    "genre": "nature"
+  },
+  {
+    "answer": "タンポポ",
+    "clue": "黄色い花の後に綿毛を飛ばす草",
+    "genre": "nature"
+  },
+  {
+    "answer": "バラ",
+    "clue": "とげのある美しい花の代表",
+    "genre": "nature"
+  },
+  {
+    "answer": "チューリップ",
+    "clue": "春に咲く、球根から育つ花",
+    "genre": "nature"
+  },
+  {
+    "answer": "マツ",
+    "clue": "常緑で、正月飾りにも使う木",
+    "genre": "nature"
+  },
+  {
+    "answer": "タケ",
+    "clue": "まっすぐ伸びる、節のある植物",
+    "genre": "nature"
+  },
+  {
+    "answer": "モミジ",
+    "clue": "秋に赤く色づく木",
+    "genre": "nature"
+  },
+  {
+    "answer": "スギ",
+    "clue": "花粉症で知られる、まっすぐな木",
+    "genre": "nature"
+  },
+  {
+    "answer": "キツネ",
+    "clue": "コンとも鳴く、しっぽの大きい動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "サル",
+    "clue": "木に登るのが得意な、人に近い動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "トラ",
+    "clue": "黄色と黒の縞模様の大型のネコ科",
+    "genre": "nature"
+  },
+  {
+    "answer": "クマ",
+    "clue": "冬眠することで知られる大きな動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "シマウマ",
+    "clue": "白黒の縞模様の草食動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "カンガルー",
+    "clue": "腹の袋で子を育てる動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "サイ",
+    "clue": "鼻に角のある大型の動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "チーター",
+    "clue": "最も速く走る肉食獣",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヒョウ",
+    "clue": "斑点模様のしなやかな肉食獣",
+    "genre": "nature"
+  },
+  {
+    "answer": "ゴリラ",
+    "clue": "群れで暮らす大型の類人猿",
+    "genre": "nature"
+  },
+  {
+    "answer": "チンパンジー",
+    "clue": "道具を使う賢い類人猿",
+    "genre": "nature"
+  },
+  {
+    "answer": "ナマケモノ",
+    "clue": "木にぶら下がりゆっくり動く動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "アライグマ",
+    "clue": "食べ物を洗うしぐさで知られる動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "ハリネズミ",
+    "clue": "背中に針を持つ小動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "カワウソ",
+    "clue": "川や海辺で泳ぐ動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "アザラシ",
+    "clue": "氷の上で休む海の哺乳類",
+    "genre": "nature"
+  },
+  {
+    "answer": "セイウチ",
+    "clue": "大きな牙を持つ海の動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "シャチ",
+    "clue": "黒白の大型の海の捕食者",
+    "genre": "nature"
+  },
+  {
+    "answer": "サメ",
+    "clue": "鋭い歯を持つ海の魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "エイ",
+    "clue": "平たい体で泳ぐ魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "マグロ",
+    "clue": "大きく速く泳ぐ青魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "クマノミ",
+    "clue": "イソギンチャクと暮らす魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "タツノオトシゴ",
+    "clue": "馬のような顔の小さな魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヒトデ",
+    "clue": "星の形をした海の生き物",
+    "genre": "nature"
+  },
+  {
+    "answer": "ウニ",
+    "clue": "とげに覆われた海の生き物",
+    "genre": "nature"
+  },
+  {
+    "answer": "イモリ",
+    "clue": "水辺にすむ赤い腹の両生類",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヤモリ",
+    "clue": "家の壁に現れる小さな爬虫類",
+    "genre": "nature"
+  },
+  {
+    "answer": "トカゲ",
+    "clue": "細長い体の小さな爬虫類",
+    "genre": "nature"
+  },
+  {
+    "answer": "カメレオン",
+    "clue": "体の色を変える爬虫類",
+    "genre": "nature"
+  },
+  {
+    "answer": "ダチョウ",
+    "clue": "飛べない世界最大の鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "フラミンゴ",
+    "clue": "ピンク色の脚の長い鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "ツバメ",
+    "clue": "春に来て巣を作る渡り鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "カモメ",
+    "clue": "海辺を飛ぶ白い鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "キツツキ",
+    "clue": "木をつついて穴をあける鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "インコ",
+    "clue": "言葉をまねる色鮮やかな鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "ハチドリ",
+    "clue": "空中で止まれる小さな鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "テントウムシ",
+    "clue": "赤い体に黒い点の昆虫",
+    "genre": "nature"
+  },
+  {
+    "answer": "カブトムシ",
+    "clue": "角を持つ人気の昆虫",
+    "genre": "nature"
+  },
+  {
+    "answer": "クワガタ",
+    "clue": "大あごを持つ昆虫",
+    "genre": "nature"
+  },
+  {
+    "answer": "バッタ",
+    "clue": "草むらで跳ねる昆虫",
+    "genre": "nature"
+  },
+  {
+    "answer": "ホタル",
+    "clue": "夜に光る昆虫",
+    "genre": "nature"
+  },
+  {
+    "answer": "ユリ",
+    "clue": "大きく香りのよい花",
+    "genre": "nature"
+  },
+  {
+    "answer": "アヤメ",
+    "clue": "初夏に咲く紫の花",
+    "genre": "nature"
+  },
+  {
+    "answer": "スイセン",
+    "clue": "冬から春に咲く白い花",
+    "genre": "nature"
+  },
+  {
+    "answer": "コスモス",
+    "clue": "秋に咲く可憐な花",
+    "genre": "nature"
+  },
+  {
+    "answer": "キク",
+    "clue": "秋を代表する花",
+    "genre": "nature"
+  },
+  {
+    "answer": "ウメ",
+    "clue": "早春に香る花",
+    "genre": "nature"
+  },
+  {
+    "answer": "モモ",
+    "clue": "春に桃色の花を咲かせる木",
+    "genre": "nature"
+  },
+  {
+    "answer": "フジ",
+    "clue": "房状に垂れ下がる紫の花",
+    "genre": "nature"
+  },
+  {
+    "answer": "レンゲ",
+    "clue": "田に咲く春の花",
+    "genre": "nature"
+  },
+  {
+    "answer": "スズラン",
+    "clue": "鈴のような白い小花",
+    "genre": "nature"
+  },
+  {
+    "answer": "カーネーション",
+    "clue": "母の日に贈る花",
+    "genre": "nature"
+  },
+  {
+    "answer": "ラベンダー",
+    "clue": "香りのよい紫の花",
+    "genre": "nature"
+  },
+  {
+    "answer": "ハス",
+    "clue": "池に咲く大きな花",
+    "genre": "nature"
+  },
+  {
+    "answer": "スミレ",
+    "clue": "道端に咲く小さな紫の花",
+    "genre": "nature"
+  },
+  {
+    "answer": "ナノハナ",
+    "clue": "春に一面を黄色に染める花",
+    "genre": "nature"
+  },
+  {
+    "answer": "クローバー",
+    "clue": "四つ葉が幸運とされる草",
+    "genre": "nature"
+  },
+  {
+    "answer": "シダ",
+    "clue": "胞子でふえる緑の植物",
+    "genre": "nature"
+  },
+  {
+    "answer": "コケ",
+    "clue": "湿った所に生える小さな植物",
+    "genre": "nature"
+  },
+  {
+    "answer": "ケヤキ",
+    "clue": "街路樹に多い大きな木",
+    "genre": "nature"
+  },
+  {
+    "answer": "カエデ",
+    "clue": "秋に紅葉する木",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヤシ",
+    "clue": "南国に育つ木",
+    "genre": "nature"
+  },
+  {
+    "answer": "サボテン",
+    "clue": "とげを持つ乾燥地の植物",
+    "genre": "nature"
+  },
+  {
+    "answer": "アサガオ",
+    "clue": "夏の朝に咲くつる性の花",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヒマワリ",
+    "clue": "夏に大きな黄色い花を咲かせる",
+    "genre": "nature"
+  },
+  {
+    "answer": "イチョウ",
+    "clue": "秋に黄色く色づく木",
+    "genre": "nature"
+  },
+  {
+    "answer": "タイヨウチョウ",
+    "clue": "蜜を吸う、金属光沢の小さな鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "オットセイ",
+    "clue": "ひれ足で泳ぐ海の哺乳類",
+    "genre": "nature"
+  },
+  {
+    "answer": "ジュゴン",
+    "clue": "人魚のモデルともされる海の動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "ミツバチ",
+    "clue": "蜜を集めて巣に蓄える昆虫",
+    "genre": "nature"
+  },
+  {
+    "answer": "カタクリ",
+    "clue": "春先に下向きに咲く紫の花",
+    "genre": "nature"
+  },
+  {
+    "answer": "ツツジ",
+    "clue": "春に赤や白の花を咲かせる低木",
+    "genre": "nature"
+  },
+  {
+    "answer": "アニメ",
+    "clue": "日本発祥の、絵を動かした映像作品",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "マンガ",
+    "clue": "絵とコマで物語を描く出版物",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ゲーム",
+    "clue": "コントローラーなどで遊ぶ娯楽",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ヒーロー",
+    "clue": "悪と戦う正義の主人公",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ロボット",
+    "clue": "SF作品によく登場する機械の人型",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "アイドル",
+    "clue": "歌やダンスで活躍する人気者",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ライブ",
+    "clue": "観客の前で行う音楽の生演奏",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "カラオケ",
+    "clue": "伴奏に合わせて歌う娯楽",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "エイガ",
+    "clue": "映画館で観る映像作品",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ドラマ",
+    "clue": "連続で放送される物語番組",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "コント",
+    "clue": "短い笑いの寸劇",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "マンザイ",
+    "clue": "ボケとツッコミの掛け合いお笑い",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "リモコン",
+    "clue": "テレビなどを離れて操作する機器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "サントラ",
+    "clue": "作品の挿入曲を集めた音源",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "コスプレ",
+    "clue": "好きなキャラの衣装を着る遊び",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "フィギュア",
+    "clue": "キャラクターを立体化した模型",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ガチャ",
+    "clue": "カプセル玩具、または抽選の俗称",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "シナリオ",
+    "clue": "物語の筋書き・脚本",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "セリフ",
+    "clue": "登場人物が話す言葉",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ヒロイン",
+    "clue": "物語の女性主人公",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ボス",
+    "clue": "ゲーム終盤に現れる強敵",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "レベル",
+    "clue": "ゲームで上がる強さの段階",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "アイテム",
+    "clue": "ゲーム中で手に入れる道具",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ステージ",
+    "clue": "ゲームの各場面・面",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "コントローラー",
+    "clue": "ゲーム機を操作する機器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "オープニング",
+    "clue": "番組や作品の冒頭の映像・曲",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "エンディング",
+    "clue": "作品の結末・終わりの場面",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ジャンプ",
+    "clue": "多くの人気漫画を載せる少年誌の代表的呼称",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "キャラクター",
+    "clue": "作品に登場する人物",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ストーリー",
+    "clue": "物語の筋",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "プロット",
+    "clue": "物語の構成",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "クライマックス",
+    "clue": "物語の最高潮の場面",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ナレーション",
+    "clue": "場面を説明する語り",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "テロップ",
+    "clue": "画面に出る文字",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "エキストラ",
+    "clue": "背景に映る出演者",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "カメオ",
+    "clue": "有名人の特別出演",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "オーディション",
+    "clue": "出演者を選ぶ審査",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "デビュー",
+    "clue": "初めて世に出ること",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ブレイク",
+    "clue": "急に人気が出ること",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ファンクラブ",
+    "clue": "愛好者の集まり",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "サイン",
+    "clue": "有名人の自筆の署名",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "アンコール",
+    "clue": "演奏後の追加の求め",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ゲイメイ",
+    "clue": "芸能人の活動上の名前（芸名）",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "デュエット",
+    "clue": "二人で歌うこと",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "バラード",
+    "clue": "ゆっくりした感動的な曲",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "メロディー",
+    "clue": "曲の旋律",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "リズム",
+    "clue": "音楽の拍子",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ボーカル",
+    "clue": "歌を担当する人",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ギター",
+    "clue": "弦をはじく楽器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ドラム",
+    "clue": "たたいて鳴らす打楽器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ベース",
+    "clue": "低音を担当する弦楽器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ピアノ",
+    "clue": "鍵盤で奏でる楽器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "バンド",
+    "clue": "複数で演奏する音楽グループ",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ヒットチャート",
+    "clue": "売れた曲の順位表",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ミュージックビデオ",
+    "clue": "曲に合わせた映像",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ヘッドホン",
+    "clue": "耳に当てて聴く機器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "イヤホン",
+    "clue": "耳に入れて聴く小型機器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "スピーカー",
+    "clue": "音を出す装置",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "マイク",
+    "clue": "声を拾う機器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "スポットライト",
+    "clue": "一点を照らす舞台の照明",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ミュージカル",
+    "clue": "歌と踊りの舞台劇",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "オペラ",
+    "clue": "歌で演じる西洋の舞台",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "バレエ",
+    "clue": "つま先で踊る舞踊",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "サーカス",
+    "clue": "曲芸を見せる興行",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "マジック",
+    "clue": "手品・奇術",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ダンス",
+    "clue": "音楽に合わせて踊ること",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "リハーサル",
+    "clue": "本番前の練習",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "スタジオ",
+    "clue": "収録や撮影をする場所",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ロケ",
+    "clue": "屋外などでの撮影",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "カメラ",
+    "clue": "映像を撮る機器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "モニター",
+    "clue": "映像を映す画面",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "エフェクト",
+    "clue": "映像や音の効果",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "アクション",
+    "clue": "激しい動きの場面",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "スタント",
+    "clue": "危険な演技の代役",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ホラー",
+    "clue": "恐怖を描く作品",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "コメディー",
+    "clue": "笑いを描く作品",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ミステリー",
+    "clue": "謎解きを描く作品",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ファンタジー",
+    "clue": "空想の世界を描く作品",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ラブストーリー",
+    "clue": "恋愛を描く物語",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "シューティング",
+    "clue": "撃ち合うジャンルのゲーム",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ロールプレイング",
+    "clue": "役になり冒険するゲーム",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "セーブ",
+    "clue": "ゲームの進行を記録すること",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "クリア",
+    "clue": "ゲームを解き終えること",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "リセット",
+    "clue": "最初からやり直すこと",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "コンティニュー",
+    "clue": "続きから再開すること",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ハイスコア",
+    "clue": "最高得点",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ライバル",
+    "clue": "競い合う相手",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "パーティー",
+    "clue": "一緒に冒険する仲間",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ダンジョン",
+    "clue": "探索する迷宮",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "クエスト",
+    "clue": "達成すべき任務",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "バトル",
+    "clue": "戦闘の場面",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "スキル",
+    "clue": "キャラの特殊な技",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "エンカウント",
+    "clue": "敵との遭遇",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ラスボス",
+    "clue": "最後に戦う強敵",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "エンドロール",
+    "clue": "終わりに流れる出演者名",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "スクリーン",
+    "clue": "映画を映す大きな幕",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "チケット",
+    "clue": "公演や映画を観るための券",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "プロデューサー",
+    "clue": "作品の制作を統括する責任者",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "カントク",
+    "clue": "映画やドラマの演出責任者",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ヤクシャ",
+    "clue": "役を演じる人",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ハクサイ",
+    "clue": "鍋に使う大きな白い葉野菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ネギ",
+    "clue": "薬味に使う細長い緑の野菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "モヤシ",
+    "clue": "安くてシャキシャキの発芽野菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "イシノウエニモ",
+    "clue": "「○○三年」＝辛抱すれば報われる（石の上にも三年）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ナクツラニハチ",
+    "clue": "不運が重なること（泣きっ面に蜂）",
+    "genre": "culture"
+  },
+  {
+    "answer": "アブハチトラズ",
+    "clue": "欲張ると両方失うこと（虻蜂取らず）",
+    "genre": "culture"
+  },
+  {
+    "answer": "オニニカナボウ",
+    "clue": "強い者がさらに強くなること（鬼に金棒）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ネミミニミズ",
+    "clue": "不意の出来事に驚くこと（寝耳に水）",
+    "genre": "culture"
+  },
+  {
+    "answer": "アシカ",
+    "clue": "芸をすることもある海の哺乳類",
+    "genre": "nature"
+  },
+  {
+    "answer": "ラッコ",
+    "clue": "貝を石で割って食べる海の動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "カワセミ",
+    "clue": "水辺で魚をとる青い鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "メダカ",
+    "clue": "小川にすむ小さな魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "キンギョ",
+    "clue": "飼育される赤い観賞魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "ドングリ",
+    "clue": "ナラやカシの木の実",
+    "genre": "nature"
+  },
+  {
+    "answer": "チャンネルガチャ",
+    "clue": "昔のテレビを回して選局したつまみ",
+    "genre": "showa"
+  },
+  {
+    "answer": "ブースター",
+    "clue": "ラジコンや電波を強める昭和の機器",
+    "genre": "showa"
+  },
+  {
+    "answer": "テレビゲーム",
+    "clue": "ブラウン管につないで遊んだ昔の家庭用遊戯",
+    "genre": "showa"
+  },
+  {
+    "answer": "ゲームウォッチ",
+    "clue": "任天堂が出した携帯型の液晶ゲーム",
+    "genre": "showa"
+  },
+  {
+    "answer": "メガドライブ",
+    "clue": "セガが出した16ビットの家庭用ゲーム機",
+    "genre": "showa"
+  },
+  {
+    "answer": "スーファミ",
+    "clue": "スーパーファミコンの略称",
+    "genre": "showa"
+  },
+  {
+    "answer": "ピーシーエンジン",
+    "clue": "ハドソンとNECの家庭用ゲーム機",
+    "genre": "showa"
+  },
+  {
+    "answer": "セガサターン",
+    "clue": "セガが出した平成の家庭用ゲーム機",
+    "genre": "showa"
+  },
+  {
+    "answer": "プレステ",
+    "clue": "ソニーの家庭用ゲーム機の略称",
+    "genre": "showa"
+  },
+  {
+    "answer": "バーチャルボーイ",
+    "clue": "赤い映像で話題になった任天堂のゲーム機",
+    "genre": "showa"
+  },
+  {
+    "answer": "ニンテンドウロクヨン",
+    "clue": "コントローラに三本足があった任天堂機",
+    "genre": "showa"
+  },
+  {
+    "answer": "ドリームキャスト",
+    "clue": "セガ最後の家庭用ゲーム機",
+    "genre": "showa"
+  },
+  {
+    "answer": "ワンダースワン",
+    "clue": "バンダイが出した縦持ちもできる携帯ゲーム機",
+    "genre": "showa"
+  },
+  {
+    "answer": "ネオジオ",
+    "clue": "高価だったSNKの家庭用ゲーム機",
+    "genre": "showa"
+  },
+  {
+    "answer": "メモリーカード",
+    "clue": "ゲームのセーブを保存した小さな記録媒体",
+    "genre": "showa"
+  },
+  {
+    "answer": "コントロールパッド",
+    "clue": "ゲーム機を操作する手持ちの装置",
+    "genre": "showa"
+  },
+  {
+    "answer": "アーケード",
+    "clue": "ゲームセンターに置かれた業務用筐体",
+    "genre": "showa"
+  },
+  {
+    "answer": "モグラタタキ",
+    "clue": "出てくる人形を叩くゲームセンターの遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "クレーンゲーム",
+    "clue": "アームで景品をつかむゲーム機",
+    "genre": "showa"
+  },
+  {
+    "answer": "エアホッケー",
+    "clue": "風で浮く円盤を打ち合う台のゲーム",
+    "genre": "showa"
+  },
+  {
+    "answer": "メダルゲーム",
+    "clue": "貸しメダルで遊ぶゲームセンターの遊技",
+    "genre": "showa"
+  },
+  {
+    "answer": "パチンコ",
+    "clue": "玉をはじいて遊ぶ大衆娯楽の機械",
+    "genre": "showa"
+  },
+  {
+    "answer": "スロット",
+    "clue": "絵柄をそろえるパチンコ店の機械",
+    "genre": "showa"
+  },
+  {
+    "answer": "ガシャポン",
+    "clue": "コインを入れて回すカプセル玩具",
+    "genre": "showa"
+  },
+  {
+    "answer": "シール",
+    "clue": "ノートや下敷きに貼って集めた粘着の絵",
+    "genre": "showa"
+  },
+  {
+    "answer": "キンケシケシ",
+    "clue": "キン肉マンの消しゴム人形（俗称）",
+    "genre": "showa"
+  },
+  {
+    "answer": "スーパーボール",
+    "clue": "よく弾む小さなゴムの玉",
+    "genre": "showa"
+  },
+  {
+    "answer": "クッピーラムネ",
+    "clue": "魚や果物の形をした駄菓子のラムネ",
+    "genre": "showa"
+  },
+  {
+    "answer": "ヨーグル",
+    "clue": "木のへらですくう駄菓子の練り菓子",
+    "genre": "showa"
+  },
+  {
+    "answer": "モロッコヨーグル",
+    "clue": "小さな容器に入った駄菓子の練り菓子",
+    "genre": "showa"
+  },
+  {
+    "answer": "ウメジャム",
+    "clue": "練って食べた酸っぱい駄菓子",
+    "genre": "showa"
+  },
+  {
+    "answer": "フエガム",
+    "clue": "噛みながら笛のように鳴らせるガム",
+    "genre": "showa"
+  },
+  {
+    "answer": "クジ",
+    "clue": "駄菓子屋で当たりを狙って引いた紙",
+    "genre": "showa"
+  },
+  {
+    "answer": "ベビースターラーメン",
+    "clue": "そのまま食べる細い乾麺の駄菓子",
+    "genre": "showa"
+  },
+  {
+    "answer": "ウマイボウ",
+    "clue": "棒状で味が豊富な定番の駄菓子",
+    "genre": "showa"
+  },
+  {
+    "answer": "キャベツタロウ",
+    "clue": "ソース味の丸い駄菓子スナック",
+    "genre": "showa"
+  },
+  {
+    "answer": "ヤッターメン",
+    "clue": "当たりが出る袋入りの駄菓子スナック",
+    "genre": "showa"
+  },
+  {
+    "answer": "スルメ",
+    "clue": "噛むほど味が出るイカの干物の駄菓子",
+    "genre": "showa"
+  },
+  {
+    "answer": "ナガイモノ",
+    "clue": "ひも状で口に詰めて食べた駄菓子の俗称",
+    "genre": "showa"
+  },
+  {
+    "answer": "チョコバット",
+    "clue": "バットの形をしたチョコの駄菓子",
+    "genre": "showa"
+  },
+  {
+    "answer": "マーブルチョコ",
+    "clue": "筒に入った色とりどりの粒チョコ",
+    "genre": "showa"
+  },
+  {
+    "answer": "ペロペロキャンディ",
+    "clue": "渦巻き模様の大きな棒付きあめ",
+    "genre": "showa"
+  },
+  {
+    "answer": "アメダマ",
+    "clue": "口に入れて長く舐めた丸いあめ",
+    "genre": "showa"
+  },
+  {
+    "answer": "カンロアメ",
+    "clue": "しょうゆ風味の昔ながらのあめ",
+    "genre": "showa"
+  },
+  {
+    "answer": "ボンタンアメ",
+    "clue": "オブラートに包まれた柑橘風味の餅菓子",
+    "genre": "showa"
+  },
+  {
+    "answer": "ミルキー",
+    "clue": "ペコちゃんで知られるソフトキャンディ",
+    "genre": "showa"
+  },
+  {
+    "answer": "チェルシー",
+    "clue": "スコッチ風味で知られた四角いあめ",
+    "genre": "showa"
+  },
+  {
+    "answer": "ボンボン",
+    "clue": "中に洋酒やシロップが入った丸い菓子",
+    "genre": "showa"
+  },
+  {
+    "answer": "コーラガム",
+    "clue": "コーラの味がした板状のガム",
+    "genre": "showa"
+  },
+  {
+    "answer": "フウセンガム",
+    "clue": "膨らませて遊べるガム",
+    "genre": "showa"
+  },
+  {
+    "answer": "ジューC",
+    "clue": "ラムネのような粒のお菓子",
+    "genre": "showa"
+  },
+  {
+    "answer": "ハイチュウ",
+    "clue": "噛みごたえのあるフルーツ味のソフトキャンディ",
+    "genre": "showa"
+  },
+  {
+    "answer": "サクマドロップ",
+    "clue": "缶に入った色とりどりの固いあめ",
+    "genre": "showa"
+  },
+  {
+    "answer": "カルミン",
+    "clue": "細長い箱に入った清涼菓子",
+    "genre": "showa"
+  },
+  {
+    "answer": "ココアシガレット",
+    "clue": "たばこに見立てた細長い駄菓子",
+    "genre": "showa"
+  },
+  {
+    "answer": "グリコ",
+    "clue": "おまけが付いたキャラメルでおなじみの菓子",
+    "genre": "showa"
+  },
+  {
+    "answer": "オマケ",
+    "clue": "お菓子に付いてきた小さなおもちゃ",
+    "genre": "showa"
+  },
+  {
+    "answer": "ポンジュース",
+    "clue": "愛媛で生まれた柑橘の飲み物",
+    "genre": "showa"
+  },
+  {
+    "answer": "プラッシー",
+    "clue": "米屋で売られた果汁入りの飲み物",
+    "genre": "showa"
+  },
+  {
+    "answer": "ファンタ",
+    "clue": "フルーツ味で人気の炭酸飲料",
+    "genre": "showa"
+  },
+  {
+    "answer": "ミリンダ",
+    "clue": "昭和に売られた炭酸飲料の銘柄",
+    "genre": "showa"
+  },
+  {
+    "answer": "バヤリース",
+    "clue": "オレンジ果汁で知られた飲み物",
+    "genre": "showa"
+  },
+  {
+    "answer": "カルピス",
+    "clue": "薄めて飲む白い乳酸飲料",
+    "genre": "showa"
+  },
+  {
+    "answer": "ネクター",
+    "clue": "とろりとした桃の果汁飲料",
+    "genre": "showa"
+  },
+  {
+    "answer": "デルモンテ",
+    "clue": "果汁やケチャップで知られた食品ブランド",
+    "genre": "showa"
+  },
+  {
+    "answer": "サクレ",
+    "clue": "レモンの輪切りがのった氷菓",
+    "genre": "showa"
+  },
+  {
+    "answer": "ガリガリクン",
+    "clue": "棒付きのかき氷タイプのアイス",
+    "genre": "showa"
+  },
+  {
+    "answer": "チューチュー",
+    "clue": "細い容器を凍らせて食べるアイス菓子",
+    "genre": "showa"
+  },
+  {
+    "answer": "パピコ",
+    "clue": "二本に分けて食べる凍らせたアイス",
+    "genre": "showa"
+  },
+  {
+    "answer": "ホームランバー",
+    "clue": "当たりが出る棒付きのアイス",
+    "genre": "showa"
+  },
+  {
+    "answer": "ジャイアントコーン",
+    "clue": "コーンに入ったチョコがけのアイス",
+    "genre": "showa"
+  },
+  {
+    "answer": "アイスクリン",
+    "clue": "昭和の素朴な味わいの氷菓",
+    "genre": "showa"
+  },
+  {
+    "answer": "デンキブラン",
+    "clue": "浅草の老舗で有名なカクテル風の飲み物",
+    "genre": "showa"
+  },
+  {
+    "answer": "ビードロ",
+    "clue": "吹くと音が鳴るガラスの玩具",
+    "genre": "showa"
+  },
+  {
+    "answer": "シャボンダマ",
+    "clue": "石けん水を吹いて作る泡の玉",
+    "genre": "showa"
+  },
+  {
+    "answer": "スマートボール",
+    "clue": "玉を弾いて穴に入れる縁日の遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "カタヌキ",
+    "clue": "型に沿って割らず抜く縁日の遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "ヨーヨーツリ",
+    "clue": "水に浮く風船を釣る縁日の遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "キンギョスクイ",
+    "clue": "ポイで金魚をすくう縁日の遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "ワナゲ",
+    "clue": "輪を投げて的に掛ける遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "シャテキ",
+    "clue": "コルク弾で景品を狙う縁日の遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "アタリクジ",
+    "clue": "縁日で景品を狙って引いた紙",
+    "genre": "showa"
+  },
+  {
+    "answer": "ワタガシ",
+    "clue": "ざらめを溶かして作る縁日の甘い菓子",
+    "genre": "showa"
+  },
+  {
+    "answer": "リンゴアメ",
+    "clue": "あめでコーティングした縁日の果物",
+    "genre": "showa"
+  },
+  {
+    "answer": "アンズアメ",
+    "clue": "棒に刺してあめをからめた縁日の果物",
+    "genre": "showa"
+  },
+  {
+    "answer": "ベッコウアメ",
+    "clue": "砂糖を煮詰めて作る茶色いあめ",
+    "genre": "showa"
+  },
+  {
+    "answer": "カルメヤキ",
+    "clue": "重曹で膨らませる縁日の素朴な菓子",
+    "genre": "showa"
+  },
+  {
+    "answer": "イカヤキ",
+    "clue": "縁日でしょうゆ味に焼くイカ",
+    "genre": "showa"
+  },
+  {
+    "answer": "ハッカパイプ",
+    "clue": "ひんやりした味のおもちゃのパイプ菓子",
+    "genre": "showa"
+  },
+  {
+    "answer": "ヒモノクジ",
+    "clue": "ひもを引いて景品を当てた駄菓子屋のくじ",
+    "genre": "showa"
+  },
+  {
+    "answer": "メンコアソビ",
+    "clue": "絵札を地面で打ち付け合った遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "ビーダマアソビ",
+    "clue": "ガラス玉をはじいて当てる遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "ゴムダン",
+    "clue": "輪ゴムをつないで跳んだ遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "ケンパ",
+    "clue": "地面の枠を片足や両足で跳ぶ遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "ハンカチオトシ",
+    "clue": "輪になって座り背後に布を落とす遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "ダルマサンガコロンダ",
+    "clue": "鬼が振り向く前に近づく遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "カゴメ",
+    "clue": "輪になって歌いながら遊ぶ昔の遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "オシクラマンジュウ",
+    "clue": "背中で押し合って温まる遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "ウマトビ",
+    "clue": "屈んだ人を跳び越す遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "エスケン",
+    "clue": "地面にS字を描いて陣地を取り合う遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "ドロケイ",
+    "clue": "泥棒と警察に分かれる鬼ごっこ",
+    "genre": "showa"
+  },
+  {
+    "answer": "カクレンボ",
+    "clue": "隠れた人を鬼が探す遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "オニゴッコ",
+    "clue": "鬼が逃げる人を追いかける遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "ハナイチモンメ",
+    "clue": "向き合い歌いながら人を取り合う遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "ゴムボール",
+    "clue": "公園遊びの定番だった柔らかい球",
+    "genre": "showa"
+  },
+  {
+    "answer": "ドッジボール",
+    "clue": "ボールを当て合って外野に出す遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "タケウマ",
+    "clue": "竹の棒に乗って歩く昔の遊具",
+    "genre": "showa"
+  },
+  {
+    "answer": "カミフウセン",
+    "clue": "膨らませてつく薄い紙の風船",
+    "genre": "showa"
+  },
+  {
+    "answer": "ペーパークラフト",
+    "clue": "紙を切り組み立てる工作",
+    "genre": "showa"
+  },
+  {
+    "answer": "プラモデル",
+    "clue": "接着剤で組み立てる組み立て模型",
+    "genre": "showa"
+  },
+  {
+    "answer": "ガンプラ",
+    "clue": "ガンダムのプラモデルの略称",
+    "genre": "showa"
+  },
+  {
+    "answer": "チョロキュー",
+    "clue": "後ろに引いて走らせる小さな車のおもちゃ",
+    "genre": "showa"
+  },
+  {
+    "answer": "リモコンカー",
+    "clue": "電波で操作して走らせる車のおもちゃ",
+    "genre": "showa"
+  },
+  {
+    "answer": "ラジコン",
+    "clue": "無線で操る模型の総称",
+    "genre": "showa"
+  },
+  {
+    "answer": "ミニカー",
+    "clue": "金属でできた小さな車の模型",
+    "genre": "showa"
+  },
+  {
+    "answer": "トミカ",
+    "clue": "タカラトミーの小さな車の玩具",
+    "genre": "showa"
+  },
+  {
+    "answer": "プラレール",
+    "clue": "青いレールで電車を走らせる玩具",
+    "genre": "showa"
+  },
+  {
+    "answer": "シルバニア",
+    "clue": "動物の家族と家で遊ぶ人形の玩具",
+    "genre": "showa"
+  },
+  {
+    "answer": "バービー",
+    "clue": "海外生まれの着せ替え人形",
+    "genre": "showa"
+  },
+  {
+    "answer": "ジェニー",
+    "clue": "日本でも人気の着せ替え人形",
+    "genre": "showa"
+  },
+  {
+    "answer": "ヌイグルミ",
+    "clue": "綿を詰めた柔らかい人形",
+    "genre": "showa"
+  },
+  {
+    "answer": "ソフビ",
+    "clue": "柔らかい塩化ビニル製のキャラ人形",
+    "genre": "showa"
+  },
+  {
+    "answer": "チョロチョロ",
+    "clue": "ぜんまいで動く昔の小さなおもちゃの俗称",
+    "genre": "showa"
+  },
+  {
+    "answer": "ブリキノオモチャ",
+    "clue": "薄い金属でできたぜんまい仕掛けの玩具",
+    "genre": "showa"
+  },
+  {
+    "answer": "デンチ",
+    "clue": "おもちゃを動かす電池",
+    "genre": "showa"
+  },
+  {
+    "answer": "マメデンキュウ",
+    "clue": "工作や懐中電灯に使った小さな電球",
+    "genre": "showa"
+  },
+  {
+    "answer": "ジシャク",
+    "clue": "鉄を引きつける磁石のおもちゃ",
+    "genre": "showa"
+  },
+  {
+    "answer": "ムシメガネ",
+    "clue": "日光を集めたり拡大して見る道具",
+    "genre": "showa"
+  },
+  {
+    "answer": "ボウエンキョウ",
+    "clue": "遠くの星や景色を見る筒の道具",
+    "genre": "showa"
+  },
+  {
+    "answer": "インスタントカメラ",
+    "clue": "撮ってすぐ写真が出るカメラ",
+    "genre": "showa"
+  },
+  {
+    "answer": "ハッショク",
+    "clue": "写真をその場で出す現像方式",
+    "genre": "showa"
+  },
+  {
+    "answer": "ゲンゾウ",
+    "clue": "フィルムを写真にする処理",
+    "genre": "showa"
+  },
+  {
+    "answer": "フィルム",
+    "clue": "昔のカメラで光を記録した感光体",
+    "genre": "showa"
+  },
+  {
+    "answer": "ハチミリ",
+    "clue": "家庭で使った小型の映画フィルム",
+    "genre": "showa"
+  },
+  {
+    "answer": "エイシャキ",
+    "clue": "フィルムを壁に映す機械",
+    "genre": "showa"
+  },
+  {
+    "answer": "ゲントウキ",
+    "clue": "絵やフィルムを映して見せた昔の装置",
+    "genre": "showa"
+  },
+  {
+    "answer": "テープレコーダー",
+    "clue": "磁気テープに音を録音する機械",
+    "genre": "showa"
+  },
+  {
+    "answer": "オープンリール",
+    "clue": "むき出しのテープで録音した装置",
+    "genre": "showa"
+  },
+  {
+    "answer": "ベータ",
+    "clue": "VHSと争ったビデオの方式",
+    "genre": "showa"
+  },
+  {
+    "answer": "ビデオテープ",
+    "clue": "番組を録画した磁気のテープ",
+    "genre": "showa"
+  },
+  {
+    "answer": "レンタルビデオ",
+    "clue": "店で借りて観たビデオ",
+    "genre": "showa"
+  },
+  {
+    "answer": "シーディー",
+    "clue": "デジタル音楽を記録した光の円盤",
+    "genre": "showa"
+  },
+  {
+    "answer": "エムディー",
+    "clue": "小さな四角い録音用の光磁気ディスク",
+    "genre": "showa"
+  },
+  {
+    "answer": "ディーブイディー",
+    "clue": "映像を記録した光の円盤",
+    "genre": "showa"
+  },
+  {
+    "answer": "ポータブルシーディー",
+    "clue": "持ち歩いて聴いたCDの再生機",
+    "genre": "showa"
+  },
+  {
+    "answer": "ミニコンポ",
+    "clue": "家庭で音楽を聴いた小型の音響装置",
+    "genre": "showa"
+  },
+  {
+    "answer": "ラジオ",
+    "clue": "電波で番組を聞く受信機",
+    "genre": "showa"
+  },
+  {
+    "answer": "トランジスタラジオ",
+    "clue": "小型化された持ち歩けるラジオ",
+    "genre": "showa"
+  },
+  {
+    "answer": "ハンドルアンテナ",
+    "clue": "テレビやラジオの電波を拾った棒",
+    "genre": "showa"
+  },
+  {
+    "answer": "ダイヤルテレビ",
+    "clue": "つまみで選局した昔のテレビ",
+    "genre": "showa"
+  },
+  {
+    "answer": "シロクロテレビ",
+    "clue": "色のない映像の昔のテレビ",
+    "genre": "showa"
+  },
+  {
+    "answer": "カラーテレビ",
+    "clue": "色がついた画期的だった頃のテレビ",
+    "genre": "showa"
+  },
+  {
+    "answer": "デンキガマ",
+    "clue": "ご飯を炊いた電気の釜",
+    "genre": "showa"
+  },
+  {
+    "answer": "トースター",
+    "clue": "パンをこんがり焼く電気の機械",
+    "genre": "showa"
+  },
+  {
+    "answer": "レンジ",
+    "clue": "食品を温める電子の調理機",
+    "genre": "showa"
+  },
+  {
+    "answer": "レイゾウコ",
+    "clue": "食品を冷やして保存する電化製品",
+    "genre": "showa"
+  },
+  {
+    "answer": "センタッキ",
+    "clue": "衣類を洗う家庭の電化製品",
+    "genre": "showa"
+  },
+  {
+    "answer": "ニソウシキ",
+    "clue": "洗いとすすぎが分かれた昔の洗濯機",
+    "genre": "showa"
+  },
+  {
+    "answer": "ダッスイキ",
+    "clue": "洗った衣類の水を絞った装置",
+    "genre": "showa"
+  },
+  {
+    "answer": "ソウジキ",
+    "clue": "ごみを吸い取る家庭の電化製品",
+    "genre": "showa"
+  },
+  {
+    "answer": "ストーブ",
+    "clue": "灯油などで部屋を暖める器具",
+    "genre": "showa"
+  },
+  {
+    "answer": "アンカ",
+    "clue": "布団の中を温めた昔の暖房具",
+    "genre": "showa"
+  },
+  {
+    "answer": "ユタンポ",
+    "clue": "湯を入れて布団を温める容器",
+    "genre": "showa"
+  },
+  {
+    "answer": "カイロ",
+    "clue": "ポケットに入れて温まる携帯の暖房具",
+    "genre": "showa"
+  },
+  {
+    "answer": "ハクネツトウ",
+    "clue": "フィラメントが光る昔ながらの電球",
+    "genre": "showa"
+  },
+  {
+    "answer": "ケイコウトウ",
+    "clue": "細長く白く光る照明",
+    "genre": "showa"
+  },
+  {
+    "answer": "ハエトリガミ",
+    "clue": "つるして虫をくっつける粘着の紙",
+    "genre": "showa"
+  },
+  {
+    "answer": "カトリセンコウ",
+    "clue": "渦巻き状で煙を出す夏の防虫具",
+    "genre": "showa"
+  },
+  {
+    "answer": "ブタノカヤリ",
+    "clue": "蚊取り線香を入れる豚形の陶器",
+    "genre": "showa"
+  },
+  {
+    "answer": "スダレ",
+    "clue": "夏に日よけで吊るした細い竹の簾",
+    "genre": "showa"
+  },
+  {
+    "answer": "フウリン",
+    "clue": "風に揺れて涼しげな音を出す吊り鈴",
+    "genre": "showa"
+  },
+  {
+    "answer": "ウチワ",
+    "clue": "あおいで涼む丸い柄付きの道具",
+    "genre": "showa"
+  },
+  {
+    "answer": "センス",
+    "clue": "折りたたんで持ち歩く扇ぐ道具",
+    "genre": "showa"
+  },
+  {
+    "answer": "ムシカゴ",
+    "clue": "捕った昆虫を入れる籠",
+    "genre": "showa"
+  },
+  {
+    "answer": "ムシトリアミ",
+    "clue": "昆虫を捕まえる柄の付いた網",
+    "genre": "showa"
+  },
+  {
+    "answer": "ラジオタイソウ",
+    "clue": "夏休みの朝にみんなで体を動かした運動",
+    "genre": "showa"
+  },
+  {
+    "answer": "スタンプカード",
+    "clue": "ラジオ体操で押してもらった出席の紙",
+    "genre": "showa"
+  },
+  {
+    "answer": "アサガオカンサツ",
+    "clue": "夏休みの宿題で記録した植物の成長",
+    "genre": "showa"
+  },
+  {
+    "answer": "ジユウケンキュウ",
+    "clue": "夏休みに各自で取り組んだ調べもの",
+    "genre": "showa"
+  },
+  {
+    "answer": "ドリルシュクダイ",
+    "clue": "夏休みにこなした計算や漢字の課題",
+    "genre": "showa"
+  },
+  {
+    "answer": "ヨウチエンバッグ",
+    "clue": "園児が肩から下げた手提げ",
+    "genre": "showa"
+  },
+  {
+    "answer": "ランドセル",
+    "clue": "小学生が背負った革のかばん",
+    "genre": "showa"
+  },
+  {
+    "answer": "ブンボウグ",
+    "clue": "鉛筆や消しゴムなど学習の道具",
+    "genre": "showa"
+  },
+  {
+    "answer": "ヒッキ",
+    "clue": "字を書くための筆記具の総称",
+    "genre": "showa"
+  },
+  {
+    "answer": "エンピツケズリ",
+    "clue": "鉛筆の先をとがらせる道具",
+    "genre": "showa"
+  },
+  {
+    "answer": "ボンナイフ",
+    "clue": "鉛筆を削った折りたたみの小刀",
+    "genre": "showa"
+  },
+  {
+    "answer": "ジョウギ",
+    "clue": "線を引いたり長さを測る道具",
+    "genre": "showa"
+  },
+  {
+    "answer": "ブンドキ",
+    "clue": "角度を測る半円形の文具",
+    "genre": "showa"
+  },
+  {
+    "answer": "コンパス",
+    "clue": "円を描く二本足の文具",
+    "genre": "showa"
+  },
+  {
+    "answer": "セロテープ",
+    "clue": "透明な貼り合わせ用のテープ",
+    "genre": "showa"
+  },
+  {
+    "answer": "ホチキス",
+    "clue": "針で紙を綴じる文具",
+    "genre": "showa"
+  },
+  {
+    "answer": "ガビョウ",
+    "clue": "紙を壁に留める小さな鋲",
+    "genre": "showa"
+  },
+  {
+    "answer": "インク",
+    "clue": "万年筆やスタンプに使う液",
+    "genre": "showa"
+  },
+  {
+    "answer": "マンガザッシ",
+    "clue": "毎週連載漫画を載せた厚い本",
+    "genre": "showa"
+  },
+  {
+    "answer": "フロクツキ",
+    "clue": "おまけが付いた子供向けの雑誌",
+    "genre": "showa"
+  },
+  {
+    "answer": "シールチョウ",
+    "clue": "集めたシールを貼って楽しんだ帳面",
+    "genre": "showa"
+  },
+  {
+    "answer": "コウカンニッキ",
+    "clue": "友達と書き合って回した日記帳",
+    "genre": "showa"
+  },
+  {
+    "answer": "ポスター",
+    "clue": "アイドルなどの大きな印刷物",
+    "genre": "showa"
+  },
+  {
+    "answer": "シタジキシャシン",
+    "clue": "下敷きに挟んで眺めたアイドルの写真",
+    "genre": "showa"
+  },
+  {
+    "answer": "テレカ",
+    "clue": "公衆電話で使ったプリペイドのカード",
+    "genre": "showa"
+  },
+  {
+    "answer": "ジドウハンバイキ",
+    "clue": "硬貨で飲み物などを買う機械",
+    "genre": "showa"
+  },
+  {
+    "answer": "コウシュウデンワ",
+    "clue": "街角に置かれた誰でも使える電話",
+    "genre": "showa"
+  },
+  {
+    "answer": "デンワボックス",
+    "clue": "公衆電話が入っていた小さな箱",
+    "genre": "showa"
+  },
+  {
+    "answer": "アカデンワ",
+    "clue": "店先に置かれた硬貨を入れる赤い電話",
+    "genre": "showa"
+  },
+  {
+    "answer": "テガミ",
+    "clue": "封筒に入れて郵便で送る便り",
+    "genre": "showa"
+  },
+  {
+    "answer": "エハガキ",
+    "clue": "絵や写真が印刷された郵便のはがき",
+    "genre": "showa"
+  },
+  {
+    "answer": "ネンガジョウ",
+    "clue": "正月に送り合うあいさつのはがき",
+    "genre": "showa"
+  },
+  {
+    "answer": "キッテ",
+    "clue": "郵便物に貼る小さな証票",
+    "genre": "showa"
+  },
+  {
+    "answer": "ポスト",
+    "clue": "手紙を投函する赤い郵便の箱",
+    "genre": "showa"
+  },
+  {
+    "answer": "オムライス",
+    "clue": "卵で包んだケチャップ味のご飯",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ハヤシライス",
+    "clue": "デミ風ソースをご飯にかけた洋食",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ビーフシチュー",
+    "clue": "牛肉を赤茶色に煮込んだ洋食",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "クリームシチュー",
+    "clue": "牛乳で白く仕上げた煮込み料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ミネストローネ",
+    "clue": "野菜たっぷりのトマト味のスープ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "コーンスープ",
+    "clue": "とうもろこしの甘いポタージュ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ポタージュ",
+    "clue": "なめらかでとろりとした洋風スープ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ブイヤベース",
+    "clue": "魚介を煮込んだ南仏の鍋料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "アクアパッツァ",
+    "clue": "魚を白ワインで蒸し煮にしたイタリア料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "カルパッチョ",
+    "clue": "薄切りの生魚や肉のオイルがけ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ブルスケッタ",
+    "clue": "焼いたパンに具をのせた前菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ティラミス",
+    "clue": "コーヒー風味のイタリアの冷たい菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "パンナコッタ",
+    "clue": "生クリームを固めたイタリアの菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ジェラート",
+    "clue": "イタリア生まれの氷菓",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "カンノーロ",
+    "clue": "筒状の生地にクリームを詰めたシチリアの菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ラザニア",
+    "clue": "板状のパスタを重ねて焼く料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ニョッキ",
+    "clue": "じゃがいもなどで作るもちもちのパスタ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ラビオリ",
+    "clue": "具を包んだ四角いパスタ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ペンネ",
+    "clue": "筒を斜めに切った形のパスタ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "マカロニ",
+    "clue": "短い筒状のパスタ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "フェットチーネ",
+    "clue": "平たいきしめん状のパスタ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "カルボナーラ",
+    "clue": "卵とチーズの濃厚なパスタ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ボロネーゼ",
+    "clue": "ひき肉のミートソースのパスタ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "アラビアータ",
+    "clue": "唐辛子をきかせた辛いトマトのパスタ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ジェノベーゼ",
+    "clue": "バジルの緑のソースのパスタ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ボンゴレ",
+    "clue": "あさりを使ったパスタ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "マルゲリータ",
+    "clue": "トマトとチーズとバジルの定番ピザ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "クアトロフォルマッジ",
+    "clue": "四種のチーズをのせたピザ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "フォカッチャ",
+    "clue": "オリーブ油を使った平たいパン",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "バゲット",
+    "clue": "細長いフランスのパン",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "クロワッサン",
+    "clue": "三日月形のさくさくしたパン",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "デニッシュ",
+    "clue": "バターを折り込んだ甘い菓子パン",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ベーグル",
+    "clue": "穴のあいたもちもちのパン",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "プレッツェル",
+    "clue": "結び目の形をした塩味の焼き菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "クロックムッシュ",
+    "clue": "ハムとチーズを挟んで焼くフランスの軽食",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "キッシュ",
+    "clue": "卵液と具を流して焼くフランスの料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ガレット",
+    "clue": "そば粉で焼くフランスの薄い生地",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "クレープ",
+    "clue": "薄く焼いた生地で具を包む菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "マカロン",
+    "clue": "色鮮やかな丸いフランスの焼き菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "エクレア",
+    "clue": "細長い生地にクリームを詰めた洋菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ミルフィーユ",
+    "clue": "層を重ねたサクサクのフランス菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "モンブラン",
+    "clue": "栗のクリームを絞った洋菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ガトーショコラ",
+    "clue": "濃厚なチョコのケーキ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "チーズケーキ",
+    "clue": "チーズを使ったまろやかな洋菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ザッハトルテ",
+    "clue": "ウィーン名物のチョコのケーキ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "アップルパイ",
+    "clue": "りんごを包んで焼いたパイ菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "タルト",
+    "clue": "型に生地を敷いて焼く洋菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "スコーン",
+    "clue": "イギリスの紅茶に合う焼き菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "マフィン",
+    "clue": "カップ型に焼く軽い洋菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "パウンドケーキ",
+    "clue": "バターをたっぷり使った焼き菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "バウムクーヘン",
+    "clue": "年輪のような層のドイツの焼き菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "シュトーレン",
+    "clue": "クリスマスに食べるドイツの菓子パン",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "プディング",
+    "clue": "卵と牛乳を蒸し固めたデザート",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ムース",
+    "clue": "泡立ててふんわり固めた洋菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "パフェ",
+    "clue": "背の高い器に盛った冷たいデザート",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "サンデー",
+    "clue": "アイスにソースをかけた喫茶店の菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "バナナスプリット",
+    "clue": "バナナを縦に割ったアイスの盛り合わせ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "フォンデュ",
+    "clue": "溶かしたチーズに具をからめるスイスの料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ラクレット",
+    "clue": "溶かしてかける半円のチーズ料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "カマンベール",
+    "clue": "白いカビに包まれた丸いチーズ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "モッツァレラ",
+    "clue": "ピザにのる白くて柔らかいチーズ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ゴルゴンゾーラ",
+    "clue": "青カビの入った香りの強いチーズ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "チェダー",
+    "clue": "オレンジ色でよく使われるチーズ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "パルメザン",
+    "clue": "粉にして料理にかける固いチーズ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ヨーグルトドリンク",
+    "clue": "飲むタイプの発酵乳飲料",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "バター",
+    "clue": "牛乳から作るパンに塗る乳製品",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "マーガリン",
+    "clue": "植物油から作るバターに似た食品",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ジャム",
+    "clue": "果物を砂糖で煮詰めた保存食",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "マーマレード",
+    "clue": "柑橘の皮入りのジャム",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ハチミツ",
+    "clue": "蜂が花から集めた甘い液",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "メープルシロップ",
+    "clue": "かえでの樹液から作る甘いシロップ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ケチャップ",
+    "clue": "トマトを使った赤い調味料",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "マヨネーズ",
+    "clue": "卵と油で作る白い調味料",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "マスタード",
+    "clue": "からし菜から作る辛い調味料",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "タバスコ",
+    "clue": "ピザにかける赤い辛い調味料",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ウスターソース",
+    "clue": "さらりとした茶色いソース",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "オイスターソース",
+    "clue": "牡蠣から作る中華の調味料",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ナンプラー",
+    "clue": "魚を発酵させたタイの調味料",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ポンズ",
+    "clue": "柑橘を効かせたしょうゆ系の調味料",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "メンツユ",
+    "clue": "麺をつけて食べるだしのつゆ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ダシ",
+    "clue": "昆布やかつおから取るうまみの汁",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "コンソメ",
+    "clue": "澄んだ洋風のだしスープの素",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ブイヨン",
+    "clue": "肉や野菜から取る洋風のだし",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "オリーブオイル",
+    "clue": "イタリア料理に欠かせない植物油",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ゴマアブラ",
+    "clue": "香ばしい香りの中華に使う油",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "サラダアブラ",
+    "clue": "炒め物や揚げ物に使う透明な油",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "コショウ",
+    "clue": "ぴりっとした黒や白の香辛料",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "シオ",
+    "clue": "海水などから取れる白い基本調味料",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "サトウ",
+    "clue": "甘みをつける白い調味料",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "シナモン",
+    "clue": "アップルパイに使う木の皮の香辛料",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "バニラ",
+    "clue": "アイスや菓子に使う甘い香りの素",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ナツメグ",
+    "clue": "ハンバーグに使う木の実の香辛料",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "クミン",
+    "clue": "カレーに使う独特の香りの香辛料",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ターメリック",
+    "clue": "カレーを黄色くする香辛料",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ガラムマサラ",
+    "clue": "インド料理の混合香辛料",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "サフラン",
+    "clue": "パエリアを黄色くする高価な香辛料",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "バジル",
+    "clue": "イタリア料理に使う緑の香草",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ローズマリー",
+    "clue": "肉料理に添える針状の香草",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "パクチー",
+    "clue": "エスニック料理に使う独特の香草",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ミント",
+    "clue": "さわやかな香りの緑の葉",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "パセリ",
+    "clue": "料理に添える縮れた緑の葉",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "シソ",
+    "clue": "刺身などに添える香りのよい和の葉",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ミョウガ",
+    "clue": "薬味に使う香りの強い和の食材",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ショウガ",
+    "clue": "辛みと香りのある根の薬味",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ニンニク",
+    "clue": "香りが強くスタミナ食材の代表",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "トウガラシ",
+    "clue": "料理に辛みを加える赤い実",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ユズ",
+    "clue": "香りのよい黄色い柑橘",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "スダチ",
+    "clue": "焼き魚に絞る小さな緑の柑橘",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "カボス",
+    "clue": "鍋物に使う大分名産の柑橘",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ライム",
+    "clue": "緑色で酸味のある小さな柑橘",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "レモン",
+    "clue": "酸っぱい黄色い柑橘",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "オレンジ",
+    "clue": "甘く香りのよいだいだい色の果実",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "グレープフルーツ",
+    "clue": "ほろ苦い大きな黄色い柑橘",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ミカン",
+    "clue": "冬にこたつで食べる定番の柑橘",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "リンゴ",
+    "clue": "赤や青の皮の甘酸っぱい果実",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ナシ",
+    "clue": "シャリっとした食感の和の果実",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ブドウ",
+    "clue": "房になって実る甘い果実",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "サクランボ",
+    "clue": "二つ並んだ赤い小さな果実",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "イチゴ",
+    "clue": "つぶつぶのある赤い甘い果実",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "メロン",
+    "clue": "網目模様の高級な果実",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "スイカ",
+    "clue": "夏に食べる赤い果肉の大きな実",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "バナナ",
+    "clue": "黄色い皮の甘い細長い果実",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "パイナップル",
+    "clue": "とげのある皮の南国の果実",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "マンゴー",
+    "clue": "濃厚な甘さの南国の果実",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "キウイ",
+    "clue": "緑の果肉に黒い種の果実",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "アボカド",
+    "clue": "森のバターと呼ばれる果実",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ブルーベリー",
+    "clue": "目に良いとされる小さな青い実",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ラズベリー",
+    "clue": "赤くつぶつぶした木いちごの一種",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "イチジク",
+    "clue": "プチプチした実の甘い果実",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "クリ",
+    "clue": "いがに包まれた秋の木の実",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ザクロ",
+    "clue": "赤い粒がぎっしり詰まった果実",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ビワ",
+    "clue": "初夏に実るオレンジ色の和の果実",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ウメボシ",
+    "clue": "弁当の定番、酸っぱい赤い漬物",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "タクアン",
+    "clue": "大根を干して漬けた黄色い漬物",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ヌカヅケ",
+    "clue": "ぬか床で漬けた野菜の漬物",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "シバヅケ",
+    "clue": "紫色をした京都の漬物",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "キムチ",
+    "clue": "唐辛子をきかせた韓国の漬物",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ピクルス",
+    "clue": "酢に漬けた洋風の野菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ザワークラウト",
+    "clue": "キャベツを発酵させたドイツの漬物",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "メザシ",
+    "clue": "数尾を串で刺して干したいわし",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ヒモノ",
+    "clue": "魚を開いて干した保存食",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "シオザケ",
+    "clue": "塩で味付けした鮭の切り身",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "イクラ",
+    "clue": "鮭の赤いつぶつぶの卵",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "アワビ",
+    "clue": "高級とされる大きな巻貝",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "サザエ",
+    "clue": "つぼ焼きで知られるとげのある巻貝",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ホタテ",
+    "clue": "貝柱が美味しい大きな二枚貝",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "カキフライ",
+    "clue": "牡蠣に衣をつけて揚げた料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "エビテン",
+    "clue": "海老に衣をつけて揚げた天ぷら",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "カキアゲ",
+    "clue": "小さな具をまとめて揚げる天ぷら",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "テンザル",
+    "clue": "天ぷらとざるそばの組み合わせ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ザルソバ",
+    "clue": "ざるに盛って冷やして食べるそば",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "キツネウドン",
+    "clue": "甘い油揚げをのせたうどん",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "タヌキソバ",
+    "clue": "揚げ玉をのせたそば",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ツキミウドン",
+    "clue": "生卵を落としたうどん",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "カマアゲウドン",
+    "clue": "ゆで汁ごと食べる温かいうどん",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ボッカケ",
+    "clue": "つゆをかけて食べる温かいそば",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ソーミン",
+    "clue": "夏に冷やして食べる細い麺",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ヒヤムギ",
+    "clue": "そうめんより少し太い夏の麺",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "キシメン",
+    "clue": "名古屋名物の平たいうどん",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ホウトウ",
+    "clue": "かぼちゃ入りの山梨の煮込み麺",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ツケメン",
+    "clue": "麺を別のつゆにつけて食べるラーメン",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ミソラーメン",
+    "clue": "札幌名物のみそ味のラーメン",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "トンコツラーメン",
+    "clue": "白濁したスープの九州のラーメン",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ショウユラーメン",
+    "clue": "醤油味の定番のラーメン",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "シオラーメン",
+    "clue": "塩味のあっさりしたラーメン",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "タンメン",
+    "clue": "野菜たっぷりの塩味の麺料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "チャンポン",
+    "clue": "野菜と海鮮を煮た長崎の麺料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ビーフン",
+    "clue": "米から作る細い炒め麺",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "フォー",
+    "clue": "米粉で作るベトナムの平たい麺",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "パッタイ",
+    "clue": "甘酸っぱいタイの焼きそば",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ガパオ",
+    "clue": "バジルとひき肉のタイ料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "トムヤムクン",
+    "clue": "酸辛いタイの海老スープ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ナシゴレン",
+    "clue": "インドネシアの炒めご飯",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ビビンバ",
+    "clue": "具をのせて混ぜる韓国のご飯",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "クッパ",
+    "clue": "スープにご飯を入れた韓国料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "チヂミ",
+    "clue": "韓国風のお好み焼き",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "サムゲタン",
+    "clue": "鶏を丸ごと煮込んだ韓国のスープ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "プルコギ",
+    "clue": "甘辛く味付けした韓国の焼き肉",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "チャプチェ",
+    "clue": "春雨と野菜を炒めた韓国料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "トッポギ",
+    "clue": "甘辛い韓国の餅料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ナムル",
+    "clue": "野菜をあえた韓国の小皿料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "シュンギク",
+    "clue": "鍋に入れる香りのよい青菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "コマツナ",
+    "clue": "おひたしに使う緑の葉物野菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ミズナ",
+    "clue": "シャキシャキしたサラダにも使う青菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "チンゲンサイ",
+    "clue": "中華料理に使う緑の野菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ニラ",
+    "clue": "餃子やレバーと炒める香りの強い青菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "アスパラ",
+    "clue": "細長い緑色の春の野菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ブロッコリー",
+    "clue": "緑のつぶつぶした花の野菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "カリフラワー",
+    "clue": "白いつぶつぶした花の野菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "セロリ",
+    "clue": "筋のある香りの強い茎の野菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "パプリカ",
+    "clue": "赤や黄色の甘いピーマンの仲間",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ズッキーニ",
+    "clue": "きゅうりに似た夏のうり科の野菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "オクラ",
+    "clue": "切ると星形でねばりのある野菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ゴーヤ",
+    "clue": "苦みのある沖縄の緑の野菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "トウモロコシ",
+    "clue": "黄色い粒が並ぶ夏の野菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "サツマイモ",
+    "clue": "焼き芋にする甘い芋",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "サトイモ",
+    "clue": "ぬめりのある煮物に使う芋",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ナガイモ",
+    "clue": "すりおろしてとろろにする芋",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "カブ",
+    "clue": "丸い白い根の野菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ガリョウテンセイ",
+    "clue": "最後の仕上げで物事が完成すること（画竜点睛）",
+    "genre": "culture"
+  },
+  {
+    "answer": "イッキイチユウ",
+    "clue": "状況に振り回されて喜んだり心配したりすること（一喜一憂）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ジュウオウムジン",
+    "clue": "自由自在にふるまうさま（縦横無尽）",
+    "genre": "culture"
+  },
+  {
+    "answer": "シンキイッテン",
+    "clue": "気持ちをすっかり入れ替えること（心機一転）",
+    "genre": "culture"
+  },
+  {
+    "answer": "イッシンドウタイ",
+    "clue": "二人が心を一つにすること（一心同体）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ジゴウジトク",
+    "clue": "自分の行いの報いを自分が受けること（自業自得）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ゴリムチュウ",
+    "clue": "迷って方針が立たないこと（五里霧中）",
+    "genre": "culture"
+  },
+  {
+    "answer": "イチモクリョウゼン",
+    "clue": "ひと目で明らかなこと（一目瞭然）",
+    "genre": "culture"
+  },
+  {
+    "answer": "シメンソカ",
+    "clue": "周りが敵ばかりで孤立すること（四面楚歌）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ハランバンジョウ",
+    "clue": "変化が激しく波乱の多いさま（波乱万丈）",
+    "genre": "culture"
+  },
+  {
+    "answer": "イシンデンシンノ",
+    "clue": "言葉なしで心が通じ合うこと（以心伝心）",
+    "genre": "culture"
+  },
+  {
+    "answer": "リンキオウヘン",
+    "clue": "その場に応じて適切に対応すること（臨機応変）",
+    "genre": "culture"
+  },
+  {
+    "answer": "シコウサクゴ",
+    "clue": "試みと失敗を繰り返して進むこと（試行錯誤）",
+    "genre": "culture"
+  },
+  {
+    "answer": "イットウリョウダン",
+    "clue": "物事を思い切って処理すること（一刀両断）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ハッポウフサガリ",
+    "clue": "どこにも逃げ道がないこと（八方塞がり）",
+    "genre": "culture"
+  },
+  {
+    "answer": "オンコチシン",
+    "clue": "古きを学び新しきを知ること（温故知新）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ジュウニンナミ",
+    "clue": "世間並みでふつうなこと（十人並み）",
+    "genre": "culture"
+  },
+  {
+    "answer": "セッサタクマ",
+    "clue": "互いに励まし高め合うこと（切磋琢磨）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ガシンショウタン",
+    "clue": "目的のため苦労を重ねること（臥薪嘗胆）",
+    "genre": "culture"
+  },
+  {
+    "answer": "イチモンナシ",
+    "clue": "お金をまったく持っていないこと（一文無し）",
+    "genre": "culture"
+  },
+  {
+    "answer": "シュビイッカン",
+    "clue": "始めから終わりまで筋が通ること（首尾一貫）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ゼンダイミモン",
+    "clue": "今まで聞いたことがないこと（前代未聞）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ジガジサンノ",
+    "clue": "自分で自分をほめること（自画自賛）",
+    "genre": "culture"
+  },
+  {
+    "answer": "イチジツセンシュウ",
+    "clue": "とても待ち遠しいこと（一日千秋）",
+    "genre": "culture"
+  },
+  {
+    "answer": "キショウテンケツ",
+    "clue": "文章の組み立ての基本（起承転結）",
+    "genre": "culture"
+  },
+  {
+    "answer": "サルモキカラオチル",
+    "clue": "名人でも失敗することがある（猿も木から落ちる）",
+    "genre": "culture"
+  },
+  {
+    "answer": "カッパノカワナガレ",
+    "clue": "得意な者でも失敗する（河童の川流れ）",
+    "genre": "culture"
+  },
+  {
+    "answer": "コウボウモフデノアヤマリ",
+    "clue": "達人でもしくじる（弘法も筆の誤り）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ウマノミミニネンブツ",
+    "clue": "言っても効き目がないこと（馬の耳に念仏）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ネコニコバン",
+    "clue": "価値が分からない者には無駄（猫に小判）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ブタニシンジュノ",
+    "clue": "値打ちが分からない例え（豚に真珠）",
+    "genre": "culture"
+  },
+  {
+    "answer": "イヌモアルケバボウニアタル",
+    "clue": "動けば思わぬ幸運に出会う（犬も歩けば棒に当たる）",
+    "genre": "culture"
+  },
+  {
+    "answer": "サルシバイ",
+    "clue": "見え透いた作りごと（猿芝居）",
+    "genre": "culture"
+  },
+  {
+    "answer": "トラノイオカルキツネ",
+    "clue": "強い者の威を借りる例え（虎の威を借る狐）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ウノメタカノメ",
+    "clue": "熱心に探すさま（鵜の目鷹の目）",
+    "genre": "culture"
+  },
+  {
+    "answer": "タカノツメ",
+    "clue": "辛い赤唐辛子（鷹の爪）のこと",
+    "genre": "culture"
+  },
+  {
+    "answer": "スズメノナミダ",
+    "clue": "ごくわずかなこと（雀の涙）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ハチノスヲツツク",
+    "clue": "大騒ぎになること（蜂の巣をつついたよう）",
+    "genre": "culture"
+  },
+  {
+    "answer": "クモノコヲチラス",
+    "clue": "ちりぢりに逃げるさま（蜘蛛の子を散らす）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ミミズノタワゴト",
+    "clue": "とりとめのない話（みみずのたわごと）",
+    "genre": "culture"
+  },
+  {
+    "answer": "カエルノコハカエル",
+    "clue": "子は親に似る（蛙の子は蛙）",
+    "genre": "culture"
+  },
+  {
+    "answer": "イノナカノカワズ",
+    "clue": "見識の狭いこと（井の中の蛙）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ウオゴコロアレバ",
+    "clue": "好意には好意で応じる（魚心あれば水心）",
+    "genre": "culture"
+  },
+  {
+    "answer": "クサッテモタイ",
+    "clue": "良いものは落ちぶれても値打ちがある（腐っても鯛）",
+    "genre": "culture"
+  },
+  {
+    "answer": "エビデタイヲツル",
+    "clue": "小さな元手で大きな利益（海老で鯛を釣る）",
+    "genre": "culture"
+  },
+  {
+    "answer": "サバヲヨム",
+    "clue": "数をごまかすこと（鯖を読む）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ウナギノボリ",
+    "clue": "勢いよく上がること（うなぎ登り）",
+    "genre": "culture"
+  },
+  {
+    "answer": "タナカラボタモチ",
+    "clue": "思いがけない幸運（棚から牡丹餅）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ハナヨリダンゴノ",
+    "clue": "風流より実利を選ぶこと（花より団子）",
+    "genre": "culture"
+  },
+  {
+    "answer": "モチハモチヤ",
+    "clue": "専門家に任せるのが一番（餅は餅屋）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ヌカニクギノ",
+    "clue": "手応えのないこと（糠に釘）",
+    "genre": "culture"
+  },
+  {
+    "answer": "トウフニカスガイ",
+    "clue": "効き目のないこと（豆腐にかすがい）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ノレンニウデオシノ",
+    "clue": "手応えのないこと（暖簾に腕押し）",
+    "genre": "culture"
+  },
+  {
+    "answer": "イシバシヲタタイテワタル",
+    "clue": "用心を重ねること（石橋を叩いて渡る）",
+    "genre": "culture"
+  },
+  {
+    "answer": "アタマカクシテシリカクサズ",
+    "clue": "欠点を隠しきれないこと（頭隠して尻隠さず）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ノドモトスギレバアツサ",
+    "clue": "苦しさを過ぎると忘れる（喉元過ぎれば熱さを忘れる）",
+    "genre": "culture"
+  },
+  {
+    "answer": "アブハチトラズノ",
+    "clue": "欲張ると両方失う（虻蜂取らず）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ニトヲオウモノ",
+    "clue": "二つ狙うと両方逃す（二兎を追う者は一兎をも得ず）",
+    "genre": "culture"
+  },
+  {
+    "answer": "イシノウエニモサンネン",
+    "clue": "辛抱すれば報われる（石の上にも三年）",
+    "genre": "culture"
+  },
+  {
+    "answer": "チリモツモレバヤマ",
+    "clue": "小さな積み重ねが大きくなる（塵も積もれば山となる）",
+    "genre": "culture"
+  },
+  {
+    "answer": "センリノミチモイッポカラ",
+    "clue": "大事も第一歩から（千里の道も一歩から）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ナナコロビヤオキ",
+    "clue": "何度倒れても立ち上がる（七転び八起き）",
+    "genre": "culture"
+  },
+  {
+    "answer": "イソガバマワレノ",
+    "clue": "急ぐときほど着実に（急がば回れ）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ナクツラニハチノ",
+    "clue": "不運が重なること（泣きっ面に蜂）",
+    "genre": "culture"
+  },
+  {
+    "answer": "オニニカナボウノ",
+    "clue": "強い者がさらに強くなる（鬼に金棒）",
+    "genre": "culture"
+  },
+  {
+    "answer": "オニノイヌマニセンタク",
+    "clue": "気兼ねする人のいない間に楽をする（鬼の居ぬ間に洗濯）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ジゴクノサタモカネシダイ",
+    "clue": "金次第で何でも動く（地獄の沙汰も金次第）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ネミミニミズノ",
+    "clue": "突然のことに驚く（寝耳に水）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ヤブヘビ",
+    "clue": "余計なことをして災いを招く（藪蛇）",
+    "genre": "culture"
+  },
+  {
+    "answer": "イシャノフヨウジョウ",
+    "clue": "理屈どおりにいかないこと（医者の不養生）",
+    "genre": "culture"
+  },
+  {
+    "answer": "コンヤノシロバカマ",
+    "clue": "他人のためにして自分は手が回らない（紺屋の白袴）",
+    "genre": "culture"
+  },
+  {
+    "answer": "トウダイモトクラシ",
+    "clue": "身近なことはかえって気づかない（灯台下暗し）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ナサケハヒトノタメナラズ",
+    "clue": "情けは巡り巡って自分に返る",
+    "genre": "culture"
+  },
+  {
+    "answer": "ウソモホウベン",
+    "clue": "時には嘘も役立つ（嘘も方便）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ウマイハナシ",
+    "clue": "都合のよすぎる話（旨い話）",
+    "genre": "culture"
+  },
+  {
+    "answer": "アオハアイヨリイデテ",
+    "clue": "弟子が師を超える（青は藍より出でて藍より青し）",
+    "genre": "culture"
+  },
+  {
+    "answer": "テンタカクウマコユルアキ",
+    "clue": "秋の快適な季節を表す（天高く馬肥ゆる秋）",
+    "genre": "culture"
+  },
+  {
+    "answer": "アジ",
+    "clue": "干物や刺身で人気の青魚（鯵）",
+    "genre": "culture"
+  },
+  {
+    "answer": "イワシ",
+    "clue": "群れで泳ぐ小さな青魚（鰯）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ブリ",
+    "clue": "出世魚で知られる冬の魚（鰤）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ヒラメ",
+    "clue": "目が左に寄った平たい魚（鮃）",
+    "genre": "culture"
+  },
+  {
+    "answer": "カレイ",
+    "clue": "目が右に寄った平たい魚（鰈）",
+    "genre": "culture"
+  },
+  {
+    "answer": "フグ",
+    "clue": "毒を持つ高級な冬の魚（河豚）",
+    "genre": "culture"
+  },
+  {
+    "answer": "アユ",
+    "clue": "清流にすむ夏の川魚（鮎）",
+    "genre": "culture"
+  },
+  {
+    "answer": "コイ",
+    "clue": "池や川にすむ縁起のよい魚（鯉）",
+    "genre": "culture"
+  },
+  {
+    "answer": "マス",
+    "clue": "鮭に似た川や海の魚（鱒）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ナマコ",
+    "clue": "海底をはう細長い珍味（海鼠）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ウニノミ",
+    "clue": "とげに包まれた海の珍味（雲丹）",
+    "genre": "culture"
+  },
+  {
+    "answer": "アジサイノハナ",
+    "clue": "梅雨に咲く青や紫の花（紫陽花）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ヒマワリノハナ",
+    "clue": "夏に太陽を向く大きな花（向日葵）",
+    "genre": "culture"
+  },
+  {
+    "answer": "タンポポノハナ",
+    "clue": "綿毛を飛ばす春の黄色い花（蒲公英）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ススキ",
+    "clue": "秋の野に穂をなびかせる草（薄）",
+    "genre": "culture"
+  },
+  {
+    "answer": "モミジバ",
+    "clue": "秋に赤く色づく葉（紅葉）",
+    "genre": "culture"
+  },
+  {
+    "answer": "サクラバナ",
+    "clue": "春を代表する淡紅色の花（桜）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ウメノハナ",
+    "clue": "早春に香り高く咲く花（梅）",
+    "genre": "culture"
+  },
+  {
+    "answer": "キクノハナ",
+    "clue": "皇室の紋章にもなる秋の花（菊）",
+    "genre": "culture"
+  },
+  {
+    "answer": "アヤメノハナ",
+    "clue": "初夏に咲く紫の花（菖蒲）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ボタンノハナ",
+    "clue": "立てば〜と美人にたとえる花（牡丹）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ナデシコ",
+    "clue": "やまとなでしこで知られる花（撫子）",
+    "genre": "culture"
+  },
+  {
+    "answer": "キキョウ",
+    "clue": "秋の七草の一つの青紫の花（桔梗）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ハギ",
+    "clue": "秋の七草の一つの小さな花（萩）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ナンテン",
+    "clue": "難を転じるとされる赤い実の木（南天）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ツバキノハナ",
+    "clue": "冬から春に咲く赤い花（椿）",
+    "genre": "culture"
+  },
+  {
+    "answer": "アサヒ",
+    "clue": "東から昇る朝の太陽（朝日）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ユウヤケ",
+    "clue": "夕方に空が赤くなる現象（夕焼け）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ニジ",
+    "clue": "雨上がりに見える七色の弧（虹）",
+    "genre": "culture"
+  },
+  {
+    "answer": "カミナリ",
+    "clue": "雲から落ちる電気の光と音（雷）",
+    "genre": "culture"
+  },
+  {
+    "answer": "シモバシラ",
+    "clue": "冬の朝に地面に立つ氷の柱（霜柱）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ツララ",
+    "clue": "軒先に下がる氷の棒（氷柱）",
+    "genre": "culture"
+  },
+  {
+    "answer": "カゲロウ",
+    "clue": "暑い日に地面が揺らいで見える現象（陽炎）",
+    "genre": "culture"
+  },
+  {
+    "answer": "シンキロウ",
+    "clue": "遠くの景色が浮かんで見える現象（蜃気楼）",
+    "genre": "culture"
+  },
+  {
+    "answer": "オーロラ",
+    "clue": "極地の夜空に光るカーテン状の現象",
+    "genre": "culture"
+  },
+  {
+    "answer": "ホクトシチセイ",
+    "clue": "ひしゃくの形に並ぶ七つの星（北斗七星）",
+    "genre": "culture"
+  },
+  {
+    "answer": "アマノガワ",
+    "clue": "夜空に帯のように見える星の集まり（天の川）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ナガレボシ",
+    "clue": "夜空をすっと走る光（流れ星）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ミカヅキ",
+    "clue": "細く弓なりに見える月（三日月）",
+    "genre": "culture"
+  },
+  {
+    "answer": "マンゲツ",
+    "clue": "まん丸に見える月（満月）",
+    "genre": "culture"
+  },
+  {
+    "answer": "コガラシ",
+    "clue": "晩秋に吹く冷たい風（木枯らし）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ハルイチバン",
+    "clue": "春先に最初に吹く強い南風（春一番）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ツユ",
+    "clue": "六月ごろの長雨の時期（梅雨）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ニュウバイ",
+    "clue": "梅雨に入ること（入梅）",
+    "genre": "culture"
+  },
+  {
+    "answer": "タイフウ",
+    "clue": "夏から秋に来る強い熱帯の低気圧（台風）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ユキゲシキ",
+    "clue": "雪に覆われた景色（雪景色）",
+    "genre": "culture"
+  },
+  {
+    "answer": "コウヨウ",
+    "clue": "秋に葉が赤や黄に変わること（紅葉）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ハナミ",
+    "clue": "桜を眺めて楽しむ春の行事（花見）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ツキミ",
+    "clue": "秋に月を眺める行事（月見）",
+    "genre": "culture"
+  },
+  {
+    "answer": "セツブン",
+    "clue": "豆をまいて鬼を払う立春前の行事（節分）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ヒナマツリ",
+    "clue": "三月三日の女の子の節句（雛祭り）",
+    "genre": "culture"
+  },
+  {
+    "answer": "タナバタ",
+    "clue": "短冊に願いを書く七月の星祭り（七夕）",
+    "genre": "culture"
+  },
+  {
+    "answer": "オボン",
+    "clue": "夏に先祖を迎える行事（お盆）",
+    "genre": "culture"
+  },
+  {
+    "answer": "シチゴサン",
+    "clue": "子の成長を祝う十一月の行事（七五三）",
+    "genre": "culture"
+  },
+  {
+    "answer": "オオミソカ",
+    "clue": "一年の最後の日（大晦日）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ガンタン",
+    "clue": "一年の最初の日の朝（元旦）",
+    "genre": "culture"
+  },
+  {
+    "answer": "カドマツ",
+    "clue": "正月に門に立てる松の飾り（門松）",
+    "genre": "culture"
+  },
+  {
+    "answer": "カガミモチ",
+    "clue": "正月に供える丸い餅（鏡餅）",
+    "genre": "culture"
+  },
+  {
+    "answer": "オセチ",
+    "clue": "正月に食べる重箱の料理（御節）",
+    "genre": "culture"
+  },
+  {
+    "answer": "トソ",
+    "clue": "正月に飲む薬草入りの酒（屠蘇）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ハツモウデ",
+    "clue": "正月に神社へお参りすること（初詣）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ヤクドシ",
+    "clue": "災いが起こりやすいとされる年齢（厄年）",
+    "genre": "culture"
+  },
+  {
+    "answer": "エト",
+    "clue": "年を表す十二支などのこと（干支）",
+    "genre": "culture"
+  },
+  {
+    "answer": "コヨミ",
+    "clue": "日付や行事を記したもの（暦）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ニジュウシセッキ",
+    "clue": "季節を二十四に分けた区分（二十四節気）",
+    "genre": "culture"
+  },
+  {
+    "answer": "リッシュン",
+    "clue": "暦の上で春が始まる日（立春）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ゲシ",
+    "clue": "一年で昼が最も長い日（夏至）",
+    "genre": "culture"
+  },
+  {
+    "answer": "トウジ",
+    "clue": "一年で昼が最も短い日（冬至）",
+    "genre": "culture"
+  },
+  {
+    "answer": "シュウブン",
+    "clue": "昼と夜の長さがほぼ等しい秋の日（秋分）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ヒガン",
+    "clue": "春分や秋分の前後の仏事の期間（彼岸）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ハチジュウハチヤ",
+    "clue": "立春から数えた茶摘みの頃（八十八夜）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ニホンシ",
+    "clue": "日本の歴史を学ぶ科目（日本史）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ヤヨイジダイ",
+    "clue": "稲作が広まった古代の時代（弥生時代）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ヘイアンジダイ",
+    "clue": "貴族文化が栄えた平安京の時代（平安時代）",
+    "genre": "culture"
+  },
+  {
+    "answer": "カマクラバクフ",
+    "clue": "源頼朝が開いた武家政権（鎌倉幕府）",
+    "genre": "culture"
+  },
+  {
+    "answer": "エドバクフ",
+    "clue": "徳川家が開いた江戸の武家政権（江戸幕府）",
+    "genre": "culture"
+  },
+  {
+    "answer": "メイジイシン",
+    "clue": "近代国家へ転換した変革（明治維新）",
+    "genre": "culture"
+  },
+  {
+    "answer": "サンキンコウタイ",
+    "clue": "大名が江戸と領地を行き来した制度（参勤交代）",
+    "genre": "culture"
+  },
+  {
+    "answer": "サコク",
+    "clue": "江戸時代の対外を閉ざした政策（鎖国）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ケンポウ",
+    "clue": "国の最高の決まりを定めた法（憲法）",
+    "genre": "culture"
+  },
+  {
+    "answer": "コッカイ",
+    "clue": "法律を決める国の議会（国会）",
+    "genre": "culture"
+  },
+  {
+    "answer": "サンケンブンリツ",
+    "clue": "立法・行政・司法を分ける仕組み（三権分立）",
+    "genre": "culture"
+  },
+  {
+    "answer": "センキョ",
+    "clue": "代表者を投票で選ぶこと（選挙）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ナイカク",
+    "clue": "行政を担う大臣の集まり（内閣）",
+    "genre": "culture"
+  },
+  {
+    "answer": "サイバンショ",
+    "clue": "争いを法で裁く機関（裁判所）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ゼイキン",
+    "clue": "国や自治体に納めるお金（税金）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ケイザイ",
+    "clue": "お金や物の流れに関する仕組み（経済）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ボウエキ",
+    "clue": "国どうしの物の売り買い（貿易）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ゲンソキゴウ",
+    "clue": "元素を表すアルファベットの記号（元素記号）",
+    "genre": "culture"
+  },
+  {
+    "answer": "スイソ",
+    "clue": "最も軽い気体の元素（水素）",
+    "genre": "culture"
+  },
+  {
+    "answer": "サンソ",
+    "clue": "呼吸に欠かせない気体の元素（酸素）",
+    "genre": "culture"
+  },
+  {
+    "answer": "チッソ",
+    "clue": "空気の約八割を占める気体（窒素）",
+    "genre": "culture"
+  },
+  {
+    "answer": "タンソ",
+    "clue": "ダイヤモンドや炭の主成分（炭素）",
+    "genre": "culture"
+  },
+  {
+    "answer": "コウセイ",
+    "clue": "自ら光る天体（恒星）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ワクセイ",
+    "clue": "恒星の周りを回る天体（惑星）",
+    "genre": "culture"
+  },
+  {
+    "answer": "エイセイ",
+    "clue": "惑星の周りを回る天体（衛星）",
+    "genre": "culture"
+  },
+  {
+    "answer": "インリョク",
+    "clue": "物が引き合う力（引力）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ジュウリョク",
+    "clue": "地球が物を引く力（重力）",
+    "genre": "culture"
+  },
+  {
+    "answer": "コウゴウセイ",
+    "clue": "植物が光で養分を作る働き（光合成）",
+    "genre": "culture"
+  },
+  {
+    "answer": "サイボウ",
+    "clue": "生き物の体を作る最小の単位（細胞）",
+    "genre": "culture"
+  },
+  {
+    "answer": "シンゾウ",
+    "clue": "血液を全身に送り出す臓器（心臓）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ハイ",
+    "clue": "呼吸でガスを交換する臓器（肺）",
+    "genre": "culture"
+  },
+  {
+    "answer": "カンゾウ",
+    "clue": "解毒や栄養を担う大きな臓器（肝臓）",
+    "genre": "culture"
+  },
+  {
+    "answer": "ヒツジ",
+    "clue": "毛を刈って羊毛にする家畜",
+    "genre": "nature"
+  },
+  {
+    "answer": "ウシ",
+    "clue": "牛乳や肉をとる大きな家畜",
+    "genre": "nature"
+  },
+  {
+    "answer": "ブタ",
+    "clue": "鼻が平たい桃色の家畜",
+    "genre": "nature"
+  },
+  {
+    "answer": "ウマ",
+    "clue": "速く走り人を乗せる大きな動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "ロバ",
+    "clue": "馬に似た耳の長い動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "イヌ",
+    "clue": "人になつく代表的なペット",
+    "genre": "nature"
+  },
+  {
+    "answer": "ネコ",
+    "clue": "気まぐれで人気のペット",
+    "genre": "nature"
+  },
+  {
+    "answer": "ハムスター",
+    "clue": "頬に餌をためる小さなげっ歯類",
+    "genre": "nature"
+  },
+  {
+    "answer": "モルモット",
+    "clue": "実験にも使われる丸いげっ歯類",
+    "genre": "nature"
+  },
+  {
+    "answer": "ネズミ",
+    "clue": "尾の長い小さなげっ歯類",
+    "genre": "nature"
+  },
+  {
+    "answer": "ハリモグラ",
+    "clue": "卵を産むとげのあるほ乳類",
+    "genre": "nature"
+  },
+  {
+    "answer": "カモノハシ",
+    "clue": "くちばしを持つ卵を産むほ乳類",
+    "genre": "nature"
+  },
+  {
+    "answer": "オランウータン",
+    "clue": "赤茶色の毛の大きな類人猿",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヒヒ",
+    "clue": "群れで暮らす顔の長いサル",
+    "genre": "nature"
+  },
+  {
+    "answer": "テナガザル",
+    "clue": "腕が長く木を渡るサル",
+    "genre": "nature"
+  },
+  {
+    "answer": "ニホンザル",
+    "clue": "温泉に入ることもある日本のサル",
+    "genre": "nature"
+  },
+  {
+    "answer": "マントヒヒ",
+    "clue": "肩にたてがみ状の毛があるヒヒ",
+    "genre": "nature"
+  },
+  {
+    "answer": "キツネザル",
+    "clue": "マダガスカルにすむ尾の長いサル",
+    "genre": "nature"
+  },
+  {
+    "answer": "ジャガー",
+    "clue": "南米にすむ斑点のある大型のネコ",
+    "genre": "nature"
+  },
+  {
+    "answer": "ピューマ",
+    "clue": "アメリカ大陸にすむ大型のネコ",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヤマネコ",
+    "clue": "野生にすむ小型のネコ科",
+    "genre": "nature"
+  },
+  {
+    "answer": "オオヤマネコ",
+    "clue": "耳に房毛のある北方のネコ科",
+    "genre": "nature"
+  },
+  {
+    "answer": "ハイエナ",
+    "clue": "群れで狩りや死肉あさりをする動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "ジャッカル",
+    "clue": "犬に似たアフリカの肉食動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "コヨーテ",
+    "clue": "北米の草原にすむ犬の仲間",
+    "genre": "nature"
+  },
+  {
+    "answer": "ディンゴ",
+    "clue": "オーストラリアの野生の犬",
+    "genre": "nature"
+  },
+  {
+    "answer": "シロクマ",
+    "clue": "北極にすむ白い大きな熊",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヒグマ",
+    "clue": "日本の北にすむ大きな熊",
+    "genre": "nature"
+  },
+  {
+    "answer": "ツキノワグマ",
+    "clue": "胸に白い月形のある熊",
+    "genre": "nature"
+  },
+  {
+    "answer": "レッサーパンダ",
+    "clue": "赤茶色の小さなパンダの仲間",
+    "genre": "nature"
+  },
+  {
+    "answer": "スカンク",
+    "clue": "臭い液を出して身を守る動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "ビーバー",
+    "clue": "ダムを作る水辺のげっ歯類",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヤマアラシ",
+    "clue": "長いとげで身を守るげっ歯類",
+    "genre": "nature"
+  },
+  {
+    "answer": "プレーリードッグ",
+    "clue": "草原に巣穴を掘るげっ歯類",
+    "genre": "nature"
+  },
+  {
+    "answer": "ムササビ",
+    "clue": "膜を広げて滑空する動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "モモンガ",
+    "clue": "ムササビに似た小さな滑空動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "シマリス",
+    "clue": "背に縞のある小さなリス",
+    "genre": "nature"
+  },
+  {
+    "answer": "テン",
+    "clue": "細長い体の木にすむ動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "フェレット",
+    "clue": "細長い体のペットにもなる動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "ミンク",
+    "clue": "毛皮で知られる細長い動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "アナグマ",
+    "clue": "穴を掘って暮らすずんぐりした動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "ハクビシン",
+    "clue": "額に白い線のある夜行性の動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "マングース",
+    "clue": "ヘビと戦うことで知られる動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "アルマジロ",
+    "clue": "硬い甲羅で丸くなる動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "アリクイ",
+    "clue": "長い舌で蟻を食べる動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "センザンコウ",
+    "clue": "うろこに覆われた蟻を食べる動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "カピバラ",
+    "clue": "世界最大のげっ歯類",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヌートリア",
+    "clue": "水辺にすむ大きなげっ歯類",
+    "genre": "nature"
+  },
+  {
+    "answer": "バク",
+    "clue": "鼻が長く夢を食べると言われる動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "サイガ",
+    "clue": "鼻が独特な草原のレイヨウ",
+    "genre": "nature"
+  },
+  {
+    "answer": "カモシカ",
+    "clue": "日本の山にすむ角のある動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "トナカイ",
+    "clue": "雪の地にすむ角の大きな動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヘラジカ",
+    "clue": "平たい大きな角を持つ大型のシカ",
+    "genre": "nature"
+  },
+  {
+    "answer": "バイソン",
+    "clue": "北米の草原にすむ大きな牛の仲間",
+    "genre": "nature"
+  },
+  {
+    "answer": "スイギュウ",
+    "clue": "水辺で働く大きな角の牛",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヤク",
+    "clue": "高地にすむ長い毛の牛の仲間",
+    "genre": "nature"
+  },
+  {
+    "answer": "アルパカ",
+    "clue": "もこもこの毛のラクダの仲間",
+    "genre": "nature"
+  },
+  {
+    "answer": "リャマ",
+    "clue": "荷物運びに使う南米のラクダの仲間",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヌー",
+    "clue": "大群で移動するアフリカの草食動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "ガゼル",
+    "clue": "すばやく走る細身のレイヨウ",
+    "genre": "nature"
+  },
+  {
+    "answer": "インパラ",
+    "clue": "高く跳ねるアフリカのレイヨウ",
+    "genre": "nature"
+  },
+  {
+    "answer": "オカピ",
+    "clue": "脚に縞のあるキリンの仲間",
+    "genre": "nature"
+  },
+  {
+    "answer": "タカアシガニ",
+    "clue": "脚の長い大きな深海のカニ",
+    "genre": "nature"
+  },
+  {
+    "answer": "ズワイガニ",
+    "clue": "冬の味覚として人気のカニ",
+    "genre": "nature"
+  },
+  {
+    "answer": "タラバガニ",
+    "clue": "大きな脚で人気のカニの仲間",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヤドカリ",
+    "clue": "貝殻を背負って暮らす生き物",
+    "genre": "nature"
+  },
+  {
+    "answer": "シャコ",
+    "clue": "強いパンチを出す海の甲殻類",
+    "genre": "nature"
+  },
+  {
+    "answer": "イセエビ",
+    "clue": "高級とされる大きな海老",
+    "genre": "nature"
+  },
+  {
+    "answer": "クルマエビ",
+    "clue": "縞模様のある食用の海老",
+    "genre": "nature"
+  },
+  {
+    "answer": "ザリガニ",
+    "clue": "川や池にすむはさみのある生き物",
+    "genre": "nature"
+  },
+  {
+    "answer": "フジツボ",
+    "clue": "岩に固着する小さな甲殻類",
+    "genre": "nature"
+  },
+  {
+    "answer": "イソギンチャク",
+    "clue": "触手をゆらす岩場の生き物",
+    "genre": "nature"
+  },
+  {
+    "answer": "サンゴ",
+    "clue": "海中で群れて礁を作る生き物",
+    "genre": "nature"
+  },
+  {
+    "answer": "ウミウシ",
+    "clue": "色鮮やかな海の貝の仲間",
+    "genre": "nature"
+  },
+  {
+    "answer": "クリオネ",
+    "clue": "流氷の天使と呼ばれる小さな生き物",
+    "genre": "nature"
+  },
+  {
+    "answer": "アンコウ",
+    "clue": "深海にすむ提灯を持つ魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "チョウチンアンコウ",
+    "clue": "頭の光で獲物を誘う深海魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "マンボウ",
+    "clue": "丸く平たい大きな海の魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "トビウオ",
+    "clue": "海面を飛ぶように滑空する魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "ハリセンボン",
+    "clue": "膨らんでとげを立てる魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "タチウオ",
+    "clue": "銀色で細長い刀のような魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "ウツボ",
+    "clue": "岩穴にひそむ鋭い歯の魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "チンアナゴ",
+    "clue": "砂から顔を出すひも状の魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "デンキウナギ",
+    "clue": "電気を出して身を守る魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "ピラニア",
+    "clue": "鋭い歯を持つ南米の川魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "ドジョウ",
+    "clue": "ぬるぬるした細長い川魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "グッピー",
+    "clue": "尾の美しい熱帯の小魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "ネオンテトラ",
+    "clue": "青く光る帯の熱帯魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "ベタ",
+    "clue": "ひれが美しく闘魚とも呼ばれる魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "ニシキゴイ",
+    "clue": "色鮮やかな観賞用の鯉",
+    "genre": "nature"
+  },
+  {
+    "answer": "デメキン",
+    "clue": "目が飛び出た観賞用の金魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "ランチュウ",
+    "clue": "丸い体の高級な金魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "ウーパールーパー",
+    "clue": "えらが外に出た両生類",
+    "genre": "nature"
+  },
+  {
+    "answer": "サンショウウオ",
+    "clue": "渓流にすむ尾のある両生類",
+    "genre": "nature"
+  },
+  {
+    "answer": "アマガエル",
+    "clue": "緑色の小さな木にすむ蛙",
+    "genre": "nature"
+  },
+  {
+    "answer": "ウシガエル",
+    "clue": "低く鳴く大きな蛙",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヒキガエル",
+    "clue": "ずんぐりしたいぼのある蛙",
+    "genre": "nature"
+  },
+  {
+    "answer": "オタマジャクシ",
+    "clue": "蛙の子の尾のある幼生",
+    "genre": "nature"
+  },
+  {
+    "answer": "ニシキヘビ",
+    "clue": "獲物を締めつける大きな蛇",
+    "genre": "nature"
+  },
+  {
+    "answer": "コブラ",
+    "clue": "首を広げる毒のある蛇",
+    "genre": "nature"
+  },
+  {
+    "answer": "マムシ",
+    "clue": "日本にすむ毒のある蛇",
+    "genre": "nature"
+  },
+  {
+    "answer": "ハブ",
+    "clue": "沖縄にすむ毒のある蛇",
+    "genre": "nature"
+  },
+  {
+    "answer": "アオダイショウ",
+    "clue": "日本の家の近くにすむ大きな蛇",
+    "genre": "nature"
+  },
+  {
+    "answer": "イグアナ",
+    "clue": "背にとげのある大型のトカゲ",
+    "genre": "nature"
+  },
+  {
+    "answer": "コモドオオトカゲ",
+    "clue": "島にすむ世界最大のトカゲ",
+    "genre": "nature"
+  },
+  {
+    "answer": "ワニガメ",
+    "clue": "鋭い口を持つ大きなカメ",
+    "genre": "nature"
+  },
+  {
+    "answer": "ウミガメ",
+    "clue": "海を泳ぐ大きなカメ",
+    "genre": "nature"
+  },
+  {
+    "answer": "リクガメ",
+    "clue": "陸で暮らす甲羅の高いカメ",
+    "genre": "nature"
+  },
+  {
+    "answer": "スッポン",
+    "clue": "甲羅の柔らかい食用のカメ",
+    "genre": "nature"
+  },
+  {
+    "answer": "ワシミミズク",
+    "clue": "耳のような羽角のある大きなフクロウ",
+    "genre": "nature"
+  },
+  {
+    "answer": "シロフクロウ",
+    "clue": "雪のように白いフクロウ",
+    "genre": "nature"
+  },
+  {
+    "answer": "ハヤブサ",
+    "clue": "急降下で狩る速い猛禽",
+    "genre": "nature"
+  },
+  {
+    "answer": "トビ",
+    "clue": "上空を輪を描いて飛ぶ猛禽",
+    "genre": "nature"
+  },
+  {
+    "answer": "ハクトウワシ",
+    "clue": "頭が白いアメリカの象徴の鷲",
+    "genre": "nature"
+  },
+  {
+    "answer": "コンドル",
+    "clue": "高山を飛ぶ大きな猛禽",
+    "genre": "nature"
+  },
+  {
+    "answer": "ペリカン",
+    "clue": "大きな袋状のくちばしの鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "コウノトリ",
+    "clue": "赤ちゃんを運ぶと言われる大きな鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "サギ",
+    "clue": "首の長い水辺の白い鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "トキ",
+    "clue": "薄紅色の翼を持つ保護された鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "ハクチョウ",
+    "clue": "首の長い白い水鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "ガチョウ",
+    "clue": "アヒルに似た大きな水鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "オシドリ",
+    "clue": "仲のよさで知られる美しい水鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "カモ",
+    "clue": "池や川に浮かぶ水鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "クジャクバト",
+    "clue": "尾を広げる飼い鳩の一種",
+    "genre": "nature"
+  },
+  {
+    "answer": "キジ",
+    "clue": "日本の国鳥とされる尾の長い鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "ライチョウ",
+    "clue": "高山にすむ季節で色が変わる鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "シチメンチョウ",
+    "clue": "感謝祭で知られる大きな鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "クジャクチョウ",
+    "clue": "目玉模様のある美しい蝶",
+    "genre": "nature"
+  },
+  {
+    "answer": "アゲハ",
+    "clue": "黒や黄の大きな美しい蝶",
+    "genre": "nature"
+  },
+  {
+    "answer": "モンシロチョウ",
+    "clue": "畑でよく見る白い蝶",
+    "genre": "nature"
+  },
+  {
+    "answer": "コオロギ",
+    "clue": "秋に美しい音で鳴く虫",
+    "genre": "nature"
+  },
+  {
+    "answer": "スズムシ",
+    "clue": "りんりんと鳴く秋の虫",
+    "genre": "nature"
+  },
+  {
+    "answer": "キリギリス",
+    "clue": "草むらで鳴く緑の虫",
+    "genre": "nature"
+  },
+  {
+    "answer": "イナゴ",
+    "clue": "稲を食べる飛び跳ねる虫",
+    "genre": "nature"
+  },
+  {
+    "answer": "カマドウマ",
+    "clue": "暗い所にすむ跳ねる虫",
+    "genre": "nature"
+  },
+  {
+    "answer": "ゲンゴロウ",
+    "clue": "水中を泳ぐ甲虫",
+    "genre": "nature"
+  },
+  {
+    "answer": "タガメ",
+    "clue": "水中で獲物を捕る大きな水生昆虫",
+    "genre": "nature"
+  },
+  {
+    "answer": "アメンボ",
+    "clue": "水面をすべる細長い虫",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヤゴ",
+    "clue": "とんぼの水中の幼虫",
+    "genre": "nature"
+  },
+  {
+    "answer": "ホタルブクロ",
+    "clue": "釣り鐘形の初夏の花",
+    "genre": "nature"
+  },
+  {
+    "answer": "ハナミズキ",
+    "clue": "春に白や桃色の花が咲く木",
+    "genre": "nature"
+  },
+  {
+    "answer": "モクレン",
+    "clue": "春に大きな花を咲かせる木",
+    "genre": "nature"
+  },
+  {
+    "answer": "キンモクセイ",
+    "clue": "秋に甘い香りを放つ橙色の花",
+    "genre": "nature"
+  },
+  {
+    "answer": "クチナシ",
+    "clue": "白く香りのよい初夏の花",
+    "genre": "nature"
+  },
+  {
+    "answer": "ジンチョウゲ",
+    "clue": "早春に強い香りを放つ花",
+    "genre": "nature"
+  },
+  {
+    "answer": "サザンカ",
+    "clue": "冬に咲く椿に似た花",
+    "genre": "nature"
+  },
+  {
+    "answer": "シャクナゲ",
+    "clue": "高山に咲く大きな花の集まり",
+    "genre": "nature"
+  },
+  {
+    "answer": "シャクヤク",
+    "clue": "座れば〜とたとえられる花",
+    "genre": "nature"
+  },
+  {
+    "answer": "ダリア",
+    "clue": "夏から秋に咲く豪華な花",
+    "genre": "nature"
+  },
+  {
+    "answer": "グラジオラス",
+    "clue": "剣のような葉に穂状の花",
+    "genre": "nature"
+  },
+  {
+    "answer": "アネモネ",
+    "clue": "春に咲く色とりどりの花",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヒヤシンス",
+    "clue": "水栽培もできる香りのよい春の花",
+    "genre": "nature"
+  },
+  {
+    "answer": "クロッカス",
+    "clue": "早春に咲く小さな花",
+    "genre": "nature"
+  },
+  {
+    "answer": "パンジー",
+    "clue": "花壇でおなじみの三色の花",
+    "genre": "nature"
+  },
+  {
+    "answer": "マリーゴールド",
+    "clue": "オレンジや黄の丈夫な花",
+    "genre": "nature"
+  },
+  {
+    "answer": "ペチュニア",
+    "clue": "鉢植えで人気のラッパ形の花",
+    "genre": "nature"
+  },
+  {
+    "answer": "サルビア",
+    "clue": "夏に咲く赤い穂状の花",
+    "genre": "nature"
+  },
+  {
+    "answer": "ホウセンカ",
+    "clue": "実をはじいて種を飛ばす花",
+    "genre": "nature"
+  },
+  {
+    "answer": "オジギソウ",
+    "clue": "触れると葉を閉じる草",
+    "genre": "nature"
+  },
+  {
+    "answer": "ウツボカズラ",
+    "clue": "袋で虫を捕る食虫植物",
+    "genre": "nature"
+  },
+  {
+    "answer": "ハエトリグサ",
+    "clue": "葉を閉じて虫を捕る食虫植物",
+    "genre": "nature"
+  },
+  {
+    "answer": "アロエ",
+    "clue": "葉に薬効のある多肉植物",
+    "genre": "nature"
+  },
+  {
+    "answer": "ガジュマル",
+    "clue": "気根を垂らす南国の木",
+    "genre": "nature"
+  },
+  {
+    "answer": "ソテツ",
+    "clue": "南国に生える羽状の葉の植物",
+    "genre": "nature"
+  },
+  {
+    "answer": "バナナノキ",
+    "clue": "大きな葉と房の実をつける南国の植物",
+    "genre": "nature"
+  },
+  {
+    "answer": "マングローブ",
+    "clue": "海辺に根を張る林",
+    "genre": "nature"
+  },
+  {
+    "answer": "シラカバ",
+    "clue": "白い幹が美しい高原の木",
+    "genre": "nature"
+  },
+  {
+    "answer": "ブナ",
+    "clue": "山地に広がる落葉広葉樹",
+    "genre": "nature"
+  },
+  {
+    "answer": "ナラ",
+    "clue": "どんぐりがなる落葉樹",
+    "genre": "nature"
+  },
+  {
+    "answer": "クヌギ",
+    "clue": "カブトムシが集まるどんぐりの木",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヒノキ",
+    "clue": "香りのよい建材になる木",
+    "genre": "nature"
+  },
+  {
+    "answer": "クスノキ",
+    "clue": "防虫剤の樟脳がとれる大木",
+    "genre": "nature"
+  },
+  {
+    "answer": "ポプラ",
+    "clue": "まっすぐ高く伸びる並木の木",
+    "genre": "nature"
+  },
+  {
+    "answer": "ユーカリ",
+    "clue": "コアラが食べる葉の木",
+    "genre": "nature"
+  },
+  {
+    "answer": "オリーブ",
+    "clue": "平和の象徴で実から油をとる木",
+    "genre": "nature"
+  },
+  {
+    "answer": "ザクロノキ",
+    "clue": "赤い粒の実をつける木",
+    "genre": "nature"
+  },
+  {
+    "answer": "キンカン",
+    "clue": "皮ごと食べる小さな柑橘の木",
+    "genre": "nature"
+  },
+  {
+    "answer": "サウンドトラック",
+    "clue": "映画やゲームの音楽を集めた音源",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "テーマソング",
+    "clue": "作品の主題を表す代表曲",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "イントロ",
+    "clue": "曲の始まりの導入部",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "サビ",
+    "clue": "曲の最も盛り上がる部分",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "コーラス",
+    "clue": "複数で声を合わせて歌う部分",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ハモリ",
+    "clue": "主旋律に重ねる和音の歌声",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "アカペラ",
+    "clue": "楽器を使わず声だけで歌う形式",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "デュオ",
+    "clue": "二人組の演奏や歌のユニット",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "トリオ",
+    "clue": "三人組の演奏のユニット",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "カルテット",
+    "clue": "四人組の演奏のユニット",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "オーケストラ",
+    "clue": "多くの楽器が集まる大編成の楽団",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "シンフォニー",
+    "clue": "管弦楽による大規模な楽曲（交響曲）",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "コンチェルト",
+    "clue": "独奏と管弦楽による楽曲（協奏曲）",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ソナタ",
+    "clue": "器楽のための形式の楽曲",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "セレナーデ",
+    "clue": "夜に恋人に贈る愛の歌",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ワルツ",
+    "clue": "三拍子の優雅な舞踏曲",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "マーチ",
+    "clue": "行進に合わせた力強い曲",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ジャズ",
+    "clue": "即興を楽しむアメリカ生まれの音楽",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ブルース",
+    "clue": "哀愁を帯びた黒人音楽",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ロック",
+    "clue": "エレキギターを軸にした激しい音楽",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ポップス",
+    "clue": "大衆向けの親しみやすい音楽",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ヒップホップ",
+    "clue": "ラップやDJを核にした音楽文化",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ラップ",
+    "clue": "韻を踏んで言葉を刻む歌唱",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "レゲエ",
+    "clue": "ジャマイカ生まれの独特のリズムの音楽",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "テクノ",
+    "clue": "電子音を多用した踊れる音楽",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "クラシック",
+    "clue": "西洋の伝統的な芸術音楽",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "エンカ",
+    "clue": "日本の哀愁ある大衆歌謡（演歌）",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "フォーク",
+    "clue": "ギターの弾き語りが多い素朴な音楽",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ボサノバ",
+    "clue": "ブラジル生まれのおしゃれな音楽",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "サンバ",
+    "clue": "カーニバルでおなじみのブラジルの音楽",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "フラメンコ",
+    "clue": "ギターと足音で踊るスペインの芸能",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "タンゴ",
+    "clue": "アルゼンチン生まれの情熱的な踊り",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "バイオリン",
+    "clue": "あごに挟んで弓で弾く弦楽器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ビオラ",
+    "clue": "バイオリンより少し大きい弦楽器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "チェロ",
+    "clue": "床に立てて弾く大きな弦楽器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "コントラバス",
+    "clue": "弦楽器で最も大きく低い音の楽器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ハープ",
+    "clue": "弦を指ではじく大きな竪琴",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "フルート",
+    "clue": "横に構えて吹く金属の管楽器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "クラリネット",
+    "clue": "リードを使う黒い木管楽器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "オーボエ",
+    "clue": "二枚のリードを使う木管楽器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "サックス",
+    "clue": "ジャズでおなじみの金色の管楽器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "トランペット",
+    "clue": "明るい音色の金管楽器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "トロンボーン",
+    "clue": "管を伸縮させて音を変える金管楽器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ホルン",
+    "clue": "渦を巻いた形の金管楽器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "チューバ",
+    "clue": "金管で最も大きく低い音の楽器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "アコーディオン",
+    "clue": "蛇腹を伸縮させて鳴らす楽器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "シンセサイザー",
+    "clue": "電子で多彩な音を作る鍵盤楽器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "キーボード",
+    "clue": "電子の鍵盤楽器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ウクレレ",
+    "clue": "ハワイ生まれの小さな弦楽器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "バンジョー",
+    "clue": "丸い胴のアメリカの弦楽器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "マンドリン",
+    "clue": "細かく弾く小型の弦楽器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "シャミセン",
+    "clue": "ばちで弾く日本の三本弦の楽器（三味線）",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "コト",
+    "clue": "床に置いて弾く日本の弦楽器（琴）",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "シャクハチ",
+    "clue": "竹でできた縦に吹く和楽器（尺八）",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "タイコ",
+    "clue": "ばちで打って鳴らす打楽器（太鼓）",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ツヅミ",
+    "clue": "肩や腰で打つ和の打楽器（鼓）",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "シンバル",
+    "clue": "金属の円盤を打ち合わせる打楽器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "タンバリン",
+    "clue": "枠に鈴の付いた打楽器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "カスタネット",
+    "clue": "手のひらで打ち鳴らす小さな打楽器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "トライアングル",
+    "clue": "三角形の金属を打つ楽器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "マラカス",
+    "clue": "振って音を出す中南米の打楽器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ボンゴ",
+    "clue": "二つ並んだ小さな手打ちの太鼓",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "コンガ",
+    "clue": "細長い手打ちの太鼓",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "シロフォン",
+    "clue": "木の板を並べて打つ楽器（木琴）",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "メトロノーム",
+    "clue": "拍子を刻む練習の道具",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ガクフ",
+    "clue": "音符を記した演奏のための紙（楽譜）",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "オンプ",
+    "clue": "音の高さや長さを表す記号（音符）",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "シキシャ",
+    "clue": "楽団を率いてタクトを振る人（指揮者）",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "サクキョクカ",
+    "clue": "曲を作る人（作曲家）",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "アレンジャー",
+    "clue": "曲を編曲する人",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ボーカリスト",
+    "clue": "歌を担当する人",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ギタリスト",
+    "clue": "ギターを弾く人",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ドラマー",
+    "clue": "ドラムを叩く人",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ベーシスト",
+    "clue": "ベースを弾く人",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ピアニスト",
+    "clue": "ピアノを弾く人",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ディスクジョッキー",
+    "clue": "曲をかけて場を盛り上げる人",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "アンプ",
+    "clue": "楽器や音声の音を大きくする機器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "イコライザー",
+    "clue": "音の高低のバランスを調整する機器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ミキサー",
+    "clue": "複数の音を混ぜ合わせる機器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ターンテーブル",
+    "clue": "レコードを回す再生の台",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "メガホン",
+    "clue": "声を大きく届ける円錐の道具",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ワイヤレスマイク",
+    "clue": "コードのいらない収音の機器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "カーテンコール",
+    "clue": "公演後に演者が再び現れる場面",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "プログラム",
+    "clue": "公演の演目や進行を記した冊子",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "パンフレット",
+    "clue": "作品の情報をまとめた冊子",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "グッズ",
+    "clue": "作品に関連した商品",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "チラシ",
+    "clue": "公演や映画の宣伝の紙",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ロビー",
+    "clue": "劇場や映画館の待合の広間",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "クローク",
+    "clue": "上着や荷物を預ける場所",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "オーケストラピット",
+    "clue": "舞台前で楽団が演奏する低い場所",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "リハ",
+    "clue": "本番前の通し稽古の略称",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ゲネプロ",
+    "clue": "本番同様に行う最終稽古",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "アドリブ",
+    "clue": "台本にない即興の演技や発言",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "モノローグ",
+    "clue": "一人で語る独白の場面",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ダイアローグ",
+    "clue": "登場人物どうしの会話",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "プロローグ",
+    "clue": "物語の前置きの部分",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "エピローグ",
+    "clue": "物語の締めくくりの部分",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "シークエンス",
+    "clue": "場面のひと続きのまとまり",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "フラッシュバック",
+    "clue": "過去を差し挟む演出",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "スローモーション",
+    "clue": "動きをゆっくり見せる映像表現",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "クローズアップ",
+    "clue": "顔や物を大きく写す撮り方",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "パンフォーカス",
+    "clue": "手前から奥までピントを合わせる撮り方",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ズーム",
+    "clue": "対象を寄せたり引いたりする撮影",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "カット",
+    "clue": "撮影をいったん止める合図",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "テイク",
+    "clue": "撮り直しの一回ごとの単位",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "アングル",
+    "clue": "カメラから対象を見る角度",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "コンテ",
+    "clue": "場面割りを絵で示した設計図",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ロケハン",
+    "clue": "撮影場所を下見すること",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "セット",
+    "clue": "撮影のために組まれた装置や背景",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ジオラマ",
+    "clue": "立体的に再現した模型の背景",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ミニチュア",
+    "clue": "小さく作った模型",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "コマドリ",
+    "clue": "少しずつ動かして撮る手法（コマ撮り）",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "セル",
+    "clue": "昔のアニメで一枚ずつ描いた透明な絵",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ゲンガ",
+    "clue": "アニメの動きの要となる絵（原画）",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ドウガ",
+    "clue": "原画の間をつなぐ絵（動画）",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "サクガ",
+    "clue": "アニメの絵を描くこと（作画）",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "セイユウ",
+    "clue": "アニメの声を担当する人（声優）",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "アフレコ",
+    "clue": "映像に合わせて声を吹き込む作業",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "シリーズ",
+    "clue": "続けて作られる連作の作品",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "スピンオフ",
+    "clue": "本編から派生した別の作品",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "リメイク",
+    "clue": "過去の作品を作り直すこと",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "リブート",
+    "clue": "設定を一新して作り直すこと",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ダイジェスト",
+    "clue": "見どころをまとめた要約",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "メイキング",
+    "clue": "制作の舞台裏を見せた映像",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "プレミア",
+    "clue": "作品の初公開のお披露目",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ロードショー",
+    "clue": "映画の封切り上映",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ヒット",
+    "clue": "大きく当たること",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ロングラン",
+    "clue": "長期間にわたって上演や上映が続くこと",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "アワード",
+    "clue": "優れた作品や人に贈る賞",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ノミネート",
+    "clue": "賞の候補に挙げられること",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "レッドカーペット",
+    "clue": "授賞式などで歩く赤い敷物",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "パパラッチ",
+    "clue": "有名人を追う写真記者",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "スキャンダル",
+    "clue": "有名人の醜聞",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ゴシップ",
+    "clue": "有名人のうわさ話",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "マネージャー",
+    "clue": "芸能人の予定を管理する人",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ジムショ",
+    "clue": "芸能人が所属する会社（事務所）",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ゲイノウカイ",
+    "clue": "歌手や俳優などが活躍する世界（芸能界）",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "スカウト",
+    "clue": "有望な人を見つけて誘うこと",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "センター",
+    "clue": "アイドルグループの中心に立つ人",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ソロデビュー",
+    "clue": "一人で芸能活動を始めること",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "カムバック",
+    "clue": "一度退いた人が再び活動すること",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ツアー",
+    "clue": "各地を回って行う公演",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "アリーナ",
+    "clue": "大勢を収容できる屋内の会場",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ドームコウエン",
+    "clue": "大きな屋根付き会場での公演（ドーム公演）",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ペンライト",
+    "clue": "ライブで振る光る棒",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "コール",
+    "clue": "ライブで観客が声を合わせる応援",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "セットリスト",
+    "clue": "ライブで演奏する曲の一覧",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ファンミーティング",
+    "clue": "ファンと交流する催し",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "アクキー",
+    "clue": "アクリル製のキーホルダーのグッズ（俗）",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "オシ",
+    "clue": "応援している推しの対象（推し）",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "コンテンツ",
+    "clue": "作品や番組などの中身",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ストリーミング",
+    "clue": "ネットでそのまま流して見る配信",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "サブスク",
+    "clue": "定額で見放題などの仕組みの略称",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "プレイリスト",
+    "clue": "曲を並べて作る再生の一覧",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ダウンロード",
+    "clue": "データを手元に取り込むこと",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "オープンワールド",
+    "clue": "広い世界を自由に動けるゲーム",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "リスポーン",
+    "clue": "倒れた後に復活すること",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "チェックポイント",
+    "clue": "ゲームで進行を記録する地点",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ステータス",
+    "clue": "キャラの能力の数値",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "レベルアップ",
+    "clue": "経験を積んで強くなること",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "コンボ",
+    "clue": "連続して技を決めること",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "クールタイム",
+    "clue": "技を再び使えるまでの待ち時間",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "アバター",
+    "clue": "ゲームやネットで使う自分の分身",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "マルチプレイ",
+    "clue": "複数人で同時に遊ぶこと",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "オンライン",
+    "clue": "ネットにつないで遊ぶこと",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ランキング",
+    "clue": "成績を順位で並べた表",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "アチーブメント",
+    "clue": "ゲームで条件達成に贈られる称号",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "コントローラ",
+    "clue": "ゲームを操作する手持ちの機器",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ジョイスティック",
+    "clue": "倒して操作する棒型の入力装置",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ゲームジッキョウ",
+    "clue": "プレイを見せて語る配信（ゲーム実況）",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "エスポーツ",
+    "clue": "ゲームで競う競技",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "レイワ",
+    "clue": "平成の次の元号",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "タピオカ",
+    "clue": "令和初期に大流行した黒い粒入りの飲み物",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "タピる",
+    "clue": "タピオカ飲料を飲むことを指した流行語",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ナナバンキ",
+    "clue": "令和に台頭したお笑い世代（第七世代）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ピエン",
+    "clue": "令和に流行した泣き顔を表す若者言葉",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "パオン",
+    "clue": "ぴえんをさらに強めた若者の感情表現",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "エモい",
+    "clue": "感情を揺さぶられる様子を表す若者言葉",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "キュンです",
+    "clue": "胸がときめくさまを表した流行語",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "チル",
+    "clue": "ゆったりくつろぐことを指す若者言葉",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ガチ",
+    "clue": "本気であるさまを表す若者言葉",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ナルハヤ",
+    "clue": "なるべく早くを縮めた言い回し",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ワンチャン",
+    "clue": "ひょっとしたら可能性がある意の若者言葉",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "イチオシ",
+    "clue": "最もおすすめのもの",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "オシカツ",
+    "clue": "好きな人や物を応援する活動（推し活）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "オタカツ",
+    "clue": "趣味に熱中して楽しむ活動（オタ活）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "リョウサンガタ",
+    "clue": "似た服装を好む令和の女子のスタイル（量産型）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ジライケイ",
+    "clue": "暗めの服装を好む令和のスタイル（地雷系）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ガクチカ",
+    "clue": "学生時代に力を入れたことを問う就活の語",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "カエルカ",
+    "clue": "好きな相手に幻滅する令和の現象（蛙化）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "タピオカミルクティー",
+    "clue": "黒い粒入りの台湾発の人気の飲み物",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "マリトッツォ",
+    "clue": "クリームを挟んだイタリア発の流行の菓子",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "カヌレ",
+    "clue": "令和に再ブームした外は固いフランス菓子",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ダルゴナコーヒー",
+    "clue": "泡を立てた韓国発の流行の飲み物",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ヤンニョムチキン",
+    "clue": "甘辛いたれの韓国の鶏料理",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "チーズハットグ",
+    "clue": "伸びるチーズが人気の韓国の屋台食",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "トゥンカロン",
+    "clue": "厚みのある韓国風のマカロン",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "クロッフル",
+    "clue": "クロワッサン生地を焼いた流行の菓子",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "フルーツサンド",
+    "clue": "断面が映えると人気になった令和の軽食",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ネオレトロ",
+    "clue": "昭和を今風に楽しむ令和の流行",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "コリアンタウン",
+    "clue": "韓流ファンが集う新大久保などの街",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "カンリュウ",
+    "clue": "令和も続く韓国の文化のブーム（韓流）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ケーポップ",
+    "clue": "世界的に人気の韓国のポップ音楽",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "オンチャンス",
+    "clue": "韓国オーディション番組発の流行の趣",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "サウナ",
+    "clue": "令和にブームになった汗をかく温浴",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "トトノウ",
+    "clue": "サウナ後の心地よい状態を表す言葉（整う）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "サウナー",
+    "clue": "サウナを愛好する人",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ソロキャンプ",
+    "clue": "一人で楽しむ令和に流行したキャンプ",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "グランピング",
+    "clue": "快適な設備で楽しむ豪華なキャンプ",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ベランピング",
+    "clue": "自宅のベランダで楽しむキャンプ気分",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "アウトドア",
+    "clue": "令和に人気が高まった野外の活動",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ワーケーション",
+    "clue": "旅先で働きながら休暇も取る働き方",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "テレワーク",
+    "clue": "会社に出ずに自宅などで働くこと",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "リモートワーク",
+    "clue": "遠隔で行う働き方",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ザイタクキンム",
+    "clue": "自宅で仕事をすること（在宅勤務）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "オンラインカイギ",
+    "clue": "画面越しに行う会議",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ウェブカイギ",
+    "clue": "ネットを通じて行う会議",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ズームノミ",
+    "clue": "ビデオ通話で行う飲み会（俗）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "オンラインジュギョウ",
+    "clue": "画面越しに受ける授業",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "フレックス",
+    "clue": "始業や終業を自分で選べる働き方",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "フクギョウ",
+    "clue": "本業以外にも仕事を持つこと（副業）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ギグワーク",
+    "clue": "単発で請け負う令和の働き方",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ウーバーイーツ",
+    "clue": "料理を自転車などで届ける配達サービス",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "デリバリー",
+    "clue": "令和に需要が増えた料理の宅配",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "テイクアウト",
+    "clue": "料理を持ち帰ること",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ゴーストレストラン",
+    "clue": "客席を持たず配達専門の飲食店",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "マスク",
+    "clue": "令和初期に欠かせなくなった顔の覆い",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "アベノマスク",
+    "clue": "全戸に配られた布のマスクの通称",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ステイホーム",
+    "clue": "外出を控え家で過ごすことを呼びかけた言葉",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ソーシャルディスタンス",
+    "clue": "人との距離をとること",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "サンミツ",
+    "clue": "避けるべきとされた三つの密（三密）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "テアライ",
+    "clue": "感染対策で奨励された衛生習慣（手洗い）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "アルコールショウドク",
+    "clue": "手指を清潔に保つ対策（アルコール消毒）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ケンオン",
+    "clue": "施設の入口で求められた体温の確認（検温）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ザイタク",
+    "clue": "外に出ず家で過ごすこと（在宅）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "オウチジカン",
+    "clue": "家で過ごす時間を楽しむ令和の言葉（おうち時間）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "オウチカフェ",
+    "clue": "自宅で喫茶気分を味わう令和の楽しみ",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ウィズコロナ",
+    "clue": "感染症と共存する令和の暮らし方",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "アクリルバン",
+    "clue": "飛沫を防ぐため店に置かれた透明な板",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "モクショク",
+    "clue": "黙って食べることを促した言葉（黙食）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ワクチン",
+    "clue": "感染症の予防に接種する薬",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ペーパーレス",
+    "clue": "紙を使わずデータで済ませること",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ハンコレス",
+    "clue": "印鑑をなくす令和の業務改革",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "デジタルチョウ",
+    "clue": "令和に発足した行政のデジタル化を担う官庁（デジタル庁）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "マイナンバーカード",
+    "clue": "令和に普及が進んだ個人番号の証明カード",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "キャッシュレス",
+    "clue": "現金を使わない支払いの広がり",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ペイペイ",
+    "clue": "コード決済で広まったスマホ払いの一つ",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "キューアールケッサイ",
+    "clue": "コードを読み取って払う方式（QR決済）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "デンシマネー",
+    "clue": "カードやスマホで払う電子のお金",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "タッチケッサイ",
+    "clue": "かざすだけで支払う方式",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ポイントカツ",
+    "clue": "ポイントをためてお得を狙う活動（ポイ活）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ネットスーパー",
+    "clue": "ネットで注文して届く食料品の買い物",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "フリマアプリ",
+    "clue": "個人で物を売買するスマホの市場",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "メルカリ",
+    "clue": "令和も人気の個人売買のフリマアプリ",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "セルフレジ",
+    "clue": "自分で会計する令和に増えたレジ",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ムジンハンバイ",
+    "clue": "店員のいない販売（無人販売）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "サブスクリプション",
+    "clue": "定額で使い放題などのサービスの仕組み",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ドウガハイシン",
+    "clue": "ネットで映像を流すサービス（動画配信）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ライブハイシン",
+    "clue": "その場の様子をネットで生中継すること",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ナゲセン",
+    "clue": "配信者に贈るお金（投げ銭）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "バーチャルユーチューバー",
+    "clue": "アバターで配信するネットの人気者",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ブイチューバー",
+    "clue": "仮想のキャラで配信する人の略称",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ハイシンシャ",
+    "clue": "ネットで配信する人（配信者）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ティックトック",
+    "clue": "短い動画で人気の令和のアプリ",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ショートドウガ",
+    "clue": "数十秒の短い縦型の映像（ショート動画）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "バズる",
+    "clue": "ネットで一気に話題になること",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "エンジョウ",
+    "clue": "ネットで批判が殺到すること（炎上）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "イイネ",
+    "clue": "投稿への共感を示すボタン",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "フォロワー",
+    "clue": "投稿を継続して見る登録者",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ハッシュタグ",
+    "clue": "投稿に付ける検索用のしるし",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ストーリーズ",
+    "clue": "一日で消える短い投稿の機能",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "リール",
+    "clue": "短い縦型動画を投稿する機能",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "インフルエンサー",
+    "clue": "ネットで影響力を持つ発信者",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "バエ",
+    "clue": "写真として見栄えがよいこと（映え）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "インスタバエ",
+    "clue": "写真共有アプリで見栄えすること（インスタ映え）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ジドリ",
+    "clue": "自分で自分を撮ること（自撮り）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "オヤガチャ",
+    "clue": "生まれる家を選べないことの俗な言い方（親ガチャ）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "キメツ",
+    "clue": "令和に社会現象になった鬼退治の漫画の略称",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ゼンイツ",
+    "clue": "鬼滅の刃に登場する黄色い髪の剣士",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ゼンシュウチュウ",
+    "clue": "鬼滅の刃で集中力を高める呼吸の構え（全集中）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ジュジュツカイセン",
+    "clue": "呪いと戦う令和の人気アニメ（呪術廻戦）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "スパイファミリー",
+    "clue": "偽装家族を描く令和の人気アニメ",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "アニャ",
+    "clue": "スパイファミリーの心を読む少女",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ウマムスメ",
+    "clue": "競走馬を擬人化した令和の人気ゲーム",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ゲンシン",
+    "clue": "広大な世界を冒険する令和の人気ゲーム（原神）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "アツモリ",
+    "clue": "無人島で暮らす令和に大ヒットしたゲームの略称",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "アマングアス",
+    "clue": "宇宙船で人狼を探す令和に流行したゲーム",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "エーペックス",
+    "clue": "三人組で戦う人気の射撃ゲーム",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "フォートナイト",
+    "clue": "建築しながら戦う世界的人気の射撃ゲーム",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "アツマレ",
+    "clue": "無人島生活ゲームの題名の頭の語（あつまれ）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "バトルロイヤル",
+    "clue": "大勢で最後の一人を競うゲームの形式",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "メタバース",
+    "clue": "ネット上の仮想の三次元空間",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "エヌエフティー",
+    "clue": "デジタル資産の唯一性を示す技術",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "セイセイエーアイ",
+    "clue": "文章や絵を作り出す人工知能（生成AI）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "チャットエーアイ",
+    "clue": "対話で答える令和の人工知能",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ジドウウンテン",
+    "clue": "人が操作せず走る令和の車の技術（自動運転）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ドローン",
+    "clue": "空を飛ぶ無人の小型機",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "デンキジドウシャ",
+    "clue": "電池で走る環境に優しい車（電気自動車）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "イーブイ",
+    "clue": "電気自動車を指すアルファベットの略称",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ロボットソウジキ",
+    "clue": "自動で部屋を掃除する令和に普及した家電",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "スマートスピーカー",
+    "clue": "声で操作するAI内蔵の音響機器",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "スマートウォッチ",
+    "clue": "健康も測れる腕時計型の端末",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ワイヤレスイヤホン",
+    "clue": "コードのない左右独立の耳の機器",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ゴジー",
+    "clue": "高速の通信規格（5G）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "エスディージーズ",
+    "clue": "持続可能な開発目標の略称",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ダツタンソ",
+    "clue": "二酸化炭素を減らす取り組み（脱炭素）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "カーボンニュートラル",
+    "clue": "温室効果ガスの排出を実質ゼロにすること",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "プラスチックゴミ",
+    "clue": "海洋汚染で問題になった廃棄物",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "レジブクロ",
+    "clue": "令和に有料化が始まった買い物の袋（レジ袋）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "エコバッグ",
+    "clue": "繰り返し使う買い物用の袋",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "マイボトル",
+    "clue": "持ち歩く自分用の水筒",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "プラントベース",
+    "clue": "植物由来の食品を指す令和の言葉",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ダイズミート",
+    "clue": "大豆で作る肉に似た令和の食品",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "コンチュウショク",
+    "clue": "食料問題で注目された虫を食べる食（昆虫食）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "フードロス",
+    "clue": "まだ食べられる食品を捨てる問題",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ジビエ",
+    "clue": "鹿や猪など野生の肉を使う料理",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "オートミール",
+    "clue": "令和に健康食として人気の麦のシリアル",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "タンパクシツ",
+    "clue": "筋トレ人気で注目された栄養素（たんぱく質）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "プロテイン",
+    "clue": "たんぱく質を補う令和に人気の飲料粉",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "キントレ",
+    "clue": "令和に人気が高まった筋肉を鍛える運動（筋トレ）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "タクハイボックス",
+    "clue": "不在でも荷物を受け取れる箱（宅配ボックス）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "オキハイ",
+    "clue": "玄関先に荷物を置く配達（置き配）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "シェアリング",
+    "clue": "物を共有して使う令和の仕組み",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "シェアサイクル",
+    "clue": "街で借りて返せる共用の自転車",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "キックボード",
+    "clue": "令和に街乗りで広がった立ち乗りの乗り物",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "サブスクリプションサービス",
+    "clue": "定額で利用し続けるサービス",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "リスキリング",
+    "clue": "新しい技能を学び直すこと",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "タイパ",
+    "clue": "時間あたりの効率を表す令和の言葉（タイパ）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "コスパ",
+    "clue": "値段に対する満足度を表す言葉",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "バイソクシチョウ",
+    "clue": "動画を速めて見る令和の視聴法（倍速視聴）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ネタバレ",
+    "clue": "結末などを先に明かしてしまうこと",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ファクトチェック",
+    "clue": "情報が正しいか確かめること",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "フェイクニュース",
+    "clue": "事実でない偽の情報",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ダイバーシティ",
+    "clue": "多様性を尊重する令和の考え方",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ジェンダーレス",
+    "clue": "性別の区別にとらわれない令和の考え方",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "エルジービーティー",
+    "clue": "性の多様性を表す令和に広まった言葉",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "セキュリティ",
+    "clue": "情報や安全を守る仕組み",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ニンショウ",
+    "clue": "本人かどうかを確かめること（認証）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "カオニンショウ",
+    "clue": "顔で本人を確かめる技術（顔認証）",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "シモンニンショウ",
+    "clue": "指紋で本人を確かめる技術（指紋認証）",
+    "genre": "reiwa"
+  }
 ]
