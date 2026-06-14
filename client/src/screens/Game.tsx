@@ -27,6 +27,16 @@ export function Game({ state, playerId, lastResult, onSubmit, onLeave, solo }: P
   const [selectedWordId, setSelectedWordId] = useState<string | null>(null);
   const puzzle = state.puzzle!;
 
+  // 解答結果エフェクト（解答者本人のみ。lastResult は本人にしか届かない）
+  const [effect, setEffect] = useState<{ kind: 'correct' | 'wrong'; id: number } | null>(null);
+  useEffect(() => {
+    // 解答済み単語への再挑戦はエフェクトを出さない
+    if (!lastResult || lastResult.alreadySolved) return;
+    setEffect({ kind: lastResult.correct ? 'correct' : 'wrong', id: Date.now() });
+    const t = setTimeout(() => setEffect(null), 1200);
+    return () => clearTimeout(t);
+  }, [lastResult]);
+
   // 一人用モードの経過時間を毎秒更新
   const [now, setNow] = useState(Date.now());
   useEffect(() => {
@@ -113,6 +123,14 @@ export function Game({ state, playerId, lastResult, onSubmit, onLeave, solo }: P
       {selectedWord && (
         <div className="answer-dock">
           <AnswerInput word={selectedWord} lastResult={lastResult} onSubmit={handleSubmit} />
+        </div>
+      )}
+
+      {effect && (
+        <div className="result-effect" key={effect.id}>
+          <div className={`result-effect-badge ${effect.kind}`}>
+            {effect.kind === 'correct' ? '⭕️ 正解‼︎' : '❌ 不正解…'}
+          </div>
         </div>
       )}
     </div>
