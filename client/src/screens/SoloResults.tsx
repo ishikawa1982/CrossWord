@@ -1,3 +1,5 @@
+import { useEffect, useState } from 'react';
+import { Confetti } from '../components/Confetti.js';
 import type { SoloStats } from '../useSoloGame.js';
 
 interface Props {
@@ -23,25 +25,33 @@ export function SoloResults({ stats, totalWords, onPlayAgain, onExit }: Props) {
       ? Math.round((stats.solvedWords / (stats.solvedWords + stats.mistakes)) * 100)
       : 100;
 
+  // クリアは必ず祝う場面。マウント時に紙吹雪を表示し、数秒で止める。
+  const [showConfetti, setShowConfetti] = useState(true);
+  useEffect(() => {
+    const t = setTimeout(() => setShowConfetti(false), 4500);
+    return () => clearTimeout(t);
+  }, []);
+
   return (
     <div className="screen results">
-      <h1>クリア！ 🎉</h1>
-      <p className="winner-banner">すべてのマスを埋めました！</p>
+      {showConfetti && <Confetti />}
+      <h1 className="clear-title">クリア！ 🎉</h1>
+      <p className="winner-banner celebrate">すべてのマスを埋めました！</p>
 
       <ul className="solo-stat-list">
-        <li>
+        <li style={{ animationDelay: '0.1s' }}>
           <span className="label">タイム</span>
           <span className="value">{formatDuration(elapsed)}</span>
         </li>
-        <li>
+        <li style={{ animationDelay: '0.25s' }}>
           <span className="label">単語数</span>
           <span className="value">{totalWords} 語</span>
         </li>
-        <li>
+        <li style={{ animationDelay: '0.4s' }}>
           <span className="label">ミス</span>
           <span className="value">{stats.mistakes} 回</span>
         </li>
-        <li>
+        <li style={{ animationDelay: '0.55s' }}>
           <span className="label">正答率</span>
           <span className="value">{accuracy}%</span>
         </li>
