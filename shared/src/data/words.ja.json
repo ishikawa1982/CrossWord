@@ -7961,7 +7961,7 @@
   },
   {
     "answer": "タイパ",
-    "clue": "時間あたりの効率を表す令和の言葉（タイパ）",
+    "clue": "かけた時間あたりの効率の良さを表す令和の言葉",
     "genre": "reiwa"
   },
   {
@@ -9658,5 +9658,5050 @@
     "answer": "メイシーン",
     "clue": "心に残る印象的な場面",
     "genre": "subculture"
+  },
+  {
+    "answer": "アメリカ",
+    "clue": "星条旗で知られる北米の大国",
+    "genre": "geography"
+  },
+  {
+    "answer": "カナダ",
+    "clue": "メープルの葉を国旗に描く北米の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "メキシコ",
+    "clue": "タコスや古代遺跡で有名な中米の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ブラジル",
+    "clue": "サッカーとカーニバルで有名な南米最大の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "アルゼンチン",
+    "clue": "タンゴとパンパで知られる南米の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "チリ",
+    "clue": "南北に細長く伸びる南米の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ペルー",
+    "clue": "マチュピチュがある南米の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "イギリス",
+    "clue": "ロンドンを首都とするヨーロッパの島国",
+    "genre": "geography"
+  },
+  {
+    "answer": "フランス",
+    "clue": "エッフェル塔やワインで有名な国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ドイツ",
+    "clue": "ビールとソーセージで知られる中欧の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "イタリア",
+    "clue": "長靴の形をしたパスタの本場の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "スペイン",
+    "clue": "闘牛とフラメンコで有名な国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ポルトガル",
+    "clue": "イベリア半島の西端にある国",
+    "genre": "geography"
+  },
+  {
+    "answer": "オランダ",
+    "clue": "風車とチューリップで有名な低地の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ベルギー",
+    "clue": "ワッフルとチョコで知られる西欧の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "スイス",
+    "clue": "アルプスと時計で有名な永世中立国",
+    "genre": "geography"
+  },
+  {
+    "answer": "オーストリア",
+    "clue": "音楽の都ウィーンがある中欧の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ギリシャ",
+    "clue": "古代神話とパルテノン神殿で名高い国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ロシア",
+    "clue": "世界で最も面積の広い国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ノルウェー",
+    "clue": "フィヨルドとオーロラで知られる北欧の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "スウェーデン",
+    "clue": "北欧最大で福祉や家具で有名な国",
+    "genre": "geography"
+  },
+  {
+    "answer": "フィンランド",
+    "clue": "サウナとオーロラで知られる北欧の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "エジプト",
+    "clue": "ピラミッドとナイルで有名な国",
+    "genre": "geography"
+  },
+  {
+    "answer": "モロッコ",
+    "clue": "砂漠と迷路のような旧市街で知られる北アフリカの国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ケニア",
+    "clue": "サバンナのサファリで有名な東アフリカの国",
+    "genre": "geography"
+  },
+  {
+    "answer": "インド",
+    "clue": "カレーとタージマハルで知られる南アジアの大国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ベトナム",
+    "clue": "フォーや美しい湾で知られる東南アジアの国",
+    "genre": "geography"
+  },
+  {
+    "answer": "インドネシア",
+    "clue": "多くの島からなる東南アジアの国",
+    "genre": "geography"
+  },
+  {
+    "answer": "フィリピン",
+    "clue": "七千以上の島からなる東南アジアの国",
+    "genre": "geography"
+  },
+  {
+    "answer": "マレーシア",
+    "clue": "ツインタワーで知られる東南アジアの国",
+    "genre": "geography"
+  },
+  {
+    "answer": "シンガポール",
+    "clue": "マーライオンで有名な都市国家",
+    "genre": "geography"
+  },
+  {
+    "answer": "カンコク",
+    "clue": "キムチとハングルで知られる隣の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "チュウゴク",
+    "clue": "万里の長城で知られる人口最大の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "モンゴル",
+    "clue": "大草原と遊牧で知られる内陸の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "トルコ",
+    "clue": "アジアとヨーロッパにまたがる国",
+    "genre": "geography"
+  },
+  {
+    "answer": "イラン",
+    "clue": "ペルシャと呼ばれた西アジアの国",
+    "genre": "geography"
+  },
+  {
+    "answer": "サウジアラビア",
+    "clue": "メッカと石油で知られる中東の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "オーストラリア",
+    "clue": "コアラとカンガルーがすむ南半球の大陸国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ニュージーランド",
+    "clue": "キウイと羊で知られる南半球の島国",
+    "genre": "geography"
+  },
+  {
+    "answer": "トウキョウ",
+    "clue": "日本の首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "パリ",
+    "clue": "フランスの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ロンドン",
+    "clue": "イギリスの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ベルリン",
+    "clue": "ドイツの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ローマ",
+    "clue": "イタリアの首都で古代帝国の中心地",
+    "genre": "geography"
+  },
+  {
+    "answer": "マドリード",
+    "clue": "スペインの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ワシントン",
+    "clue": "アメリカの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ペキン",
+    "clue": "中国の首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "モスクワ",
+    "clue": "ロシアの首都で赤の広場がある",
+    "genre": "geography"
+  },
+  {
+    "answer": "アテネ",
+    "clue": "ギリシャの首都で古代文明の発祥地",
+    "genre": "geography"
+  },
+  {
+    "answer": "ウィーン",
+    "clue": "オーストリアの首都で音楽の都",
+    "genre": "geography"
+  },
+  {
+    "answer": "アムステルダム",
+    "clue": "オランダの首都で運河が巡る都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "ニューヨーク",
+    "clue": "自由の女神で知られるアメリカの大都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "ロサンゼルス",
+    "clue": "映画産業で知られるアメリカ西海岸の都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "シカゴ",
+    "clue": "高層ビル発祥のアメリカの風の街",
+    "genre": "geography"
+  },
+  {
+    "answer": "バンコク",
+    "clue": "タイの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ハノイ",
+    "clue": "ベトナムの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ジャカルタ",
+    "clue": "インドネシアの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "マニラ",
+    "clue": "フィリピンの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "デリー",
+    "clue": "インドの首都が置かれる都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "シャンハイ",
+    "clue": "中国最大の経済都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "ホンコン",
+    "clue": "高層ビルと夜景で知られる中国の特別行政区",
+    "genre": "geography"
+  },
+  {
+    "answer": "ドバイ",
+    "clue": "砂漠に建つ超高層ビルで有名な中東の都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "シドニー",
+    "clue": "オペラハウスで有名なオーストラリアの都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "ベネチア",
+    "clue": "運河とゴンドラで知られる水の都",
+    "genre": "geography"
+  },
+  {
+    "answer": "フィレンツェ",
+    "clue": "ルネサンス美術で名高いイタリアの都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "バルセロナ",
+    "clue": "サグラダファミリアで知られるスペインの都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "エベレスト",
+    "clue": "世界で最も高い山",
+    "genre": "geography"
+  },
+  {
+    "answer": "フジサン",
+    "clue": "日本一高い山",
+    "genre": "geography"
+  },
+  {
+    "answer": "キリマンジャロ",
+    "clue": "アフリカ最高峰の山",
+    "genre": "geography"
+  },
+  {
+    "answer": "マッターホルン",
+    "clue": "とがった姿で有名なアルプスの山",
+    "genre": "geography"
+  },
+  {
+    "answer": "アンデス",
+    "clue": "南米を縦断する長大な山脈",
+    "genre": "geography"
+  },
+  {
+    "answer": "ヒマラヤ",
+    "clue": "世界の屋根と呼ばれる大山脈",
+    "genre": "geography"
+  },
+  {
+    "answer": "アルプス",
+    "clue": "ヨーロッパ中央にそびえる山脈",
+    "genre": "geography"
+  },
+  {
+    "answer": "ロッキー",
+    "clue": "北米西部を貫く大山脈",
+    "genre": "geography"
+  },
+  {
+    "answer": "ナイル",
+    "clue": "エジプトを流れる世界最長級の川",
+    "genre": "geography"
+  },
+  {
+    "answer": "アマゾン",
+    "clue": "南米を流れる流域世界一の大河",
+    "genre": "geography"
+  },
+  {
+    "answer": "ミシシッピ",
+    "clue": "アメリカを南北に流れる大河",
+    "genre": "geography"
+  },
+  {
+    "answer": "ガンジス",
+    "clue": "インドの人々に聖なる川とされる大河",
+    "genre": "geography"
+  },
+  {
+    "answer": "ドナウ",
+    "clue": "ヨーロッパ数カ国を流れる国際河川",
+    "genre": "geography"
+  },
+  {
+    "answer": "ライン",
+    "clue": "ドイツを流れる古城が点在する川",
+    "genre": "geography"
+  },
+  {
+    "answer": "テムズ",
+    "clue": "ロンドンを流れる川",
+    "genre": "geography"
+  },
+  {
+    "answer": "セーヌ",
+    "clue": "パリを流れる川",
+    "genre": "geography"
+  },
+  {
+    "answer": "タイヘイヨウ",
+    "clue": "世界で最も広い海",
+    "genre": "geography"
+  },
+  {
+    "answer": "タイセイヨウ",
+    "clue": "南北アメリカとヨーロッパの間に広がる海",
+    "genre": "geography"
+  },
+  {
+    "answer": "インドヨウ",
+    "clue": "インド亜大陸の南に広がる海",
+    "genre": "geography"
+  },
+  {
+    "answer": "チチュウカイ",
+    "clue": "ヨーロッパとアフリカに囲まれた海",
+    "genre": "geography"
+  },
+  {
+    "answer": "シカイ",
+    "clue": "塩分が濃く体が浮く中東の湖",
+    "genre": "geography"
+  },
+  {
+    "answer": "カスピカイ",
+    "clue": "世界最大の湖",
+    "genre": "geography"
+  },
+  {
+    "answer": "ビクトリアコ",
+    "clue": "アフリカ最大の湖",
+    "genre": "geography"
+  },
+  {
+    "answer": "サハラ",
+    "clue": "アフリカ北部に広がる世界最大の砂漠",
+    "genre": "geography"
+  },
+  {
+    "answer": "ゴビ",
+    "clue": "モンゴルと中国にまたがる砂漠",
+    "genre": "geography"
+  },
+  {
+    "answer": "グランドキャニオン",
+    "clue": "アメリカにある雄大な大峡谷",
+    "genre": "geography"
+  },
+  {
+    "answer": "ナイアガラ",
+    "clue": "アメリカとカナダの国境にある大きな滝",
+    "genre": "geography"
+  },
+  {
+    "answer": "ガラパゴス",
+    "clue": "独自の生き物がすむ太平洋の諸島",
+    "genre": "geography"
+  },
+  {
+    "answer": "ハワイ",
+    "clue": "常夏の楽園として知られる太平洋の諸島",
+    "genre": "geography"
+  },
+  {
+    "answer": "アイスランド",
+    "clue": "火山と氷河で知られる北の島国",
+    "genre": "geography"
+  },
+  {
+    "answer": "グリーンランド",
+    "clue": "世界最大の島",
+    "genre": "geography"
+  },
+  {
+    "answer": "マダガスカル",
+    "clue": "アフリカの東に浮かぶ巨大な島",
+    "genre": "geography"
+  },
+  {
+    "answer": "キューバ",
+    "clue": "葉巻とサルサで知られるカリブの島国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ジャマイカ",
+    "clue": "レゲエ発祥のカリブの島国",
+    "genre": "geography"
+  },
+  {
+    "answer": "セキドウ",
+    "clue": "地球を一周する緯度ゼロの線",
+    "genre": "geography"
+  },
+  {
+    "answer": "ホッキョク",
+    "clue": "地球の北の果て",
+    "genre": "geography"
+  },
+  {
+    "answer": "ナンキョク",
+    "clue": "ペンギンがすむ氷の大陸",
+    "genre": "geography"
+  },
+  {
+    "answer": "オアシス",
+    "clue": "砂漠の中で水がわく緑の場所",
+    "genre": "geography"
+  },
+  {
+    "answer": "ハントウ",
+    "clue": "三方を海に囲まれ陸に続く地形",
+    "genre": "geography"
+  },
+  {
+    "answer": "ミサキ",
+    "clue": "海に突き出た陸地の先端",
+    "genre": "geography"
+  },
+  {
+    "answer": "カイキョウ",
+    "clue": "二つの陸地に挟まれた狭い海",
+    "genre": "geography"
+  },
+  {
+    "answer": "ウンガ",
+    "clue": "船を通すために人が掘った水路",
+    "genre": "geography"
+  },
+  {
+    "answer": "カザン",
+    "clue": "マグマを噴き出す山",
+    "genre": "geography"
+  },
+  {
+    "answer": "オンセン",
+    "clue": "地中から湧き出る温かい水",
+    "genre": "geography"
+  },
+  {
+    "answer": "コウゲン",
+    "clue": "標高が高く平らに広がる土地",
+    "genre": "geography"
+  },
+  {
+    "answer": "ボンチ",
+    "clue": "周りを山に囲まれた平らな土地",
+    "genre": "geography"
+  },
+  {
+    "answer": "ヘイヤ",
+    "clue": "広く平らに開けた土地",
+    "genre": "geography"
+  },
+  {
+    "answer": "ジョウリュウ",
+    "clue": "川の水源に近い側",
+    "genre": "geography"
+  },
+  {
+    "answer": "カリュウ",
+    "clue": "川が海に近づく下の側",
+    "genre": "geography"
+  },
+  {
+    "answer": "カコウ",
+    "clue": "川が海に注ぐ出口",
+    "genre": "geography"
+  },
+  {
+    "answer": "ミズウミ",
+    "clue": "陸地に囲まれてたまった水域",
+    "genre": "geography"
+  },
+  {
+    "answer": "シマグニ",
+    "clue": "周りを海に囲まれた国",
+    "genre": "geography"
+  },
+  {
+    "answer": "タイリク",
+    "clue": "地球上の大きな陸のかたまり",
+    "genre": "geography"
+  },
+  {
+    "answer": "アフリカ",
+    "clue": "サバンナと砂漠が広がる大陸",
+    "genre": "geography"
+  },
+  {
+    "answer": "ヨーロッパ",
+    "clue": "多くの国が集まる西の大陸",
+    "genre": "geography"
+  },
+  {
+    "answer": "アジア",
+    "clue": "日本も属する世界最大の大陸",
+    "genre": "geography"
+  },
+  {
+    "answer": "ピラミッド",
+    "clue": "エジプトの王の墓とされる巨大な石の建造物",
+    "genre": "geography"
+  },
+  {
+    "answer": "スフィンクス",
+    "clue": "ピラミッドのそばにある人面獣身の像",
+    "genre": "geography"
+  },
+  {
+    "answer": "コロッセオ",
+    "clue": "ローマにある古代の円形闘技場",
+    "genre": "geography"
+  },
+  {
+    "answer": "ピサノシャトウ",
+    "clue": "傾いた姿で有名なイタリアの塔",
+    "genre": "geography"
+  },
+  {
+    "answer": "バンリノチョウジョウ",
+    "clue": "中国にある延々と続く防壁",
+    "genre": "geography"
+  },
+  {
+    "answer": "タージマハル",
+    "clue": "インドにある白い大理石の霊廟",
+    "genre": "geography"
+  },
+  {
+    "answer": "ジユウノメガミ",
+    "clue": "ニューヨークの港に立つ巨大な像",
+    "genre": "geography"
+  },
+  {
+    "answer": "エッフェルトウ",
+    "clue": "パリにある鉄の大きな塔",
+    "genre": "geography"
+  },
+  {
+    "answer": "オペラハウス",
+    "clue": "貝殻のような屋根のシドニーの建物",
+    "genre": "geography"
+  },
+  {
+    "answer": "ストーンヘンジ",
+    "clue": "イギリスにある謎の巨石の遺跡",
+    "genre": "geography"
+  },
+  {
+    "answer": "マチュピチュ",
+    "clue": "アンデスの山中にあるインカの空中都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "アンコールワット",
+    "clue": "カンボジアにある巨大な石造寺院",
+    "genre": "geography"
+  },
+  {
+    "answer": "モアイ",
+    "clue": "イースター島に立ち並ぶ巨大な石像",
+    "genre": "geography"
+  },
+  {
+    "answer": "イド",
+    "clue": "赤道に平行な南北の位置を示す線",
+    "genre": "geography"
+  },
+  {
+    "answer": "ケイド",
+    "clue": "東西の位置を示す縦の線",
+    "genre": "geography"
+  },
+  {
+    "answer": "チズ",
+    "clue": "土地の様子を縮めて描いたもの",
+    "genre": "geography"
+  },
+  {
+    "answer": "チキュウギ",
+    "clue": "地球を球の形に表した模型",
+    "genre": "geography"
+  },
+  {
+    "answer": "ジサ",
+    "clue": "地域によって異なる時刻のずれ",
+    "genre": "geography"
+  },
+  {
+    "answer": "シュト",
+    "clue": "その国の政治の中心となる都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "オダノブナガ",
+    "clue": "天下統一を目前に本能寺で倒れた戦国武将",
+    "genre": "history"
+  },
+  {
+    "answer": "トヨトミヒデヨシ",
+    "clue": "農民から天下人にのぼりつめた戦国武将",
+    "genre": "history"
+  },
+  {
+    "answer": "トクガワイエヤス",
+    "clue": "江戸幕府を開いた初代将軍",
+    "genre": "history"
+  },
+  {
+    "answer": "タケダシンゲン",
+    "clue": "甲斐の虎と呼ばれた戦国の名将",
+    "genre": "history"
+  },
+  {
+    "answer": "ウエスギケンシン",
+    "clue": "越後の龍と呼ばれた戦国の名将",
+    "genre": "history"
+  },
+  {
+    "answer": "ダテマサムネ",
+    "clue": "独眼竜と呼ばれた仙台の戦国大名",
+    "genre": "history"
+  },
+  {
+    "answer": "サナダユキムラ",
+    "clue": "大坂の陣で活躍した戦国の名将",
+    "genre": "history"
+  },
+  {
+    "answer": "アケチミツヒデ",
+    "clue": "本能寺で主君に反旗をひるがえした武将",
+    "genre": "history"
+  },
+  {
+    "answer": "ミナモトノヨリトモ",
+    "clue": "鎌倉幕府を開いた初代将軍",
+    "genre": "history"
+  },
+  {
+    "answer": "ミナモトノヨシツネ",
+    "clue": "兄に追われた悲劇の名将",
+    "genre": "history"
+  },
+  {
+    "answer": "タイラノキヨモリ",
+    "clue": "平家の全盛を築いた武将",
+    "genre": "history"
+  },
+  {
+    "answer": "アシカガタカウジ",
+    "clue": "室町幕府を開いた初代将軍",
+    "genre": "history"
+  },
+  {
+    "answer": "ショウトクタイシ",
+    "clue": "十七条憲法を定めた飛鳥時代の政治家",
+    "genre": "history"
+  },
+  {
+    "answer": "フジワラノミチナガ",
+    "clue": "平安時代に栄華を極めた貴族",
+    "genre": "history"
+  },
+  {
+    "answer": "セイショウナゴン",
+    "clue": "枕草子を著した平安の女性",
+    "genre": "history"
+  },
+  {
+    "answer": "ムラサキシキブ",
+    "clue": "源氏物語を著した平安の女性",
+    "genre": "history"
+  },
+  {
+    "answer": "サカモトリョウマ",
+    "clue": "幕末に活躍し新時代を切り開いた志士",
+    "genre": "history"
+  },
+  {
+    "answer": "サイゴウタカモリ",
+    "clue": "明治維新を導いた薩摩の英傑",
+    "genre": "history"
+  },
+  {
+    "answer": "カツカイシュウ",
+    "clue": "江戸城を無血開城に導いた幕臣",
+    "genre": "history"
+  },
+  {
+    "answer": "フクザワユキチ",
+    "clue": "学問のすゝめを著した啓蒙思想家",
+    "genre": "history"
+  },
+  {
+    "answer": "イトウヒロブミ",
+    "clue": "初代内閣総理大臣",
+    "genre": "history"
+  },
+  {
+    "answer": "ペリー",
+    "clue": "黒船で来航し開国を迫った米国の提督",
+    "genre": "history"
+  },
+  {
+    "answer": "ナポレオン",
+    "clue": "フランスで皇帝となった軍人",
+    "genre": "history"
+  },
+  {
+    "answer": "カエサル",
+    "clue": "古代ローマの英雄的な将軍",
+    "genre": "history"
+  },
+  {
+    "answer": "クレオパトラ",
+    "clue": "古代エジプトの絶世の美女とされる女王",
+    "genre": "history"
+  },
+  {
+    "answer": "アレクサンドロス",
+    "clue": "東方へ大遠征した古代の大王",
+    "genre": "history"
+  },
+  {
+    "answer": "コロンブス",
+    "clue": "新大陸に到達した冒険家",
+    "genre": "history"
+  },
+  {
+    "answer": "マゼラン",
+    "clue": "世界一周の航海を初めて成し遂げた一行を率いた人物",
+    "genre": "history"
+  },
+  {
+    "answer": "マルコポーロ",
+    "clue": "東方見聞録を残した旅行家",
+    "genre": "history"
+  },
+  {
+    "answer": "チンギスハン",
+    "clue": "モンゴル帝国を築いた英雄",
+    "genre": "history"
+  },
+  {
+    "answer": "リンカーン",
+    "clue": "奴隷解放を進めたアメリカの大統領",
+    "genre": "history"
+  },
+  {
+    "answer": "ガンジー",
+    "clue": "非暴力でインド独立を導いた指導者",
+    "genre": "history"
+  },
+  {
+    "answer": "ジャンヌダルク",
+    "clue": "フランスを救った少女の英雄",
+    "genre": "history"
+  },
+  {
+    "answer": "エジソン",
+    "clue": "電球などを発明した発明王",
+    "genre": "history"
+  },
+  {
+    "answer": "ニュートン",
+    "clue": "万有引力を発見した科学者",
+    "genre": "history"
+  },
+  {
+    "answer": "ガリレオ",
+    "clue": "地動説を唱えた天文学者",
+    "genre": "history"
+  },
+  {
+    "answer": "ダヴィンチ",
+    "clue": "モナリザを描いた万能の天才",
+    "genre": "history"
+  },
+  {
+    "answer": "ベートーベン",
+    "clue": "運命などを作曲した楽聖",
+    "genre": "history"
+  },
+  {
+    "answer": "ジョウモン",
+    "clue": "縄目の文様の土器が使われた古い時代",
+    "genre": "history"
+  },
+  {
+    "answer": "ヤヨイ",
+    "clue": "稲作が広まった古代日本の時代",
+    "genre": "history"
+  },
+  {
+    "answer": "アスカ",
+    "clue": "仏教が伝わり都が置かれた古代の時代",
+    "genre": "history"
+  },
+  {
+    "answer": "ヘイアン",
+    "clue": "貴族文化が栄え京に都があった時代",
+    "genre": "history"
+  },
+  {
+    "answer": "カマクラ",
+    "clue": "武士が幕府を開いた時代",
+    "genre": "history"
+  },
+  {
+    "answer": "ムロマチ",
+    "clue": "足利氏が幕府を開いた時代",
+    "genre": "history"
+  },
+  {
+    "answer": "センゴク",
+    "clue": "各地の大名が争った戦乱の時代",
+    "genre": "history"
+  },
+  {
+    "answer": "アヅチモモヤマ",
+    "clue": "織田と豊臣が天下を治めた時代",
+    "genre": "history"
+  },
+  {
+    "answer": "エド",
+    "clue": "徳川幕府が続いた泰平の時代",
+    "genre": "history"
+  },
+  {
+    "answer": "メイジ",
+    "clue": "文明開化が進んだ近代の始まりの時代",
+    "genre": "history"
+  },
+  {
+    "answer": "タイショウ",
+    "clue": "モダンな文化が花開いた短い時代",
+    "genre": "history"
+  },
+  {
+    "answer": "ショウワ",
+    "clue": "戦争と高度成長を経た時代",
+    "genre": "history"
+  },
+  {
+    "answer": "ヘイジョウキョウ",
+    "clue": "奈良に置かれた古代の都",
+    "genre": "history"
+  },
+  {
+    "answer": "ヘイアンキョウ",
+    "clue": "京都に置かれた古代の都",
+    "genre": "history"
+  },
+  {
+    "answer": "ヘイケ",
+    "clue": "平安末に栄え壇ノ浦で滅んだ一族",
+    "genre": "history"
+  },
+  {
+    "answer": "ゲンジ",
+    "clue": "平氏と争った武士の一族",
+    "genre": "history"
+  },
+  {
+    "answer": "バクフ",
+    "clue": "武士が政治を行った政府",
+    "genre": "history"
+  },
+  {
+    "answer": "ショウグン",
+    "clue": "武士のかしらとして政治を率いた者",
+    "genre": "history"
+  },
+  {
+    "answer": "ダイミョウ",
+    "clue": "広い領地を治めた武士",
+    "genre": "history"
+  },
+  {
+    "answer": "サムライ",
+    "clue": "刀を差し主君に仕えた武人",
+    "genre": "history"
+  },
+  {
+    "answer": "ニンジャ",
+    "clue": "影で諜報や暗殺を行った者",
+    "genre": "history"
+  },
+  {
+    "answer": "ロウニン",
+    "clue": "主君を持たない武士",
+    "genre": "history"
+  },
+  {
+    "answer": "キゾク",
+    "clue": "朝廷に仕えた高い身分の人々",
+    "genre": "history"
+  },
+  {
+    "answer": "テンノウ",
+    "clue": "日本の象徴とされる位",
+    "genre": "history"
+  },
+  {
+    "answer": "セッショウ",
+    "clue": "幼い天皇に代わって政治を行った職",
+    "genre": "history"
+  },
+  {
+    "answer": "カンパク",
+    "clue": "成人した天皇を補佐した職",
+    "genre": "history"
+  },
+  {
+    "answer": "ケンズイシ",
+    "clue": "隋に派遣された使者",
+    "genre": "history"
+  },
+  {
+    "answer": "ケントウシ",
+    "clue": "唐に派遣された使者",
+    "genre": "history"
+  },
+  {
+    "answer": "カイコク",
+    "clue": "閉ざした国を外に開くこと",
+    "genre": "history"
+  },
+  {
+    "answer": "イシン",
+    "clue": "明治に古い体制を改めた大変革",
+    "genre": "history"
+  },
+  {
+    "answer": "ハイハンチケン",
+    "clue": "藩を廃し県を置いた明治の改革",
+    "genre": "history"
+  },
+  {
+    "answer": "オウセイフッコ",
+    "clue": "幕府を廃し天皇中心の政治に戻した明治の宣言",
+    "genre": "history"
+  },
+  {
+    "answer": "ホンノウジ",
+    "clue": "織田信長が倒れた京都の寺",
+    "genre": "history"
+  },
+  {
+    "answer": "セキガハラ",
+    "clue": "天下分け目の大合戦が行われた地",
+    "genre": "history"
+  },
+  {
+    "answer": "オオサカノジン",
+    "clue": "豊臣家が滅んだ徳川との戦い",
+    "genre": "history"
+  },
+  {
+    "answer": "ナガシノ",
+    "clue": "鉄砲を活用した織田の有名な合戦の地",
+    "genre": "history"
+  },
+  {
+    "answer": "オケハザマ",
+    "clue": "織田信長が今川を破った合戦の地",
+    "genre": "history"
+  },
+  {
+    "answer": "ダンノウラ",
+    "clue": "平家が滅んだ海の合戦の地",
+    "genre": "history"
+  },
+  {
+    "answer": "オウニンノラン",
+    "clue": "京都を荒廃させ戦国の発端となった内乱",
+    "genre": "history"
+  },
+  {
+    "answer": "ルネサンス",
+    "clue": "ヨーロッパで芸術が花開いた文化運動",
+    "genre": "history"
+  },
+  {
+    "answer": "ジュウジグン",
+    "clue": "聖地奪回を掲げた中世ヨーロッパの遠征軍",
+    "genre": "history"
+  },
+  {
+    "answer": "サンギョウカクメイ",
+    "clue": "イギリスで始まった機械化による大変革",
+    "genre": "history"
+  },
+  {
+    "answer": "フランスカクメイ",
+    "clue": "王政を倒した十八世紀の市民の革命",
+    "genre": "history"
+  },
+  {
+    "answer": "ダイコウカイ",
+    "clue": "欧州が新航路を求めて海に乗り出した時代",
+    "genre": "history"
+  },
+  {
+    "answer": "レイセン",
+    "clue": "米ソが直接戦わず対立した状態",
+    "genre": "history"
+  },
+  {
+    "answer": "ローマテイコク",
+    "clue": "地中海一帯を支配した古代の大帝国",
+    "genre": "history"
+  },
+  {
+    "answer": "シルクロード",
+    "clue": "東西を結んだ古代の交易路",
+    "genre": "history"
+  },
+  {
+    "answer": "ツタンカーメン",
+    "clue": "黄金のマスクで有名な古代エジプトの王",
+    "genre": "history"
+  },
+  {
+    "answer": "ハンムラビ",
+    "clue": "古代メソポタミアで法典を定めた王",
+    "genre": "history"
+  },
+  {
+    "answer": "コウシ",
+    "clue": "儒教を説いた古代中国の思想家",
+    "genre": "history"
+  },
+  {
+    "answer": "シコウテイ",
+    "clue": "中国を初めて統一した皇帝",
+    "genre": "history"
+  },
+  {
+    "answer": "ヒミコ",
+    "clue": "邪馬台国を治めたとされる女王",
+    "genre": "history"
+  },
+  {
+    "answer": "ヤマタイコク",
+    "clue": "卑弥呼が治めたとされる古代の国",
+    "genre": "history"
+  },
+  {
+    "answer": "コフン",
+    "clue": "豪族の墓として築かれた大きな塚",
+    "genre": "history"
+  },
+  {
+    "answer": "ハニワ",
+    "clue": "古墳に並べられた素焼きの人形",
+    "genre": "history"
+  },
+  {
+    "answer": "ドキ",
+    "clue": "粘土を焼いて作った古代の器",
+    "genre": "history"
+  },
+  {
+    "answer": "ヨロイ",
+    "clue": "武士が身を守るために着けた防具",
+    "genre": "history"
+  },
+  {
+    "answer": "カブト",
+    "clue": "武士が頭を守るためにかぶった防具",
+    "genre": "history"
+  },
+  {
+    "answer": "カタナ",
+    "clue": "武士が腰に差した刀剣",
+    "genre": "history"
+  },
+  {
+    "answer": "テッポウ",
+    "clue": "戦国時代に伝わった火器",
+    "genre": "history"
+  },
+  {
+    "answer": "カロウ",
+    "clue": "大名の家を支えた重臣",
+    "genre": "history"
+  },
+  {
+    "answer": "ブシドウ",
+    "clue": "武士が重んじた道徳の心得",
+    "genre": "history"
+  },
+  {
+    "answer": "ハンシュ",
+    "clue": "藩を治めた大名",
+    "genre": "history"
+  },
+  {
+    "answer": "ジョウカマチ",
+    "clue": "城を中心に発展した町",
+    "genre": "history"
+  },
+  {
+    "answer": "シュクバ",
+    "clue": "街道沿いで旅人が休んだ宿場町",
+    "genre": "history"
+  },
+  {
+    "answer": "カイドウ",
+    "clue": "主要な土地を結んだ古い道",
+    "genre": "history"
+  },
+  {
+    "answer": "トウカイドウ",
+    "clue": "江戸と京を結んだ主要な街道",
+    "genre": "history"
+  },
+  {
+    "answer": "カゴ",
+    "clue": "人を乗せて担いで運んだ乗り物",
+    "genre": "history"
+  },
+  {
+    "answer": "ヒキャク",
+    "clue": "手紙や荷を走って届けた者",
+    "genre": "history"
+  },
+  {
+    "answer": "コバン",
+    "clue": "江戸時代に使われた小判形の金貨",
+    "genre": "history"
+  },
+  {
+    "answer": "ネング",
+    "clue": "農民が米などで納めた税",
+    "genre": "history"
+  },
+  {
+    "answer": "ヒャクショウ",
+    "clue": "田畑を耕した昔の農民",
+    "genre": "history"
+  },
+  {
+    "answer": "チョウニン",
+    "clue": "城下町で商いをした人々",
+    "genre": "history"
+  },
+  {
+    "answer": "カブキ",
+    "clue": "江戸時代に栄えた庶民の演劇",
+    "genre": "history"
+  },
+  {
+    "answer": "ウキヨエ",
+    "clue": "江戸の風俗を描いた木版画",
+    "genre": "history"
+  },
+  {
+    "answer": "テラコヤ",
+    "clue": "庶民の子が読み書きを学んだ場所",
+    "genre": "history"
+  },
+  {
+    "answer": "ランガク",
+    "clue": "江戸時代にオランダ経由で学んだ西洋の学問",
+    "genre": "history"
+  },
+  {
+    "answer": "カイカ",
+    "clue": "明治に西洋文化を取り入れたこと",
+    "genre": "history"
+  },
+  {
+    "answer": "ジョウヤク",
+    "clue": "国と国とが結ぶ約束",
+    "genre": "history"
+  },
+  {
+    "answer": "ドレイ",
+    "clue": "人として売買され働かされた人々",
+    "genre": "history"
+  },
+  {
+    "answer": "コウテイ",
+    "clue": "帝国を治める最高位の君主",
+    "genre": "history"
+  },
+  {
+    "answer": "オウサマ",
+    "clue": "国を治める君主",
+    "genre": "history"
+  },
+  {
+    "answer": "ジョオウ",
+    "clue": "国を治める女性の君主",
+    "genre": "history"
+  },
+  {
+    "answer": "キシ",
+    "clue": "中世ヨーロッパで主君に仕えた戦士",
+    "genre": "history"
+  },
+  {
+    "answer": "シロ",
+    "clue": "領主が住み守りを固めた建物",
+    "genre": "history"
+  },
+  {
+    "answer": "カイヅカ",
+    "clue": "古代の人が捨てた貝殻が積もった遺跡",
+    "genre": "history"
+  },
+  {
+    "answer": "イセキ",
+    "clue": "昔の人の暮らしの跡が残る場所",
+    "genre": "history"
+  },
+  {
+    "answer": "ミイラ",
+    "clue": "腐らずに乾いて残った古代の遺体",
+    "genre": "history"
+  },
+  {
+    "answer": "カセキ",
+    "clue": "大昔の生き物が地層に残ったもの",
+    "genre": "history"
+  },
+  {
+    "answer": "ネンゴウ",
+    "clue": "時代を区切って付ける年の呼び名",
+    "genre": "history"
+  },
+  {
+    "answer": "セイキ",
+    "clue": "百年をひと区切りとする年代の数え方",
+    "genre": "history"
+  },
+  {
+    "answer": "ハクブツカン",
+    "clue": "歴史の資料や美術品を集めて見せる施設",
+    "genre": "history"
+  },
+  {
+    "answer": "ネンピョウ",
+    "clue": "出来事を年代順に並べた表",
+    "genre": "history"
+  },
+  {
+    "answer": "ポーランド",
+    "clue": "ショパンの生まれた東欧の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ハンガリー",
+    "clue": "ブダペストを首都とする中欧の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "チェコ",
+    "clue": "プラハの古い街並みで知られる中欧の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ウクライナ",
+    "clue": "東ヨーロッパにある広大な平原の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "アイルランド",
+    "clue": "イギリスの西にある緑豊かな島国",
+    "genre": "geography"
+  },
+  {
+    "answer": "デンマーク",
+    "clue": "人魚姫の像で知られる北欧の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ナイジェリア",
+    "clue": "アフリカで最も人口の多い国",
+    "genre": "geography"
+  },
+  {
+    "answer": "エチオピア",
+    "clue": "コーヒー発祥とされる東アフリカの国",
+    "genre": "geography"
+  },
+  {
+    "answer": "パキスタン",
+    "clue": "インドの西隣にある南アジアの国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ネパール",
+    "clue": "エベレストのふもとに広がる山国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ミャンマー",
+    "clue": "黄金の仏塔が多い東南アジアの国",
+    "genre": "geography"
+  },
+  {
+    "answer": "イスラエル",
+    "clue": "エルサレムを擁する中東の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "コロンビア",
+    "clue": "コーヒーとエメラルドで知られる南米の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ベネズエラ",
+    "clue": "世界一落差の大きい滝がある南米の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ヒョウガ",
+    "clue": "長い年月で積もった雪が凍り流れ下る巨大な氷",
+    "genre": "geography"
+  },
+  {
+    "answer": "サンゴショウ",
+    "clue": "暖かい海でサンゴが作る地形",
+    "genre": "geography"
+  },
+  {
+    "answer": "ヒョウザン",
+    "clue": "海に浮かぶ巨大な氷のかたまり",
+    "genre": "geography"
+  },
+  {
+    "answer": "カルデラ",
+    "clue": "噴火でできた大きなくぼ地",
+    "genre": "geography"
+  },
+  {
+    "answer": "ツンドラ",
+    "clue": "寒さで樹木が育たない極北の荒野",
+    "genre": "geography"
+  },
+  {
+    "answer": "ジャングル",
+    "clue": "熱帯の生い茂った密林",
+    "genre": "geography"
+  },
+  {
+    "answer": "デルタ",
+    "clue": "川が運んだ土砂が河口に作る三角の地形",
+    "genre": "geography"
+  },
+  {
+    "answer": "トウゲ",
+    "clue": "山道で最も高くなる地点",
+    "genre": "geography"
+  },
+  {
+    "answer": "タキ",
+    "clue": "川の水が崖から流れ落ちる所",
+    "genre": "geography"
+  },
+  {
+    "answer": "ホクイ",
+    "clue": "赤道より北の緯度",
+    "genre": "geography"
+  },
+  {
+    "answer": "ナンイ",
+    "clue": "赤道より南の緯度",
+    "genre": "geography"
+  },
+  {
+    "answer": "ヒョウコウ",
+    "clue": "海面からの高さ",
+    "genre": "geography"
+  },
+  {
+    "answer": "コッキョウ",
+    "clue": "国と国とを分ける境",
+    "genre": "geography"
+  },
+  {
+    "answer": "ジンコウ",
+    "clue": "その地域に住む人の数",
+    "genre": "geography"
+  },
+  {
+    "answer": "オタワ",
+    "clue": "カナダの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "リスボン",
+    "clue": "ポルトガルの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ストックホルム",
+    "clue": "スウェーデンの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ヘルシンキ",
+    "clue": "フィンランドの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "プラハ",
+    "clue": "チェコの首都で百塔の街と呼ばれる都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "イスタンブール",
+    "clue": "アジアと欧州にまたがるトルコ最大の都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "リオデジャネイロ",
+    "clue": "カーニバルと巨大なキリスト像で有名な都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "ラスベガス",
+    "clue": "砂漠に築かれたアメリカのカジノの街",
+    "genre": "geography"
+  },
+  {
+    "answer": "ナポリ",
+    "clue": "ピザ発祥とされるイタリア南部の都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "ジュネーブ",
+    "clue": "国際機関が集まるスイスの都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "ソクラテス",
+    "clue": "問答で知られる古代ギリシャの哲学者",
+    "genre": "history"
+  },
+  {
+    "answer": "プラトン",
+    "clue": "イデア論を説いた古代ギリシャの哲学者",
+    "genre": "history"
+  },
+  {
+    "answer": "アリストテレス",
+    "clue": "万学の祖と呼ばれる古代ギリシャの学者",
+    "genre": "history"
+  },
+  {
+    "answer": "シェイクスピア",
+    "clue": "ハムレットを書いた英国の劇作家",
+    "genre": "history"
+  },
+  {
+    "answer": "モーツァルト",
+    "clue": "神童とうたわれた音楽家",
+    "genre": "history"
+  },
+  {
+    "answer": "ピカソ",
+    "clue": "キュビズムで知られる画家",
+    "genre": "history"
+  },
+  {
+    "answer": "ダーウィン",
+    "clue": "進化論を唱えた科学者",
+    "genre": "history"
+  },
+  {
+    "answer": "アインシュタイン",
+    "clue": "相対性理論を唱えた物理学者",
+    "genre": "history"
+  },
+  {
+    "answer": "ノーベル",
+    "clue": "ダイナマイトを発明し賞を遺した人物",
+    "genre": "history"
+  },
+  {
+    "answer": "ザビエル",
+    "clue": "日本にキリスト教を伝えた宣教師",
+    "genre": "history"
+  },
+  {
+    "answer": "コペルニクス",
+    "clue": "太陽中心の宇宙観を唱えた天文学者",
+    "genre": "history"
+  },
+  {
+    "answer": "チャーチル",
+    "clue": "第二次大戦期の英国の首相",
+    "genre": "history"
+  },
+  {
+    "answer": "ナイチンゲール",
+    "clue": "近代看護の礎を築いた女性",
+    "genre": "history"
+  },
+  {
+    "answer": "ミヤモトムサシ",
+    "clue": "二刀流で知られる剣豪",
+    "genre": "history"
+  },
+  {
+    "answer": "マツオバショウ",
+    "clue": "奥の細道を著した俳人",
+    "genre": "history"
+  },
+  {
+    "answer": "ヨシダショウイン",
+    "clue": "松下村塾で志士を育てた幕末の教育者",
+    "genre": "history"
+  },
+  {
+    "answer": "タカスギシンサク",
+    "clue": "奇兵隊を率いた長州の志士",
+    "genre": "history"
+  },
+  {
+    "answer": "オオクボトシミチ",
+    "clue": "明治政府の中心を担った薩摩出身の政治家",
+    "genre": "history"
+  },
+  {
+    "answer": "クウカイ",
+    "clue": "真言宗を開いた平安の僧",
+    "genre": "history"
+  },
+  {
+    "answer": "ガンジン",
+    "clue": "苦難の末に来日し戒律を伝えた唐の僧",
+    "genre": "history"
+  },
+  {
+    "answer": "ニチレン",
+    "clue": "法華経を重んじる宗派を開いた僧",
+    "genre": "history"
+  },
+  {
+    "answer": "ホウジョウマサコ",
+    "clue": "尼将軍と呼ばれた頼朝の妻",
+    "genre": "history"
+  },
+  {
+    "answer": "ナカトミノカマタリ",
+    "clue": "大化の改新で中心となった人物",
+    "genre": "history"
+  },
+  {
+    "answer": "タイカノカイシン",
+    "clue": "蘇我氏を倒し天皇中心の国を目指した改革",
+    "genre": "history"
+  },
+  {
+    "answer": "ゲンコウ",
+    "clue": "鎌倉時代に元の大軍が攻めてきた出来事",
+    "genre": "history"
+  },
+  {
+    "answer": "ナンボクチョウ",
+    "clue": "二つの朝廷が並び立った動乱の時代",
+    "genre": "history"
+  },
+  {
+    "answer": "ニチロセンソウ",
+    "clue": "日本がロシアと戦った明治の戦争",
+    "genre": "history"
+  },
+  {
+    "answer": "ニッシンセンソウ",
+    "clue": "日本が清と戦った明治の戦争",
+    "genre": "history"
+  },
+  {
+    "answer": "セイナンセンソウ",
+    "clue": "西郷隆盛が起こした士族の反乱",
+    "genre": "history"
+  },
+  {
+    "answer": "ロウジュウ",
+    "clue": "江戸幕府で政務を統括した最高の役職",
+    "genre": "history"
+  },
+  {
+    "answer": "ブギョウ",
+    "clue": "江戸時代に行政や裁判を担った役人",
+    "genre": "history"
+  },
+  {
+    "answer": "ショウエン",
+    "clue": "貴族や寺社が持った私有の領地",
+    "genre": "history"
+  },
+  {
+    "answer": "クラスター",
+    "clue": "感染者の集団発生をさす言葉",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "オーバーシュート",
+    "clue": "感染者の爆発的な急増をさす言葉",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ロックダウン",
+    "clue": "都市を封鎖して外出を制限すること",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "パンデミック",
+    "clue": "感染症が世界規模で大流行すること",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "アマビエ",
+    "clue": "疫病退散を願い注目された妖怪",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "クラブハウス",
+    "clue": "招待制で話題になった音声SNS",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ネトフリ",
+    "clue": "定額制の動画配信大手の略称",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ネズコ",
+    "clue": "竹をくわえた鬼になった妹キャラ",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "アーニャ",
+    "clue": "心を読む能力を持つスパイ漫画の少女",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "カイワイ",
+    "clue": "同じ趣味の人々の集まりをさす若者言葉",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ソレナ",
+    "clue": "強い同意を表す若者の相づち",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ヤバミ",
+    "clue": "やばい気持ちを名詞化した若者言葉",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ガチコイ",
+    "clue": "アイドルなどに本気で恋すること",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ジワル",
+    "clue": "後からおかしさが込み上げること",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "トリマ",
+    "clue": "とりあえずまあを短くした若者言葉",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ヒカキン",
+    "clue": "日本を代表する人気動画投稿者",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "コムドット",
+    "clue": "地元の仲間で活動する人気投稿者集団",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ホロライブ",
+    "clue": "人気のVチューバー事務所",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ニジサンジ",
+    "clue": "多数のVチューバーが所属する事務所",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ビットコイン",
+    "clue": "代表的な暗号資産",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ミッドジャーニー",
+    "clue": "文章から画像を作る生成AI",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "プロンプト",
+    "clue": "AIに与える指示文のこと",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ディープラーニング",
+    "clue": "AIの深層学習という技術",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "マイナポイント",
+    "clue": "個人番号カード普及で配られた還元",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "サステナブル",
+    "clue": "持続可能であることを表す言葉",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "エシカルショウヒ",
+    "clue": "環境や社会に配慮した買い物",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "コウキュウショクパン",
+    "clue": "専門店が次々できた贅沢な食パン",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "バスクチーズケーキ",
+    "clue": "表面を黒く焼いたスペイン発の菓子",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "グルテンフリー",
+    "clue": "小麦のたんぱく質を避ける食事法",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "プロテインバー",
+    "clue": "たんぱく質を手軽にとれる固形食品",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "カンゼンメシ",
+    "clue": "栄養バランスをうたう日清の食品",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ノンアル",
+    "clue": "アルコールを含まない飲料の略",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "クラフトビール",
+    "clue": "小規模醸造の個性的なビール",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "レモンサワー",
+    "clue": "専門店も増えた柑橘の酎ハイ",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ミルクボーイ",
+    "clue": "コーンフレーク漫才で優勝したコンビ",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ペコパ",
+    "clue": "否定しない優しいツッコミの漫才師",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "フワチャン",
+    "clue": "元気なキャラで人気のタレント",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "イグジット",
+    "clue": "チャラ男キャラのお笑いコンビ",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "チドリ",
+    "clue": "クセがすごいで知られるお笑いコンビ",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "カマイタチ",
+    "clue": "山内と濱家のお笑いコンビ",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "トキヲモドソウ",
+    "clue": "ぺこぱのツッコミの決め台詞",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ヨアソビ",
+    "clue": "小説を音楽にするユニット",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ウッセェワ",
+    "clue": "Adoが歌った話題の楽曲",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ドライフラワー",
+    "clue": "優里の代表的なヒット曲",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "シンジダイ",
+    "clue": "ワンピース映画でAdoが歌った主題歌",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ビーリアル",
+    "clue": "今を撮るよう促す写真共有SNS",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "スレッズ",
+    "clue": "メタが出したテキスト型SNS",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ディスコード",
+    "clue": "ゲーマーに人気の通話チャットアプリ",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "エアタグ",
+    "clue": "アップルの紛失防止用の小型タグ",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "アレクサ",
+    "clue": "アマゾンの音声アシスタント",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "オリタタミスマホ",
+    "clue": "画面が二つ折りできる携帯端末",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ゲーミングチェア",
+    "clue": "長時間座る用の高機能な椅子",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ホットクック",
+    "clue": "シャープの自動調理鍋",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ヘルシオ",
+    "clue": "水で焼くをうたうシャープの調理器",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ドラムシキ",
+    "clue": "乾燥まで一台でこなす人気の洗濯機",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "リングフィット",
+    "clue": "輪型機器で運動する任天堂のソフト",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "タクトレ",
+    "clue": "自宅で行う筋トレや運動の略",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "オーバーサイズ",
+    "clue": "あえて大きめに着る流行の着こなし",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ワイツーケー",
+    "clue": "二千年前後を思わせる流行のファッション",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ワークマン",
+    "clue": "作業着から日常着へ人気拡大した店",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ガチャベルト",
+    "clue": "穴のない金具留めのベルト",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "アツゾコスニーカー",
+    "clue": "底をぶ厚くした流行の運動靴",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "サコッシュ",
+    "clue": "肩から斜めにかける薄い小型バッグ",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "シャカパン",
+    "clue": "擦れて音がする生地のズボン",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ハンリュウ",
+    "clue": "ドラマやK-POPなど韓国文化の流行",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "イカゲーム",
+    "clue": "デスゲームを描いた韓国の人気ドラマ",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "イテウォンクラス",
+    "clue": "復讐を描いた韓国の人気ドラマ",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "オシノコ",
+    "clue": "芸能界の裏を描いた人気漫画の略",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "フリーレン",
+    "clue": "長寿の魔法使いが主役の人気漫画",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ゴジョウサトル",
+    "clue": "最強とされる目隠しの呪術師",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "チェンソーマン",
+    "clue": "悪魔と契約した青年を描く漫画",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ブルーロック",
+    "clue": "サッカーのストライカー育成を描く漫画",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ボッチザロック",
+    "clue": "陰キャの少女がバンドを組む人気作",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "プレステファイブ",
+    "clue": "ソニーの最新据え置きゲーム機の通称",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "スプラトゥーン",
+    "clue": "インクで陣地を塗る任天堂の人気作",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "モモテツ",
+    "clue": "鉄道で日本を巡るボードゲームの略",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ピクミン",
+    "clue": "歩数で育つアプリも出た任天堂キャラ",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ヴァロラント",
+    "clue": "ライオット製の人気射撃ゲーム",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "オオタニショウヘイ",
+    "clue": "二刀流で活躍する野球の大スター",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ニトウリュウ",
+    "clue": "投打の両方で活躍することをさす言葉",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ヌートバー",
+    "clue": "ペッパーミルで知られた野球選手",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ペッパーミル",
+    "clue": "胡椒挽きを回す野球の人気パフォーマンス",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ムラカミサマ",
+    "clue": "本塁打を量産した若き強打者の愛称",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ブレイキン",
+    "clue": "五輪種目になったダンス競技",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "スケボー",
+    "clue": "東京五輪で日本が活躍した滑走競技",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ピクトグラム",
+    "clue": "東京五輪開会式で話題の絵記号パントマイム",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ムカンキャク",
+    "clue": "客を入れずに行う試合や催し",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ノウコウセッショク",
+    "clue": "感染者と近くで接した状態をさす言葉",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ショウドクエキ",
+    "clue": "手指を清潔にするアルコール製品",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ファイア",
+    "clue": "早期退職して資産で暮らす生き方",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ツミタテニーサ",
+    "clue": "少額から投資できる非課税制度",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ハイゼンロボット",
+    "clue": "料理を席まで運ぶ自動の機械",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ゼットセダイ",
+    "clue": "ネットと共に育った若い世代の呼称",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "カエルカゲンショウ",
+    "clue": "好きな相手に幻滅してしまう心理",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "メンブレ",
+    "clue": "心が折れて落ち込む状態の若者言葉",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "アゲポヨ",
+    "clue": "気分が高まった様子を表す言葉",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "イートインスペース",
+    "clue": "店内で買った物を食べる席",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ゴシュインアツメ",
+    "clue": "寺社で授かる印を集める趣味",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ダツマスク",
+    "clue": "感染収束後にマスクを外す動き",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "リベンジショウヒ",
+    "clue": "我慢の反動で増えた買い物や旅行",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ヌイカツ",
+    "clue": "ぬいぐるみを連れ歩き楽しむ趣味",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "シンカンセンアイス",
+    "clue": "車内販売で固いと話題になった氷菓",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "オシカツバッグ",
+    "clue": "缶バッジを飾る応援用のかばん",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "イタバッグ",
+    "clue": "缶バッジを敷き詰めて飾るかばん",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ナマハイシン",
+    "clue": "リアルタイムで配信する動画の生放送",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ゲンタイ",
+    "clue": "ライブ会場の現地に行くことの略",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "テスラ",
+    "clue": "マスク率いる米国の電気自動車大手",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ファイブジー",
+    "clue": "高速大容量の次世代通信規格",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ジュンキッサ",
+    "clue": "昭和情緒で再人気の昔ながらの喫茶店",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ヌンカツ",
+    "clue": "アフタヌーンティーを楽しむ活動の略",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "チルイ",
+    "clue": "ゆったり落ち着いた雰囲気を表す言葉",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ジョブガタ",
+    "clue": "職務を明確にして採用する雇用形態",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ガチャポン",
+    "clue": "硬貨を入れて回す玩具の自販機の通称",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "イケボ",
+    "clue": "魅力的でかっこいい声をさす言葉",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ヤミカワ",
+    "clue": "病んだ雰囲気のかわいさを表す系統",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "クーデレ",
+    "clue": "普段は冷淡だが時々甘える性格の属性",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ヤオイ",
+    "clue": "男性同士の恋愛を描く創作ジャンルの古い呼称",
+    "genre": "subculture"
+  },
+  {
+    "answer": "クソリプ",
+    "clue": "SNSで送られる的外れで不快な返信",
+    "genre": "subculture"
+  },
+  {
+    "answer": "アンチ",
+    "clue": "特定の対象を執拗に批判する立場の人",
+    "genre": "subculture"
+  },
+  {
+    "answer": "オリジナル",
+    "clue": "既存作に依らず一から生み出した創作",
+    "genre": "subculture"
+  },
+  {
+    "answer": "カプ",
+    "clue": "登場人物の組み合わせを指すファン用語",
+    "genre": "subculture"
+  },
+  {
+    "answer": "トレス",
+    "clue": "他人の絵を透かしてなぞる行為",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ニーソ",
+    "clue": "膝上まである長い靴下の俗称",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ロリ",
+    "clue": "幼く可憐な少女の容姿を好む嗜好の語",
+    "genre": "subculture"
+  },
+  {
+    "answer": "クール",
+    "clue": "アニメの放送期間を区切る単位",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ヤッテミタ",
+    "clue": "様々な事に挑戦する様子を見せる動画ジャンル",
+    "genre": "subculture"
+  },
+  {
+    "answer": "フルカラー",
+    "clue": "全編に色がついた漫画の彩色形式",
+    "genre": "subculture"
+  },
+  {
+    "answer": "クロスオーバー",
+    "clue": "別作品同士のキャラが共演する企画",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ネンドロイド",
+    "clue": "頭が大きい二頭身デフォルメの人形シリーズ",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ブラインド",
+    "clue": "中身が見えないまま買う封入式のグッズ販売",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ダブリ",
+    "clue": "同じものが重複して手に入ってしまうこと",
+    "genre": "subculture"
+  },
+  {
+    "answer": "コンプ",
+    "clue": "シリーズをすべて集めきること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ラスダン",
+    "clue": "物語終盤に挑む最後の迷宮や舞台",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ログボ",
+    "clue": "毎日接続するともらえる報酬",
+    "genre": "subculture"
+  },
+  {
+    "answer": "レトロゲーム",
+    "clue": "古い時代の懐かしいゲーム作品の総称",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ローポリ",
+    "clue": "面の数が少ない簡素な立体造形",
+    "genre": "subculture"
+  },
+  {
+    "answer": "アケゲー",
+    "clue": "ゲームセンターに置かれる業務用ゲーム",
+    "genre": "subculture"
+  },
+  {
+    "answer": "バッドエンド",
+    "clue": "悲劇的に終わる物語の結末の一つ",
+    "genre": "subculture"
+  },
+  {
+    "answer": "トゥルーエンド",
+    "clue": "物語の真相に至る本筋の結末",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ルート",
+    "clue": "物語ゲームで分岐ごとに進む筋道",
+    "genre": "subculture"
+  },
+  {
+    "answer": "リムル",
+    "clue": "SNSでつながりの登録を解除すること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ブロック",
+    "clue": "相手との接触を遮断するSNSの機能",
+    "genre": "subculture"
+  },
+  {
+    "answer": "コテハン",
+    "clue": "掲示板で常に名乗る固定の呼び名",
+    "genre": "subculture"
+  },
+  {
+    "answer": "レイヤー",
+    "clue": "キャラに扮して撮影や交流を楽しむ人",
+    "genre": "subculture"
+  },
+  {
+    "answer": "デレル",
+    "clue": "つっけんどんな相手が好意を見せ始めること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "コルネット",
+    "clue": "やや丸みのある音色を持つ小型の金管楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "ユーフォニアム",
+    "clue": "柔らかな中低音を奏でる金管楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "バラライカ",
+    "clue": "三角形の胴を持つロシアの弦楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "グロッケン",
+    "clue": "澄んだ高音を出す金属製の鉄琴",
+    "genre": "music"
+  },
+  {
+    "answer": "カウベル",
+    "clue": "もとは家畜に付けた鐘形の打楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "タムタム",
+    "clue": "大きな金属の円盤を吊るして打つ打楽器、銅鑼",
+    "genre": "music"
+  },
+  {
+    "answer": "カリンバ",
+    "clue": "金属片を親指ではじくアフリカの楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "ジャンベ",
+    "clue": "杯形の胴を持つ西アフリカの手叩き太鼓",
+    "genre": "music"
+  },
+  {
+    "answer": "ディジュリドゥ",
+    "clue": "オーストラリア先住民の長い管楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "パンフルート",
+    "clue": "長さの違う管を並べて束ねた笛",
+    "genre": "music"
+  },
+  {
+    "answer": "ツィター",
+    "clue": "平らな箱に多数の弦を張ったヨーロッパの楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "テルミン",
+    "clue": "手をかざして触れずに演奏する電子楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "チェレスタ",
+    "clue": "鍵盤で金属板を打つ、星のような音色の楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "サンプラー",
+    "clue": "録音した音を取り込み再生する機材",
+    "genre": "music"
+  },
+  {
+    "answer": "コンプレッサー",
+    "clue": "音量の差を整え圧縮する機材",
+    "genre": "music"
+  },
+  {
+    "answer": "リバーブ",
+    "clue": "残響を加えて広がりを出す効果",
+    "genre": "music"
+  },
+  {
+    "answer": "ディレイ",
+    "clue": "音をわずかに遅らせ反復させる効果",
+    "genre": "music"
+  },
+  {
+    "answer": "ラプソディー",
+    "clue": "自由な形式で民族的色彩を持つ狂詩曲",
+    "genre": "music"
+  },
+  {
+    "answer": "モテット",
+    "clue": "中世以降の宗教的な多声合唱曲",
+    "genre": "music"
+  },
+  {
+    "answer": "アリア",
+    "clue": "オペラの中で独唱される旋律的な歌",
+    "genre": "music"
+  },
+  {
+    "answer": "レチタティーボ",
+    "clue": "話すように歌うオペラの叙唱",
+    "genre": "music"
+  },
+  {
+    "answer": "インテルメッツォ",
+    "clue": "幕間に演奏される間奏曲",
+    "genre": "music"
+  },
+  {
+    "answer": "ポルカ",
+    "clue": "二拍子の軽快なボヘミア起源の舞曲",
+    "genre": "music"
+  },
+  {
+    "answer": "ボレロ",
+    "clue": "一定リズムを繰り返すスペイン起源の舞曲",
+    "genre": "music"
+  },
+  {
+    "answer": "ルンバ",
+    "clue": "キューバ起源の腰を使う舞踊音楽",
+    "genre": "music"
+  },
+  {
+    "answer": "ファド",
+    "clue": "哀愁漂うポルトガルの伝統歌謡",
+    "genre": "music"
+  },
+  {
+    "answer": "カンツォーネ",
+    "clue": "イタリアの叙情的な大衆歌曲",
+    "genre": "music"
+  },
+  {
+    "answer": "カストラート",
+    "clue": "かつて存在した高音を出す男性歌手",
+    "genre": "music"
+  },
+  {
+    "answer": "スキャット",
+    "clue": "意味のない音節で即興的に歌う技法",
+    "genre": "music"
+  },
+  {
+    "answer": "マイナー",
+    "clue": "暗い響きの短調",
+    "genre": "music"
+  },
+  {
+    "answer": "トニック",
+    "clue": "調の中心となる主和音",
+    "genre": "music"
+  },
+  {
+    "answer": "ドミナント",
+    "clue": "主音に進もうとする属和音",
+    "genre": "music"
+  },
+  {
+    "answer": "カデンツ",
+    "clue": "楽句や曲を区切る和声の終止",
+    "genre": "music"
+  },
+  {
+    "answer": "インターバル",
+    "clue": "二つの音の高さの隔たり、音程",
+    "genre": "music"
+  },
+  {
+    "answer": "ポリフォニー",
+    "clue": "複数の独立した旋律が絡み合う音楽",
+    "genre": "music"
+  },
+  {
+    "answer": "トランスポーズ",
+    "clue": "曲全体の調を上げ下げして移すこと",
+    "genre": "music"
+  },
+  {
+    "answer": "デクレッシェンド",
+    "clue": "だんだん弱くする強弱記号",
+    "genre": "music"
+  },
+  {
+    "answer": "ピアニッシモ",
+    "clue": "とても弱く演奏する強弱記号",
+    "genre": "music"
+  },
+  {
+    "answer": "スフォルツァンド",
+    "clue": "その音を特に強く演奏する記号",
+    "genre": "music"
+  },
+  {
+    "answer": "アクセント",
+    "clue": "特定の音を強調する記号",
+    "genre": "music"
+  },
+  {
+    "answer": "テヌート",
+    "clue": "音をその長さいっぱい保って奏でる記号",
+    "genre": "music"
+  },
+  {
+    "answer": "トリル",
+    "clue": "隣り合う二音を素早く交互に奏でる装飾",
+    "genre": "music"
+  },
+  {
+    "answer": "プレスト",
+    "clue": "非常に速く演奏する速度標語",
+    "genre": "music"
+  },
+  {
+    "answer": "モデラート",
+    "clue": "中くらいの速さの速度標語",
+    "genre": "music"
+  },
+  {
+    "answer": "アッチェレランド",
+    "clue": "だんだん速くしていく記号",
+    "genre": "music"
+  },
+  {
+    "answer": "リタルダンド",
+    "clue": "だんだん遅くしていく記号",
+    "genre": "music"
+  },
+  {
+    "answer": "ルバート",
+    "clue": "テンポを自由に伸び縮みさせる奏法",
+    "genre": "music"
+  },
+  {
+    "answer": "カンタービレ",
+    "clue": "歌うように表情豊かに演奏する指示",
+    "genre": "music"
+  },
+  {
+    "answer": "ドルチェ",
+    "clue": "甘くやわらかに演奏する表情記号",
+    "genre": "music"
+  },
+  {
+    "answer": "アゴーギク",
+    "clue": "テンポの微妙な揺らぎによる表現",
+    "genre": "music"
+  },
+  {
+    "answer": "クインテット",
+    "clue": "五人で演奏する編成、五重奏",
+    "genre": "music"
+  },
+  {
+    "answer": "ビッグバンド",
+    "clue": "管楽器中心の大編成ジャズ楽団",
+    "genre": "music"
+  },
+  {
+    "answer": "マエストロ",
+    "clue": "卓越した指揮者や演奏家への敬称",
+    "genre": "music"
+  },
+  {
+    "answer": "エンジニア",
+    "clue": "録音や音作りを担う技術者",
+    "genre": "music"
+  },
+  {
+    "answer": "コンダクター",
+    "clue": "楽団の演奏をまとめる指揮者",
+    "genre": "music"
+  },
+  {
+    "answer": "スコア",
+    "clue": "全パートをまとめて記した総譜",
+    "genre": "music"
+  },
+  {
+    "answer": "タブラチュア",
+    "clue": "弦の押さえ位置を図や数字で示す楽譜",
+    "genre": "music"
+  },
+  {
+    "answer": "クレフ",
+    "clue": "音部記号とも呼ばれ譜表の音域を定める印",
+    "genre": "music"
+  },
+  {
+    "answer": "ナチュラル",
+    "clue": "変化記号を打ち消し本来の音に戻す印",
+    "genre": "music"
+  },
+  {
+    "answer": "コーダ",
+    "clue": "曲の終わりに付け加えられる結びの部分",
+    "genre": "music"
+  },
+  {
+    "answer": "アウフタクト",
+    "clue": "小節の頭より前から始まる弱起",
+    "genre": "music"
+  },
+  {
+    "answer": "リフレイン",
+    "clue": "曲中で繰り返される印象的な部分",
+    "genre": "music"
+  },
+  {
+    "answer": "オスティナート",
+    "clue": "同じ音型を執拗に繰り返す手法",
+    "genre": "music"
+  },
+  {
+    "answer": "マドリガル",
+    "clue": "ルネサンス期の世俗的な多声歌曲",
+    "genre": "music"
+  },
+  {
+    "answer": "リート",
+    "clue": "ピアノ伴奏によるドイツ歌曲",
+    "genre": "music"
+  },
+  {
+    "answer": "ディミニッシュ",
+    "clue": "半音ずつ積み重ねた不安定な和音、減和音",
+    "genre": "music"
+  },
+  {
+    "answer": "ペンタトニック",
+    "clue": "五つの音からなる音階",
+    "genre": "music"
+  },
+  {
+    "answer": "クロマチック",
+    "clue": "半音ずつ進む半音階",
+    "genre": "music"
+  },
+  {
+    "answer": "アタッカ",
+    "clue": "楽章間を切れ目なく続けて演奏する指示",
+    "genre": "music"
+  },
+  {
+    "answer": "ダルセーニョ",
+    "clue": "特定の記号まで戻って繰り返す指示",
+    "genre": "music"
+  },
+  {
+    "answer": "ブダペスト",
+    "clue": "ドナウ川が流れるハンガリーの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ワルシャワ",
+    "clue": "ショパンゆかりのポーランドの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ブリュッセル",
+    "clue": "EUの本部が置かれるベルギーの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "オスロ",
+    "clue": "フィヨルドの国ノルウェーの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "コペンハーゲン",
+    "clue": "人魚像で知られるデンマークの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ダブリン",
+    "clue": "ギネスビール発祥のアイルランドの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ベルン",
+    "clue": "永世中立国スイスの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "キーウ",
+    "clue": "ドニエプル川が流れるウクライナの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "アンカラ",
+    "clue": "イスタンブールではないトルコの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ナイロビ",
+    "clue": "サバンナへの玄関口となるケニアの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "プレトリア",
+    "clue": "南アフリカの行政上の首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ラゴス",
+    "clue": "ナイジェリア最大の港湾都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "カサブランカ",
+    "clue": "同名映画で有名なモロッコの港湾都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "メキシコシティ",
+    "clue": "標高約2200mの高地にあるメキシコの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ハバナ",
+    "clue": "葉巻とクラシックカーで知られるキューバの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ブエノスアイレス",
+    "clue": "タンゴ発祥のアルゼンチンの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "サンティアゴ",
+    "clue": "アンデス山脈の麓に広がるチリの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ボゴタ",
+    "clue": "標高約2600mに位置するコロンビアの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ブラジリア",
+    "clue": "計画都市として作られたブラジルの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "キャンベラ",
+    "clue": "シドニーではないオーストラリアの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ウェリントン",
+    "clue": "北島と南島の間に位置するニュージーランドの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ニューデリー",
+    "clue": "人口大国インドの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "イスラマバード",
+    "clue": "計画的に建設されたパキスタンの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ダッカ",
+    "clue": "ガンジス川下流に位置するバングラデシュの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "プノンペン",
+    "clue": "メコン川が流れるカンボジアの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "クアラルンプール",
+    "clue": "ツインタワーで知られるマレーシアの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "ウランバートル",
+    "clue": "世界一寒い首都とも言われるモンゴルの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "テヘラン",
+    "clue": "エルブルズ山脈の麓にあるイランの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "バグダッド",
+    "clue": "ティグリス川が流れるイラクの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "リヤド",
+    "clue": "砂漠に位置するサウジアラビアの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "エルサレム",
+    "clue": "三大宗教の聖地とされる都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "ミラノ",
+    "clue": "ファッションの中心地とされるイタリア北部の都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "ヴェネチア",
+    "clue": "水の都と呼ばれるイタリアの観光都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "マルセイユ",
+    "clue": "地中海に面したフランス第二の都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "ニース",
+    "clue": "コートダジュールにあるフランスの保養地",
+    "genre": "geography"
+  },
+  {
+    "answer": "リヨン",
+    "clue": "美食の街と呼ばれるフランス中東部の都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "ミュンヘン",
+    "clue": "ビール祭りで有名なドイツ南部の都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "フランクフルト",
+    "clue": "金融と空港で知られるドイツの都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "ハンブルク",
+    "clue": "ドイツ最大の港湾都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "エディンバラ",
+    "clue": "城が建つスコットランドの中心都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "マンチェスター",
+    "clue": "サッカーで知られるイングランド北部の都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "リバプール",
+    "clue": "ビートルズ発祥のイングランドの港湾都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "チューリッヒ",
+    "clue": "金融で知られるスイス最大の都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "サンクトペテルブルク",
+    "clue": "エルミタージュ美術館があるロシアの都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "ボストン",
+    "clue": "アメリカ北東部の歴史ある学術都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "シアトル",
+    "clue": "アメリカ北西部のコーヒーで有名な港湾都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "サンフランシスコ",
+    "clue": "金門橋で知られるアメリカ西海岸の都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "マイアミ",
+    "clue": "ビーチリゾートで有名なフロリダの都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "トロント",
+    "clue": "オンタリオ湖畔にあるカナダ最大の都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "バンクーバー",
+    "clue": "太平洋に面したカナダ西部の都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "クスコ",
+    "clue": "インカ帝国の都だったペルーの古都",
+    "genre": "geography"
+  },
+  {
+    "answer": "メルボルン",
+    "clue": "オーストラリア南東部の文化都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "オークランド",
+    "clue": "帆の街と呼ばれるニュージーランド最大の都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "ムンバイ",
+    "clue": "アラビア海に面したインド最大の商業都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "プーケット",
+    "clue": "アンダマン海に面したタイのリゾート島",
+    "genre": "geography"
+  },
+  {
+    "answer": "サマルカンド",
+    "clue": "シルクロードの要衝だったウズベキスタンの古都",
+    "genre": "geography"
+  },
+  {
+    "answer": "プサン",
+    "clue": "韓国南東部にある最大の港湾都市",
+    "genre": "geography"
+  },
+  {
+    "answer": "ピレネー",
+    "clue": "フランスとスペインの国境をなす山脈",
+    "genre": "geography"
+  },
+  {
+    "answer": "ウラル",
+    "clue": "ヨーロッパとアジアの境界とされる山脈",
+    "genre": "geography"
+  },
+  {
+    "answer": "マッキンリー",
+    "clue": "デナリとも呼ばれる北米大陸最高峰",
+    "genre": "geography"
+  },
+  {
+    "answer": "アコンカグア",
+    "clue": "アンデス山脈にある南米大陸最高峰",
+    "genre": "geography"
+  },
+  {
+    "answer": "ウルル",
+    "clue": "エアーズロックとも呼ばれる豪州の巨岩",
+    "genre": "geography"
+  },
+  {
+    "answer": "ヴェスヴィオ",
+    "clue": "ポンペイを埋めたイタリアの火山",
+    "genre": "geography"
+  },
+  {
+    "answer": "エトナ",
+    "clue": "シチリア島にあるヨーロッパ最大の活火山",
+    "genre": "geography"
+  },
+  {
+    "answer": "ボルガ",
+    "clue": "ヨーロッパ最長とされるロシアの大河",
+    "genre": "geography"
+  },
+  {
+    "answer": "メコン",
+    "clue": "東南アジアを貫く国際河川",
+    "genre": "geography"
+  },
+  {
+    "answer": "チャオプラヤ",
+    "clue": "バンコクを流れるタイの大河",
+    "genre": "geography"
+  },
+  {
+    "answer": "ティグリス",
+    "clue": "メソポタミア文明を育んだ川の一つ",
+    "genre": "geography"
+  },
+  {
+    "answer": "コロラド",
+    "clue": "グランドキャニオンを刻んだ川",
+    "genre": "geography"
+  },
+  {
+    "answer": "バイカル",
+    "clue": "世界一深いシベリアの淡水湖",
+    "genre": "geography"
+  },
+  {
+    "answer": "カスピ",
+    "clue": "世界最大の面積を持つ塩湖",
+    "genre": "geography"
+  },
+  {
+    "answer": "スペリオル",
+    "clue": "五大湖最大の淡水湖",
+    "genre": "geography"
+  },
+  {
+    "answer": "ビクトリア",
+    "clue": "アフリカ最大の淡水湖",
+    "genre": "geography"
+  },
+  {
+    "answer": "チチカカ",
+    "clue": "アンデス高地にある南米最大の湖",
+    "genre": "geography"
+  },
+  {
+    "answer": "レマン",
+    "clue": "ジュネーブとローザンヌに面したスイスの湖",
+    "genre": "geography"
+  },
+  {
+    "answer": "ナミブ",
+    "clue": "アフリカ南西部の海岸沿いに広がる砂漠",
+    "genre": "geography"
+  },
+  {
+    "answer": "カラハリ",
+    "clue": "ボツワナ周辺に広がる南部アフリカの砂漠",
+    "genre": "geography"
+  },
+  {
+    "answer": "アタカマ",
+    "clue": "チリ北部にある世界一乾燥した砂漠",
+    "genre": "geography"
+  },
+  {
+    "answer": "タクラマカン",
+    "clue": "中国西部のタリム盆地に広がる砂漠",
+    "genre": "geography"
+  },
+  {
+    "answer": "ボスポラス",
+    "clue": "黒海とマルマラ海を結ぶトルコの海峡",
+    "genre": "geography"
+  },
+  {
+    "answer": "ジブラルタル",
+    "clue": "地中海と大西洋を結ぶ海峡",
+    "genre": "geography"
+  },
+  {
+    "answer": "マラッカ",
+    "clue": "マレー半島とスマトラ島の間の海峡",
+    "genre": "geography"
+  },
+  {
+    "answer": "ドーバー",
+    "clue": "イギリスとフランスを隔てる海峡",
+    "genre": "geography"
+  },
+  {
+    "answer": "ベーリング",
+    "clue": "アジアと北米を隔てる海峡",
+    "genre": "geography"
+  },
+  {
+    "answer": "ホルムズ",
+    "clue": "ペルシャ湾の出口にあたる海峡",
+    "genre": "geography"
+  },
+  {
+    "answer": "カリブ",
+    "clue": "中米と西インド諸島に囲まれた海",
+    "genre": "geography"
+  },
+  {
+    "answer": "バルト",
+    "clue": "北欧諸国に囲まれた塩分の薄い内海",
+    "genre": "geography"
+  },
+  {
+    "answer": "エーゲ",
+    "clue": "ギリシャとトルコの間に広がる海",
+    "genre": "geography"
+  },
+  {
+    "answer": "アドリア",
+    "clue": "イタリアとバルカン半島の間の海",
+    "genre": "geography"
+  },
+  {
+    "answer": "アラビア",
+    "clue": "インド洋北西部にある海",
+    "genre": "geography"
+  },
+  {
+    "answer": "オホーツク",
+    "clue": "北海道の北に広がる海",
+    "genre": "geography"
+  },
+  {
+    "answer": "ボルネオ",
+    "clue": "三国に分割される世界第三の島",
+    "genre": "geography"
+  },
+  {
+    "answer": "スマトラ",
+    "clue": "インドネシア西部の大きな島",
+    "genre": "geography"
+  },
+  {
+    "answer": "マルタ",
+    "clue": "地中海中央にある小さな島国",
+    "genre": "geography"
+  },
+  {
+    "answer": "キプロス",
+    "clue": "地中海東部にある分断された島国",
+    "genre": "geography"
+  },
+  {
+    "answer": "サルデーニャ",
+    "clue": "イタリア領の地中海第二の島",
+    "genre": "geography"
+  },
+  {
+    "answer": "コルシカ",
+    "clue": "ナポレオンの生地として知られる地中海の島",
+    "genre": "geography"
+  },
+  {
+    "answer": "タヒチ",
+    "clue": "南太平洋に浮かぶフランス領の島",
+    "genre": "geography"
+  },
+  {
+    "answer": "イベリア",
+    "clue": "スペインとポルトガルが位置する半島",
+    "genre": "geography"
+  },
+  {
+    "answer": "バルカン",
+    "clue": "ヨーロッパ南東部の民族が入り組む半島",
+    "genre": "geography"
+  },
+  {
+    "answer": "スカンジナビア",
+    "clue": "ノルウェーとスウェーデンがある北欧の半島",
+    "genre": "geography"
+  },
+  {
+    "answer": "デカン",
+    "clue": "インド中南部に広がる三角形の大きな高原",
+    "genre": "geography"
+  },
+  {
+    "answer": "インドシナ",
+    "clue": "東南アジア大陸部を指す半島",
+    "genre": "geography"
+  },
+  {
+    "answer": "ユカタン",
+    "clue": "マヤ遺跡で知られるメキシコの半島",
+    "genre": "geography"
+  },
+  {
+    "answer": "フロリダ",
+    "clue": "アメリカ南東部の温暖な半島",
+    "genre": "geography"
+  },
+  {
+    "answer": "クリミア",
+    "clue": "黒海に突き出たウクライナ南部の半島",
+    "genre": "geography"
+  },
+  {
+    "answer": "フィヨルド",
+    "clue": "氷河が削った奥深い入り江",
+    "genre": "geography"
+  },
+  {
+    "answer": "サバンナ",
+    "clue": "熱帯の雨季と乾季がある草原",
+    "genre": "geography"
+  },
+  {
+    "answer": "ステップ",
+    "clue": "温帯から亜寒帯に広がる丈の短い草原",
+    "genre": "geography"
+  },
+  {
+    "answer": "プレーリー",
+    "clue": "北米中部に広がる温帯草原",
+    "genre": "geography"
+  },
+  {
+    "answer": "パンパ",
+    "clue": "アルゼンチンに広がる肥沃な大草原",
+    "genre": "geography"
+  },
+  {
+    "answer": "タイガ",
+    "clue": "シベリアなどに広がる針葉樹林帯",
+    "genre": "geography"
+  },
+  {
+    "answer": "ハンレイ",
+    "clue": "陸地に深く入り込んだ海域",
+    "genre": "geography"
+  },
+  {
+    "answer": "サンカクス",
+    "clue": "河口に砂や泥が堆積した平らな地形",
+    "genre": "geography"
+  },
+  {
+    "answer": "センジョウチ",
+    "clue": "山地から平地に出た所にできる扇形の堆積地形",
+    "genre": "geography"
+  },
+  {
+    "answer": "カルスト",
+    "clue": "石灰岩が雨水で溶けてできた地形",
+    "genre": "geography"
+  },
+  {
+    "answer": "クレバス",
+    "clue": "氷河にできる深い割れ目",
+    "genre": "geography"
+  },
+  {
+    "answer": "モレーン",
+    "clue": "氷河が運んだ土砂が積もった堆積地形",
+    "genre": "geography"
+  },
+  {
+    "answer": "サキュウ",
+    "clue": "風で運ばれた砂が積もってできる丘",
+    "genre": "geography"
+  },
+  {
+    "answer": "ヒガタ",
+    "clue": "潮が引くと現れる海岸の遠浅の泥地",
+    "genre": "geography"
+  },
+  {
+    "answer": "リアス",
+    "clue": "出入りの複雑な鋸歯状の海岸地形",
+    "genre": "geography"
+  },
+  {
+    "answer": "ソガノウマコ",
+    "clue": "崇仏派として物部氏を滅ぼした飛鳥の豪族",
+    "genre": "history"
+  },
+  {
+    "answer": "ナカノオオエ",
+    "clue": "蘇我入鹿を討ち後に天智天皇となった皇子",
+    "genre": "history"
+  },
+  {
+    "answer": "フジワラノカマタリ",
+    "clue": "藤原氏の祖となった大化改新の功臣",
+    "genre": "history"
+  },
+  {
+    "answer": "タイホウリツリョウ",
+    "clue": "八世紀初めに制定された日本の基本法典",
+    "genre": "history"
+  },
+  {
+    "answer": "ショウムテンノウ",
+    "clue": "東大寺の大仏造立を命じた奈良時代の天皇",
+    "genre": "history"
+  },
+  {
+    "answer": "ギョウキ",
+    "clue": "民衆に布教し大仏造立に協力した奈良の僧",
+    "genre": "history"
+  },
+  {
+    "answer": "ショウソウイン",
+    "clue": "聖武天皇の遺品を収める東大寺の宝物庫",
+    "genre": "history"
+  },
+  {
+    "answer": "マンヨウシュウ",
+    "clue": "奈良時代に編まれた現存最古の和歌集",
+    "genre": "history"
+  },
+  {
+    "answer": "カンムテンノウ",
+    "clue": "都を平安京に移した八世紀末の天皇",
+    "genre": "history"
+  },
+  {
+    "answer": "サイチョウ",
+    "clue": "比叡山に天台宗を開いた平安初期の僧",
+    "genre": "history"
+  },
+  {
+    "answer": "セッカンセイジ",
+    "clue": "藤原氏が摂政関白として実権を握った政治",
+    "genre": "history"
+  },
+  {
+    "answer": "ゲンジモノガタリ",
+    "clue": "紫式部が著した平安時代の長編物語",
+    "genre": "history"
+  },
+  {
+    "answer": "マクラノソウシ",
+    "clue": "清少納言が記した平安時代の随筆",
+    "genre": "history"
+  },
+  {
+    "answer": "インセイ",
+    "clue": "上皇が天皇に代わり政治を行った仕組み",
+    "genre": "history"
+  },
+  {
+    "answer": "ジョウキュウノラン",
+    "clue": "後鳥羽上皇が幕府打倒に挙兵した戦い",
+    "genre": "history"
+  },
+  {
+    "answer": "ゴケニン",
+    "clue": "鎌倉将軍と主従関係を結んだ武士",
+    "genre": "history"
+  },
+  {
+    "answer": "シュゴジトウ",
+    "clue": "頼朝が国ごと・荘園ごとに置いた職",
+    "genre": "history"
+  },
+  {
+    "answer": "モウコシュウライ",
+    "clue": "鎌倉時代に二度起きた元軍の襲来",
+    "genre": "history"
+  },
+  {
+    "answer": "ホウジョウトキムネ",
+    "clue": "元寇に対応した鎌倉幕府の執権",
+    "genre": "history"
+  },
+  {
+    "answer": "ゴダイゴテンノウ",
+    "clue": "建武の新政を行った南北朝期の天皇",
+    "genre": "history"
+  },
+  {
+    "answer": "ケンムノシンセイ",
+    "clue": "鎌倉幕府滅亡後に試みた天皇親政",
+    "genre": "history"
+  },
+  {
+    "answer": "クスノキマサシゲ",
+    "clue": "後醍醐天皇に仕えた忠臣の武将",
+    "genre": "history"
+  },
+  {
+    "answer": "アシカガヨシミツ",
+    "clue": "金閣を建て南北朝を統一した室町将軍",
+    "genre": "history"
+  },
+  {
+    "answer": "キンカクジ",
+    "clue": "足利義満が京都北山に建てた金色の楼閣",
+    "genre": "history"
+  },
+  {
+    "answer": "ギンカクジ",
+    "clue": "足利義政が東山に建てた銀箔のない楼閣",
+    "genre": "history"
+  },
+  {
+    "answer": "ゼアミ",
+    "clue": "能を大成し風姿花伝を著した役者",
+    "genre": "history"
+  },
+  {
+    "answer": "セッシュウ",
+    "clue": "水墨画を大成した室町時代の画僧",
+    "genre": "history"
+  },
+  {
+    "answer": "カンゴウボウエキ",
+    "clue": "明と行った勘合符を用いた室町期の貿易",
+    "genre": "history"
+  },
+  {
+    "answer": "テッポウデンライ",
+    "clue": "種子島に伝わった火縄銃のはじまり",
+    "genre": "history"
+  },
+  {
+    "answer": "ナガシノノタタカイ",
+    "clue": "鉄砲隊が武田騎馬軍団を破った合戦",
+    "genre": "history"
+  },
+  {
+    "answer": "ホンノウジノヘン",
+    "clue": "明智光秀が主君を討った京都の事件",
+    "genre": "history"
+  },
+  {
+    "answer": "タイコウケンチ",
+    "clue": "秀吉が全国の田畑を調べた政策",
+    "genre": "history"
+  },
+  {
+    "answer": "カタナガリ",
+    "clue": "秀吉が農民から武器を取り上げた政策",
+    "genre": "history"
+  },
+  {
+    "answer": "シマバラノラン",
+    "clue": "天草四郎を擁したキリシタンらの一揆",
+    "genre": "history"
+  },
+  {
+    "answer": "アマクサシロウ",
+    "clue": "島原の乱で一揆勢に擁立された少年",
+    "genre": "history"
+  },
+  {
+    "answer": "トクガワヨシムネ",
+    "clue": "享保の改革を行った八代将軍",
+    "genre": "history"
+  },
+  {
+    "answer": "タヌマオキツグ",
+    "clue": "商業重視の政策をとった江戸中期の老中",
+    "genre": "history"
+  },
+  {
+    "answer": "カンセイノカイカク",
+    "clue": "松平定信が行った江戸中期の改革",
+    "genre": "history"
+  },
+  {
+    "answer": "テンポウノカイカク",
+    "clue": "水野忠邦が行った江戸後期の改革",
+    "genre": "history"
+  },
+  {
+    "answer": "モトオリノリナガ",
+    "clue": "古事記伝を著した国学の大成者",
+    "genre": "history"
+  },
+  {
+    "answer": "スギタゲンパク",
+    "clue": "解体新書を訳した江戸の蘭学者",
+    "genre": "history"
+  },
+  {
+    "answer": "イノウタダタカ",
+    "clue": "実測で日本全図を作った江戸の測量家",
+    "genre": "history"
+  },
+  {
+    "answer": "サクラダモンガイ",
+    "clue": "井伊直弼が暗殺された江戸城門外の変",
+    "genre": "history"
+  },
+  {
+    "answer": "イイナオスケ",
+    "clue": "安政の大獄を行い桜田門外で討たれた大老",
+    "genre": "history"
+  },
+  {
+    "answer": "サッチョウドウメイ",
+    "clue": "薩摩と長州が結んだ討幕の密約",
+    "genre": "history"
+  },
+  {
+    "answer": "タイセイホウカン",
+    "clue": "徳川慶喜が政権を朝廷に返した出来事",
+    "genre": "history"
+  },
+  {
+    "answer": "トクガワヨシノブ",
+    "clue": "大政奉還を行った江戸幕府最後の将軍",
+    "genre": "history"
+  },
+  {
+    "answer": "ボシンセンソウ",
+    "clue": "新政府軍と旧幕府軍の明治初頭の内戦",
+    "genre": "history"
+  },
+  {
+    "answer": "キドタカヨシ",
+    "clue": "長州出身で維新を支えた政治家",
+    "genre": "history"
+  },
+  {
+    "answer": "チソカイセイ",
+    "clue": "土地に課税し地券を発行した明治の改革",
+    "genre": "history"
+  },
+  {
+    "answer": "フッコクトウ",
+    "clue": "板垣退助らが結成した自由民権の政党",
+    "genre": "history"
+  },
+  {
+    "answer": "イタガキタイスケ",
+    "clue": "自由民権運動を主導した土佐出身の政治家",
+    "genre": "history"
+  },
+  {
+    "answer": "カンコクヘイゴウ",
+    "clue": "明治末に日本が朝鮮を植民地化した出来事",
+    "genre": "history"
+  },
+  {
+    "answer": "ナツメソウセキ",
+    "clue": "吾輩は猫であるを書いた明治の文豪",
+    "genre": "history"
+  },
+  {
+    "answer": "ヒラツカライテウ",
+    "clue": "青鞜を創刊した女性解放運動の先駆者",
+    "genre": "history"
+  },
+  {
+    "answer": "ゴゴサンジケン",
+    "clue": "犬養毅首相が暗殺された昭和初期の事件",
+    "genre": "history"
+  },
+  {
+    "answer": "マンシュウジヘン",
+    "clue": "柳条湖事件をきっかけとする軍事行動",
+    "genre": "history"
+  },
+  {
+    "answer": "ニイロクジケン",
+    "clue": "陸軍青年将校が起こした昭和のクーデター",
+    "genre": "history"
+  },
+  {
+    "answer": "シンジュワン",
+    "clue": "日本海軍が奇襲した米国ハワイの軍港",
+    "genre": "history"
+  },
+  {
+    "answer": "ミッドウェー",
+    "clue": "日本海軍が空母を失った太平洋の海戦",
+    "genre": "history"
+  },
+  {
+    "answer": "ポツダムセンゲン",
+    "clue": "日本に無条件降伏を求めた連合国の宣言",
+    "genre": "history"
+  },
+  {
+    "answer": "ノモンハン",
+    "clue": "ソ連軍と衝突した満蒙国境の戦い",
+    "genre": "history"
+  },
+  {
+    "answer": "ノウチカイカク",
+    "clue": "戦後にGHQが進めた地主制解体の改革",
+    "genre": "history"
+  },
+  {
+    "answer": "ニホンコクケンポウ",
+    "clue": "戦後に施行された国民主権の憲法",
+    "genre": "history"
+  },
+  {
+    "answer": "ヨシダシゲル",
+    "clue": "講和条約を結んだ戦後復興期の首相",
+    "genre": "history"
+  },
+  {
+    "answer": "オキナワヘンカン",
+    "clue": "米国統治下の県が日本に復帰した出来事",
+    "genre": "history"
+  },
+  {
+    "answer": "メソポタミア",
+    "clue": "ティグリス・ユーフラテス間の古代文明地",
+    "genre": "history"
+  },
+  {
+    "answer": "ハンムラビホウテン",
+    "clue": "古代バビロニアで定められた成文法",
+    "genre": "history"
+  },
+  {
+    "answer": "ロゼッタストーン",
+    "clue": "古代エジプト文字解読の鍵となった石碑",
+    "genre": "history"
+  },
+  {
+    "answer": "ヒエログリフ",
+    "clue": "古代エジプトで使われた象形の文字",
+    "genre": "history"
+  },
+  {
+    "answer": "ペロポネソス",
+    "clue": "アテネとスパルタが争った古代の戦争",
+    "genre": "history"
+  },
+  {
+    "answer": "ポリス",
+    "clue": "古代ギリシアの都市国家を指す語",
+    "genre": "history"
+  },
+  {
+    "answer": "アウグストゥス",
+    "clue": "ローマ帝国初代の皇帝となった人物",
+    "genre": "history"
+  },
+  {
+    "answer": "ハンニバル",
+    "clue": "象を率いてアルプスを越えたカルタゴの将軍",
+    "genre": "history"
+  },
+  {
+    "answer": "ポエニセンソウ",
+    "clue": "ローマとカルタゴが地中海で争った戦争",
+    "genre": "history"
+  },
+  {
+    "answer": "コンスタンティヌス",
+    "clue": "キリスト教を公認したローマ皇帝",
+    "genre": "history"
+  },
+  {
+    "answer": "ビザンツ",
+    "clue": "コンスタンティノープルを都とした東ローマ帝国",
+    "genre": "history"
+  },
+  {
+    "answer": "シャカ",
+    "clue": "悟りを開き仏教を創始した古代インドの人物",
+    "genre": "history"
+  },
+  {
+    "answer": "アショーカ",
+    "clue": "仏教を保護した古代インドのマウリヤ朝の王",
+    "genre": "history"
+  },
+  {
+    "answer": "シヒシ",
+    "clue": "中国を初めて統一した秦の始皇帝",
+    "genre": "history"
+  },
+  {
+    "answer": "ゲンギスカン",
+    "clue": "モンゴル帝国を築いた草原の英雄",
+    "genre": "history"
+  },
+  {
+    "answer": "フビライ",
+    "clue": "元を建国し日本にも遠征したモンゴルの皇帝",
+    "genre": "history"
+  },
+  {
+    "answer": "ヒャクネンセンソウ",
+    "clue": "英仏が王位や領土をめぐり争った中世の戦争",
+    "genre": "history"
+  },
+  {
+    "answer": "ダビンチ",
+    "clue": "モナリザを描いたルネサンスの万能の天才",
+    "genre": "history"
+  },
+  {
+    "answer": "ミケランジェロ",
+    "clue": "ダビデ像を彫ったルネサンスの彫刻家",
+    "genre": "history"
+  },
+  {
+    "answer": "グーテンベルク",
+    "clue": "活版印刷術を実用化したドイツの職人",
+    "genre": "history"
+  },
+  {
+    "answer": "ルター",
+    "clue": "九十五カ条で宗教改革を始めた修道士",
+    "genre": "history"
+  },
+  {
+    "answer": "カルバン",
+    "clue": "予定説を説いたスイスの宗教改革者",
+    "genre": "history"
+  },
+  {
+    "answer": "エリザベス",
+    "clue": "無敵艦隊を破った英国の処女王",
+    "genre": "history"
+  },
+  {
+    "answer": "ムテキカンタイ",
+    "clue": "英国に敗れたスペインの大艦隊",
+    "genre": "history"
+  },
+  {
+    "answer": "ルイジュウヨンセイ",
+    "clue": "朕は国家なりと言ったとされる仏の太陽王",
+    "genre": "history"
+  },
+  {
+    "answer": "クロムウェル",
+    "clue": "共和制を樹立した清教徒革命の指導者",
+    "genre": "history"
+  },
+  {
+    "answer": "メイヨカクメイ",
+    "clue": "流血なく王を交代させた英国の政変",
+    "genre": "history"
+  },
+  {
+    "answer": "ケンリショウテン",
+    "clue": "名誉革命後に議会が認めさせた英国の法",
+    "genre": "history"
+  },
+  {
+    "answer": "ドクリツセンゲン",
+    "clue": "一七七六年に発せられた米国の建国の宣言",
+    "genre": "history"
+  },
+  {
+    "answer": "ボストンチャトウ",
+    "clue": "茶箱を海に投げ込んだ米独立の発端事件",
+    "genre": "history"
+  },
+  {
+    "answer": "バスチーユ",
+    "clue": "民衆が襲撃した仏革命の発端となった牢獄",
+    "genre": "history"
+  },
+  {
+    "answer": "ジンケンセンゲン",
+    "clue": "自由と平等を掲げた仏革命の宣言",
+    "genre": "history"
+  },
+  {
+    "answer": "ロベスピエール",
+    "clue": "恐怖政治を主導したフランス革命の指導者",
+    "genre": "history"
+  },
+  {
+    "answer": "ギロチン",
+    "clue": "フランス革命期に多用された処刑装置",
+    "genre": "history"
+  },
+  {
+    "answer": "ワーテルロー",
+    "clue": "ナポレオンが最後に敗れた地名の会戦",
+    "genre": "history"
+  },
+  {
+    "answer": "ウィーンカイギ",
+    "clue": "ナポレオン後の欧州秩序を定めた国際会議",
+    "genre": "history"
+  },
+  {
+    "answer": "ワット",
+    "clue": "蒸気機関を改良したスコットランドの技術者",
+    "genre": "history"
+  },
+  {
+    "answer": "ナンボクセンソウ",
+    "clue": "奴隷制をめぐり米国南北が戦った内戦",
+    "genre": "history"
+  },
+  {
+    "answer": "ドレイカイホウ",
+    "clue": "リンカーンが南北戦争中に出した宣言",
+    "genre": "history"
+  },
+  {
+    "answer": "ビスマルク",
+    "clue": "鉄血政策でドイツを統一した宰相",
+    "genre": "history"
+  },
+  {
+    "answer": "ガリバルディ",
+    "clue": "千人隊を率いたイタリア統一の英雄",
+    "genre": "history"
+  },
+  {
+    "answer": "アヘンセンソウ",
+    "clue": "英国と清が麻薬貿易をめぐり戦った戦争",
+    "genre": "history"
+  },
+  {
+    "answer": "ナンキンジョウヤク",
+    "clue": "アヘン戦争を終え香港を割譲させた条約",
+    "genre": "history"
+  },
+  {
+    "answer": "タイヘイテンゴク",
+    "clue": "洪秀全が清朝に対し起こした宗教反乱国家",
+    "genre": "history"
+  },
+  {
+    "answer": "ギワダンジケン",
+    "clue": "扶清滅洋を唱えた清末の排外運動",
+    "genre": "history"
+  },
+  {
+    "answer": "シンガイカクメイ",
+    "clue": "清朝を倒し中華民国を建てた革命",
+    "genre": "history"
+  },
+  {
+    "answer": "ソンブン",
+    "clue": "三民主義を唱えた中国革命の指導者",
+    "genre": "history"
+  },
+  {
+    "answer": "サラエボ",
+    "clue": "皇太子暗殺で第一次大戦の発端となった地",
+    "genre": "history"
+  },
+  {
+    "answer": "ロシアカクメイ",
+    "clue": "帝政を倒し社会主義政権を生んだ一九一七年の革命",
+    "genre": "history"
+  },
+  {
+    "answer": "レーニン",
+    "clue": "ボリシェビキを率いたソ連建国の指導者",
+    "genre": "history"
+  },
+  {
+    "answer": "コクサイレンメイ",
+    "clue": "第一次大戦後に作られた平和維持の機構",
+    "genre": "history"
+  },
+  {
+    "answer": "セカイキョウコウ",
+    "clue": "一九二九年に米国発で起きた大不況",
+    "genre": "history"
+  },
+  {
+    "answer": "ニューディール",
+    "clue": "大恐慌に対しルーズベルトが行った経済政策",
+    "genre": "history"
+  },
+  {
+    "answer": "ヒトラー",
+    "clue": "ナチスを率いた独裁者で第二次大戦を起こした",
+    "genre": "history"
+  },
+  {
+    "answer": "ムッソリーニ",
+    "clue": "ファシスト党を率いたイタリアの独裁者",
+    "genre": "history"
+  },
+  {
+    "answer": "ノルマンディー",
+    "clue": "連合軍が大規模上陸を行った仏北部の海岸",
+    "genre": "history"
+  },
+  {
+    "answer": "アウシュビッツ",
+    "clue": "ナチスがユダヤ人を虐殺した強制収容所",
+    "genre": "history"
+  },
+  {
+    "answer": "ホロコースト",
+    "clue": "ナチスによるユダヤ人大量虐殺を指す語",
+    "genre": "history"
+  },
+  {
+    "answer": "コクレン",
+    "clue": "第二次大戦後に発足した国際平和機構",
+    "genre": "history"
+  },
+  {
+    "answer": "ベルリンノカベ",
+    "clue": "東西を分断し一九八九年に崩壊した壁",
+    "genre": "history"
+  },
+  {
+    "answer": "キューバキキ",
+    "clue": "核戦争寸前まで進んだ米ソ対立の危機",
+    "genre": "history"
+  },
+  {
+    "answer": "チョウセンセンソウ",
+    "clue": "南北が三十八度線で争った朝鮮半島の戦争",
+    "genre": "history"
+  },
+  {
+    "answer": "ベトナムセンソウ",
+    "clue": "米国が深く介入した東南アジアの戦争",
+    "genre": "history"
+  },
+  {
+    "answer": "マンデラ",
+    "clue": "アパルトヘイトと闘った南ア初の黒人大統領",
+    "genre": "history"
+  },
+  {
+    "answer": "アパルトヘイト",
+    "clue": "南アフリカで行われた人種隔離政策",
+    "genre": "history"
+  },
+  {
+    "answer": "ソレンホウカイ",
+    "clue": "一九九一年に社会主義超大国が崩れた出来事",
+    "genre": "history"
+  },
+  {
+    "answer": "ゴルバチョフ",
+    "clue": "ペレストロイカを進めたソ連最後の指導者",
+    "genre": "history"
+  },
+  {
+    "answer": "インカテイコク",
+    "clue": "南米アンデスに栄えスペインに滅ぼされた帝国",
+    "genre": "history"
+  },
+  {
+    "answer": "アステカ",
+    "clue": "メキシコ高原に栄えコルテスに滅ぼされた帝国",
+    "genre": "history"
+  },
+  {
+    "answer": "マヤブンメイ",
+    "clue": "中米で暦と神殿を発達させた古代文明",
+    "genre": "history"
+  },
+  {
+    "answer": "モヘンジョダロ",
+    "clue": "インダス川流域に栄えた古代都市遺跡",
+    "genre": "history"
+  },
+  {
+    "answer": "イッスンノコウイン",
+    "clue": "わずかな時間が非常に価値あるという意味",
+    "genre": "culture"
+  },
+  {
+    "answer": "ガッショウレンコウ",
+    "clue": "状況により同盟したり連合したりする策略",
+    "genre": "culture"
+  },
+  {
+    "answer": "ジュクドクガンミ",
+    "clue": "文章をよく読み意味を深く味わうこと",
+    "genre": "culture"
+  },
+  {
+    "answer": "メイキョウシスイ",
+    "clue": "邪念がなく澄みきった静かな心境",
+    "genre": "culture"
+  },
+  {
+    "answer": "コウガンムチ",
+    "clue": "厚かましく恥を恥とも思わないさま",
+    "genre": "culture"
+  },
+  {
+    "answer": "ハクシジャッコウ",
+    "clue": "経験は浅いが将来有望な若者を指す語",
+    "genre": "culture"
+  },
+  {
+    "answer": "シリメツレツ",
+    "clue": "筋道が立たずばらばらで整わないさま",
+    "genre": "culture"
+  },
+  {
+    "answer": "イチネンホッキ",
+    "clue": "あることを成し遂げようと決心すること",
+    "genre": "culture"
+  },
+  {
+    "answer": "タリキホンガン",
+    "clue": "もっぱら他人の力をあてにすること",
+    "genre": "culture"
+  },
+  {
+    "answer": "イチヨウライフク",
+    "clue": "悪い状況が好転し運が向いてくること",
+    "genre": "culture"
+  },
+  {
+    "answer": "セイテンノヘキレキ",
+    "clue": "突然起こる予期せぬ大事件のたとえ",
+    "genre": "culture"
+  },
+  {
+    "answer": "アトノマツリ",
+    "clue": "時機を逃して手遅れになること",
+    "genre": "culture"
+  },
+  {
+    "answer": "タナボタ",
+    "clue": "苦労せず思いがけぬ幸運を得ること",
+    "genre": "culture"
+  },
+  {
+    "answer": "ゴマメ",
+    "clue": "正月料理に使う干した小魚、田作りとも",
+    "genre": "culture"
+  },
+  {
+    "answer": "ジレンマ",
+    "clue": "二つの選択肢で板挟みになる状態",
+    "genre": "culture"
+  },
+  {
+    "answer": "アイロニー",
+    "clue": "遠回しに皮肉を言う表現法",
+    "genre": "culture"
+  },
+  {
+    "answer": "パラドックス",
+    "clue": "一見矛盾するが真理を含む逆説",
+    "genre": "culture"
+  },
+  {
+    "answer": "リテラシー",
+    "clue": "情報を正しく読み解き活用する能力",
+    "genre": "culture"
+  },
+  {
+    "answer": "セレンディピティ",
+    "clue": "偶然から幸運な発見をする才能",
+    "genre": "culture"
+  },
+  {
+    "answer": "アカデミズム",
+    "clue": "学問を重んじる学究的な態度や傾向",
+    "genre": "culture"
+  },
+  {
+    "answer": "ヤマネ",
+    "clue": "冬に冬眠する小さな天然記念物のげっ歯類",
+    "genre": "nature"
+  },
+  {
+    "answer": "オコジョ",
+    "clue": "高山にすみ冬は白くなる小型のイタチ科",
+    "genre": "nature"
+  },
+  {
+    "answer": "ジャコウネコ",
+    "clue": "香料の原料となる分泌物を出す肉食獣",
+    "genre": "nature"
+  },
+  {
+    "answer": "イッカク",
+    "clue": "長い一本のきばを持つ北極海のクジラ",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヤマセミ",
+    "clue": "白黒のまだら模様をした大型の水辺の鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "アオサギ",
+    "clue": "水辺に立ち魚を狙う大型の青灰色の鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "タンチョウ",
+    "clue": "頭が赤く北海道の湿原にすむ大型の鶴",
+    "genre": "nature"
+  },
+  {
+    "answer": "ミミズク",
+    "clue": "頭に羽角を持つフクロウの仲間",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヒバリ",
+    "clue": "春の空高く舞い上がりさえずる小鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "メジロ",
+    "clue": "目の周りが白く花の蜜を好む緑色の小鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヤマガラ",
+    "clue": "おなかが茶色で芸を覚える小型の鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "カワラヒワ",
+    "clue": "羽に黄色の帯がある種子を好む小鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "オオワシ",
+    "clue": "黄色いくちばしを持つ大型の猛きん",
+    "genre": "nature"
+  },
+  {
+    "answer": "タマムシ",
+    "clue": "金緑色に輝く美しい羽を持つ甲虫",
+    "genre": "nature"
+  },
+  {
+    "answer": "オケラ",
+    "clue": "前足で土を掘る地中にすむ昆虫",
+    "genre": "nature"
+  },
+  {
+    "answer": "イトトンボ",
+    "clue": "細く小さな体をした華奢なトンボの仲間",
+    "genre": "nature"
+  },
+  {
+    "answer": "イワナ",
+    "clue": "渓流の上流にすむ斑点のある淡水魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヤマメ",
+    "clue": "体に楕円の斑紋がある渓流の魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "リンドウ",
+    "clue": "秋に青紫の釣り鐘形の花を咲かせる草",
+    "genre": "nature"
+  },
+  {
+    "answer": "ホオズキ",
+    "clue": "袋状の赤いがくに包まれた実をつける草",
+    "genre": "nature"
+  },
+  {
+    "answer": "キャスティング",
+    "clue": "作品の役に出演者を割り当てること",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "クレジット",
+    "clue": "制作に関わった人々の表示名",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "サスペンス",
+    "clue": "緊張感で先の展開をはらはらさせる作風",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "コメディ",
+    "clue": "笑いを目的とした喜劇",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ドキュメンタリー",
+    "clue": "事実や現実をありのまま記録した作品",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "オムニバス",
+    "clue": "複数の独立した短編を集めた作品",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "シークエル",
+    "clue": "前作の続きを描いた続編",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "アニメーション",
+    "clue": "絵を連続させて動かす映像技法",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "コマワリ",
+    "clue": "漫画でページを枠に分ける構成",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "チュートリアル",
+    "clue": "ゲーム序盤の操作を教える練習部分",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "バンドネオン",
+    "clue": "タンゴで使われる蛇腹の楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "コンサーティーナ",
+    "clue": "六角形の小型の蛇腹楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "ハーディガーディ",
+    "clue": "ハンドルを回し弦をこする中世の楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "ダルシマー",
+    "clue": "弦を小槌で叩いて鳴らす打弦楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "ツィンバロム",
+    "clue": "ハンガリーで使われる大型の打弦楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "コラ",
+    "clue": "西アフリカの瓢箪を使った大型の竪琴",
+    "genre": "music"
+  },
+  {
+    "answer": "ウード",
+    "clue": "アラブ世界で愛される撥弦楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "バラフォン",
+    "clue": "西アフリカの木製の鍵盤打楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "ガムラン",
+    "clue": "インドネシアの金属打楽器による合奏",
+    "genre": "music"
+  },
+  {
+    "answer": "タブラ",
+    "clue": "インド古典で使う一対の太鼓",
+    "genre": "music"
+  },
+  {
+    "answer": "シェーカー",
+    "clue": "振って細かい音を出す打楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "グイロ",
+    "clue": "表面の溝をこすって鳴らす中南米の打楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "クラベス",
+    "clue": "二本の木の棒を打ち合わせる打楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "カバサ",
+    "clue": "玉の連なりを回して音を出す打楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "ウインドチャイム",
+    "clue": "多数の金属棒が触れ合って鳴る楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "スネアドラム",
+    "clue": "裏に響き線を張った小太鼓",
+    "genre": "music"
+  },
+  {
+    "answer": "バスドラム",
+    "clue": "足で踏んで鳴らす大きな太鼓",
+    "genre": "music"
+  },
+  {
+    "answer": "ハイハット",
+    "clue": "二枚を踏んで開閉させるシンバル",
+    "genre": "music"
+  },
+  {
+    "answer": "カポタスト",
+    "clue": "ギターの弦を押さえて調を上げる器具",
+    "genre": "music"
+  },
+  {
+    "answer": "オルゴール",
+    "clue": "回る仕掛けで自動で曲を奏でる箱",
+    "genre": "music"
+  },
+  {
+    "answer": "ハンドベル",
+    "clue": "振って鳴らす持ち手付きの鐘",
+    "genre": "music"
+  },
+  {
+    "answer": "カズー",
+    "clue": "声を当てて音色を変える簡単な笛",
+    "genre": "music"
+  },
+  {
+    "answer": "コロラトゥーラ",
+    "clue": "装飾的に細かく速く歌う技巧",
+    "genre": "music"
+  },
+  {
+    "answer": "ベルカント",
+    "clue": "美しい響きを重んじるイタリアの唱法",
+    "genre": "music"
+  },
+  {
+    "answer": "グロウル",
+    "clue": "唸るような激しい声を出す歌唱",
+    "genre": "music"
+  },
+  {
+    "answer": "シャウト",
+    "clue": "叫ぶように激しく歌うこと",
+    "genre": "music"
+  },
+  {
+    "answer": "ウィスパー",
+    "clue": "ささやくように歌う柔らかな歌い方",
+    "genre": "music"
+  },
+  {
+    "answer": "ブルーグラス",
+    "clue": "アメリカの弦楽中心の軽快な民俗音楽",
+    "genre": "music"
+  },
+  {
+    "answer": "ビバップ",
+    "clue": "速いテンポで即興を競うモダンジャズ",
+    "genre": "music"
+  },
+  {
+    "answer": "フォルクローレ",
+    "clue": "中南米のアンデス地方の民族音楽",
+    "genre": "music"
+  },
+  {
+    "answer": "レゲトン",
+    "clue": "中南米発の跳ねるリズムのクラブ音楽",
+    "genre": "music"
+  },
+  {
+    "answer": "カリプソ",
+    "clue": "トリニダード生まれの軽快な音楽",
+    "genre": "music"
+  },
+  {
+    "answer": "クレズマー",
+    "clue": "東欧ユダヤの哀愁ある伝統音楽",
+    "genre": "music"
+  },
+  {
+    "answer": "エレクトロ",
+    "clue": "電子音を前面に出したダンス音楽",
+    "genre": "music"
+  },
+  {
+    "answer": "アンプラグド",
+    "clue": "電気を使わず生楽器だけで行う演奏",
+    "genre": "music"
+  },
+  {
+    "answer": "ラグタイム",
+    "clue": "弾むリズムが特徴の初期のピアノ音楽",
+    "genre": "music"
+  },
+  {
+    "answer": "ニューエイジ",
+    "clue": "癒やしを目的とした穏やかな音楽",
+    "genre": "music"
+  },
+  {
+    "answer": "マーチング",
+    "clue": "隊列で行進しながら演奏する形態",
+    "genre": "music"
+  },
+  {
+    "answer": "インプロ",
+    "clue": "その場で即興で演奏すること",
+    "genre": "music"
+  },
+  {
+    "answer": "ジングル",
+    "clue": "番組や広告で流れる短い音楽",
+    "genre": "music"
+  },
+  {
+    "answer": "モジュレーション",
+    "clue": "曲の途中で調を移すこと",
+    "genre": "music"
+  },
+  {
+    "answer": "ボイシング",
+    "clue": "和音を構成する音の積み重ね方",
+    "genre": "music"
+  },
+  {
+    "answer": "ハーモニクス",
+    "clue": "弦に軽く触れて出す澄んだ高い音",
+    "genre": "music"
+  },
+  {
+    "answer": "ディストーション",
+    "clue": "音をわざと歪ませる効果",
+    "genre": "music"
+  },
+  {
+    "answer": "フェードアウト",
+    "clue": "音量が次第に下がって消えること",
+    "genre": "music"
+  },
+  {
+    "answer": "フック",
+    "clue": "耳に残る聞かせどころの旋律",
+    "genre": "music"
+  },
+  {
+    "answer": "ヴァース",
+    "clue": "サビの前に置かれる歌い出しの部分",
+    "genre": "music"
+  },
+  {
+    "answer": "スラー",
+    "clue": "なめらかにつなげることを示す弧の記号",
+    "genre": "music"
+  },
+  {
+    "answer": "ローディー",
+    "clue": "機材の運搬や設営を担う裏方",
+    "genre": "music"
+  },
+  {
+    "answer": "フロントマン",
+    "clue": "バンドの中心で前に立つ人",
+    "genre": "music"
+  },
+  {
+    "answer": "バッキング",
+    "clue": "主旋律を支える伴奏",
+    "genre": "music"
+  },
+  {
+    "answer": "チューニング",
+    "clue": "楽器の音の高さを合わせること",
+    "genre": "music"
+  },
+  {
+    "answer": "ミキシング",
+    "clue": "複数の音の音量や定位を整える作業",
+    "genre": "music"
+  },
+  {
+    "answer": "マイクスタンド",
+    "clue": "マイクを固定して支える台",
+    "genre": "music"
+  },
+  {
+    "answer": "フェーダー",
+    "clue": "音量を上下させるつまみ",
+    "genre": "music"
+  },
+  {
+    "answer": "ヒーリング",
+    "clue": "心を落ち着かせるための音楽",
+    "genre": "music"
+  },
+  {
+    "answer": "ボーカリーズ",
+    "clue": "歌詞を使わず母音で歌うこと",
+    "genre": "music"
+  },
+  {
+    "answer": "カウンターメロディ",
+    "clue": "主旋律に寄り添う別の旋律",
+    "genre": "music"
+  },
+  {
+    "answer": "ポリリズム",
+    "clue": "複数の異なる拍子が同時に進むこと",
+    "genre": "music"
+  },
+  {
+    "answer": "コーラスワーク",
+    "clue": "複数の声を重ねて作る合唱の工夫",
+    "genre": "music"
+  },
+  {
+    "answer": "ソロパート",
+    "clue": "一人だけが奏でる聞かせどころ",
+    "genre": "music"
+  },
+  {
+    "answer": "ドラムロール",
+    "clue": "太鼓を連打して緊張を高める演奏",
+    "genre": "music"
+  },
+  {
+    "answer": "ピアノソロ",
+    "clue": "ピアノだけで奏でる聞かせどころ",
+    "genre": "music"
+  },
+  {
+    "answer": "ギターソロ",
+    "clue": "ギターだけが目立つ聞かせどころ",
+    "genre": "music"
+  },
+  {
+    "answer": "モブ",
+    "clue": "物語で背景にいる名もない人々",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ギミック",
+    "clue": "凝らされた仕掛けや工夫",
+    "genre": "subculture"
+  },
+  {
+    "answer": "バフ",
+    "clue": "能力を一時的に高める効果",
+    "genre": "subculture"
+  },
+  {
+    "answer": "デバフ",
+    "clue": "能力を一時的に下げる効果",
+    "genre": "subculture"
+  },
+  {
+    "answer": "カンスト",
+    "clue": "数値が上限に達して止まること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "レベリング",
+    "clue": "経験値を稼いでキャラを強くすること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ファーミング",
+    "clue": "素材や道具を繰り返し集めること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ソロプレイ",
+    "clue": "一人だけで遊ぶこと",
+    "genre": "subculture"
+  },
+  {
+    "answer": "アップデート",
+    "clue": "ソフトを最新の状態に更新すること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "パッチ",
+    "clue": "不具合を直すための修正データ",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ローンチ",
+    "clue": "サービスやソフトの公開を始めること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "フルボイス",
+    "clue": "すべての台詞に声が付いていること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ボイスドラマ",
+    "clue": "声だけで物語を演じる作品",
+    "genre": "subculture"
+  },
+  {
+    "answer": "キャラソン",
+    "clue": "登場人物が歌う設定の曲",
+    "genre": "subculture"
+  },
+  {
+    "answer": "リマスター",
+    "clue": "画質や音質を高めて作り直すこと",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ティザー",
+    "clue": "内容を小出しにして期待を煽る予告",
+    "genre": "subculture"
+  },
+  {
+    "answer": "コラボカフェ",
+    "clue": "作品と提携した期間限定の飲食店",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ポップアップ",
+    "clue": "期間限定で開く臨時の店",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ジャケガイ",
+    "clue": "表紙の良さだけで作品を買うこと",
+    "genre": "subculture"
+  },
+  {
+    "answer": "イッキミ",
+    "clue": "連続して一気に見ること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "アーカイブ",
+    "clue": "配信を後から見られる録画",
+    "genre": "subculture"
+  },
+  {
+    "answer": "メンバーシップ",
+    "clue": "月額で特典を受けられる会員制度",
+    "genre": "subculture"
+  },
+  {
+    "answer": "モデレーター",
+    "clue": "配信のコメント欄を見張る役",
+    "genre": "subculture"
+  },
+  {
+    "answer": "リスナー",
+    "clue": "配信を聞いている人",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ヲチ",
+    "clue": "対象を陰からじっと観察すること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "レスバ",
+    "clue": "ネット上で互いに言い争うこと",
+    "genre": "subculture"
+  },
+  {
+    "answer": "マウント",
+    "clue": "自分が上だと示そうとする態度",
+    "genre": "subculture"
+  },
+  {
+    "answer": "イキリ",
+    "clue": "虚勢を張って粋がること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ニッチ",
+    "clue": "限られた人に好まれる隙間的な分野",
+    "genre": "subculture"
+  },
+  {
+    "answer": "カルト",
+    "clue": "一部に熱狂的に支持される作品",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ニチアサ",
+    "clue": "日曜の朝に放送される子供向けの番組枠",
+    "genre": "subculture"
+  },
+  {
+    "answer": "コウサツ",
+    "clue": "物語の謎を深く読み解くこと",
+    "genre": "subculture"
+  },
+  {
+    "answer": "メタ",
+    "clue": "作品の枠を越えた視点や言及",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ヌルゲー",
+    "clue": "簡単すぎて手応えのないゲーム",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ムズゲー",
+    "clue": "非常に難しいゲーム",
+    "genre": "subculture"
+  },
+  {
+    "answer": "クソゲー",
+    "clue": "出来の悪いひどいゲーム",
+    "genre": "subculture"
+  },
+  {
+    "answer": "カミゲー",
+    "clue": "非常に出来の良い名作ゲーム",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ドハマリ",
+    "clue": "すっかり夢中になること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ミリシラ",
+    "clue": "その対象を全く知らない状態の略",
+    "genre": "subculture"
+  },
+  {
+    "answer": "マイブーム",
+    "clue": "自分の中だけで起きた一時の流行",
+    "genre": "subculture"
+  },
+  {
+    "answer": "スチル",
+    "clue": "ゲームの場面を切り取った一枚絵",
+    "genre": "subculture"
+  },
+  {
+    "answer": "タチエ",
+    "clue": "登場人物を全身で描いた画像",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ガワ",
+    "clue": "配信で使う見た目だけのキャラの姿",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ナカノヒト",
+    "clue": "キャラを実際に演じている人",
+    "genre": "subculture"
+  },
+  {
+    "answer": "オンゲー",
+    "clue": "ネットにつないで遊ぶゲームの略",
+    "genre": "subculture"
+  },
+  {
+    "answer": "フレンド",
+    "clue": "ゲームやSNSでつながった仲間",
+    "genre": "subculture"
+  },
+  {
+    "answer": "コンプリート",
+    "clue": "全ての要素を集めきること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "オシメン",
+    "clue": "集団の中で最も応援している一人",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ジッキョウドウガ",
+    "clue": "プレイの様子を語りながら見せる動画",
+    "genre": "subculture"
+  },
+  {
+    "answer": "キャラデザ",
+    "clue": "登場人物の見た目を考える仕事",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ボイスチェンジャー",
+    "clue": "声を別の声に変える機械",
+    "genre": "subculture"
+  },
+  {
+    "answer": "オフカイ",
+    "clue": "ネットで知り合った人が実際に集まる催し",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ニコイチ",
+    "clue": "二つを組み合わせて一つにすること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ファンサ",
+    "clue": "演者がファンに見せる気遣いの仕草",
+    "genre": "subculture"
+  },
+  {
+    "answer": "チャンネルトウロク",
+    "clue": "配信者を継続して追う手続き",
+    "genre": "subculture"
+  },
+  {
+    "answer": "アーカイブハイシン",
+    "clue": "後から見られる録画の配信",
+    "genre": "subculture"
+  },
+  {
+    "answer": "キリヌキ",
+    "clue": "長い配信から見どころを抜き出した動画",
+    "genre": "subculture"
+  },
+  {
+    "answer": "タイムスタンプ",
+    "clue": "動画の特定の場面を示す時刻の印",
+    "genre": "subculture"
+  },
+  {
+    "answer": "イラストレーター",
+    "clue": "挿絵や絵を描く仕事の人",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ハコオシ",
+    "clue": "集団そのものを丸ごと応援すること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "タンオシ",
+    "clue": "集団の中で一人だけを応援すること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ブロックバスター",
+    "clue": "記録的に大ヒットした超大作",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "シノプシス",
+    "clue": "物語のあらすじをまとめたもの",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ナレーター",
+    "clue": "物語を語って聞かせる人",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "スタントマン",
+    "clue": "危険な演技を代わりに行う人",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "スポンサー",
+    "clue": "番組に資金を出す企業",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ゴールデンタイム",
+    "clue": "視聴者が多い夜の人気放送帯",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "シチョウリツ",
+    "clue": "番組がどれだけ見られたかを示す割合",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "バラエティー",
+    "clue": "笑いや企画を盛り込んだ番組",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "トークショー",
+    "clue": "出演者の語りを楽しむ番組",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "スクープ",
+    "clue": "他社を出し抜く特ダネ",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "サインカイ",
+    "clue": "著名人が署名してファンと交流する催し",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "フードデリバリー",
+    "clue": "料理を自宅へ届けてもらう仕組み",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ポイカツ",
+    "clue": "買い物などで得点を貯める活動",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "カスハラ",
+    "clue": "客が店員に理不尽な要求をする迷惑行為",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ソロカツ",
+    "clue": "一人で趣味や外出を楽しむこと",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ヤミバイト",
+    "clue": "犯罪に加担させられる違法な仕事",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ハシビロコウ",
+    "clue": "じっと動かない大きなくちばしの鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "マナティー",
+    "clue": "水草を食べる穏やかな海の獣",
+    "genre": "nature"
+  },
+  {
+    "answer": "ミーアキャット",
+    "clue": "後ろ足で立って見張りをする小動物",
+    "genre": "nature"
   }
 ]
