@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import type { Language } from '@crossword/shared';
 import type { SoloDifficulty } from '../useSoloGame.js';
+import logoUrl from '../assets/logo.png';
 
 const NAME_KEY = 'crossword.nickname';
 // ルームコードはひらがな（濁点・半濁点を含む）。U+3041〜U+3096 のひらがな1文字を許可する
@@ -35,7 +36,9 @@ export function Home({ onCreate, onJoin, onSolo, error, connected }: Props) {
 
   return (
     <div className="screen home">
-      <h1>対戦型クロスワード</h1>
+      <h1 className="home-title">
+        <img src={logoUrl} alt="みんなのクロスワードパズル VS" className="home-logo" />
+      </h1>
       <p className="tagline">最大4人で早押し対戦。マスを自分の色で塗りつぶそう！</p>
 
       {!connected && (
