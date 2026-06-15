@@ -102,6 +102,7 @@ export function useSoloGame(): SoloGame {
       puzzle: stripSolution(puzzle, new Set()),
       winnerIds: [],
       solvedWordIds: [],
+      wordSolvers: {},
     });
     return true;
   }, []);
@@ -142,6 +143,9 @@ export function useSoloGame(): SoloGame {
             puzzle: stripSolution(puzzle, hintedCellsRef.current),
             winnerIds: done ? [SOLO_PLAYER_ID] : [],
             solvedWordIds: [...solvedWordIdsRef.current],
+            wordSolvers: Object.fromEntries(
+              [...solvedWordIdsRef.current].map((id) => [id, SOLO_PLAYER_ID])
+            ),
           }
         : prev
     );

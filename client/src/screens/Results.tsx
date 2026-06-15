@@ -5,24 +5,39 @@ import { Confetti } from '../components/Confetti.js';
 interface Props {
   state: GameState;
   playerId: string;
+  onRematch: () => void;
   onLeave: () => void;
 }
 
 const ROW_INTERVAL_MS = 650; // 1行ずつ発表する間隔
 
-export function Results({ state, playerId, onLeave }: Props) {
+export function Results({ state, playerId, onRematch, onLeave }: Props) {
   const sorted = [...state.players].sort((a, b) => b.score - a.score);
   const winners = state.players.filter((p) => state.winnerIds.includes(p.id));
   const iWon = state.winnerIds.includes(playerId);
   const isDraw = winners.length > 1;
 
-  // 出題された問題と答えの一覧（ヨコ→タテ、番号順）
+  // 出題された問題と答えの一覧（ヨコ→タテ、番号順）。
+  // 答えはマスの solution から再構成する（終了後の再配信で words.answer が消えても残るため）。
+  const colorById = new Map(state.players.map((p) => [p.id, p.color]));
+  const cellByKey = new Map((state.puzzle?.cells ?? []).map((c) => [`${c.row},${c.col}`, c]));
   const clues = state.puzzle
-    ? [...state.puzzle.words].sort(
-        (a, b) =>
-          (a.direction === b.direction ? 0 : a.direction === 'across' ? -1 : 1) ||
-          a.number - b.number
-      )
+    ? [...state.puzzle.words]
+        .sort(
+          (a, b) =>
+            (a.direction === b.direction ? 0 : a.direction === 'across' ? -1 : 1) ||
+            a.number - b.number
+        )
+        .map((w) => {
+          const dr = w.direction === 'down' ? 1 : 0;
+          const dc = w.direction === 'across' ? 1 : 0;
+          let answer = '';
+          for (let i = 0; i < w.length; i++) {
+            answer += cellByKey.get(`${w.row + dr * i},${w.col + dc * i}`)?.solution ?? '';
+          }
+          const solverId = state.wordSolvers[w.id];
+          return { ...w, answer, color: solverId ? colorById.get(solverId) : undefined };
+        })
     : [];
 
   // 下位から1行ずつ発表。revealedFrom はこのインデックス以降を表示する。
@@ -107,16 +122,23 @@ export function Results({ state, playerId, onLeave }: Props) {
               <li key={w.id}>
                 <span className="dir">{w.direction === 'across' ? 'ヨコ' : 'タテ'}{w.number}</span>
                 <span className="clue">{w.clue}</span>
-                <span className="answer">{w.answer ?? ''}</span>
+                <span className="answer" style={w.color ? { color: w.color } : undefined}>
+                  {w.answer}
+                </span>
               </li>
             ))}
           </ul>
         </div>
       )}
 
-      <button className="primary" onClick={onLeave}>
-        ホームに戻る
-      </button>
+      <div className="result-actions">
+        <button className="primary" onClick={onRematch}>
+          再戦する
+        </button>
+        <button className="ghost" onClick={onLeave}>
+          ホームに戻る
+        </button>
+      </div>
     </div>
   );
 }

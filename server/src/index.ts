@@ -60,16 +60,10 @@ function nextPlayerId(): string {
   return `p${playerSeq}_${Math.random().toString(36).slice(2, 8)}`;
 }
 
-/** ルームの全員へ最新状態を配信（解答を除いた盤面）。終了時のみ解答も含めて配信する */
+/** ルームの全員へ最新状態を配信（解答を除いた盤面） */
 function broadcastState(room: Room, event: 'roomUpdate' | 'gameUpdate' | 'gameOver') {
-  // gameOver はリザルト画面で問題と答えを一覧表示するため、解答付きの盤面をそのまま配信する
-  const puzzle =
-    event === 'gameOver'
-      ? room.puzzle
-      : room.puzzle
-        ? stripSolution(room.puzzle, room.hintedCells)
-        : null;
-  io.to(room.code).emit(event, toGameState(room, puzzle));
+  const stripped = room.puzzle ? stripSolution(room.puzzle, room.hintedCells) : null;
+  io.to(room.code).emit(event, toGameState(room, stripped));
 }
 
 /** 60秒後に開始し10秒ごとに未解答マスを1つずつヒント公開する */
@@ -162,6 +156,7 @@ io.on('connection', (socket) => {
           room.winnerIds = [];
           room.cooldownUntil.clear();
           room.solvedWordIds.clear();
+          room.wordSolvers.clear();
           room.hintedCells.clear();
           clearHintTimer(room);
           startHintTimer(room);
@@ -202,6 +197,7 @@ io.on('connection', (socket) => {
 
     // 正解：単語を解答済みに登録し、全マスを自分の色に
     room.solvedWordIds.add(payload.wordId);
+    room.wordSolvers.set(payload.wordId, playerId);
     applyOwnership(room.puzzle, payload.wordId, playerId);
     computeScores(room.puzzle, room.players);
     socket.emit('answerResult', { wordId: payload.wordId, correct: true });
@@ -214,6 +210,29 @@ io.on('connection', (socket) => {
     } else {
       broadcastState(room, 'gameUpdate');
     }
+  });
+
+  socket.on('rematch', () => {
+    const room = findRoomBySocket(socket.id);
+    if (!room) return;
+    const playerId = room.socketToPlayer.get(socket.id);
+    // 終了済みの部屋を待機状態に戻し、対戦データをリセット（同じ部屋で再戦）。
+    // 最初に再戦した人（最初にロビーに戻った人）を新しいホストにする。
+    if (room.status === 'finished') {
+      room.status = 'lobby';
+      room.puzzle = null;
+      room.winnerIds = [];
+      room.cooldownUntil.clear();
+      room.solvedWordIds.clear();
+      room.wordSolvers.clear();
+      room.hintedCells.clear();
+      clearHintTimer(room);
+      for (const p of room.players) {
+        p.score = 0;
+        p.isHost = p.id === playerId;
+      }
+    }
+    broadcastState(room, 'roomUpdate');
   });
 
   socket.on('setGenre', (genre) => {

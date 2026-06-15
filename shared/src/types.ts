@@ -102,6 +102,8 @@ export interface GameState {
   winnerIds: string[];
   /** 正解済みの単語 ID 一覧（先着1名のみ解答可） */
   solvedWordIds: string[];
+  /** 単語 ID → 正解したプレイヤー ID（誰がその問題を取ったか） */
+  wordSolvers: Record<string, string>;
 }
 
 // ---- ソケットイベント I/F ----
@@ -156,6 +158,8 @@ export interface ClientToServerEvents {
   startGame: () => void;
   submitAnswer: (payload: SubmitAnswerPayload) => void;
   setGenre: (genre: Genre) => void;
+  /** リザルトから同じ部屋で再戦する（部屋を待機状態に戻す） */
+  rematch: () => void;
   leaveRoom: () => void;
 }
 

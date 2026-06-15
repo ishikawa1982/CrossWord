@@ -29,6 +29,20 @@ body {
 h1 { margin-top: 0; }
 .tagline, .hint { color: var(--muted); }
 
+/* トップ画面のロゴタイトル（白背景ロゴを白の角丸カードに乗せる） */
+.home-title { margin: 0 0 0.8rem; text-align: center; }
+.home-logo {
+  display: block;
+  width: 100%;
+  max-width: 420px;
+  height: auto;
+  margin: 0 auto;
+  background: #fff;
+  border-radius: 16px;
+  padding: 0.6rem;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.35);
+}
+
 /* ---- フォーム / カード ---- */
 .card {
   background: var(--panel);
@@ -333,6 +347,12 @@ button.ghost { background: transparent; color: var(--muted); border: 1px solid v
 }
 .answer-list .clue { flex: 1; }
 .answer-list .answer { flex: 0 0 auto; font-weight: 700; color: #2563eb; }
+
+/* リザルトのボタン群（再戦・ホーム） */
+.result-actions {
+  display: flex; gap: 0.6rem; justify-content: center;
+  margin-top: 1.2rem; flex-wrap: wrap;
+}
 
 /* ソロのクリア見出しを強調 */
 .clear-title { animation: result-pop-stay 0.7s ease-out both; }
