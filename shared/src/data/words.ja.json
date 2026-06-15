@@ -15283,5 +15283,5795 @@
     "answer": "カーリング",
     "clue": "氷上で石を滑らせ的を狙う競技",
     "genre": "sports"
+  },
+  {
+    "answer": "ノドボトケ",
+    "clue": "首の前にある喉の出っ張り",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "テクビノホネ",
+    "clue": "手首を構成する小さな骨の集まり",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ワキ",
+    "clue": "腕の付け根の下のくぼみ",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ヒトミ",
+    "clue": "目の中央の光を取り込む黒い部分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "コウマク",
+    "clue": "眼球の白目を覆う丈夫な膜",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "モウマク",
+    "clue": "光を感じ取る眼球の奥の膜",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "スイショウタイ",
+    "clue": "目の中でレンズの働きをする組織",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "コウサイ",
+    "clue": "瞳の大きさを調節する色のついた部分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "カクマク",
+    "clue": "目の一番外側の透明な膜",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "シシンケイ",
+    "clue": "目で得た情報を脳へ伝える神経",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ナミダブクロ",
+    "clue": "目の下のふくらみの俗称",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "コマク",
+    "clue": "音の振動を受ける耳の中の薄い膜",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ミミタブ",
+    "clue": "耳の下のやわらかい部分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ナイジ",
+    "clue": "平衡感覚や聴覚をつかさどる耳の奥の部分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ジカン",
+    "clue": "外耳から鼓膜へ続く穴",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "カギュウ",
+    "clue": "渦巻き状で音を感じる内耳の器官",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "サンハンキカン",
+    "clue": "体の回転やバランスを感じる内耳の器官",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ビコウ",
+    "clue": "鼻の二つの穴",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ハナノアナ",
+    "clue": "鼻で空気を吸い込む開口部",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ビチュウカク",
+    "clue": "左右の鼻の穴を仕切る壁",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "フクビクウ",
+    "clue": "鼻の周りの骨の中の空洞",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "イントウ",
+    "clue": "鼻や口の奥で食道と気道に通じる部分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "コウトウ",
+    "clue": "声帯があり発声に関わるのどの器官",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "セイタイ",
+    "clue": "喉にあり声を出す振動するひだ",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "キカン",
+    "clue": "喉から肺へ空気を送る管",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "キカンシ",
+    "clue": "気管が枝分かれして肺へ続く管",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ハイホウ",
+    "clue": "肺の中でガス交換を行う小さな袋",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ショクドウ",
+    "clue": "口から胃へ食物を運ぶ管",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "イノナイマク",
+    "clue": "食べ物を消化する袋状臓器の内側の膜",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ジュウニシチョウ",
+    "clue": "胃のすぐ先にある小腸の始まりの部分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "モウチョウ",
+    "clue": "大腸の始まりにある袋状の部分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "チョクチョウ",
+    "clue": "大腸の終わりの肛門に続く部分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "コウモン",
+    "clue": "便を排出する消化管の出口",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "タンノウ",
+    "clue": "胆汁をためる小さな袋",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "タンジュウ",
+    "clue": "脂肪の消化を助ける肝臓由来の液",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ニョウ",
+    "clue": "腎臓で作られ排出される体液",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ニョウカン",
+    "clue": "腎臓から膀胱へ尿を運ぶ管",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ニョウドウ",
+    "clue": "膀胱から外へ尿を出す管",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "フクジンヒシツ",
+    "clue": "腎臓の上にあるホルモンを作る器官の外側",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "コウジョウセン",
+    "clue": "首にある代謝を調節するホルモンの器官",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "シモフリセン",
+    "clue": "甲状腺の裏にある小さな内分泌腺の俗称",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ノウカスイタイ",
+    "clue": "脳の下にありホルモンを統括する器官",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "マツカタイ",
+    "clue": "脳にあり睡眠リズムに関わる小器官",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "シキュウ",
+    "clue": "胎児を育てる女性の臓器",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ランソウ",
+    "clue": "卵子を作る女性の生殖器",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "セイソウ",
+    "clue": "精子を作る男性の生殖器",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ゼンリツセン",
+    "clue": "膀胱の下にある男性特有の腺",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ニュウセン",
+    "clue": "母乳を作る胸の腺組織",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "オオモモ",
+    "clue": "太ももの別の言い方",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "スネ",
+    "clue": "膝から足首までの前面",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "フクラハギノキン",
+    "clue": "ふくらはぎを形作る筋肉",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "アシノウラ",
+    "clue": "足の地面に接する裏側",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ツチフマズ",
+    "clue": "足の裏のへこんだ部分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "アシユビ",
+    "clue": "足の先にある五本の指",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "アキレスケン",
+    "clue": "かかとにつながる太い腱",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ヒザガシラ",
+    "clue": "膝の前面の出っ張り",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "シツガイコツ",
+    "clue": "膝の前にある皿状の骨",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ダイタイコツ",
+    "clue": "太ももの中の最も長い骨",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ケイコツ",
+    "clue": "すねの内側にある太い骨",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ヒコツ",
+    "clue": "すねの外側にある細い骨",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ジョウワンコツ",
+    "clue": "二の腕の中にある一本の骨",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "トウコツ",
+    "clue": "前腕の親指側にある骨",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "シャッコツ",
+    "clue": "前腕の小指側にある骨",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "サコツ",
+    "clue": "首の下で肩につながる横向きの骨",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ケンコウコツ",
+    "clue": "背中の上部にある三角形の骨",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "キョウコツ",
+    "clue": "胸の中央にあるネクタイ状の骨",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "コツバン",
+    "clue": "腰回りの器状の大きな骨格",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "センコツ",
+    "clue": "背骨の下端で骨盤の中央にある骨",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ビコツ",
+    "clue": "背骨の一番下のしっぽの名残の骨",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ツイコツ",
+    "clue": "背骨を構成する一つ一つの骨",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ケイツイ",
+    "clue": "首の部分の背骨",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ヨウツイ",
+    "clue": "腰の部分の背骨",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "キョウツイ",
+    "clue": "胸の部分の背骨",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ツイカンバン",
+    "clue": "背骨の骨の間でクッションになる組織",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ロッコツ",
+    "clue": "胸を囲むかご状の細い骨",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "シタアゴ",
+    "clue": "口の下側で動くあごの骨",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ホオボネ",
+    "clue": "頬の高い位置にある骨",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ハナボネ",
+    "clue": "鼻の付け根を形作る骨",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ゼッコツ",
+    "clue": "舌の付け根を支える喉の骨",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "シキュウコツ",
+    "clue": "手のひらを構成する五本の骨",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "シコツ",
+    "clue": "指を構成する小さな骨",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "コツズイ",
+    "clue": "骨の中で血液を作る組織",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "コッカク",
+    "clue": "体を支える骨の全体",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ジンタイ",
+    "clue": "骨と骨をつなぐ丈夫な結合組織",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ケン",
+    "clue": "筋肉を骨につなぐ丈夫なすじ",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "チカラコブ",
+    "clue": "腕を曲げると盛り上がる筋肉の俗称",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ニトウキン",
+    "clue": "力こぶを作る上腕前面の筋肉",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ダイキョウキン",
+    "clue": "胸の前面を覆う大きな筋肉",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "フッキン",
+    "clue": "お腹の前面にある筋肉",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ハイキン",
+    "clue": "背中にある筋肉の総称",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ダイデンキン",
+    "clue": "おしりを形作る大きな筋肉",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ソウボウキン",
+    "clue": "首から背中上部を覆うひし形の筋肉",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "シカクキン",
+    "clue": "太ももの前面の四つに分かれた筋肉",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ヘイカツキン",
+    "clue": "内臓を動かす意思では動かせない筋肉",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "コッカクキン",
+    "clue": "骨を動かす意思で動かせる筋肉",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "シンキン",
+    "clue": "心臓を構成する特別な筋肉",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "オウカクマクキン",
+    "clue": "呼吸で上下する胸と腹を仕切る筋肉",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ヨウ",
+    "clue": "甲状腺などのホルモンを出す器官のなかま",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ケッショウ",
+    "clue": "血液から細胞成分を除いた液体部分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ケッセイ",
+    "clue": "血液が固まったあとに残る上澄みの液",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ヘモグロビン",
+    "clue": "赤血球に含まれ酸素を運ぶ色素",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "リンパキュウ",
+    "clue": "免疫を担う白血球のなかま",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "コウタイ",
+    "clue": "異物に対抗して作られる免疫のたんぱく質",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "メンエキ",
+    "clue": "病原体から体を守るしくみ",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "リンパセツ",
+    "clue": "首やわきにある免疫の関所",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "リンパエキ",
+    "clue": "リンパ管を流れる透明な体液",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "サイボウマク",
+    "clue": "細胞を包んでいる膜",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "サイボウシツ",
+    "clue": "細胞の核以外の中身",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "カク",
+    "clue": "細胞の中で遺伝情報を収める部分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ミトコンドリア",
+    "clue": "細胞内でエネルギーを作る小器官",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "リボソーム",
+    "clue": "細胞内でたんぱく質を合成する小器官",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "センショクタイ",
+    "clue": "遺伝情報を担う細胞核内の構造",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ソシキ",
+    "clue": "同じはたらきの細胞が集まったもの",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ジョウヒ",
+    "clue": "体や臓器の表面を覆う組織",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ネンマク",
+    "clue": "口や鼻の内側を覆う湿った膜",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "シボウ",
+    "clue": "体にエネルギーをためる組織",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ヒカシボウ",
+    "clue": "皮膚のすぐ下にたまる脂肪",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ナイゾウシボウ",
+    "clue": "内臓の周りにつく脂肪",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ハイガ",
+    "clue": "受精後まもない発生初期の生命体",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "タイジ",
+    "clue": "母体内で育つ生まれる前の子",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "タイバン",
+    "clue": "胎児と母体をつなぐ栄養供給の器官",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "サイタイ",
+    "clue": "胎児とへその緒をつなぐひも状の器官",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ヨウスイ",
+    "clue": "胎児を守る子宮内の液体",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ランシ",
+    "clue": "女性の生殖細胞",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "セイシ",
+    "clue": "男性の生殖細胞",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ジュセイラン",
+    "clue": "卵子と精子が結合した細胞",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ハクサイボウ",
+    "clue": "免疫を担う血液の白い細胞の総称",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ケッキュウ",
+    "clue": "血液中の赤血球や白血球の総称",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "モウサイケッカン",
+    "clue": "組織に張りめぐらされた細い血管",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ダイドウミャク",
+    "clue": "心臓から全身へ血を送る最も太い血管",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "カンドウミャク",
+    "clue": "心臓自身に血液を送る血管",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ハイドウミャク",
+    "clue": "心臓から肺へ血を送る血管",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ダイジョウミャク",
+    "clue": "全身から心臓へ戻る太い静脈",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ミャクハク",
+    "clue": "心臓の拍動が血管に伝わる脈",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "コドウ",
+    "clue": "心臓が打つリズミカルな動き",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ケツアツ",
+    "clue": "血液が血管の壁を押す圧力",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "シンボウ",
+    "clue": "心臓の上部にある血を受け取る部屋",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "シンシツ",
+    "clue": "心臓の下部にある血を送り出す部屋",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ベン",
+    "clue": "血液の逆流を防ぐ心臓内のふた",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ダイノウ",
+    "clue": "思考や記憶をつかさどる脳の大部分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ショウノウ",
+    "clue": "運動の調整やバランスを担う脳の部分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ノウカン",
+    "clue": "脳と脊髄をつなぐ生命維持の中枢",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "カンノウ",
+    "clue": "自律機能やホルモンを調節する脳の部分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "セキズイ",
+    "clue": "背骨の中を通る神経の太い束",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "シンケイサイボウ",
+    "clue": "情報を伝える神経の細胞",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "シナプス",
+    "clue": "神経細胞どうしの接合部",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ジリツシンケイ",
+    "clue": "意思と無関係に内臓を調節する神経",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ハンシャ",
+    "clue": "刺激に無意識で素早く反応するしくみ",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ノウミャク",
+    "clue": "脳の中を走る血管",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ズイマク",
+    "clue": "脳と脊髄を包む膜",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ノウセキズイエキ",
+    "clue": "脳と脊髄を満たし守る液体",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ハグキ",
+    "clue": "歯を支える口の中のピンクの組織",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ハナラビ",
+    "clue": "歯の並び方の様子",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "キュウシ",
+    "clue": "奥にある食物をすりつぶす歯",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "イトギリバ",
+    "clue": "前歯の隣のとがった犬歯の別名",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "オヤシラズ",
+    "clue": "一番奥に遅れて生える歯",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ニュウシ",
+    "clue": "子どものうちに生えるやがて抜ける歯",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "エナメルシツ",
+    "clue": "歯の表面を覆う最も硬い組織",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ゾウゲシツ",
+    "clue": "歯のエナメル質の内側の組織",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "シズイ",
+    "clue": "歯の中心にある神経や血管の組織",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ダエキセン",
+    "clue": "口の中でつばを分泌する腺",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "アセセン",
+    "clue": "皮膚にあり汗を出す腺",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ヒシセン",
+    "clue": "皮膚で皮脂を分泌する腺",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "モウコン",
+    "clue": "皮膚の中にある毛の根もと",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "モウホウ",
+    "clue": "毛根を包む皮膚の組織",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ヒョウヒ",
+    "clue": "皮膚の一番外側の層",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "シンピ",
+    "clue": "表皮の下にある皮膚の層",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "メラニン",
+    "clue": "肌や髪の色を決める色素",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ケアナ",
+    "clue": "皮膚にある毛や汗の出る小さな穴",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ナンコウガイ",
+    "clue": "口の奥のやわらかい天井部分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "コウコウガイ",
+    "clue": "口の前方の硬い天井部分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ノドチンコ",
+    "clue": "のどの奥にぶら下がる小さな突起",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ヘントウ",
+    "clue": "のどの奥の両側にある免疫の組織",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "アゴカンセツ",
+    "clue": "あごの開閉を担う関節",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "カタカンセツ",
+    "clue": "腕を大きく回せる肩の関節",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "コカンセツ",
+    "clue": "脚の付け根の大きな関節",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ヒザカンセツ",
+    "clue": "脚の中ほどの曲げ伸ばしの関節",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "カンセツナンコツ",
+    "clue": "関節の表面を覆う滑らかな組織",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "カツエキ",
+    "clue": "関節の動きを滑らかにする液",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "イサン",
+    "clue": "胃の中で食物を溶かす強い酸",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "イエキ",
+    "clue": "胃から分泌される消化液",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "スイエキ",
+    "clue": "膵臓が分泌する消化液",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "チョウエキ",
+    "clue": "腸から分泌される消化液",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "コウソ",
+    "clue": "消化などの化学反応を助けるたんぱく質",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ジュウモウ",
+    "clue": "小腸の内壁にある栄養吸収の突起",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "チョウナイサイキン",
+    "clue": "腸の中に住み消化を助ける微生物",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ゼンドウウンドウ",
+    "clue": "腸が内容物を送る波のような動き",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "タイオン",
+    "clue": "体の温度",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ノウハ",
+    "clue": "脳の活動で生じる電気的な波",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "イックセンキン",
+    "clue": "一度に大きな利益を得ること",
+    "genre": "culture"
+  },
+  {
+    "answer": "イッキトウセン",
+    "clue": "一人で千人の敵を相手にできる強さ",
+    "genre": "culture"
+  },
+  {
+    "answer": "イシバシヲタタク",
+    "clue": "用心の上にも用心を重ねることのたとえ",
+    "genre": "culture"
+  },
+  {
+    "answer": "ニカイカラメグスリ",
+    "clue": "効き目がなくもどかしいことのたとえ",
+    "genre": "culture"
+  },
+  {
+    "answer": "セキトウ",
+    "clue": "毎月一日を指す暦の言葉で「朔日」とも書く",
+    "genre": "culture"
+  },
+  {
+    "answer": "ミソカ",
+    "clue": "月の最終日を指す言葉",
+    "genre": "culture"
+  },
+  {
+    "answer": "ムツキ",
+    "clue": "陰暦一月の異称",
+    "genre": "culture"
+  },
+  {
+    "answer": "キサラギ",
+    "clue": "陰暦二月の異称",
+    "genre": "culture"
+  },
+  {
+    "answer": "ウヅキ",
+    "clue": "陰暦四月の異称",
+    "genre": "culture"
+  },
+  {
+    "answer": "サツキ",
+    "clue": "陰暦五月の異称",
+    "genre": "culture"
+  },
+  {
+    "answer": "ミナヅキ",
+    "clue": "陰暦六月の異称",
+    "genre": "culture"
+  },
+  {
+    "answer": "フミヅキ",
+    "clue": "陰暦七月の異称",
+    "genre": "culture"
+  },
+  {
+    "answer": "ハヅキ",
+    "clue": "陰暦八月の異称",
+    "genre": "culture"
+  },
+  {
+    "answer": "ナガツキ",
+    "clue": "陰暦九月の異称",
+    "genre": "culture"
+  },
+  {
+    "answer": "カンナヅキ",
+    "clue": "陰暦十月の異称",
+    "genre": "culture"
+  },
+  {
+    "answer": "シモツキ",
+    "clue": "陰暦十一月の異称",
+    "genre": "culture"
+  },
+  {
+    "answer": "シワス",
+    "clue": "陰暦十二月の異称",
+    "genre": "culture"
+  },
+  {
+    "answer": "シュンブン",
+    "clue": "昼夜の長さがほぼ等しくなる春の日",
+    "genre": "culture"
+  },
+  {
+    "answer": "メートル",
+    "clue": "長さの基本単位",
+    "genre": "culture"
+  },
+  {
+    "answer": "リットル",
+    "clue": "体積を表す単位",
+    "genre": "culture"
+  },
+  {
+    "answer": "グラム",
+    "clue": "質量を表す基本的な単位",
+    "genre": "culture"
+  },
+  {
+    "answer": "アンペア",
+    "clue": "電流の大きさを表す単位",
+    "genre": "culture"
+  },
+  {
+    "answer": "ボルト",
+    "clue": "電圧を表す単位",
+    "genre": "culture"
+  },
+  {
+    "answer": "ヘクタール",
+    "clue": "面積を表す単位で一万平方メートル",
+    "genre": "culture"
+  },
+  {
+    "answer": "カロリー",
+    "clue": "熱量や食物のエネルギーを表す単位",
+    "genre": "culture"
+  },
+  {
+    "answer": "ヘルツ",
+    "clue": "周波数を表す単位",
+    "genre": "culture"
+  },
+  {
+    "answer": "パスカル",
+    "clue": "圧力を表す単位",
+    "genre": "culture"
+  },
+  {
+    "answer": "ノット",
+    "clue": "船の速さを表す単位",
+    "genre": "culture"
+  },
+  {
+    "answer": "ガロン",
+    "clue": "欧米で使われる体積の単位",
+    "genre": "culture"
+  },
+  {
+    "answer": "マイル",
+    "clue": "欧米で使われる距離の単位",
+    "genre": "culture"
+  },
+  {
+    "answer": "シャク",
+    "clue": "尺貫法で約三十センチの長さの単位",
+    "genre": "culture"
+  },
+  {
+    "answer": "カンレキ",
+    "clue": "数え年六十一歳の祝い",
+    "genre": "culture"
+  },
+  {
+    "answer": "コキ",
+    "clue": "七十歳の祝い",
+    "genre": "culture"
+  },
+  {
+    "answer": "ベイジュ",
+    "clue": "八十八歳の祝い",
+    "genre": "culture"
+  },
+  {
+    "answer": "ハクジュ",
+    "clue": "九十九歳の祝い",
+    "genre": "culture"
+  },
+  {
+    "answer": "ツレヅレグサ",
+    "clue": "兼好法師が著した随筆",
+    "genre": "culture"
+  },
+  {
+    "answer": "ホウジョウキ",
+    "clue": "鴨長明が著した無常観の随筆",
+    "genre": "culture"
+  },
+  {
+    "answer": "タケトリモノガタリ",
+    "clue": "かぐや姫が登場する日本最古の物語",
+    "genre": "culture"
+  },
+  {
+    "answer": "コキンワカシュウ",
+    "clue": "平安時代に編まれた最初の勅撰和歌集",
+    "genre": "culture"
+  },
+  {
+    "answer": "ハイク",
+    "clue": "五七五の十七音から成る短い詩",
+    "genre": "culture"
+  },
+  {
+    "answer": "タンカ",
+    "clue": "五七五七七の三十一音から成る歌",
+    "genre": "culture"
+  },
+  {
+    "answer": "キゴ",
+    "clue": "俳句で季節を表すために詠み込む言葉",
+    "genre": "culture"
+  },
+  {
+    "answer": "ジョウルリ",
+    "clue": "三味線に合わせて物語を語る音曲",
+    "genre": "culture"
+  },
+  {
+    "answer": "ラクゴ",
+    "clue": "落ちで締めくくる日本の話芸",
+    "genre": "culture"
+  },
+  {
+    "answer": "ヒノエウマ",
+    "clue": "干支の一つで迷信のある年",
+    "genre": "culture"
+  },
+  {
+    "answer": "アマゾンガワ",
+    "clue": "南米を流れる流域面積世界最大の川",
+    "genre": "geography"
+  },
+  {
+    "answer": "ガンジスガワ",
+    "clue": "インドの聖なる大河",
+    "genre": "geography"
+  },
+  {
+    "answer": "ドナウガワ",
+    "clue": "ヨーロッパを横断しウィーンを流れる川",
+    "genre": "geography"
+  },
+  {
+    "answer": "バイカルコ",
+    "clue": "ロシアにある世界一深い湖",
+    "genre": "geography"
+  },
+  {
+    "answer": "シナイハントウ",
+    "clue": "エジプトにある三角形の半島",
+    "genre": "geography"
+  },
+  {
+    "answer": "イベリアハントウ",
+    "clue": "スペインとポルトガルがある半島",
+    "genre": "geography"
+  },
+  {
+    "answer": "バルカンハントウ",
+    "clue": "ギリシャなどがある南東欧の半島",
+    "genre": "geography"
+  },
+  {
+    "answer": "シチリア",
+    "clue": "イタリア半島の先にある地中海最大の島",
+    "genre": "geography"
+  },
+  {
+    "answer": "セイロン",
+    "clue": "スリランカの旧称となった島",
+    "genre": "geography"
+  },
+  {
+    "answer": "リマ",
+    "clue": "ペルーの首都",
+    "genre": "geography"
+  },
+  {
+    "answer": "イグアス",
+    "clue": "ブラジルとアルゼンチンの国境にある大瀑布",
+    "genre": "geography"
+  },
+  {
+    "answer": "アクロポリス",
+    "clue": "アテネの丘にある古代遺跡群",
+    "genre": "geography"
+  },
+  {
+    "answer": "バチカン",
+    "clue": "ローマ市内にある世界最小の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "モナコ",
+    "clue": "地中海岸にあるカジノで有名な小国",
+    "genre": "geography"
+  },
+  {
+    "answer": "スエズ",
+    "clue": "地中海と紅海を結ぶ運河",
+    "genre": "geography"
+  },
+  {
+    "answer": "パナマ",
+    "clue": "太平洋と大西洋を結ぶ中米の運河",
+    "genre": "geography"
+  },
+  {
+    "answer": "チベット",
+    "clue": "世界の屋根と呼ばれる高原",
+    "genre": "geography"
+  },
+  {
+    "answer": "パタゴニア",
+    "clue": "南米南部の荒涼とした地域",
+    "genre": "geography"
+  },
+  {
+    "answer": "アパラチア",
+    "clue": "北米東部の古い山脈",
+    "genre": "geography"
+  },
+  {
+    "answer": "メンチカツ",
+    "clue": "ひき肉に衣をつけて揚げた料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ペスカトーレ",
+    "clue": "魚介をたっぷり使ったトマトパスタ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "カプレーゼ",
+    "clue": "トマトとモッツァレラを並べたイタリアの前菜",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ガスパチョ",
+    "clue": "冷たく食べるスペインの野菜のスープ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "アヒージョ",
+    "clue": "オリーブ油とにんにくで具材を煮込むスペイン料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "タパス",
+    "clue": "スペインの小皿料理の総称",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "チュロス",
+    "clue": "細長く揚げたスペイン由来の甘い菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ブリトー",
+    "clue": "具材を巻いたメキシコの料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ナチョス",
+    "clue": "チップスにチーズなどをのせたメキシコ風の軽食",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "サルサ",
+    "clue": "トマトや唐辛子で作るメキシコのソース",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ワカモレ",
+    "clue": "アボカドをつぶして作るメキシコのディップ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "バインミー",
+    "clue": "具をはさんだベトナムのサンドイッチ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "サテ",
+    "clue": "甘辛いたれで食べる東南アジアの串焼き",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ビリヤニ",
+    "clue": "スパイスと米を炊き込むインドの米料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "タンドリーチキン",
+    "clue": "ヨーグルトとスパイスに漬けて焼く鶏料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "サモサ",
+    "clue": "三角形に包んで揚げるインドの軽食",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "フムス",
+    "clue": "ひよこ豆をつぶした中東のペースト",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "クスクス",
+    "clue": "小さな粒状にした北アフリカの主食",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ボルシチ",
+    "clue": "赤いビーツで作るロシアの煮込み料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ピロシキ",
+    "clue": "具を包んで揚げたり焼いたりするロシアのパン",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "シュニッツェル",
+    "clue": "薄く叩いた肉に衣をつけて揚げるドイツ・オーストリア料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ラタトゥイユ",
+    "clue": "夏野菜を煮込む南仏の料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "テリーヌ",
+    "clue": "型に詰めて固めるフランスの料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "エスカルゴ",
+    "clue": "カタツムリを使ったフランス料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "フォアグラ",
+    "clue": "ガチョウなどの肥大した肝臓を使う高級食材",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "シャーベット",
+    "clue": "果汁を凍らせたさっぱりした氷菓",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ゼリー",
+    "clue": "果汁などをゼラチンで固めたぷるぷるの菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "シフォンケーキ",
+    "clue": "ふわふわで軽い食感のスポンジ菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "カステラ",
+    "clue": "長崎名物の卵を使ったしっとりした焼き菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ワッフル",
+    "clue": "格子模様をつけて焼くベルギー発祥の菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "パンケーキ",
+    "clue": "ふっくら焼いた洋風のホットケーキ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ビスケット",
+    "clue": "サクッとした焼いた小さな乾き菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "マドレーヌ",
+    "clue": "貝の形をしたバター風味の焼き菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "フィナンシェ",
+    "clue": "金塊の形をしたアーモンド風味の焼き菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ヌガー",
+    "clue": "ナッツを混ぜた歯ごたえのある甘い菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "マシュマロ",
+    "clue": "ふわふわとした弾力のある白い菓子",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ビネガー",
+    "clue": "洋風料理に使う酸味のある調味料",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "オレガノ",
+    "clue": "ピザやトマト料理に合うハーブ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "エスプレッソ",
+    "clue": "圧力をかけて濃く抽出するコーヒー",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "カプチーノ",
+    "clue": "泡立てた牛乳をのせるコーヒー",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "サイダー",
+    "clue": "甘く透明な炭酸飲料",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ナカノオオエノオウジ",
+    "clue": "大化の改新を進めた皇子、のちの天智天皇",
+    "genre": "history"
+  },
+  {
+    "answer": "デジマ",
+    "clue": "鎖国中にオランダとの貿易を行った長崎の人工島",
+    "genre": "history"
+  },
+  {
+    "answer": "パルテノン",
+    "clue": "アテネのアクロポリスに立つ神殿",
+    "genre": "history"
+  },
+  {
+    "answer": "トウダイジ",
+    "clue": "奈良の大仏で知られる寺",
+    "genre": "history"
+  },
+  {
+    "answer": "ホウリュウジ",
+    "clue": "世界最古の木造建築とされる寺",
+    "genre": "history"
+  },
+  {
+    "answer": "ヒメジジョウ",
+    "clue": "白鷺城とも呼ばれる世界遺産の城",
+    "genre": "history"
+  },
+  {
+    "answer": "ベルサイユ",
+    "clue": "ルイ十四世が建てたフランスの壮麗な宮殿",
+    "genre": "history"
+  },
+  {
+    "answer": "オスマン",
+    "clue": "コンスタンティノープルを征服したイスラム帝国",
+    "genre": "history"
+  },
+  {
+    "answer": "シン",
+    "clue": "始皇帝が中国を統一した王朝",
+    "genre": "history"
+  },
+  {
+    "answer": "カン",
+    "clue": "始皇帝の王朝の後に中国を治めた王朝",
+    "genre": "history"
+  },
+  {
+    "answer": "トウ",
+    "clue": "長安を都とした中国の繁栄した王朝",
+    "genre": "history"
+  },
+  {
+    "answer": "ソウ",
+    "clue": "唐の後に中国を治め文化が栄えた王朝",
+    "genre": "history"
+  },
+  {
+    "answer": "ミン",
+    "clue": "元の後に漢民族が築いた中国の王朝",
+    "genre": "history"
+  },
+  {
+    "answer": "ゲン",
+    "clue": "フビライがモンゴル人として中国に建てた王朝",
+    "genre": "history"
+  },
+  {
+    "answer": "ベルサイユジョウヤク",
+    "clue": "第一次世界大戦後に結ばれた講和条約",
+    "genre": "history"
+  },
+  {
+    "answer": "ニチベイワシン",
+    "clue": "ペリー来航の翌年に結ばれた条約",
+    "genre": "history"
+  },
+  {
+    "answer": "シモノセキ",
+    "clue": "日清戦争の講和条約が結ばれた地",
+    "genre": "history"
+  },
+  {
+    "answer": "ポーツマス",
+    "clue": "日露戦争の講和条約が結ばれた地",
+    "genre": "history"
+  },
+  {
+    "answer": "フォルティッシモ",
+    "clue": "とても強くを表す強弱記号",
+    "genre": "music"
+  },
+  {
+    "answer": "メゾフォルテ",
+    "clue": "やや強くを表す強弱記号",
+    "genre": "music"
+  },
+  {
+    "answer": "サクソフォン",
+    "clue": "ジャズでおなじみの金属製管楽器",
+    "genre": "music"
+  },
+  {
+    "answer": "ショパン",
+    "clue": "ピアノの詩人と呼ばれた作曲家",
+    "genre": "music"
+  },
+  {
+    "answer": "バッハ",
+    "clue": "音楽の父と呼ばれるドイツの作曲家",
+    "genre": "music"
+  },
+  {
+    "answer": "チャイコフスキー",
+    "clue": "白鳥の湖を作ったロシアの作曲家",
+    "genre": "music"
+  },
+  {
+    "answer": "ホトトギス",
+    "clue": "他の鳥の巣に托卵することで知られる夏鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "セキレイ",
+    "clue": "尾を上下に振って歩く水辺の小鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "モズ",
+    "clue": "捕らえた獲物を枝に刺すはやにえで知られる鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヒヨドリ",
+    "clue": "ピーヨと鳴き花の蜜も吸う身近な鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "ムクドリ",
+    "clue": "群れで街路樹に集まる黒っぽい鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "シジュウカラ",
+    "clue": "胸に黒いネクタイ模様のある小鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "カッコウ",
+    "clue": "名前のとおりに鳴く托卵する鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "オウム",
+    "clue": "頭に冠羽を持つ大型の飼い鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "オオハシ",
+    "clue": "極彩色の巨大なくちばしを持つ熱帯の鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "ニシン",
+    "clue": "数の子の親として知られる北の海の魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "ダンゴムシ",
+    "clue": "つつくと丸くなる落ち葉の下の生き物",
+    "genre": "nature"
+  },
+  {
+    "answer": "ニトリ",
+    "clue": "お値段以上で知られる家具量販店",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "シンドローム",
+    "clue": "ある現象が一斉に広がる流行を指す言葉",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "チャットジーピーティー",
+    "clue": "対話型で文章を生成するAIサービス",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ニジュウサンク",
+    "clue": "韓国発で世界的に人気の男性アイドルグループ",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "アマビエチャレンジ",
+    "clue": "妖怪の絵を描いて投稿したSNSの企画",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "キメツノヤイバ",
+    "clue": "大ヒットした炭治郎が主人公の漫画",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "アツマレドウブツノモリ",
+    "clue": "巣ごもりで人気を集めた島づくりゲーム",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "エペックス",
+    "clue": "三人一組で戦うバトルロイヤルゲーム",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "オートキャンプ",
+    "clue": "車で乗り入れて行う野営",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "フェムテック",
+    "clue": "女性の健康課題を技術で支える分野",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ウェルビーイング",
+    "clue": "心身ともに満たされた良好な状態",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ロスジェネ",
+    "clue": "就職難の時代に社会へ出た世代の略称",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "クラウドファンディング",
+    "clue": "ネットで多くの人から資金を集める仕組み",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ノマド",
+    "clue": "場所を選ばず働く自由なスタイル",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "プラスチックフリー",
+    "clue": "脱プラを目指す取り組み",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ヴィーガン",
+    "clue": "動物性食品を一切とらない人",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "オーツミルク",
+    "clue": "燕麦から作る植物性のミルク",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "シャインマスカット",
+    "clue": "皮ごと食べられる人気の高級ぶどう",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "オオタニサン",
+    "clue": "二刀流で活躍する野球選手への敬称",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "サムライジャパン",
+    "clue": "野球の国際大会で活躍した日本代表の愛称",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ミツ",
+    "clue": "感染対策で避けるべき三つの状況を指す言葉",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ビーチバレー",
+    "clue": "砂浜で2人ずつ行うバレーボール",
+    "genre": "sports"
+  },
+  {
+    "answer": "オフサイド",
+    "clue": "サッカーで攻撃側が反則となる位置取り",
+    "genre": "sports"
+  },
+  {
+    "answer": "ドロップキック",
+    "clue": "ラグビーで地面に落として蹴る技",
+    "genre": "sports"
+  },
+  {
+    "answer": "スクラム",
+    "clue": "ラグビーで両チームが組み合う密集戦",
+    "genre": "sports"
+  },
+  {
+    "answer": "トライ",
+    "clue": "ラグビーで相手陣地にボールを置く得点",
+    "genre": "sports"
+  },
+  {
+    "answer": "コーナーキック",
+    "clue": "サッカーで隅から蹴り込む再開法",
+    "genre": "sports"
+  },
+  {
+    "answer": "フリースロー",
+    "clue": "バスケで反則後に妨害なしで打つ投球",
+    "genre": "sports"
+  },
+  {
+    "answer": "ダンク",
+    "clue": "バスケでリングへ叩き込むシュート",
+    "genre": "sports"
+  },
+  {
+    "answer": "リバウンド",
+    "clue": "バスケで外れた球を取り戻すこと",
+    "genre": "sports"
+  },
+  {
+    "answer": "アシスト",
+    "clue": "得点に直接つながる味方への好パス",
+    "genre": "sports"
+  },
+  {
+    "answer": "ボレー",
+    "clue": "ボールを地面に落とさず直接打つ技",
+    "genre": "sports"
+  },
+  {
+    "answer": "スマッシュ",
+    "clue": "高い球を強く打ち下ろす攻撃",
+    "genre": "sports"
+  },
+  {
+    "answer": "サーブ",
+    "clue": "ラリーを始める最初の打球",
+    "genre": "sports"
+  },
+  {
+    "answer": "ラリー",
+    "clue": "球を打ち合いが続く状態",
+    "genre": "sports"
+  },
+  {
+    "answer": "デュース",
+    "clue": "テニスで40対40の同点状況",
+    "genre": "sports"
+  },
+  {
+    "answer": "エース",
+    "clue": "相手が触れず決まったサーブ",
+    "genre": "sports"
+  },
+  {
+    "answer": "フォルト",
+    "clue": "サーブの失敗",
+    "genre": "sports"
+  },
+  {
+    "answer": "ベースボール",
+    "clue": "九人で行う米国発祥の球技",
+    "genre": "sports"
+  },
+  {
+    "answer": "バント",
+    "clue": "野球で軽く当てて転がす打法",
+    "genre": "sports"
+  },
+  {
+    "answer": "ストライク",
+    "clue": "野球で打者が見逃すか空振りした好球",
+    "genre": "sports"
+  },
+  {
+    "answer": "フォアボール",
+    "clue": "野球で四つの悪球による出塁",
+    "genre": "sports"
+  },
+  {
+    "answer": "デッドボール",
+    "clue": "野球で投球が打者に当たる出塁",
+    "genre": "sports"
+  },
+  {
+    "answer": "サヨナラ",
+    "clue": "野球で最終回に決める逆転勝利打",
+    "genre": "sports"
+  },
+  {
+    "answer": "ストレート",
+    "clue": "ボクシングでまっすぐ繰り出す拳",
+    "genre": "sports"
+  },
+  {
+    "answer": "ジャブ",
+    "clue": "ボクシングで素早く突く小さな拳",
+    "genre": "sports"
+  },
+  {
+    "answer": "アッパー",
+    "clue": "ボクシングで下からあごを狙う拳",
+    "genre": "sports"
+  },
+  {
+    "answer": "ノックアウト",
+    "clue": "ボクシングで相手を立てなくする決着",
+    "genre": "sports"
+  },
+  {
+    "answer": "ラウンド",
+    "clue": "ボクシングの試合区切り",
+    "genre": "sports"
+  },
+  {
+    "answer": "リング",
+    "clue": "ボクシングの四角い試合場",
+    "genre": "sports"
+  },
+  {
+    "answer": "セコンド",
+    "clue": "格闘技で選手を支える付き人",
+    "genre": "sports"
+  },
+  {
+    "answer": "ヘッドギア",
+    "clue": "頭部を守る防具",
+    "genre": "sports"
+  },
+  {
+    "answer": "マウスピース",
+    "clue": "格闘技で口に入れる防具",
+    "genre": "sports"
+  },
+  {
+    "answer": "ヨコヅナ",
+    "clue": "相撲の最高位の力士",
+    "genre": "sports"
+  },
+  {
+    "answer": "オオゼキ",
+    "clue": "相撲で横綱に次ぐ地位",
+    "genre": "sports"
+  },
+  {
+    "answer": "ドヒョウ",
+    "clue": "相撲を取る円い土の舞台",
+    "genre": "sports"
+  },
+  {
+    "answer": "マワシ",
+    "clue": "相撲取りが腰に締める帯",
+    "genre": "sports"
+  },
+  {
+    "answer": "ギョウジ",
+    "clue": "相撲の勝負を裁く役",
+    "genre": "sports"
+  },
+  {
+    "answer": "シコ",
+    "clue": "相撲で足を高く上げ踏む所作",
+    "genre": "sports"
+  },
+  {
+    "answer": "ハッケヨイ",
+    "clue": "相撲で行司が掛ける声",
+    "genre": "sports"
+  },
+  {
+    "answer": "イッポン",
+    "clue": "柔道や剣道で決まる完全な技",
+    "genre": "sports"
+  },
+  {
+    "answer": "ウケミ",
+    "clue": "柔道で安全に倒れる受け方",
+    "genre": "sports"
+  },
+  {
+    "answer": "セオイナゲ",
+    "clue": "柔道で相手を背中に乗せて投げる技",
+    "genre": "sports"
+  },
+  {
+    "answer": "オオソトガリ",
+    "clue": "柔道で相手の足を外から刈る技",
+    "genre": "sports"
+  },
+  {
+    "answer": "ドウギ",
+    "clue": "柔道や空手で着る稽古着",
+    "genre": "sports"
+  },
+  {
+    "answer": "クロオビ",
+    "clue": "武道で有段者が締める黒い帯",
+    "genre": "sports"
+  },
+  {
+    "answer": "メン",
+    "clue": "剣道で頭部を打つ技",
+    "genre": "sports"
+  },
+  {
+    "answer": "コテ",
+    "clue": "剣道で手元を打つ技",
+    "genre": "sports"
+  },
+  {
+    "answer": "シナイ",
+    "clue": "剣道で使う竹の刀",
+    "genre": "sports"
+  },
+  {
+    "answer": "ボクトウ",
+    "clue": "剣道の形で使う木の刀",
+    "genre": "sports"
+  },
+  {
+    "answer": "クミテ",
+    "clue": "空手で相手と組んで行う実戦練習",
+    "genre": "sports"
+  },
+  {
+    "answer": "マエゲリ",
+    "clue": "空手でまっすぐ前に蹴る技",
+    "genre": "sports"
+  },
+  {
+    "answer": "セイケンヅキ",
+    "clue": "空手で握りこぶしを突き出す技",
+    "genre": "sports"
+  },
+  {
+    "answer": "テイクダウン",
+    "clue": "レスリングで相手を倒し制する技",
+    "genre": "sports"
+  },
+  {
+    "answer": "タックル",
+    "clue": "相手に体ごとぶつかって止める動作",
+    "genre": "sports"
+  },
+  {
+    "answer": "フォール",
+    "clue": "レスリングで両肩を押さえる勝ち方",
+    "genre": "sports"
+  },
+  {
+    "answer": "クロール",
+    "clue": "水泳で最も速い自由形の泳法",
+    "genre": "sports"
+  },
+  {
+    "answer": "ヒラオヨギ",
+    "clue": "両手両足を左右に開く泳法",
+    "genre": "sports"
+  },
+  {
+    "answer": "バタフライ",
+    "clue": "両腕を同時に回す力強い泳法",
+    "genre": "sports"
+  },
+  {
+    "answer": "セオヨギ",
+    "clue": "あおむけになって泳ぐ泳法",
+    "genre": "sports"
+  },
+  {
+    "answer": "ターン",
+    "clue": "競泳で壁を蹴って折り返す動作",
+    "genre": "sports"
+  },
+  {
+    "answer": "プール",
+    "clue": "水泳を行う水をためた施設",
+    "genre": "sports"
+  },
+  {
+    "answer": "ゴーグル",
+    "clue": "水泳で目を守る器具",
+    "genre": "sports"
+  },
+  {
+    "answer": "シンクロ",
+    "clue": "水中で演技を合わせる競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "ウォーターポロ",
+    "clue": "水中で行う手球の競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "シングルス",
+    "clue": "テニスや卓球で一対一の試合形式",
+    "genre": "sports"
+  },
+  {
+    "answer": "ダブルス",
+    "clue": "二人組で組む試合形式",
+    "genre": "sports"
+  },
+  {
+    "answer": "ネット",
+    "clue": "コート中央に張る仕切りの網",
+    "genre": "sports"
+  },
+  {
+    "answer": "ベースライン",
+    "clue": "テニスコートの一番奥の線",
+    "genre": "sports"
+  },
+  {
+    "answer": "マッチポイント",
+    "clue": "あと一点で試合が決まる場面",
+    "genre": "sports"
+  },
+  {
+    "answer": "ラブゲーム",
+    "clue": "テニスで相手に無得点で取るゲーム",
+    "genre": "sports"
+  },
+  {
+    "answer": "ロブ",
+    "clue": "相手の頭上を越える山なりの打球",
+    "genre": "sports"
+  },
+  {
+    "answer": "ストローク",
+    "clue": "テニスで地面で弾ませて打つ基本打法",
+    "genre": "sports"
+  },
+  {
+    "answer": "バックハンド",
+    "clue": "利き手の逆側で打つ打法",
+    "genre": "sports"
+  },
+  {
+    "answer": "フォアハンド",
+    "clue": "利き手側で打つ基本の打法",
+    "genre": "sports"
+  },
+  {
+    "answer": "スライス",
+    "clue": "球に逆回転をかけて打つ技",
+    "genre": "sports"
+  },
+  {
+    "answer": "ドライブ",
+    "clue": "球に強い前回転をかける打法",
+    "genre": "sports"
+  },
+  {
+    "answer": "ピンポン",
+    "clue": "卓球の別の呼び名",
+    "genre": "sports"
+  },
+  {
+    "answer": "スカッシュ",
+    "clue": "壁に打ち合う室内の球技",
+    "genre": "sports"
+  },
+  {
+    "answer": "ラインアウト",
+    "clue": "ラグビーで外に出た球を投げ入れる再開",
+    "genre": "sports"
+  },
+  {
+    "answer": "コンバージョン",
+    "clue": "ラグビーでトライ後の追加点キック",
+    "genre": "sports"
+  },
+  {
+    "answer": "タッチダウン",
+    "clue": "アメフトで相手陣に持ち込む得点",
+    "genre": "sports"
+  },
+  {
+    "answer": "クォーターバック",
+    "clue": "アメフトで攻撃の司令塔となる選手",
+    "genre": "sports"
+  },
+  {
+    "answer": "イニング",
+    "clue": "野球で攻守を一回ずつ行う区切り",
+    "genre": "sports"
+  },
+  {
+    "answer": "マウンド",
+    "clue": "野球で投手が立つ小高い場所",
+    "genre": "sports"
+  },
+  {
+    "answer": "ベンチ",
+    "clue": "控え選手や監督が座る場所",
+    "genre": "sports"
+  },
+  {
+    "answer": "ブルペン",
+    "clue": "野球で投手が肩を作る場所",
+    "genre": "sports"
+  },
+  {
+    "answer": "ダイヤモンド",
+    "clue": "野球で四つの塁を結ぶ内野",
+    "genre": "sports"
+  },
+  {
+    "answer": "ファウル",
+    "clue": "野球で線の外へ飛んだ打球",
+    "genre": "sports"
+  },
+  {
+    "answer": "ダブルプレー",
+    "clue": "野球で一度に二人を刺すこと",
+    "genre": "sports"
+  },
+  {
+    "answer": "スチール",
+    "clue": "野球で投球の隙に塁を進む技",
+    "genre": "sports"
+  },
+  {
+    "answer": "スライディング",
+    "clue": "野球で滑り込んで塁に達する動作",
+    "genre": "sports"
+  },
+  {
+    "answer": "ピンチランナー",
+    "clue": "野球で足の速い代わりの走者",
+    "genre": "sports"
+  },
+  {
+    "answer": "ピンチヒッター",
+    "clue": "野球で打席に立つ代わりの打者",
+    "genre": "sports"
+  },
+  {
+    "answer": "バッテリー",
+    "clue": "野球で投手と捕手の組み合わせ",
+    "genre": "sports"
+  },
+  {
+    "answer": "カーブ",
+    "clue": "野球で大きく曲がる変化球",
+    "genre": "sports"
+  },
+  {
+    "answer": "スライダー",
+    "clue": "野球で横に滑る変化球",
+    "genre": "sports"
+  },
+  {
+    "answer": "チェンジアップ",
+    "clue": "野球で速度を落として打者を惑わす球",
+    "genre": "sports"
+  },
+  {
+    "answer": "クロスバー",
+    "clue": "ゴール上部の横棒",
+    "genre": "sports"
+  },
+  {
+    "answer": "ペナルティーキック",
+    "clue": "サッカーで反則後に一対一で蹴る罰",
+    "genre": "sports"
+  },
+  {
+    "answer": "フリーキック",
+    "clue": "サッカーで反則後に自由に蹴る再開",
+    "genre": "sports"
+  },
+  {
+    "answer": "スローイン",
+    "clue": "サッカーで線外から手で投げ入れる再開",
+    "genre": "sports"
+  },
+  {
+    "answer": "ヘディング",
+    "clue": "サッカーで頭でボールを当てる技",
+    "genre": "sports"
+  },
+  {
+    "answer": "ハットトリック",
+    "clue": "一試合で一人が三点取る快挙",
+    "genre": "sports"
+  },
+  {
+    "answer": "ロスタイム",
+    "clue": "試合中断分を補う追加の時間",
+    "genre": "sports"
+  },
+  {
+    "answer": "イエローカード",
+    "clue": "サッカーで警告を示す黄色い札",
+    "genre": "sports"
+  },
+  {
+    "answer": "レッドカード",
+    "clue": "サッカーで退場を示す赤い札",
+    "genre": "sports"
+  },
+  {
+    "answer": "ディフェンダー",
+    "clue": "サッカーで守備を担う後方の選手",
+    "genre": "sports"
+  },
+  {
+    "answer": "フォワード",
+    "clue": "サッカーで前線で攻める選手",
+    "genre": "sports"
+  },
+  {
+    "answer": "ストライカー",
+    "clue": "得点を量産する点取り屋",
+    "genre": "sports"
+  },
+  {
+    "answer": "リフティング",
+    "clue": "ボールを落とさず蹴り続ける技",
+    "genre": "sports"
+  },
+  {
+    "answer": "センタリング",
+    "clue": "サッカーで側方から中央へ送る球",
+    "genre": "sports"
+  },
+  {
+    "answer": "カウンター",
+    "clue": "守備から素早く攻めに転じる戦法",
+    "genre": "sports"
+  },
+  {
+    "answer": "トラップ",
+    "clue": "ボールを止めて自分のものにする技",
+    "genre": "sports"
+  },
+  {
+    "answer": "フェイント",
+    "clue": "相手を惑わす偽の動き",
+    "genre": "sports"
+  },
+  {
+    "answer": "マンツーマン",
+    "clue": "相手一人を一人で付く守備法",
+    "genre": "sports"
+  },
+  {
+    "answer": "トーナメント",
+    "clue": "勝ち抜きで頂点を決める大会方式",
+    "genre": "sports"
+  },
+  {
+    "answer": "プレーオフ",
+    "clue": "順位決定のための追加試合",
+    "genre": "sports"
+  },
+  {
+    "answer": "ワールドカップ",
+    "clue": "サッカーの世界一を決める大会",
+    "genre": "sports"
+  },
+  {
+    "answer": "コシエン",
+    "clue": "高校野球の聖地と呼ばれる球場",
+    "genre": "sports"
+  },
+  {
+    "answer": "パラリンピック",
+    "clue": "障害のある選手の国際総合大会",
+    "genre": "sports"
+  },
+  {
+    "answer": "ヒョウショウダイ",
+    "clue": "上位入賞者が立つ段差のある台",
+    "genre": "sports"
+  },
+  {
+    "answer": "キンメダル",
+    "clue": "優勝者に贈られる金色の賞",
+    "genre": "sports"
+  },
+  {
+    "answer": "ギンメダル",
+    "clue": "二位に贈られる銀色の賞",
+    "genre": "sports"
+  },
+  {
+    "answer": "ドウメダル",
+    "clue": "三位に贈られる銅色の賞",
+    "genre": "sports"
+  },
+  {
+    "answer": "セカイキロク",
+    "clue": "世界で最も優れた記録",
+    "genre": "sports"
+  },
+  {
+    "answer": "スタートライン",
+    "clue": "競走の出発を示す線",
+    "genre": "sports"
+  },
+  {
+    "answer": "フライング",
+    "clue": "合図より早く出てしまう反則",
+    "genre": "sports"
+  },
+  {
+    "answer": "アンカー",
+    "clue": "リレーで最後を走る走者",
+    "genre": "sports"
+  },
+  {
+    "answer": "バトン",
+    "clue": "リレーで次の走者へ渡す棒",
+    "genre": "sports"
+  },
+  {
+    "answer": "ハシリハバトビ",
+    "clue": "助走して遠くへ跳ぶ陸上種目",
+    "genre": "sports"
+  },
+  {
+    "answer": "ハシリタカトビ",
+    "clue": "助走してバーを越える陸上種目",
+    "genre": "sports"
+  },
+  {
+    "answer": "ボウタカトビ",
+    "clue": "棒を使って高く跳ぶ陸上種目",
+    "genre": "sports"
+  },
+  {
+    "answer": "ホウガンナゲ",
+    "clue": "重い球を片手で突き出す投擲種目",
+    "genre": "sports"
+  },
+  {
+    "answer": "ヤリナゲ",
+    "clue": "細長い槍を遠くへ投げる種目",
+    "genre": "sports"
+  },
+  {
+    "answer": "エンバンナゲ",
+    "clue": "円い板を回転して投げる種目",
+    "genre": "sports"
+  },
+  {
+    "answer": "ハンマーナゲ",
+    "clue": "鎖付きの重りを回して投げる種目",
+    "genre": "sports"
+  },
+  {
+    "answer": "ジュッシュ",
+    "clue": "十種目を競う陸上の総合種目",
+    "genre": "sports"
+  },
+  {
+    "answer": "ストレッチ",
+    "clue": "運動前後に筋を伸ばす準備運動",
+    "genre": "sports"
+  },
+  {
+    "answer": "クールダウン",
+    "clue": "運動後に体を落ち着かせる整理運動",
+    "genre": "sports"
+  },
+  {
+    "answer": "コーチ",
+    "clue": "選手を指導する人",
+    "genre": "sports"
+  },
+  {
+    "answer": "キャプテン",
+    "clue": "チームを率いる主将",
+    "genre": "sports"
+  },
+  {
+    "answer": "ホケツ",
+    "clue": "出番を待つ控えの選手",
+    "genre": "sports"
+  },
+  {
+    "answer": "レギュラー",
+    "clue": "試合に常に出場する主力選手",
+    "genre": "sports"
+  },
+  {
+    "answer": "ルーキー",
+    "clue": "新人の選手",
+    "genre": "sports"
+  },
+  {
+    "answer": "ベテラン",
+    "clue": "経験豊富な年長の選手",
+    "genre": "sports"
+  },
+  {
+    "answer": "エムブイピー",
+    "clue": "大会で最も活躍した選手の称号",
+    "genre": "sports"
+  },
+  {
+    "answer": "ドラフト",
+    "clue": "プロ野球で新人を指名する制度",
+    "genre": "sports"
+  },
+  {
+    "answer": "トレード",
+    "clue": "チーム間で選手を交換すること",
+    "genre": "sports"
+  },
+  {
+    "answer": "サポーター",
+    "clue": "チームを熱心に応援する人々",
+    "genre": "sports"
+  },
+  {
+    "answer": "チアリーダー",
+    "clue": "踊って応援を盛り上げる人",
+    "genre": "sports"
+  },
+  {
+    "answer": "ホイッスル",
+    "clue": "審判が吹く笛",
+    "genre": "sports"
+  },
+  {
+    "answer": "タイムアウト",
+    "clue": "試合を一時止めて作戦を練る時間",
+    "genre": "sports"
+  },
+  {
+    "answer": "スコアボード",
+    "clue": "得点を表示する掲示板",
+    "genre": "sports"
+  },
+  {
+    "answer": "ロッカールーム",
+    "clue": "選手が着替える控え室",
+    "genre": "sports"
+  },
+  {
+    "answer": "ドーム",
+    "clue": "天井で覆われた全天候型の球場",
+    "genre": "sports"
+  },
+  {
+    "answer": "フィールド",
+    "clue": "投擲や跳躍を行う競技場の内側",
+    "genre": "sports"
+  },
+  {
+    "answer": "ゲレンデ",
+    "clue": "スキーやスノボを滑る斜面",
+    "genre": "sports"
+  },
+  {
+    "answer": "リフト",
+    "clue": "スキー場で人を山上へ運ぶ装置",
+    "genre": "sports"
+  },
+  {
+    "answer": "モーグル",
+    "clue": "こぶ斜面を滑り降りるスキー種目",
+    "genre": "sports"
+  },
+  {
+    "answer": "アルペン",
+    "clue": "斜面を滑り降りる速さを競うスキー",
+    "genre": "sports"
+  },
+  {
+    "answer": "クロスカントリー",
+    "clue": "雪原を長距離滑る持久のスキー",
+    "genre": "sports"
+  },
+  {
+    "answer": "ボブスレー",
+    "clue": "氷の滑走路をそりで滑る競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "リュージュ",
+    "clue": "仰向けでそりに乗り滑る競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "スケルトン",
+    "clue": "うつ伏せでそりに乗り滑る競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "アイスホッケー",
+    "clue": "氷上でパックを打ち合う球技",
+    "genre": "sports"
+  },
+  {
+    "answer": "スピードスケート",
+    "clue": "氷上で速さを競うスケート",
+    "genre": "sports"
+  },
+  {
+    "answer": "トリプルアクセル",
+    "clue": "フィギュアで三回転半する跳躍",
+    "genre": "sports"
+  },
+  {
+    "answer": "エフワン",
+    "clue": "最高峰の四輪レース",
+    "genre": "sports"
+  },
+  {
+    "answer": "ピットイン",
+    "clue": "レース中に整備区域へ入ること",
+    "genre": "sports"
+  },
+  {
+    "answer": "ポールポジション",
+    "clue": "レースで先頭の出発位置",
+    "genre": "sports"
+  },
+  {
+    "answer": "サーキット",
+    "clue": "車やバイクが周回するレース場",
+    "genre": "sports"
+  },
+  {
+    "answer": "ラップタイム",
+    "clue": "コース一周にかかる時間",
+    "genre": "sports"
+  },
+  {
+    "answer": "チェッカーフラッグ",
+    "clue": "レースの終わりを示す格子模様の旗",
+    "genre": "sports"
+  },
+  {
+    "answer": "モトクロス",
+    "clue": "起伏地を走るバイクのレース",
+    "genre": "sports"
+  },
+  {
+    "answer": "イースポーツ",
+    "clue": "コンピューターゲームで競う競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "ゲーマー",
+    "clue": "ゲームを上手にプレーする人",
+    "genre": "sports"
+  },
+  {
+    "answer": "クライミング",
+    "clue": "壁や岩を登る競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "ホールド",
+    "clue": "クライミングで手足をかける突起",
+    "genre": "sports"
+  },
+  {
+    "answer": "ハーネス",
+    "clue": "登攀で体を支える安全帯",
+    "genre": "sports"
+  },
+  {
+    "answer": "ツナヒキ",
+    "clue": "両組が綱を引き合う競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "スカイダイビング",
+    "clue": "上空から落下し傘を開く競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "シュノーケル",
+    "clue": "水面で呼吸する筒状の道具",
+    "genre": "sports"
+  },
+  {
+    "answer": "ジョウバ",
+    "clue": "馬に乗って行う競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "ケイバ",
+    "clue": "馬の速さを競うレース",
+    "genre": "sports"
+  },
+  {
+    "answer": "ジョッキー",
+    "clue": "競馬で馬に乗る騎手",
+    "genre": "sports"
+  },
+  {
+    "answer": "ポロ",
+    "clue": "馬上で長い杖を使う球技",
+    "genre": "sports"
+  },
+  {
+    "answer": "キュウドウ",
+    "clue": "和弓で的を射る日本の武道",
+    "genre": "sports"
+  },
+  {
+    "answer": "シャゲキ",
+    "clue": "銃で的を撃ち当てる競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "ウズラ",
+    "clue": "「鶉」と読む小型の鳥",
+    "genre": "culture"
+  },
+  {
+    "answer": "アホウドリ",
+    "clue": "「信天翁」と読む大型の海鳥",
+    "genre": "culture"
+  },
+  {
+    "answer": "ハイスイノジン",
+    "clue": "決死の覚悟で事に当たることのたとえ",
+    "genre": "culture"
+  },
+  {
+    "answer": "ジュンプウマンパン",
+    "clue": "物事が順調に進むさまの四字熟語",
+    "genre": "culture"
+  },
+  {
+    "answer": "ユウジュウフダン",
+    "clue": "ぐずぐずして決断できないさまの四字熟語",
+    "genre": "culture"
+  },
+  {
+    "answer": "イチモクサン",
+    "clue": "脇目もふらず急ぐさまの三字熟語",
+    "genre": "culture"
+  },
+  {
+    "answer": "テンイムホウ",
+    "clue": "技巧の跡がなく自然で完璧なさまの四字熟語",
+    "genre": "culture"
+  },
+  {
+    "answer": "シュシャセンタク",
+    "clue": "良いものを取り悪いものを捨てる四字熟語",
+    "genre": "culture"
+  },
+  {
+    "answer": "ハクランキョウキ",
+    "clue": "広く書物を読み記憶力に富む四字熟語",
+    "genre": "culture"
+  },
+  {
+    "answer": "セイコウウドク",
+    "clue": "晴れた日は耕し雨の日は読書する四字熟語",
+    "genre": "culture"
+  },
+  {
+    "answer": "ガリュウテンセイ",
+    "clue": "最後の仕上げをする四字熟語。画竜点睛",
+    "genre": "culture"
+  },
+  {
+    "answer": "オウオウサセイ",
+    "clue": "勝手気ままに振る舞う四字熟語",
+    "genre": "culture"
+  },
+  {
+    "answer": "クウゼンゼツゴ",
+    "clue": "今までになく今後もないであろう四字熟語",
+    "genre": "culture"
+  },
+  {
+    "answer": "ホンマツテントウ",
+    "clue": "大事と些細を取り違える四字熟語",
+    "genre": "culture"
+  },
+  {
+    "answer": "ジボウジキ",
+    "clue": "やけになって投げやりになる四字熟語",
+    "genre": "culture"
+  },
+  {
+    "answer": "テンペンチイ",
+    "clue": "天地で起こる自然の異変を表す四字熟語",
+    "genre": "culture"
+  },
+  {
+    "answer": "ハクヒョウヲフム",
+    "clue": "極めて危険な状況に臨むことのたとえ",
+    "genre": "culture"
+  },
+  {
+    "answer": "セキシンノマジワリ",
+    "clue": "心からの真実の交わりを表すことば",
+    "genre": "culture"
+  },
+  {
+    "answer": "スイギョノマジワリ",
+    "clue": "離れがたい親密な関係のたとえ",
+    "genre": "culture"
+  },
+  {
+    "answer": "シュンジュウニトム",
+    "clue": "年が若く将来が長いことのたとえ",
+    "genre": "culture"
+  },
+  {
+    "answer": "ナサケニホダサレル",
+    "clue": "情にひかれて心が動かされること",
+    "genre": "culture"
+  },
+  {
+    "answer": "クチガスベル",
+    "clue": "言ってはいけないことをうっかり言う慣用句",
+    "genre": "culture"
+  },
+  {
+    "answer": "ハナニカケル",
+    "clue": "得意になって自慢する慣用句",
+    "genre": "culture"
+  },
+  {
+    "answer": "メガナイ",
+    "clue": "とても好きで夢中になる慣用句",
+    "genre": "culture"
+  },
+  {
+    "answer": "ミミニタコ",
+    "clue": "同じ話を何度も聞かされる慣用句",
+    "genre": "culture"
+  },
+  {
+    "answer": "アシガボウニナル",
+    "clue": "歩き疲れて足が疲れきる慣用句",
+    "genre": "culture"
+  },
+  {
+    "answer": "テヲヤク",
+    "clue": "持て余して困る慣用句",
+    "genre": "culture"
+  },
+  {
+    "answer": "シリウマニノル",
+    "clue": "他人に便乗して軽率に行動する慣用句",
+    "genre": "culture"
+  },
+  {
+    "answer": "アブラヲウル",
+    "clue": "仕事を怠けて無駄話をする慣用句",
+    "genre": "culture"
+  },
+  {
+    "answer": "クギヲサス",
+    "clue": "後で問題が起きないよう念を押す慣用句",
+    "genre": "culture"
+  },
+  {
+    "answer": "ハラヲワル",
+    "clue": "本心を打ち明ける慣用句",
+    "genre": "culture"
+  },
+  {
+    "answer": "ナサケブカイ",
+    "clue": "思いやりが深いさまを表すことば",
+    "genre": "culture"
+  },
+  {
+    "answer": "ナナフシギ",
+    "clue": "ある土地などにまつわる七つの不思議",
+    "genre": "culture"
+  },
+  {
+    "answer": "デンガクザシ",
+    "clue": "串刺しの状態のたとえ",
+    "genre": "culture"
+  },
+  {
+    "answer": "セイテンハクジツ",
+    "clue": "心にやましいところがないこと",
+    "genre": "culture"
+  },
+  {
+    "answer": "オンナゴコロ",
+    "clue": "移ろいやすいと言われる女性の心情",
+    "genre": "culture"
+  },
+  {
+    "answer": "アンペアアワー",
+    "clue": "電池の容量を表す単位",
+    "genre": "culture"
+  },
+  {
+    "answer": "オーム",
+    "clue": "電気抵抗のSI単位",
+    "genre": "culture"
+  },
+  {
+    "answer": "ジュール",
+    "clue": "エネルギーや仕事のSI単位",
+    "genre": "culture"
+  },
+  {
+    "answer": "ケルビン",
+    "clue": "絶対温度を表すSI単位",
+    "genre": "culture"
+  },
+  {
+    "answer": "ルクス",
+    "clue": "照度を表す単位",
+    "genre": "culture"
+  },
+  {
+    "answer": "デシベル",
+    "clue": "音の大きさなどを表す単位",
+    "genre": "culture"
+  },
+  {
+    "answer": "モル",
+    "clue": "物質量を表すSI単位",
+    "genre": "culture"
+  },
+  {
+    "answer": "カンデラ",
+    "clue": "光度を表すSI単位",
+    "genre": "culture"
+  },
+  {
+    "answer": "モンメ",
+    "clue": "尺貫法で重さを表す単位。「匁」と書く",
+    "genre": "culture"
+  },
+  {
+    "answer": "ツボ",
+    "clue": "面積を表す単位。約3.3平方メートル",
+    "genre": "culture"
+  },
+  {
+    "answer": "ショウ",
+    "clue": "体積を表す尺貫法の単位",
+    "genre": "culture"
+  },
+  {
+    "answer": "ゴウ",
+    "clue": "一升の十分の一にあたる体積の単位",
+    "genre": "culture"
+  },
+  {
+    "answer": "ケイチツ",
+    "clue": "二十四節気のひとつ。虫が冬眠から目覚める頃",
+    "genre": "culture"
+  },
+  {
+    "answer": "ボウシュ",
+    "clue": "二十四節気のひとつ。稲などの種をまく頃",
+    "genre": "culture"
+  },
+  {
+    "answer": "ショウマン",
+    "clue": "二十四節気のひとつ。草木が茂る初夏の頃",
+    "genre": "culture"
+  },
+  {
+    "answer": "ドラエモン",
+    "clue": "未来から来た猫型ロボットの国民的キャラクター",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "サザエサン",
+    "clue": "日曜夕方に放送される長寿アニメ",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ピカチュウ",
+    "clue": "黄色い電気ネズミのポケモン",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ルフィ",
+    "clue": "麦わら帽子の海賊団船長",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ナルト",
+    "clue": "忍者をめざす少年が主人公の人気漫画",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ゴクウ",
+    "clue": "ドラゴンボールの主人公の名前",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ジブリ",
+    "clue": "となりのトトロを作ったアニメ制作会社",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "トトロ",
+    "clue": "森に住む大きなふわふわの精霊",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "アンパンマン",
+    "clue": "顔がパンでできた正義のヒーロー",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "コナン",
+    "clue": "体が小さくなった名探偵の少年",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "クレヨンシンチャン",
+    "clue": "五歳の悪ガキが主人公のギャグアニメ",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ジョジョ",
+    "clue": "奇妙な冒険を描く世代をまたぐ漫画",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ガンダム",
+    "clue": "宇宙世紀を舞台にした巨大ロボット作品",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "エヴァンゲリオン",
+    "clue": "使徒と戦う汎用人型決戦兵器の物語",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "セーラームーン",
+    "clue": "月にかわっておしおきする美少女戦士",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "プリキュア",
+    "clue": "女児向けの変身ヒロインシリーズ",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "シンゲキ",
+    "clue": "巨人と人類の戦いを描く人気作の略称",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ヒロアカ",
+    "clue": "個性を持つヒーロー学園漫画の略称",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ワンピース",
+    "clue": "ひとつなぎの大秘宝をめぐる海賊漫画",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ブリーチ",
+    "clue": "死神代行の少年が虚と戦う漫画",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ハンターハンター",
+    "clue": "ゴンが父を探す冒険漫画",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "スラムダンク",
+    "clue": "桜木花道が活躍するバスケ漫画",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ドラゴンボール",
+    "clue": "七つの玉を集めると願いがかなう作品",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "サトシ",
+    "clue": "ポケモンアニメの初代主人公",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ミッキー",
+    "clue": "ディズニーを代表するネズミのキャラ",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "キティ",
+    "clue": "リボンをつけた白い子猫のサンリオキャラ",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "マリオ",
+    "clue": "ひげのある赤い帽子の配管工ゲーム主人公",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ゼルダ",
+    "clue": "リンクが姫を救う任天堂の冒険ゲーム",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "カービィ",
+    "clue": "敵を吸い込むピンクの丸いキャラ",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ソニック",
+    "clue": "青いハリネズミの高速アクションゲーム",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ドラクエ",
+    "clue": "勇者が魔王を倒す国民的RPGの略称",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ファイナルファンタジー",
+    "clue": "クリスタルと召喚獣で知られるRPG",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ポケモン",
+    "clue": "モンスターを集めて戦わせるゲーム",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "マインクラフト",
+    "clue": "ブロックで世界を作るサンドボックスゲーム",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "テトリス",
+    "clue": "落ちてくるブロックを並べて消すパズル",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ストファイ",
+    "clue": "波動拳で知られる格闘ゲームの略称",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "スマブラ",
+    "clue": "任天堂キャラが集う対戦アクションの略称",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "モンハン",
+    "clue": "巨大なモンスターを狩るゲームの略称",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "プロセカ",
+    "clue": "ボカロ曲で遊ぶリズムゲームの略称",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ツムツム",
+    "clue": "ディズニーキャラを消すスマホパズル",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "パズドラ",
+    "clue": "玉をつなげて消すスマホパズルゲーム",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "アポロ",
+    "clue": "月面着陸を描く宇宙映画の題材になる計画",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ジョーズ",
+    "clue": "巨大な人食いザメが恐怖を呼ぶ映画",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ターミネーター",
+    "clue": "未来から来た殺人アンドロイドの映画",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "タイタニック",
+    "clue": "豪華客船の悲劇を描いた恋愛映画",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ゴジラ",
+    "clue": "海から現れる巨大怪獣の特撮映画",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ウルトラマン",
+    "clue": "巨大化して怪獣と戦う銀色のヒーロー",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "カメンライダー",
+    "clue": "バイクに乗る変身ヒーロー特撮",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "スーパーセンタイ",
+    "clue": "五人組の戦隊ヒーローシリーズ",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "スターウォーズ",
+    "clue": "ジェダイとフォースの宇宙叙事詩映画",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ハリーポッター",
+    "clue": "魔法学校の少年を描いた映画シリーズ",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "アベンジャーズ",
+    "clue": "アメコミヒーローが集結する映画",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "スパイダーマン",
+    "clue": "蜘蛛の糸を出すアメコミヒーロー",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "バットマン",
+    "clue": "コウモリをモチーフにした暗黒の英雄",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "スーパーマン",
+    "clue": "クリプトン星から来た赤いマントの英雄",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "アナトユキノジョオウ",
+    "clue": "ありのままでが主題歌のディズニー映画",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "トイストーリー",
+    "clue": "おもちゃが動き出すピクサーの映画",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "シンデレラ",
+    "clue": "ガラスの靴を残す物語のヒロイン",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "シラユキヒメ",
+    "clue": "七人の小人と暮らすお姫様の物語",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "キミノナハ",
+    "clue": "入れ替わりと彗星を描いた新海誠の映画",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "セントチヒロ",
+    "clue": "湯屋で働く少女を描くジブリ作品の略称",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "モノノケヒメ",
+    "clue": "森の神と人間の対立を描くジブリ作品",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ナウシカ",
+    "clue": "風の谷の少女を描く宮崎駿の作品",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ハウル",
+    "clue": "動く城に住む魔法使いのジブリ作品",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ポニョ",
+    "clue": "崖の上に住む魚の女の子のジブリ作品",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ハンバーガー",
+    "clue": "ファストフードの定番、と見せかけ作品名でも使われる具材",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "オシン",
+    "clue": "苦労を重ねる少女を描いた朝ドラの代表作",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ハンザワナオキ",
+    "clue": "倍返しが流行語になった銀行員ドラマ",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "アマチャン",
+    "clue": "海女を目指す少女を描いた朝ドラ",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ミトコウモン",
+    "clue": "印籠でおなじみの時代劇",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "タイガドラマ",
+    "clue": "NHKが一年かけて放送する歴史ドラマ",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "アサドラ",
+    "clue": "朝に放送される連続テレビ小説の通称",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ダウンタウン",
+    "clue": "松本と浜田の人気お笑いコンビ",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "タモリ",
+    "clue": "サングラスがトレードマークの司会者",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ビートタケシ",
+    "clue": "映画監督でもある漫才出身の芸人",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "エムワン",
+    "clue": "漫才日本一を決める年末の大会",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "コウハクウタガッセン",
+    "clue": "大みそかに放送される歌の祭典",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ジャニーズ",
+    "clue": "男性アイドルを多く輩出した事務所の通称",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "エーケービー",
+    "clue": "秋葉原発祥の大人数女性アイドルグループ",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "アラシ",
+    "clue": "五人組の国民的男性アイドルグループ",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ヨネヅケンシ",
+    "clue": "レモンやパプリカで知られるシンガー",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ウタイテ",
+    "clue": "ネットで歌を投稿する歌手の総称",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "タッチ",
+    "clue": "双子の兄弟と野球を描いたあだち充の漫画",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "キャプテンツバサ",
+    "clue": "ボールは友達が名言のサッカー漫画",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ハイキュー",
+    "clue": "高校バレーボールを描いた人気漫画",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "アオアシ",
+    "clue": "ユースサッカーを描いたスポーツ漫画",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "テニプリ",
+    "clue": "中学テニス部を描いた漫画の略称",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ヴィンランドサガ",
+    "clue": "ヴァイキングを描いた歴史漫画",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ゴールデンカムイ",
+    "clue": "金塊と北海道を舞台にした漫画",
+    "genre": "entertainment"
+  },
+  {
+    "answer": "ラオス",
+    "clue": "東南アジアの内陸国、首都ビエンチャン",
+    "genre": "geography"
+  },
+  {
+    "answer": "カンボジア",
+    "clue": "アンコールワットがある東南アジアの国",
+    "genre": "geography"
+  },
+  {
+    "answer": "スリランカ",
+    "clue": "インド洋に浮かぶ紅茶で有名な島国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ブータン",
+    "clue": "ヒマラヤ山中にある幸福度で知られる王国",
+    "genre": "geography"
+  },
+  {
+    "answer": "イラク",
+    "clue": "ティグリス川が流れる中東の国、首都バグダッド",
+    "genre": "geography"
+  },
+  {
+    "answer": "シリア",
+    "clue": "首都ダマスカスの中東の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ヨルダン",
+    "clue": "ペトラ遺跡で知られる中東の王国",
+    "genre": "geography"
+  },
+  {
+    "answer": "レバノン",
+    "clue": "地中海に面した中東の国、首都ベイルート",
+    "genre": "geography"
+  },
+  {
+    "answer": "クウェート",
+    "clue": "ペルシャ湾岸の産油国",
+    "genre": "geography"
+  },
+  {
+    "answer": "カタール",
+    "clue": "首都ドーハの中東の産油国",
+    "genre": "geography"
+  },
+  {
+    "answer": "オマーン",
+    "clue": "アラビア半島南東部の王国",
+    "genre": "geography"
+  },
+  {
+    "answer": "イエメン",
+    "clue": "アラビア半島南端の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "アフガニスタン",
+    "clue": "首都カブールの中央アジアの内陸国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ウズベキスタン",
+    "clue": "サマルカンドがある中央アジアの国",
+    "genre": "geography"
+  },
+  {
+    "answer": "カザフスタン",
+    "clue": "世界最大の内陸国、中央アジア",
+    "genre": "geography"
+  },
+  {
+    "answer": "ジョージア",
+    "clue": "コーカサスの国、首都トビリシ",
+    "genre": "geography"
+  },
+  {
+    "answer": "アルメニア",
+    "clue": "コーカサスの内陸国、首都エレバン",
+    "genre": "geography"
+  },
+  {
+    "answer": "アゼルバイジャン",
+    "clue": "カスピ海西岸の国、首都バクー",
+    "genre": "geography"
+  },
+  {
+    "answer": "ルーマニア",
+    "clue": "首都ブカレストの東欧の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ブルガリア",
+    "clue": "首都ソフィアのバルカン半島の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "セルビア",
+    "clue": "首都ベオグラードのバルカン半島の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "クロアチア",
+    "clue": "アドリア海に面した国、首都ザグレブ",
+    "genre": "geography"
+  },
+  {
+    "answer": "スロベニア",
+    "clue": "アルプス南麓の小国、首都リュブリャナ",
+    "genre": "geography"
+  },
+  {
+    "answer": "スロバキア",
+    "clue": "首都ブラチスラバの中欧の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "リトアニア",
+    "clue": "バルト三国の一つ、首都ビリニュス",
+    "genre": "geography"
+  },
+  {
+    "answer": "ラトビア",
+    "clue": "バルト三国の一つ、首都リガ",
+    "genre": "geography"
+  },
+  {
+    "answer": "エストニア",
+    "clue": "バルト三国の一つ、首都タリン",
+    "genre": "geography"
+  },
+  {
+    "answer": "アルバニア",
+    "clue": "バルカン半島の国、首都ティラナ",
+    "genre": "geography"
+  },
+  {
+    "answer": "ベラルーシ",
+    "clue": "東欧の内陸国、首都ミンスク",
+    "genre": "geography"
+  },
+  {
+    "answer": "モルドバ",
+    "clue": "ルーマニアとウクライナに挟まれた国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ルクセンブルク",
+    "clue": "西欧の小さな大公国",
+    "genre": "geography"
+  },
+  {
+    "answer": "アンドラ",
+    "clue": "ピレネー山中の小国",
+    "genre": "geography"
+  },
+  {
+    "answer": "リヒテンシュタイン",
+    "clue": "アルプス山中の小公国",
+    "genre": "geography"
+  },
+  {
+    "answer": "サンマリノ",
+    "clue": "イタリア半島内の世界最古級の共和国",
+    "genre": "geography"
+  },
+  {
+    "answer": "タンザニア",
+    "clue": "キリマンジャロがある東アフリカの国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ウガンダ",
+    "clue": "ビクトリア湖に面した東アフリカの国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ガーナ",
+    "clue": "西アフリカの国、首都アクラ",
+    "genre": "geography"
+  },
+  {
+    "answer": "セネガル",
+    "clue": "西アフリカ最西端の国、首都ダカール",
+    "genre": "geography"
+  },
+  {
+    "answer": "アルジェリア",
+    "clue": "サハラ砂漠を抱える北アフリカ最大の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "チュニジア",
+    "clue": "北アフリカの国、首都チュニス",
+    "genre": "geography"
+  },
+  {
+    "answer": "リビア",
+    "clue": "首都トリポリの北アフリカの国",
+    "genre": "geography"
+  },
+  {
+    "answer": "スーダン",
+    "clue": "ナイル川が流れる北東アフリカの国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ザンビア",
+    "clue": "ビクトリアの滝がある南部アフリカの内陸国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ジンバブエ",
+    "clue": "首都ハラレの南部アフリカの国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ナミビア",
+    "clue": "ナミブ砂漠がある南西アフリカの国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ボツワナ",
+    "clue": "カラハリ砂漠を抱える南部アフリカの内陸国",
+    "genre": "geography"
+  },
+  {
+    "answer": "カメルーン",
+    "clue": "中部アフリカの国、首都ヤウンデ",
+    "genre": "geography"
+  },
+  {
+    "answer": "ウルグアイ",
+    "clue": "南米南東部の国、首都モンテビデオ",
+    "genre": "geography"
+  },
+  {
+    "answer": "パラグアイ",
+    "clue": "南米の内陸国、首都アスンシオン",
+    "genre": "geography"
+  },
+  {
+    "answer": "ボリビア",
+    "clue": "ウユニ塩湖がある南米の内陸国",
+    "genre": "geography"
+  },
+  {
+    "answer": "エクアドル",
+    "clue": "赤道直下の南米の国、首都キト",
+    "genre": "geography"
+  },
+  {
+    "answer": "ガイアナ",
+    "clue": "南米北部の国、首都ジョージタウン",
+    "genre": "geography"
+  },
+  {
+    "answer": "コスタリカ",
+    "clue": "中米の自然豊かな国、首都サンホセ",
+    "genre": "geography"
+  },
+  {
+    "answer": "グアテマラ",
+    "clue": "マヤ文明の遺跡が残る中米の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "ニカラグア",
+    "clue": "中米最大の湖がある国、首都マナグア",
+    "genre": "geography"
+  },
+  {
+    "answer": "ホンジュラス",
+    "clue": "中米の国、首都テグシガルパ",
+    "genre": "geography"
+  },
+  {
+    "answer": "ハイチ",
+    "clue": "イスパニョーラ島西部のカリブの国",
+    "genre": "geography"
+  },
+  {
+    "answer": "バハマ",
+    "clue": "カリブ海の多くの島からなる国",
+    "genre": "geography"
+  },
+  {
+    "answer": "フィジー",
+    "clue": "南太平洋の島国、首都スバ",
+    "genre": "geography"
+  },
+  {
+    "answer": "サモア",
+    "clue": "南太平洋の島国",
+    "genre": "geography"
+  },
+  {
+    "answer": "トンガ",
+    "clue": "南太平洋の王国",
+    "genre": "geography"
+  },
+  {
+    "answer": "パプアニューギニア",
+    "clue": "ニューギニア島東部の国",
+    "genre": "geography"
+  },
+  {
+    "answer": "タスマニア",
+    "clue": "オーストラリア南東の島",
+    "genre": "geography"
+  },
+  {
+    "answer": "グアム",
+    "clue": "西太平洋のアメリカ領の島",
+    "genre": "geography"
+  },
+  {
+    "answer": "オキナワ",
+    "clue": "日本最南西の県、亜熱帯の島々",
+    "genre": "geography"
+  },
+  {
+    "answer": "ホッカイドウ",
+    "clue": "日本最北の島",
+    "genre": "geography"
+  },
+  {
+    "answer": "サンゴカイ",
+    "clue": "オーストラリア北東の海、グレートバリアリーフがある",
+    "genre": "geography"
+  },
+  {
+    "answer": "コウカイ",
+    "clue": "黄河が注ぐ中国東部の海",
+    "genre": "geography"
+  },
+  {
+    "answer": "ニホンカイ",
+    "clue": "日本列島とユーラシア大陸に挟まれた海",
+    "genre": "geography"
+  },
+  {
+    "answer": "ベンガルワン",
+    "clue": "インド亜大陸東側の湾",
+    "genre": "geography"
+  },
+  {
+    "answer": "ペルシャワン",
+    "clue": "アラビア半島とイランに挟まれた湾",
+    "genre": "geography"
+  },
+  {
+    "answer": "メキシコワン",
+    "clue": "北米南東部に広がる湾",
+    "genre": "geography"
+  },
+  {
+    "answer": "ハドソンワン",
+    "clue": "カナダ北部に広がる大きな湾",
+    "genre": "geography"
+  },
+  {
+    "answer": "オビガワ",
+    "clue": "シベリア西部を流れる大河",
+    "genre": "geography"
+  },
+  {
+    "answer": "エニセイガワ",
+    "clue": "シベリア中央部を流れる大河",
+    "genre": "geography"
+  },
+  {
+    "answer": "レナガワ",
+    "clue": "東シベリアを流れて北極海に注ぐ大河",
+    "genre": "geography"
+  },
+  {
+    "answer": "インダスガワ",
+    "clue": "パキスタンを流れ古代文明を育んだ川",
+    "genre": "geography"
+  },
+  {
+    "answer": "ユーフラテスガワ",
+    "clue": "メソポタミアを流れる大河",
+    "genre": "geography"
+  },
+  {
+    "answer": "ザンベジガワ",
+    "clue": "ビクトリアの滝を生むアフリカの川",
+    "genre": "geography"
+  },
+  {
+    "answer": "コンゴガワ",
+    "clue": "中部アフリカを流れる水量豊かな川",
+    "genre": "geography"
+  },
+  {
+    "answer": "ニジェールガワ",
+    "clue": "西アフリカを流れる大河",
+    "genre": "geography"
+  },
+  {
+    "answer": "ユーコンガワ",
+    "clue": "アラスカからベーリング海へ注ぐ川",
+    "genre": "geography"
+  },
+  {
+    "answer": "オンタリオコ",
+    "clue": "北米五大湖の一つ",
+    "genre": "geography"
+  },
+  {
+    "answer": "エリーコ",
+    "clue": "北米五大湖の一つ",
+    "genre": "geography"
+  },
+  {
+    "answer": "ヒューロンコ",
+    "clue": "北米五大湖の一つ",
+    "genre": "geography"
+  },
+  {
+    "answer": "ミシガンコ",
+    "clue": "アメリカ国内のみにある五大湖の一つ",
+    "genre": "geography"
+  },
+  {
+    "answer": "タンガニーカコ",
+    "clue": "東アフリカの細長く深い湖",
+    "genre": "geography"
+  },
+  {
+    "answer": "アラルカイ",
+    "clue": "中央アジアで縮小した内陸湖",
+    "genre": "geography"
+  },
+  {
+    "answer": "コルディリェラ",
+    "clue": "南北アメリカ西部に連なる山脈系の総称",
+    "genre": "geography"
+  },
+  {
+    "answer": "アクアビット",
+    "clue": "北欧の蒸留酒。ジャガイモが原料",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "テキーラ",
+    "clue": "リュウゼツランが原料のメキシコの蒸留酒",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ウォッカ",
+    "clue": "ロシア生まれの無色透明な蒸留酒",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ジン",
+    "clue": "ネズの実で香りづけした蒸留酒",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ラム",
+    "clue": "サトウキビが原料の蒸留酒",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ブランデー",
+    "clue": "果実酒を蒸留した酒。コニャックが有名",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ウイスキー",
+    "clue": "麦などの穀物を原料とする蒸留酒",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "シャンパン",
+    "clue": "フランス産の発泡性ワイン",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ロゼワイン",
+    "clue": "ピンク色をしたワイン",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "サングリア",
+    "clue": "ワインに果物を漬けたスペインの飲み物",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "カクテル",
+    "clue": "数種の酒や飲料を混ぜた飲み物",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "モヒート",
+    "clue": "ミントとライムのキューバ生まれのカクテル",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "マティーニ",
+    "clue": "ジンとベルモットのカクテルの代表格",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ハイボール",
+    "clue": "ウイスキーを炭酸で割った飲み物",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ビール",
+    "clue": "麦芽とホップで造る発泡性の酒",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ニホンシュ",
+    "clue": "米を発酵させた日本の醸造酒",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ショウチュウ",
+    "clue": "芋や麦が原料の日本の蒸留酒",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "アマザケ",
+    "clue": "米麹で造る甘い飲み物",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ウメシュ",
+    "clue": "梅を焼酎などに漬けた果実酒",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "マッコリ",
+    "clue": "韓国の白く濁った米の醸造酒",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ホットコーヒー",
+    "clue": "温かい焙煎豆の飲み物",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "カフェオレ",
+    "clue": "コーヒーに温めた牛乳を加えた飲み物",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "カフェラテ",
+    "clue": "エスプレッソに多めのミルクを加えた飲み物",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "マキアート",
+    "clue": "エスプレッソに少量のミルクを加えた飲み物",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ココア",
+    "clue": "カカオから作る甘い温かい飲み物",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "コウチャ",
+    "clue": "発酵させた茶葉で淹れる赤褐色の飲み物",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "リョクチャ",
+    "clue": "発酵させない日本の代表的なお茶",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ウーロンチャ",
+    "clue": "半発酵の中国茶",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "マッチャ",
+    "clue": "茶葉を石臼で挽いた粉末の茶",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ホウジチャ",
+    "clue": "茶葉を焙じた香ばしいお茶",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ジャスミンチャ",
+    "clue": "花の香りをつけた中国茶",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ラッシー",
+    "clue": "ヨーグルトを使ったインドの飲み物",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "スムージー",
+    "clue": "果物や野菜を凍らせて攪拌した飲み物",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "コーラ",
+    "clue": "黒い色をした代表的な炭酸飲料",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "トニックウォーター",
+    "clue": "ジンと合わせる苦味のある炭酸水",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "リコッタ",
+    "clue": "ホエーから作るイタリアの白いチーズ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "マスカルポーネ",
+    "clue": "ティラミスに使うクリーミーなチーズ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ブリー",
+    "clue": "白カビの表皮を持つフランスのチーズ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "エメンタール",
+    "clue": "穴があいたスイスの硬質チーズ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "グリュイエール",
+    "clue": "フォンデュに使うスイスのチーズ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ロックフォール",
+    "clue": "羊乳の青カビを持つフランスのチーズ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "フェタ",
+    "clue": "ギリシャの羊乳で作る塩気のあるチーズ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "クリームチーズ",
+    "clue": "なめらかで塗りやすい非熟成のチーズ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "コリアンダー",
+    "clue": "パクチーの種から作るスパイス",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "カルダモン",
+    "clue": "チャイにも使う香り高いスパイス",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "クローブ",
+    "clue": "丁子とも呼ばれる釘形のスパイス",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "フェンネル",
+    "clue": "ウイキョウとも呼ばれる甘い香りの香草",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "タイム",
+    "clue": "肉料理に合う小さな葉のハーブ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "セージ",
+    "clue": "肉の臭み消しに使う薬草系のハーブ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ディル",
+    "clue": "魚料理に合う羽状の葉のハーブ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "チャイブ",
+    "clue": "ネギに似た細い葉の香草",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "アニス",
+    "clue": "甘い香りを持つ薬草系のスパイス",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "パプリカパウダー",
+    "clue": "赤い色づけに使う甘いスパイス",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ラーユ",
+    "clue": "唐辛子を熱した油の辛い調味料",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "テンメンジャン",
+    "clue": "甘い味の中国の味噌調味料",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "トウバンジャン",
+    "clue": "そら豆と唐辛子の辛い中国の調味料",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "コチュジャン",
+    "clue": "韓国の甘辛い唐辛子味噌",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "バルサミコ",
+    "clue": "イタリアの熟成した黒い酢",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "デミグラス",
+    "clue": "煮込み料理に使う茶色いソース",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "タルタルソース",
+    "clue": "刻みピクルス入りのフライ用ソース",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ベシャメル",
+    "clue": "グラタンに使う白いソース",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "グリーンカレー",
+    "clue": "ココナッツミルクのタイの辛い料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ジャンバラヤ",
+    "clue": "米と肉を炊き込むアメリカ南部の料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ガンボ",
+    "clue": "オクラを使うルイジアナの煮込み料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "チリコンカン",
+    "clue": "豆と挽肉の辛いメキシコ風煮込み",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ケサディーヤ",
+    "clue": "トルティーヤにチーズを挟んだ料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "エンチラーダ",
+    "clue": "具を巻いてソースをかけたメキシコ料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ファラフェル",
+    "clue": "ひよこ豆を揚げた中東のコロッケ",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ケジャリー",
+    "clue": "魚と米を使う英国の朝食料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "シェパーズパイ",
+    "clue": "挽肉にマッシュポテトをのせた英国料理",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ザッハ",
+    "clue": "ウィーン発祥のチョコレートケーキの略称",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ブリオッシュ",
+    "clue": "バターと卵が豊かなフランスの菓子パン",
+    "genre": "gourmet"
+  },
+  {
+    "answer": "ハンムラビホウ",
+    "clue": "古代バビロニアの「目には目を」で知られる成文法",
+    "genre": "history"
+  },
+  {
+    "answer": "クフオウ",
+    "clue": "ギザの大ピラミッドを築いたとされる古代エジプトの王",
+    "genre": "history"
+  },
+  {
+    "answer": "スパルタ",
+    "clue": "厳しい軍事教育で知られた古代ギリシャの都市国家",
+    "genre": "history"
+  },
+  {
+    "answer": "ペリクレス",
+    "clue": "古代アテネの民主政を完成させた政治家",
+    "genre": "history"
+  },
+  {
+    "answer": "ホメロス",
+    "clue": "イリアスやオデュッセイアの作者とされる叙事詩人",
+    "genre": "history"
+  },
+  {
+    "answer": "ヘロドトス",
+    "clue": "歴史の父と呼ばれる古代ギリシャの歴史家",
+    "genre": "history"
+  },
+  {
+    "answer": "ピタゴラス",
+    "clue": "三平方の定理で知られる古代ギリシャの数学者",
+    "genre": "history"
+  },
+  {
+    "answer": "アルキメデス",
+    "clue": "浮力の原理を発見した古代ギリシャの科学者",
+    "genre": "history"
+  },
+  {
+    "answer": "ペルシアセンソウ",
+    "clue": "古代ギリシャとアケメネス朝が戦った戦争",
+    "genre": "history"
+  },
+  {
+    "answer": "マラトン",
+    "clue": "古代ギリシャがペルシアを破った戦いの地",
+    "genre": "history"
+  },
+  {
+    "answer": "ガイウス",
+    "clue": "ローマで多く用いられた男子の個人名",
+    "genre": "history"
+  },
+  {
+    "answer": "ネロ",
+    "clue": "ローマ大火とキリスト教徒迫害で知られる暴君",
+    "genre": "history"
+  },
+  {
+    "answer": "カラカラ",
+    "clue": "巨大な公衆浴場を建設したローマ皇帝",
+    "genre": "history"
+  },
+  {
+    "answer": "ガリアセンキ",
+    "clue": "カエサルが記したガリア遠征の記録",
+    "genre": "history"
+  },
+  {
+    "answer": "スパルタクス",
+    "clue": "古代ローマで剣闘士奴隷の反乱を起こした人物",
+    "genre": "history"
+  },
+  {
+    "answer": "ポンペイ",
+    "clue": "ヴェスヴィオ火山噴火で埋もれたローマの都市",
+    "genre": "history"
+  },
+  {
+    "answer": "アッピアカイドウ",
+    "clue": "古代ローマの代表的な軍用道路",
+    "genre": "history"
+  },
+  {
+    "answer": "ゲルマンジン",
+    "clue": "ローマ帝国に侵入した北方の諸民族",
+    "genre": "history"
+  },
+  {
+    "answer": "フンゾク",
+    "clue": "アッティラに率いられた遊牧騎馬民族",
+    "genre": "history"
+  },
+  {
+    "answer": "カール",
+    "clue": "西ローマ皇帝の冠を受けたフランク王国の大帝",
+    "genre": "history"
+  },
+  {
+    "answer": "ジュウジグンエンセイ",
+    "clue": "聖地エルサレム奪回を目指した中世ヨーロッパの遠征",
+    "genre": "history"
+  },
+  {
+    "answer": "サラディン",
+    "clue": "十字軍からエルサレムを奪回したアイユーブ朝の君主",
+    "genre": "history"
+  },
+  {
+    "answer": "マグナカルタ",
+    "clue": "イギリス王の権力を制限した1215年の大憲章",
+    "genre": "history"
+  },
+  {
+    "answer": "ペスト",
+    "clue": "中世ヨーロッパで大流行した黒死病",
+    "genre": "history"
+  },
+  {
+    "answer": "メディチケ",
+    "clue": "ルネサンス期フィレンツェの大富豪一族",
+    "genre": "history"
+  },
+  {
+    "answer": "マキャベリ",
+    "clue": "君主論を著したルネサンス期の思想家",
+    "genre": "history"
+  },
+  {
+    "answer": "ヴァスコダガマ",
+    "clue": "喜望峰を回りインド航路を開いた航海者",
+    "genre": "history"
+  },
+  {
+    "answer": "コルテス",
+    "clue": "アステカ王国を征服したスペインの軍人",
+    "genre": "history"
+  },
+  {
+    "answer": "ピサロ",
+    "clue": "インカ帝国を滅ぼしたスペインの征服者",
+    "genre": "history"
+  },
+  {
+    "answer": "アクバル",
+    "clue": "ムガル帝国の最盛期を築いた皇帝",
+    "genre": "history"
+  },
+  {
+    "answer": "スレイマン",
+    "clue": "オスマン帝国の最盛期を築いた大帝",
+    "genre": "history"
+  },
+  {
+    "answer": "ローマノフ",
+    "clue": "帝政ロシアを統治した王朝",
+    "genre": "history"
+  },
+  {
+    "answer": "ピョートル",
+    "clue": "ロシアの西欧化を進めた大帝",
+    "genre": "history"
+  },
+  {
+    "answer": "エカチェリーナ",
+    "clue": "啓蒙専制で知られるロシアの女帝",
+    "genre": "history"
+  },
+  {
+    "answer": "ルイジュウロクセイ",
+    "clue": "フランス革命で処刑された国王",
+    "genre": "history"
+  },
+  {
+    "answer": "マリーアントワネット",
+    "clue": "フランス革命で処刑された王妃",
+    "genre": "history"
+  },
+  {
+    "answer": "テニスコートノチカイ",
+    "clue": "フランス革命初期に第三身分が結束を誓った出来事",
+    "genre": "history"
+  },
+  {
+    "answer": "ナポレオンサンセイ",
+    "clue": "フランス第二帝政を築いた皇帝",
+    "genre": "history"
+  },
+  {
+    "answer": "アメリカドクリツセンソウ",
+    "clue": "13植民地が本国イギリスから独立した戦争",
+    "genre": "history"
+  },
+  {
+    "answer": "ジェファソン",
+    "clue": "アメリカ独立宣言を起草した第3代大統領",
+    "genre": "history"
+  },
+  {
+    "answer": "ゲティスバーグ",
+    "clue": "南北戦争の激戦地で有名な演説が行われた地",
+    "genre": "history"
+  },
+  {
+    "answer": "モンロー",
+    "clue": "アメリカ大陸への欧州不干渉を主張した宣言の名",
+    "genre": "history"
+  },
+  {
+    "answer": "ワシントンカイギ",
+    "clue": "第一次大戦後の軍縮を取り決めた国際会議",
+    "genre": "history"
+  },
+  {
+    "answer": "ベルサイユタイセイ",
+    "clue": "第一次大戦後の国際秩序",
+    "genre": "history"
+  },
+  {
+    "answer": "ヴィルヘルムニセイ",
+    "clue": "第一次大戦時のドイツ皇帝",
+    "genre": "history"
+  },
+  {
+    "answer": "ヴェルダン",
+    "clue": "第一次大戦で激戦となったフランスの要塞",
+    "genre": "history"
+  },
+  {
+    "answer": "スターリン",
+    "clue": "ソ連の独裁体制を築いた指導者",
+    "genre": "history"
+  },
+  {
+    "answer": "ローズベルト",
+    "clue": "ニューディール政策を進めた米大統領",
+    "genre": "history"
+  },
+  {
+    "answer": "パールハーバー",
+    "clue": "太平洋戦争の発端となった日本の奇襲攻撃地",
+    "genre": "history"
+  },
+  {
+    "answer": "ノルマンディジョウリク",
+    "clue": "連合軍が西部戦線で行った大規模な上陸作戦",
+    "genre": "history"
+  },
+  {
+    "answer": "ヤルタカイダン",
+    "clue": "戦後処理を協議した米英ソ首脳会談",
+    "genre": "history"
+  },
+  {
+    "answer": "ヒロシマ",
+    "clue": "世界で初めて原子爆弾が投下された都市",
+    "genre": "history"
+  },
+  {
+    "answer": "ナガサキ",
+    "clue": "二発目の原子爆弾が投下された都市",
+    "genre": "history"
+  },
+  {
+    "answer": "トルーマン",
+    "clue": "原爆投下を決定した米大統領",
+    "genre": "history"
+  },
+  {
+    "answer": "ケネディ",
+    "clue": "キューバ危機を乗り越え暗殺された米大統領",
+    "genre": "history"
+  },
+  {
+    "answer": "ニクソン",
+    "clue": "中国訪問やウォーターゲートで知られる米大統領",
+    "genre": "history"
+  },
+  {
+    "answer": "ドゴール",
+    "clue": "戦後フランス第五共和政を築いた大統領",
+    "genre": "history"
+  },
+  {
+    "answer": "チャーチルシュショウ",
+    "clue": "第二次大戦時にイギリスを率いた首相",
+    "genre": "history"
+  },
+  {
+    "answer": "マーシャルプラン",
+    "clue": "戦後のヨーロッパ復興を支援した米国の援助計画",
+    "genre": "history"
+  },
+  {
+    "answer": "ベルリンフウサ",
+    "clue": "冷戦初期にソ連が西ベルリンへの交通を遮断した出来事",
+    "genre": "history"
+  },
+  {
+    "answer": "ナトー",
+    "clue": "西側諸国が結成した北大西洋条約機構の略称",
+    "genre": "history"
+  },
+  {
+    "answer": "マオツォトン",
+    "clue": "中華人民共和国を建国した指導者",
+    "genre": "history"
+  },
+  {
+    "answer": "ブンカダイカクメイ",
+    "clue": "1960年代後半に中国で起きた政治運動",
+    "genre": "history"
+  },
+  {
+    "answer": "テンアンモンジケン",
+    "clue": "1989年に中国で起きた民主化要求の弾圧事件",
+    "genre": "history"
+  },
+  {
+    "answer": "ガンディー",
+    "clue": "非暴力でインド独立運動を導いた指導者",
+    "genre": "history"
+  },
+  {
+    "answer": "ネルー",
+    "clue": "独立後インドの初代首相となった人物",
+    "genre": "history"
+  },
+  {
+    "answer": "キンニチセイ",
+    "clue": "北朝鮮を建国した最高指導者",
+    "genre": "history"
+  },
+  {
+    "answer": "ホーチミン",
+    "clue": "ベトナム独立運動を率いた指導者",
+    "genre": "history"
+  },
+  {
+    "answer": "キングボクシ",
+    "clue": "アメリカ公民権運動を率いた指導者",
+    "genre": "history"
+  },
+  {
+    "answer": "ボロブドゥール",
+    "clue": "インドネシアにある世界最大級の仏教遺跡",
+    "genre": "history"
+  },
+  {
+    "answer": "コンサート",
+    "clue": "聴衆を集めて行う音楽の催し",
+    "genre": "music"
+  },
+  {
+    "answer": "コンチェルトグロッソ",
+    "clue": "バロック期の複数独奏群と合奏による協奏曲",
+    "genre": "music"
+  },
+  {
+    "answer": "インテルメッゾ",
+    "clue": "幕間に演奏される間奏曲",
+    "genre": "music"
+  },
+  {
+    "answer": "ヘンデル",
+    "clue": "メサイアを作曲したバロック期の作曲家",
+    "genre": "music"
+  },
+  {
+    "answer": "ヴィヴァルディ",
+    "clue": "四季を作曲したバロック期の作曲家",
+    "genre": "music"
+  },
+  {
+    "answer": "シューベルト",
+    "clue": "魔王や未完成交響曲で知られる歌曲の王",
+    "genre": "music"
+  },
+  {
+    "answer": "ブラームス",
+    "clue": "ドイツ三大Bの一人に数えられる作曲家",
+    "genre": "music"
+  },
+  {
+    "answer": "ドビュッシー",
+    "clue": "月の光や牧神の午後で知られる印象派の作曲家",
+    "genre": "music"
+  },
+  {
+    "answer": "ストラヴィンスキー",
+    "clue": "春の祭典を作曲した近代の作曲家",
+    "genre": "music"
+  },
+  {
+    "answer": "ジャコウジカ",
+    "clue": "香料がとれる小型のシカ",
+    "genre": "nature"
+  },
+  {
+    "answer": "プロングホーン",
+    "clue": "北米に住む俊足の有蹄類",
+    "genre": "nature"
+  },
+  {
+    "answer": "ワラビー",
+    "clue": "カンガルーより小型の有袋類",
+    "genre": "nature"
+  },
+  {
+    "answer": "ウォンバット",
+    "clue": "豪州にすむずんぐりした有袋類",
+    "genre": "nature"
+  },
+  {
+    "answer": "タスマニアデビル",
+    "clue": "豪州タスマニア島の肉食有袋類",
+    "genre": "nature"
+  },
+  {
+    "answer": "フォッサ",
+    "clue": "マダガスカルにすむ最大の肉食獣",
+    "genre": "nature"
+  },
+  {
+    "answer": "キンカジュー",
+    "clue": "中南米の樹上にすむアライグマの仲間",
+    "genre": "nature"
+  },
+  {
+    "answer": "アイアイ",
+    "clue": "細長い指を持つマダガスカルの夜行性サル",
+    "genre": "nature"
+  },
+  {
+    "answer": "テングザル",
+    "clue": "大きな鼻が特徴のボルネオのサル",
+    "genre": "nature"
+  },
+  {
+    "answer": "マンドリル",
+    "clue": "顔が赤と青に彩られた大型のサル",
+    "genre": "nature"
+  },
+  {
+    "answer": "ロリス",
+    "clue": "ゆっくり動く大きな目の夜行性の霊長類",
+    "genre": "nature"
+  },
+  {
+    "answer": "ハナグマ",
+    "clue": "長い鼻と尾を持つ中南米の動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "ジュゴンモドキ",
+    "clue": "海牛に似た姿の動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "ハクジラ",
+    "clue": "歯を持つクジラの総称",
+    "genre": "nature"
+  },
+  {
+    "answer": "スナメリ",
+    "clue": "背びれのない小型の鯨類",
+    "genre": "nature"
+  },
+  {
+    "answer": "ゾウアザラシ",
+    "clue": "鼻が長く大きく育つアザラシ",
+    "genre": "nature"
+  },
+  {
+    "answer": "コンドルクジラ",
+    "clue": "架空でない大型のヒゲクジラの一種を示す問い",
+    "genre": "nature"
+  },
+  {
+    "answer": "ザトウクジラ",
+    "clue": "歌うことで知られる大型のクジラ",
+    "genre": "nature"
+  },
+  {
+    "answer": "シロナガスクジラ",
+    "clue": "地球上で最大の動物",
+    "genre": "nature"
+  },
+  {
+    "answer": "マッコウクジラ",
+    "clue": "大きな頭を持つ深海に潜るクジラ",
+    "genre": "nature"
+  },
+  {
+    "answer": "セキセイインコ",
+    "clue": "飼い鳥として人気の小型のインコ",
+    "genre": "nature"
+  },
+  {
+    "answer": "オウサマペンギン",
+    "clue": "胸がオレンジ色の大型ペンギン",
+    "genre": "nature"
+  },
+  {
+    "answer": "コウテイペンギン",
+    "clue": "南極で繁殖する最大のペンギン",
+    "genre": "nature"
+  },
+  {
+    "answer": "グンカンドリ",
+    "clue": "喉を赤く膨らませる海鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "カツオドリ",
+    "clue": "海面に急降下して魚を捕る海鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "ウミネコ",
+    "clue": "猫のような声で鳴くカモメの仲間",
+    "genre": "nature"
+  },
+  {
+    "answer": "アジサシ",
+    "clue": "細い翼で海上を飛ぶ渡り鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヤマドリ",
+    "clue": "長い尾を持つ日本の山にすむ鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "ホオジロ",
+    "clue": "頬の白い模様が名の由来の小鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "コゲラ",
+    "clue": "日本で最も小さいキツツキ",
+    "genre": "nature"
+  },
+  {
+    "answer": "オナガ",
+    "clue": "青く長い尾を持つカラスの仲間",
+    "genre": "nature"
+  },
+  {
+    "answer": "カケス",
+    "clue": "どんぐりを蓄える林の鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "イスカ",
+    "clue": "くちばしが交差した変わった鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヤツガシラ",
+    "clue": "冠羽を立てる縞模様の鳥",
+    "genre": "nature"
+  },
+  {
+    "answer": "サンショウウオモドキ",
+    "clue": "両生類に似た姿を示す問い",
+    "genre": "nature"
+  },
+  {
+    "answer": "アカハライモリ",
+    "clue": "腹が赤い日本の両生類",
+    "genre": "nature"
+  },
+  {
+    "answer": "モリアオガエル",
+    "clue": "木の上に泡の卵を産むカエル",
+    "genre": "nature"
+  },
+  {
+    "answer": "トノサマガエル",
+    "clue": "水田に多い大きめのカエル",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヤドクガエル",
+    "clue": "鮮やかな色で毒を持つ中南米のカエル",
+    "genre": "nature"
+  },
+  {
+    "answer": "アホロートル",
+    "clue": "幼形成熟する有名なサンショウウオ",
+    "genre": "nature"
+  },
+  {
+    "answer": "オオサンショウウオ",
+    "clue": "世界最大級の両生類",
+    "genre": "nature"
+  },
+  {
+    "answer": "ガラガラヘビ",
+    "clue": "尾を振って音を出す毒蛇",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヤマカガシ",
+    "clue": "日本の水辺にすむ毒のあるヘビ",
+    "genre": "nature"
+  },
+  {
+    "answer": "アナコンダ",
+    "clue": "南米の水辺にすむ巨大なヘビ",
+    "genre": "nature"
+  },
+  {
+    "answer": "オオトカゲ",
+    "clue": "大型化するトカゲの総称",
+    "genre": "nature"
+  },
+  {
+    "answer": "アオウミガメ",
+    "clue": "海藻を食べる大型のウミガメ",
+    "genre": "nature"
+  },
+  {
+    "answer": "ガビアル",
+    "clue": "細長い口を持つインドのワニ",
+    "genre": "nature"
+  },
+  {
+    "answer": "イリエワニ",
+    "clue": "現生最大のワニ",
+    "genre": "nature"
+  },
+  {
+    "answer": "ティラノサウルス",
+    "clue": "鋭い歯を持つ有名な肉食恐竜",
+    "genre": "nature"
+  },
+  {
+    "answer": "トリケラトプス",
+    "clue": "三本の角と襟飾りを持つ恐竜",
+    "genre": "nature"
+  },
+  {
+    "answer": "ステゴサウルス",
+    "clue": "背に板が並ぶ草食恐竜",
+    "genre": "nature"
+  },
+  {
+    "answer": "ブラキオサウルス",
+    "clue": "長い首を持つ巨大な草食恐竜",
+    "genre": "nature"
+  },
+  {
+    "answer": "プテラノドン",
+    "clue": "翼を持つ大型の翼竜",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヴェロキラプトル",
+    "clue": "群れで狩る俊敏な小型肉食恐竜",
+    "genre": "nature"
+  },
+  {
+    "answer": "イクチオサウルス",
+    "clue": "魚竜と呼ばれる海生爬虫類",
+    "genre": "nature"
+  },
+  {
+    "answer": "アンモナイト",
+    "clue": "渦巻状の殻を持つ古生物",
+    "genre": "nature"
+  },
+  {
+    "answer": "シーラカンス",
+    "clue": "生きた化石と呼ばれる古代魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "チョウザメ",
+    "clue": "卵がキャビアになる古代的な魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "ハタハタ",
+    "clue": "秋田名物として知られる魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "カツオ",
+    "clue": "節やたたきで知られる回遊魚",
+    "genre": "nature"
+  },
+  {
+    "answer": "タチウオモドキ",
+    "clue": "細長い銀色の魚に似た姿を示す問い",
+    "genre": "nature"
+  },
+  {
+    "answer": "ミズクラゲ",
+    "clue": "透明な傘を持つ身近なクラゲ",
+    "genre": "nature"
+  },
+  {
+    "answer": "オウムガイ",
+    "clue": "渦巻状の殻を持つ古い形の頭足類",
+    "genre": "nature"
+  },
+  {
+    "answer": "コウイカ",
+    "clue": "甲を持つイカの仲間",
+    "genre": "nature"
+  },
+  {
+    "answer": "オオスズメバチ",
+    "clue": "日本最大の攻撃的なハチ",
+    "genre": "nature"
+  },
+  {
+    "answer": "シロアリ",
+    "clue": "木材を食べ家を傷める昆虫",
+    "genre": "nature"
+  },
+  {
+    "answer": "ナナホシテントウ",
+    "clue": "七つの黒点を持つ赤い甲虫",
+    "genre": "nature"
+  },
+  {
+    "answer": "ゲンジボタル",
+    "clue": "初夏に光を放つ日本の代表的な昆虫",
+    "genre": "nature"
+  },
+  {
+    "answer": "オニヤンマ",
+    "clue": "日本最大のトンボ",
+    "genre": "nature"
+  },
+  {
+    "answer": "アゲハチョウ",
+    "clue": "大きな羽を持つ華やかなチョウ",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヤエザクラ",
+    "clue": "花弁が幾重にも重なる桜",
+    "genre": "nature"
+  },
+  {
+    "answer": "シクラメン",
+    "clue": "冬に咲く鉢花として人気の花",
+    "genre": "nature"
+  },
+  {
+    "answer": "カスミソウ",
+    "clue": "小さな白い花が霞のように咲く花",
+    "genre": "nature"
+  },
+  {
+    "answer": "キンセンカ",
+    "clue": "オレンジ色の花を咲かせる草花",
+    "genre": "nature"
+  },
+  {
+    "answer": "ラン",
+    "clue": "華やかで多様な姿を持つ花の総称",
+    "genre": "nature"
+  },
+  {
+    "answer": "カキノキ",
+    "clue": "秋にオレンジの実をつける樹木",
+    "genre": "nature"
+  },
+  {
+    "answer": "イチイ",
+    "clue": "赤い実をつける常緑の針葉樹",
+    "genre": "nature"
+  },
+  {
+    "answer": "マツタケ",
+    "clue": "秋に珍重される香り高いきのこ",
+    "genre": "nature"
+  },
+  {
+    "answer": "エノキタケ",
+    "clue": "細長く白い栽培きのこ",
+    "genre": "nature"
+  },
+  {
+    "answer": "ベニテングタケ",
+    "clue": "赤い傘に白い斑点の毒きのこ",
+    "genre": "nature"
+  },
+  {
+    "answer": "ヒジキ",
+    "clue": "黒く煮物にされる海藻",
+    "genre": "nature"
+  },
+  {
+    "answer": "テングサ",
+    "clue": "寒天の原料になる海藻",
+    "genre": "nature"
+  },
+  {
+    "answer": "アフタヌーンティー",
+    "clue": "ホテルなどで午後に菓子と紅茶を楽しむ催し",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ゲキアツ",
+    "clue": "とても盛り上がる、激しく熱い状況を表す若者言葉",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "サウナフロ",
+    "clue": "発汗と外気浴を繰り返す人気の温浴施設の過ごし方",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "シンプルニアリガト",
+    "clue": "感謝を素直に伝えるネット発の決まり文句",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "オシャレナ",
+    "clue": "今どきで見栄えがよく洗練された様子を表す言葉",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ヨキ",
+    "clue": "良い様子をネット上で短く表す若者言葉",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "イマドキ",
+    "clue": "現在の流行を象徴する今っぽさを表す言葉",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ホムパ",
+    "clue": "自宅に友人を招いて開くくだけた集まり",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ジモティー",
+    "clue": "地元密着の無料掲示板アプリの愛称",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "クラファン",
+    "clue": "ネットで広く資金を募る仕組みの略称",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ハイブリッドワーク",
+    "clue": "出社と在宅を組み合わせた新しい働き方",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "オンデマンド",
+    "clue": "好きな時に視聴や受講ができる配信形態",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "フェイスシールド",
+    "clue": "感染対策で顔全体を覆う透明な保護具",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "モバイルオーダー",
+    "clue": "スマホで事前に注文と決済を済ませる仕組み",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ジカツドウガ",
+    "clue": "自分で撮影編集して投稿する短編の映像",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "アサカツ",
+    "clue": "出勤前の早い時間を有効活用する習慣",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "トレンドワード",
+    "clue": "SNSで急に話題になり検索が急増した語",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ガチャガチャシステム",
+    "clue": "ソシャゲでランダムに当たりを引く課金の仕組み",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "シェアハウス",
+    "clue": "他人同士が一つの家を共同で借りて暮らす形態",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "アップサイクル",
+    "clue": "廃材を価値あるものに作り変える取り組み",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ゼロカーボン",
+    "clue": "温室効果ガスの排出を実質ゼロにする目標",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "プラントミルク",
+    "clue": "豆や穀物から作る植物性の乳代替飲料",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ミールキット",
+    "clue": "下ごしらえ済みの食材と調味料がそろった商品",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ソイミート",
+    "clue": "大豆を原料にした肉に似せた食品の呼び名",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "オンライントウシ",
+    "clue": "アプリで手軽に株や投信を売買する資産運用",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ポイントアプリ",
+    "clue": "買い物などでためた点をお得に使うためのツール",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "コスパサイコウ",
+    "clue": "値段に対して満足度がとても高いことを表す表現",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ファクトチェッカー",
+    "clue": "情報の真偽を検証する専門の担い手",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ジェンダーギャップ",
+    "clue": "男女間の社会的な格差を表す指標や課題",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "セルフケア",
+    "clue": "心身の健康を自分で整える習慣や行動",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "メンタルヘルス",
+    "clue": "近年重視される心の健康とその維持",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ナイトルーティン",
+    "clue": "就寝前に毎日繰り返す決まった一連の行動",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "オシュンカツ",
+    "clue": "推しの活動を応援することに精を出す過ごし方",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "バーチャルライブ",
+    "clue": "仮想空間で開催されるアバターによる音楽公演",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ジェネレーティブ",
+    "clue": "文章や画像を自動で生み出すAIの種類を表す語",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "プロンプトエンジニア",
+    "clue": "AIへの指示文を工夫して最適化する専門職",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "スマートホーム",
+    "clue": "家電を音声やアプリでつないで操作する住まい",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "フードテック",
+    "clue": "技術で食の課題を解決する新しい産業分野",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "サードプレイス",
+    "clue": "家庭や職場以外で心地よく過ごせる第三の居場所",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "オシャツ",
+    "clue": "推しのキャラやロゴを身につけるファッションの一つ",
+    "genre": "reiwa"
+  },
+  {
+    "answer": "ソノシート",
+    "clue": "雑誌の付録などについた薄いペラペラのレコード盤",
+    "genre": "showa"
+  },
+  {
+    "answer": "テレフォンカード",
+    "clue": "公衆電話で使ったプリペイドの磁気カード",
+    "genre": "showa"
+  },
+  {
+    "answer": "ガリガリ",
+    "clue": "氷を削って蜜をかけた夏の冷たいおやつ",
+    "genre": "showa"
+  },
+  {
+    "answer": "ニッキ",
+    "clue": "シナモンの一種で駄菓子の香りづけに使われた香辛料",
+    "genre": "showa"
+  },
+  {
+    "answer": "メンコバトル",
+    "clue": "厚紙の札を地面に叩きつけて相手の札をひっくり返す遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "ジャリンコ",
+    "clue": "昭和の下町を駆け回った子供たちを指す呼び名",
+    "genre": "showa"
+  },
+  {
+    "answer": "オリタタミナイフ",
+    "clue": "鉛筆を削るのに使った携帯用の小さな刃物",
+    "genre": "showa"
+  },
+  {
+    "answer": "オートバイ",
+    "clue": "二輪のエンジン付き乗り物で暴走族にも愛された",
+    "genre": "showa"
+  },
+  {
+    "answer": "ミゼット",
+    "clue": "ダイハツが作った三輪の小型運搬車",
+    "genre": "showa"
+  },
+  {
+    "answer": "デコトラ",
+    "clue": "電飾やペイントで派手に飾り立てたトラック",
+    "genre": "showa"
+  },
+  {
+    "answer": "コッペパン",
+    "clue": "給食でジャムやマーガリンを塗って食べた細長いパン",
+    "genre": "showa"
+  },
+  {
+    "answer": "トウシャバン",
+    "clue": "ろう原紙を鉄筆で削って刷る簡易印刷の道具",
+    "genre": "showa"
+  },
+  {
+    "answer": "ブリキバケツ",
+    "clue": "金属製で水を運んだ昭和の生活道具",
+    "genre": "showa"
+  },
+  {
+    "answer": "ハタキ",
+    "clue": "棒の先に布をつけてほこりを払う掃除用具",
+    "genre": "showa"
+  },
+  {
+    "answer": "イチマツ",
+    "clue": "市松模様で知られる二色を交互に並べた格子柄",
+    "genre": "showa"
+  },
+  {
+    "answer": "モンペ",
+    "clue": "戦中戦後に女性が農作業で着たゆったりズボン",
+    "genre": "showa"
+  },
+  {
+    "answer": "セルロイド",
+    "clue": "昔の人形や下敷きに使われた燃えやすい合成樹脂",
+    "genre": "showa"
+  },
+  {
+    "answer": "ブリキロボット",
+    "clue": "ゼンマイで歩く金属製の昭和の玩具",
+    "genre": "showa"
+  },
+  {
+    "answer": "メダルゲームジョウ",
+    "clue": "デパート屋上にあったコイン遊技施設",
+    "genre": "showa"
+  },
+  {
+    "answer": "ヤキイモ",
+    "clue": "石焼きで売り歩いた冬の屋台の定番",
+    "genre": "showa"
+  },
+  {
+    "answer": "トウフヤ",
+    "clue": "ラッパを鳴らしながら売り歩いた豆腐の行商",
+    "genre": "showa"
+  },
+  {
+    "answer": "チンドン",
+    "clue": "派手な衣装で楽器を鳴らし宣伝して回る人たち",
+    "genre": "showa"
+  },
+  {
+    "answer": "カミシバイヤ",
+    "clue": "自転車で来て絵を見せながら物語を語った人",
+    "genre": "showa"
+  },
+  {
+    "answer": "ポリバケツ",
+    "clue": "プラスチック製になった軽い水汲み容器",
+    "genre": "showa"
+  },
+  {
+    "answer": "アイスキャンデー",
+    "clue": "棒のついた氷菓で夏の駄菓子屋の人気者",
+    "genre": "showa"
+  },
+  {
+    "answer": "ミカンバコ",
+    "clue": "木製で勉強机や椅子の代わりにも使われた箱",
+    "genre": "showa"
+  },
+  {
+    "answer": "コロッケパン",
+    "clue": "揚げたじゃがいもをパンに挟んだ惣菜パン",
+    "genre": "showa"
+  },
+  {
+    "answer": "アメリカンクラッカー",
+    "clue": "二個の玉をぶつけてカチカチ鳴らす昭和の玩具",
+    "genre": "showa"
+  },
+  {
+    "answer": "スーパーボールスクイ",
+    "clue": "縁日で網を使って弾む球をすくう遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "クルクルカイテン",
+    "clue": "おもちゃのプロペラなどがぐるぐる回る様子",
+    "genre": "showa"
+  },
+  {
+    "answer": "シャープペン",
+    "clue": "芯を繰り出して書く筆記具の略した呼び方",
+    "genre": "showa"
+  },
+  {
+    "answer": "ボンタン",
+    "clue": "幅広に改造した不良学生のズボン",
+    "genre": "showa"
+  },
+  {
+    "answer": "リーゼント",
+    "clue": "前髪を高く盛り上げた昭和の不良の髪型",
+    "genre": "showa"
+  },
+  {
+    "answer": "タケノコゾク",
+    "clue": "原宿でド派手な衣装で踊った若者グループ",
+    "genre": "showa"
+  },
+  {
+    "answer": "アイビールック",
+    "clue": "学生らしい上品なアメリカ風ファッション",
+    "genre": "showa"
+  },
+  {
+    "answer": "ミユキゾク",
+    "clue": "銀座の通りにたむろした流行に敏感な若者",
+    "genre": "showa"
+  },
+  {
+    "answer": "ステテコ",
+    "clue": "夏に男性が部屋でくつろぐ膝下丈の下着",
+    "genre": "showa"
+  },
+  {
+    "answer": "ハッピ",
+    "clue": "祭りや法被職人が着る印半纏のはおりもの",
+    "genre": "showa"
+  },
+  {
+    "answer": "ホーロウカンバン",
+    "clue": "薬や飲料の広告で建物の壁に貼られた金属看板",
+    "genre": "showa"
+  },
+  {
+    "answer": "ダガシヤ",
+    "clue": "子供が小銭を握りしめて通ったお菓子の小売店",
+    "genre": "showa"
+  },
+  {
+    "answer": "ザリガニツリ",
+    "clue": "用水路でスルメを糸につけて行った子供の遊び",
+    "genre": "showa"
+  },
+  {
+    "answer": "メジロオシ",
+    "clue": "鳥のさえずりを競った昭和の趣味の一つ",
+    "genre": "showa"
+  },
+  {
+    "answer": "テツワンアトム",
+    "clue": "手塚治虫が描いた心を持つ少年ロボット",
+    "genre": "showa"
+  },
+  {
+    "answer": "オバケノキュウタロウ",
+    "clue": "藤子作品に登場する人間と暮らすお化け",
+    "genre": "showa"
+  },
+  {
+    "answer": "ヒョッコリヒョウタンジマ",
+    "clue": "人形劇で人気を博した漂流する島の物語",
+    "genre": "showa"
+  },
+  {
+    "answer": "ゲンコツアメ",
+    "clue": "黒砂糖を固めた素朴で固い昔ながらの飴",
+    "genre": "showa"
+  },
+  {
+    "answer": "シャボンダマウリ",
+    "clue": "縁日で泡を飛ばす道具を売っていた屋台",
+    "genre": "showa"
+  },
+  {
+    "answer": "ハリガネザイク",
+    "clue": "針金を曲げて作る昔の手作り玩具や工芸",
+    "genre": "showa"
+  },
+  {
+    "answer": "ミドリノオバサン",
+    "clue": "通学路で子供の横断を見守る交通安全指導員",
+    "genre": "showa"
+  },
+  {
+    "answer": "ガラスビン",
+    "clue": "牛乳やジュースを詰めた再利用される容器",
+    "genre": "showa"
+  },
+  {
+    "answer": "ミクダヨー",
+    "clue": "ある歌姫キャラの着ぐるみネタ",
+    "genre": "subculture"
+  },
+  {
+    "answer": "テンアゲ",
+    "clue": "気分が最高潮に盛り上がること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ヌメロニム",
+    "clue": "頭と末尾の文字の間に数字を入れる略記法",
+    "genre": "subculture"
+  },
+  {
+    "answer": "アスキーアート",
+    "clue": "文字記号で絵を描くネット表現",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ヲチスレ",
+    "clue": "対象を観察して語るための掲示板の場",
+    "genre": "subculture"
+  },
+  {
+    "answer": "コミカライズ",
+    "clue": "原作を漫画化すること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ノベライズ",
+    "clue": "映像作品などを小説化すること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ロボットアニメ",
+    "clue": "巨大兵器ものの定番ジャンル",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ボスキャラ",
+    "clue": "ステージ終盤で待ち構える強敵",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ザコキャラ",
+    "clue": "数で攻めてくる弱い敵キャラ",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ワンコイン",
+    "clue": "百円玉一枚でクリアする腕前の証",
+    "genre": "subculture"
+  },
+  {
+    "answer": "セーブデータ",
+    "clue": "進行状況を記録した中身",
+    "genre": "subculture"
+  },
+  {
+    "answer": "イースターエッグ",
+    "clue": "ソフトに仕込まれた隠し要素",
+    "genre": "subculture"
+  },
+  {
+    "answer": "バグワザ",
+    "clue": "不具合を逆用した攻略テクニック",
+    "genre": "subculture"
+  },
+  {
+    "answer": "シバリプレイ",
+    "clue": "あえて条件を制限して遊ぶ流儀",
+    "genre": "subculture"
+  },
+  {
+    "answer": "エンジョイゼイ",
+    "clue": "気楽に楽しむタイプの遊び手",
+    "genre": "subculture"
+  },
+  {
+    "answer": "コンシューマー",
+    "clue": "家庭用据置機向け作品を指す語",
+    "genre": "subculture"
+  },
+  {
+    "answer": "アケコン",
+    "clue": "格ゲー用のスティック型操作機器",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ゲーセン",
+    "clue": "業務用ゲーム機が並ぶ遊び場の略",
+    "genre": "subculture"
+  },
+  {
+    "answer": "アクリルキーホルダー",
+    "clue": "透明板にキャラを印刷したグッズ",
+    "genre": "subculture"
+  },
+  {
+    "answer": "タペストリー",
+    "clue": "壁掛けの布製大判イラストグッズ",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ノベルティ",
+    "clue": "購入特典として配られるおまけ品",
+    "genre": "subculture"
+  },
+  {
+    "answer": "セドリ",
+    "clue": "安く仕入れ高く売る転売の手口",
+    "genre": "subculture"
+  },
+  {
+    "answer": "テンバイヤー",
+    "clue": "高値で売りさばく転売目的の人",
+    "genre": "subculture"
+  },
+  {
+    "answer": "リプライ",
+    "clue": "投稿への返信",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ナリスマシ",
+    "clue": "他人を装って活動する行為",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ステアカ",
+    "clue": "使い捨て目的の予備アカウント",
+    "genre": "subculture"
+  },
+  {
+    "answer": "カギアカ",
+    "clue": "非公開設定のアカウント",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ウラアカ",
+    "clue": "本来の自分を隠した別アカウント",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ブクマ",
+    "clue": "後で見るために登録する印の略",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ファボ",
+    "clue": "お気に入り登録の古いネット俗称",
+    "genre": "subculture"
+  },
+  {
+    "answer": "オマイラ",
+    "clue": "掲示板で複数の相手に呼びかける俗語",
+    "genre": "subculture"
+  },
+  {
+    "answer": "トウト",
+    "clue": "推しが素晴らしくて拝みたくなる感情",
+    "genre": "subculture"
+  },
+  {
+    "answer": "テェテェ",
+    "clue": "尊さを崩した愛らしい言い回し",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ゲンバ",
+    "clue": "ライブやイベントの会場を指す俗語",
+    "genre": "subculture"
+  },
+  {
+    "answer": "エンセイ",
+    "clue": "遠方の公演まで出向くこと",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ブッパン",
+    "clue": "会場で行うグッズ販売",
+    "genre": "subculture"
+  },
+  {
+    "answer": "トクテンカイ",
+    "clue": "握手や撮影などの特典イベント",
+    "genre": "subculture"
+  },
+  {
+    "answer": "チェキ",
+    "clue": "推しと撮るインスタント写真の俗称",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ヲタゲイ",
+    "clue": "サイリウムを振り回す独特の応援動作",
+    "genre": "subculture"
+  },
+  {
+    "answer": "カミタイオウ",
+    "clue": "ファンへの素晴らしい応対",
+    "genre": "subculture"
+  },
+  {
+    "answer": "シオタイオウ",
+    "clue": "そっけない冷たい応対",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ソツギョウ",
+    "clue": "アイドルがグループを離れること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "センバツ",
+    "clue": "表題曲を歌うメンバーに選ばれること",
+    "genre": "subculture"
+  },
+  {
+    "answer": "アクシュケン",
+    "clue": "握手会に参加できる封入チケット",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ソウセンキョ",
+    "clue": "ファン投票で人気順位を決める催し",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ドウタンキョヒ",
+    "clue": "同じ推しのファンを避ける姿勢",
+    "genre": "subculture"
+  },
+  {
+    "answer": "キョウキュウ",
+    "clue": "推し関連の新情報やグッズの提供",
+    "genre": "subculture"
+  },
+  {
+    "answer": "セイチ",
+    "clue": "作品の舞台になったゆかりの地",
+    "genre": "subculture"
+  },
+  {
+    "answer": "コラボグッズ",
+    "clue": "異業種と提携して作る商品",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ヌイ",
+    "clue": "持ち歩く小さな縫いぐるみの略",
+    "genre": "subculture"
+  },
+  {
+    "answer": "トウシンダイ",
+    "clue": "実物大サイズのパネルや人形",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ゲンテイバン",
+    "clue": "数や期間を絞って売る特別仕様",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ショカイトクテン",
+    "clue": "初回出荷分にだけ付くおまけ",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ジマクショクニン",
+    "clue": "動画に手作業で字幕を付ける名人",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ニコナマ",
+    "clue": "ある動画サイトの生放送機能の俗称",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ミライアカリ",
+    "clue": "黎明期のバーチャルユーチューバーの一人",
+    "genre": "subculture"
+  },
+  {
+    "answer": "テッカ",
+    "clue": "鉄道好きを指す俗称の一種",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ヌノオシ",
+    "clue": "推しのタオルや布グッズ全般",
+    "genre": "subculture"
+  },
+  {
+    "answer": "イベンター",
+    "clue": "同人即売会などを企画運営する人",
+    "genre": "subculture"
+  },
+  {
+    "answer": "サンプル",
+    "clue": "頒布前に公開する試し読み画像",
+    "genre": "subculture"
+  },
+  {
+    "answer": "オフショット",
+    "clue": "本番以外の舞台裏の写真",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ボイロ",
+    "clue": "実況などに使う音声合成ソフトの俗称",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ガッシュ",
+    "clue": "サイン色紙や寄せ書きに描く即興絵",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ラッキング",
+    "clue": "缶バッジ等のランダム品を交換する行為",
+    "genre": "subculture"
+  },
+  {
+    "answer": "クリエイター",
+    "clue": "作品を生み出す制作者全般",
+    "genre": "subculture"
+  },
+  {
+    "answer": "ファンダム",
+    "clue": "ある作品を支持する愛好家の総体",
+    "genre": "subculture"
+  },
+  {
+    "answer": "セルラン",
+    "clue": "アプリの売上順位を示す俗称",
+    "genre": "subculture"
   }
 ]
