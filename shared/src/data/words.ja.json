@@ -14703,5 +14703,585 @@
     "answer": "ミーアキャット",
     "clue": "後ろ足で立って見張りをする小動物",
     "genre": "nature"
+  },
+  {
+    "answer": "ノウ",
+    "clue": "思考や記憶をつかさどる器官",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ジンゾウ",
+    "clue": "血液をろ過して尿を作る臓器",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "イブクロ",
+    "clue": "食べ物を消化する袋状の臓器",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "スイゾウ",
+    "clue": "インスリンを分泌する臓器",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ヒゾウ",
+    "clue": "古い赤血球を処理する臓器",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ボウコウ",
+    "clue": "尿を一時的にためる臓器",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ホネ",
+    "clue": "体を支える硬い組織",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "キンニク",
+    "clue": "収縮して体を動かす組織",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ケツエキ",
+    "clue": "全身を巡り酸素や栄養を運ぶ赤い液体",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ケッカン",
+    "clue": "血液が流れる管",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ドウミャク",
+    "clue": "心臓から血液を送り出す血管",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ジョウミャク",
+    "clue": "心臓へ血液を戻す血管",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "シンケイ",
+    "clue": "刺激や情報を伝える組織",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ヒフ",
+    "clue": "体の表面をおおう組織",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "メダマ",
+    "clue": "物を見るための感覚器官",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ミミ",
+    "clue": "音を聞く感覚器官",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ハナ",
+    "clue": "においをかぐ顔の中央の器官",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "シタ",
+    "clue": "味を感じる口の中の器官",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ユビ",
+    "clue": "手や足の先の細長い部分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ツメ",
+    "clue": "指の先をおおう硬い部分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "カミノケ",
+    "clue": "頭に生える毛",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "カタ",
+    "clue": "腕と胴体をつなぐ部分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "コシ",
+    "clue": "胴体の下部、上半身と下半身の境",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "セボネ",
+    "clue": "背中を縦に通る骨",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "アバラ",
+    "clue": "胸を囲むように並ぶ骨",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ズガイコツ",
+    "clue": "頭部を保護する骨",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "オウカクマク",
+    "clue": "胸と腹の境にあり呼吸を助ける筋肉",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ダイチョウ",
+    "clue": "水分を吸収する太い腸",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ショウチョウ",
+    "clue": "栄養を吸収する細い腸",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "コキュウ",
+    "clue": "息を吸ったり吐いたりすること",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "マユゲ",
+    "clue": "目の上に生える毛",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "クチビル",
+    "clue": "口のふちのやわらかい部分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "アゴ",
+    "clue": "口の下にある顔の部分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ヒタイ",
+    "clue": "顔の上部、額",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "セナカ",
+    "clue": "胴体の後ろ側",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "オヤユビ",
+    "clue": "手のいちばん太い指",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "テノヒラ",
+    "clue": "手のうちがわの平らな部分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "テクビ",
+    "clue": "手と腕をつなぐ部分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "アシクビ",
+    "clue": "足と脚をつなぐ部分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "カカト",
+    "clue": "足の裏の後ろの部分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "フクラハギ",
+    "clue": "すねの裏側のふくらんだ部分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "フトモモ",
+    "clue": "足の付け根からひざまでの太い部分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ヘソ",
+    "clue": "おなかの中央のくぼみ",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "リンパ",
+    "clue": "免疫に関わり体内を巡る液",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ホルモン",
+    "clue": "体の働きを調整する物質",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "イデンシ",
+    "clue": "親から子へ形質を伝えるもの",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "セッケッキュウ",
+    "clue": "酸素を運ぶ赤い血液成分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ハッケッキュウ",
+    "clue": "細菌やウイルスと戦う血液成分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ケッショウバン",
+    "clue": "出血を止めるために血を固める血液成分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ナミダ",
+    "clue": "目から流れ出る液体",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "アセ",
+    "clue": "暑いときなどに皮膚から出る液体",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ダエキ",
+    "clue": "口の中で食べ物を湿らせる液",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "シモン",
+    "clue": "指先にある人それぞれ異なる紋様",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ナンコツ",
+    "clue": "耳や鼻などにある弾力のある組織",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "カンセツ",
+    "clue": "骨と骨をつなぐ曲がる部分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "ケンシ",
+    "clue": "物を見るときに光を取り込む目の中央の黒い部分",
+    "genre": "anatomy"
+  },
+  {
+    "answer": "サッカー",
+    "clue": "足でボールを蹴りゴールを狙う球技",
+    "genre": "sports"
+  },
+  {
+    "answer": "ヤキュウ",
+    "clue": "九人ずつで投打を競う球技",
+    "genre": "sports"
+  },
+  {
+    "answer": "バスケットボール",
+    "clue": "手でボールを運びリングに入れる球技",
+    "genre": "sports"
+  },
+  {
+    "answer": "バレーボール",
+    "clue": "ネット越しにボールを打ち合う球技",
+    "genre": "sports"
+  },
+  {
+    "answer": "テニス",
+    "clue": "ラケットでボールを打ち合う球技",
+    "genre": "sports"
+  },
+  {
+    "answer": "タッキュウ",
+    "clue": "小さな台の上でボールを打ち合う競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "バドミントン",
+    "clue": "羽根のついたシャトルを打ち合う球技",
+    "genre": "sports"
+  },
+  {
+    "answer": "ラグビー",
+    "clue": "楕円のボールを持って走り陣地を取る球技",
+    "genre": "sports"
+  },
+  {
+    "answer": "ゴルフ",
+    "clue": "クラブで小さな球を打ちカップに入れる競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "スイエイ",
+    "clue": "水の中を泳いで速さを競う競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "マラソン",
+    "clue": "四十二キロあまりを走る陸上競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "リクジョウ",
+    "clue": "走る・跳ぶ・投げるなどを競う競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "スケート",
+    "clue": "氷の上を滑る競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "スキー",
+    "clue": "雪の斜面を板で滑る競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "スノーボード",
+    "clue": "一枚の板で雪の斜面を滑る競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "ジュウドウ",
+    "clue": "組み合って投げ技や固め技で競う武道",
+    "genre": "sports"
+  },
+  {
+    "answer": "ケンドウ",
+    "clue": "竹刀で打ち合う武道",
+    "genre": "sports"
+  },
+  {
+    "answer": "カラテ",
+    "clue": "突きや蹴りで戦う武道",
+    "genre": "sports"
+  },
+  {
+    "answer": "ボクシング",
+    "clue": "拳で打ち合う格闘技",
+    "genre": "sports"
+  },
+  {
+    "answer": "レスリング",
+    "clue": "組み合って相手を押さえ込む格闘技",
+    "genre": "sports"
+  },
+  {
+    "answer": "スモウ",
+    "clue": "土俵で相手を倒す日本の国技",
+    "genre": "sports"
+  },
+  {
+    "answer": "フェンシング",
+    "clue": "細い剣で突き合う競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "アーチェリー",
+    "clue": "弓で的を射る競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "タイソウ",
+    "clue": "跳躍や回転の美しさを競う競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "ダーツ",
+    "clue": "的に矢を投げて点を競う遊び",
+    "genre": "sports"
+  },
+  {
+    "answer": "ホッケー",
+    "clue": "スティックでボールやパックを運ぶ球技",
+    "genre": "sports"
+  },
+  {
+    "answer": "ハンドボール",
+    "clue": "手でボールを投げてゴールを狙う球技",
+    "genre": "sports"
+  },
+  {
+    "answer": "サーフィン",
+    "clue": "波の上を板に乗って滑るスポーツ",
+    "genre": "sports"
+  },
+  {
+    "answer": "カヌー",
+    "clue": "パドルで漕ぐ水上競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "ヨット",
+    "clue": "帆で風を受けて進む水上競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "トライアスロン",
+    "clue": "水泳・自転車・長距離走を続けて行う競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "ビリヤード",
+    "clue": "台の上で棒を使い球を突く競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "ボルダリング",
+    "clue": "ロープを使わず低い壁を登る競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "ゴール",
+    "clue": "得点となる目標の場所",
+    "genre": "sports"
+  },
+  {
+    "answer": "シュート",
+    "clue": "ゴールに向けてボールを放つこと",
+    "genre": "sports"
+  },
+  {
+    "answer": "パス",
+    "clue": "味方にボールを渡すこと",
+    "genre": "sports"
+  },
+  {
+    "answer": "ドリブル",
+    "clue": "ボールを操りながら進むこと",
+    "genre": "sports"
+  },
+  {
+    "answer": "ホームラン",
+    "clue": "野球で柵を越える一打",
+    "genre": "sports"
+  },
+  {
+    "answer": "ピッチャー",
+    "clue": "野球でボールを投げる選手",
+    "genre": "sports"
+  },
+  {
+    "answer": "キャッチャー",
+    "clue": "野球で球を受ける選手",
+    "genre": "sports"
+  },
+  {
+    "answer": "バット",
+    "clue": "野球でボールを打つ道具",
+    "genre": "sports"
+  },
+  {
+    "answer": "グローブ",
+    "clue": "野球で球を捕るための手袋",
+    "genre": "sports"
+  },
+  {
+    "answer": "ラケット",
+    "clue": "テニスや卓球で球を打つ道具",
+    "genre": "sports"
+  },
+  {
+    "answer": "シャトル",
+    "clue": "バドミントンで打ち合う羽根のついた用具",
+    "genre": "sports"
+  },
+  {
+    "answer": "コート",
+    "clue": "球技を行う区切られた場所",
+    "genre": "sports"
+  },
+  {
+    "answer": "スタジアム",
+    "clue": "観客席のある大きな競技場",
+    "genre": "sports"
+  },
+  {
+    "answer": "オリンピック",
+    "clue": "四年ごとに開かれる国際スポーツ大会",
+    "genre": "sports"
+  },
+  {
+    "answer": "メダル",
+    "clue": "上位入賞者に贈られる賞",
+    "genre": "sports"
+  },
+  {
+    "answer": "センシュ",
+    "clue": "競技に出場する人",
+    "genre": "sports"
+  },
+  {
+    "answer": "シンパン",
+    "clue": "試合の判定を行う人",
+    "genre": "sports"
+  },
+  {
+    "answer": "ユニフォーム",
+    "clue": "選手が着るそろいの服",
+    "genre": "sports"
+  },
+  {
+    "answer": "スパイク",
+    "clue": "バレーでボールを強く打ち込むこと",
+    "genre": "sports"
+  },
+  {
+    "answer": "キーパー",
+    "clue": "ゴールを守る選手",
+    "genre": "sports"
+  },
+  {
+    "answer": "ハーフタイム",
+    "clue": "試合の前半と後半の間の休憩",
+    "genre": "sports"
+  },
+  {
+    "answer": "リレー",
+    "clue": "バトンをつないで走る陸上競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "ハードル",
+    "clue": "障害を跳び越えながら走る陸上競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "ダイビング",
+    "clue": "高い台から水に飛び込む競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "ウエイトリフティング",
+    "clue": "バーベルを持ち上げる競技",
+    "genre": "sports"
+  },
+  {
+    "answer": "セパタクロー",
+    "clue": "足や頭でボールを蹴り合う東南アジア発祥の球技",
+    "genre": "sports"
+  },
+  {
+    "answer": "カーリング",
+    "clue": "氷上で石を滑らせ的を狙う競技",
+    "genre": "sports"
   }
 ]

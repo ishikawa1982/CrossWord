@@ -60,10 +60,16 @@ function nextPlayerId(): string {
   return `p${playerSeq}_${Math.random().toString(36).slice(2, 8)}`;
 }
 
-/** ルームの全員へ最新状態を配信（解答を除いた盤面） */
+/** ルームの全員へ最新状態を配信（解答を除いた盤面）。終了時のみ解答も含めて配信する */
 function broadcastState(room: Room, event: 'roomUpdate' | 'gameUpdate' | 'gameOver') {
-  const stripped = room.puzzle ? stripSolution(room.puzzle, room.hintedCells) : null;
-  io.to(room.code).emit(event, toGameState(room, stripped));
+  // gameOver はリザルト画面で問題と答えを一覧表示するため、解答付きの盤面をそのまま配信する
+  const puzzle =
+    event === 'gameOver'
+      ? room.puzzle
+      : room.puzzle
+        ? stripSolution(room.puzzle, room.hintedCells)
+        : null;
+  io.to(room.code).emit(event, toGameState(room, puzzle));
 }
 
 /** 60秒後に開始し10秒ごとに未解答マスを1つずつヒント公開する */
