@@ -215,7 +215,9 @@ io.on('connection', (socket) => {
   socket.on('rematch', () => {
     const room = findRoomBySocket(socket.id);
     if (!room) return;
-    // 終了済みの部屋を待機状態に戻し、対戦データをリセット（同じ部屋で再戦）
+    const playerId = room.socketToPlayer.get(socket.id);
+    // 終了済みの部屋を待機状態に戻し、対戦データをリセット（同じ部屋で再戦）。
+    // 最初に再戦した人（最初にロビーに戻った人）を新しいホストにする。
     if (room.status === 'finished') {
       room.status = 'lobby';
       room.puzzle = null;
@@ -225,7 +227,10 @@ io.on('connection', (socket) => {
       room.wordSolvers.clear();
       room.hintedCells.clear();
       clearHintTimer(room);
-      for (const p of room.players) p.score = 0;
+      for (const p of room.players) {
+        p.score = 0;
+        p.isHost = p.id === playerId;
+      }
     }
     broadcastState(room, 'roomUpdate');
   });
