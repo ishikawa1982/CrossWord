@@ -3,8 +3,8 @@ import type { Language } from '@crossword/shared';
 import type { SoloDifficulty } from '../useSoloGame.js';
 
 const NAME_KEY = 'crossword.nickname';
-// ルームコードに使うひらがな（サーバの CODE_CHARS と一致させる）
-const CODE_CHARS = 'あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろ';
+// ルームコードはひらがな（濁点・半濁点を含む）。U+3041〜U+3096 のひらがな1文字を許可する
+const HIRAGANA_RE = /^[ぁ-ゖ]$/;
 
 interface Props {
   onCreate: (name: string, language: Language) => void;
@@ -27,9 +27,9 @@ export function Home({ onCreate, onJoin, onSolo, error, connected }: Props) {
     if (name.trim()) localStorage.setItem(NAME_KEY, name.trim());
   }, [name]);
 
-  // 入力をひらがな（コード用の字のみ）に絞り、最大4文字に
+  // 入力をひらがな（濁点・半濁点を含む）に絞り、最大4文字に
   const onCodeChange = (raw: string) => {
-    const filtered = Array.from(raw).filter((ch) => CODE_CHARS.includes(ch)).slice(0, 4).join('');
+    const filtered = Array.from(raw).filter((ch) => HIRAGANA_RE.test(ch)).slice(0, 4).join('');
     setCode(filtered);
   };
 

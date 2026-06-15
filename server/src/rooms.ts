@@ -44,9 +44,6 @@ const ROOM_CODE_WORDS = [
   'ゆり', 'よこ', 'よる', 'りす', 'ろば', 'わに', 'めだ', 'べに', 'ぶた'
 ];
 
-// ルームコード用のひらがな（サーバの CODE_CHARS と一致させる）
-const CODE_CHARS = 'あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろ';
-
 function generateCode(): string {
   let code: string;
   do {
