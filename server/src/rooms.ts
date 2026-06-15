@@ -25,6 +25,8 @@ export interface Room {
   socketToPlayer: Map<string, string>;
   /** 先着正解済みの単語 ID（2回目以降の解答を拒否するため） */
   solvedWordIds: Set<string>;
+  /** 単語 ID → 正解したプレイヤー ID */
+  wordSolvers: Map<string, string>;
   /** ヒントとして文字を公開したマスのキー（"row,col"） */
   hintedCells: Set<string>;
   /** ヒントタイマーの ID（クリア用） */
@@ -66,6 +68,7 @@ export function createRoom(language: Language): Room {
     cooldownUntil: new Map(),
     socketToPlayer: new Map(),
     solvedWordIds: new Set(),
+    wordSolvers: new Map(),
     hintedCells: new Set(),
     hintTimer: null,
     countingDown: false,
@@ -139,5 +142,6 @@ export function toGameState(room: Room, strippedPuzzle: Puzzle | null): GameStat
     puzzle: strippedPuzzle,
     winnerIds: room.winnerIds,
     solvedWordIds: [...room.solvedWordIds],
+    wordSolvers: Object.fromEntries(room.wordSolvers),
   };
 }
