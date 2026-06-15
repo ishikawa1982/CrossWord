@@ -5,12 +5,13 @@ import { Confetti } from '../components/Confetti.js';
 interface Props {
   state: GameState;
   playerId: string;
+  onRematch: () => void;
   onLeave: () => void;
 }
 
 const ROW_INTERVAL_MS = 650; // 1行ずつ発表する間隔
 
-export function Results({ state, playerId, onLeave }: Props) {
+export function Results({ state, playerId, onRematch, onLeave }: Props) {
   const sorted = [...state.players].sort((a, b) => b.score - a.score);
   const winners = state.players.filter((p) => state.winnerIds.includes(p.id));
   const iWon = state.winnerIds.includes(playerId);
@@ -130,9 +131,14 @@ export function Results({ state, playerId, onLeave }: Props) {
         </div>
       )}
 
-      <button className="primary" onClick={onLeave}>
-        ホームに戻る
-      </button>
+      <div className="result-actions">
+        <button className="primary" onClick={onRematch}>
+          再戦する
+        </button>
+        <button className="ghost" onClick={onLeave}>
+          ホームに戻る
+        </button>
+      </div>
     </div>
   );
 }

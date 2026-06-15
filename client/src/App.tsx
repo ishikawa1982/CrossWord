@@ -16,6 +16,8 @@ export function App() {
   const [lastResult, setLastResult] = useState<AnswerResult | null>(null);
   const [connected, setConnected] = useState(false);
   const playerIdRef = useRef<string | null>(null);
+  // ゲーム終了後はリザルトを表示し続ける（再戦/ホームを押すまでサーバ状態に追従しない）
+  const [showResults, setShowResults] = useState(false);
   const solo = useSoloGame();
   const [soloConfig, setSoloConfig] = useState<{ language: Language; difficulty: SoloDifficulty } | null>(null);
 
@@ -31,7 +33,10 @@ export function App() {
   useEffect(() => {
     const onRoom = (s: GameState) => setState(s);
     const onGame = (s: GameState) => setState(s);
-    const onOver = (s: GameState) => setState(s);
+    const onOver = (s: GameState) => {
+      setState(s);
+      setShowResults(true);
+    };
     const onAnswer = (r: AnswerResult) => setLastResult(r);
     const onError = (e: { message: string }) => setError(e.message);
 
@@ -99,6 +104,12 @@ export function App() {
     setState(null);
     setPlayerId(null);
     playerIdRef.current = null;
+    setShowResults(false);
+  }, []);
+  // 再戦：同じ部屋を待機状態に戻し、ロビーへ遷移する
+  const handleRematch = useCallback(() => {
+    socket.emit('rematch');
+    setShowResults(false);
   }, []);
 
   // カウントダウン（全員に表示）
@@ -108,9 +119,12 @@ export function App() {
     socket.on('countdown', onCountdown);
     return () => { socket.off('countdown', onCountdown); };
   }, []);
-  // ゲーム開始（gameUpdate）が来たらカウントダウンをクリア
+  // ゲーム開始（gameUpdate）が来たらカウントダウンとリザルト表示をクリア
   useEffect(() => {
-    if (state?.status === 'playing') setCountdown(null);
+    if (state?.status === 'playing') {
+      setCountdown(null);
+      setShowResults(false);
+    }
   }, [state?.status]);
 
   // 表示する画面を決定
@@ -147,6 +161,16 @@ export function App() {
         connected={connected}
       />
     );
+  } else if (state.status === 'finished' || showResults) {
+    // リザルト表示中は、サーバが待機状態に戻っても再戦/ホームを押すまで結果を見せ続ける
+    screen = (
+      <Results
+        state={state}
+        playerId={playerId}
+        onRematch={handleRematch}
+        onLeave={handleLeave}
+      />
+    );
   } else if (state.status === 'lobby') {
     screen = (
       <Lobby
@@ -158,8 +182,6 @@ export function App() {
         error={error}
       />
     );
-  } else if (state.status === 'finished') {
-    screen = <Results state={state} playerId={playerId} onLeave={handleLeave} />;
   } else {
     screen = (
       <Game

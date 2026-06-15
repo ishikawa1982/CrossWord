@@ -212,6 +212,24 @@ io.on('connection', (socket) => {
     }
   });
 
+  socket.on('rematch', () => {
+    const room = findRoomBySocket(socket.id);
+    if (!room) return;
+    // 終了済みの部屋を待機状態に戻し、対戦データをリセット（同じ部屋で再戦）
+    if (room.status === 'finished') {
+      room.status = 'lobby';
+      room.puzzle = null;
+      room.winnerIds = [];
+      room.cooldownUntil.clear();
+      room.solvedWordIds.clear();
+      room.wordSolvers.clear();
+      room.hintedCells.clear();
+      clearHintTimer(room);
+      for (const p of room.players) p.score = 0;
+    }
+    broadcastState(room, 'roomUpdate');
+  });
+
   socket.on('setGenre', (genre) => {
     const room = findRoomBySocket(socket.id);
     if (!room || room.status !== 'lobby') return;

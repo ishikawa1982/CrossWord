@@ -334,6 +334,12 @@ button.ghost { background: transparent; color: var(--muted); border: 1px solid v
 .answer-list .clue { flex: 1; }
 .answer-list .answer { flex: 0 0 auto; font-weight: 700; color: #2563eb; }
 
+/* リザルトのボタン群（再戦・ホーム） */
+.result-actions {
+  display: flex; gap: 0.6rem; justify-content: center;
+  margin-top: 1.2rem; flex-wrap: wrap;
+}
+
 /* ソロのクリア見出しを強調 */
 .clear-title { animation: result-pop-stay 0.7s ease-out both; }
 /* ソロ統計のフェードイン（呼び出し側で animation-delay を指定） */

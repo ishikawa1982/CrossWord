@@ -158,6 +158,8 @@ export interface ClientToServerEvents {
   startGame: () => void;
   submitAnswer: (payload: SubmitAnswerPayload) => void;
   setGenre: (genre: Genre) => void;
+  /** リザルトから同じ部屋で再戦する（部屋を待機状態に戻す） */
+  rematch: () => void;
   leaveRoom: () => void;
 }
 
