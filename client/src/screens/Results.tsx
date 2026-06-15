@@ -16,6 +16,15 @@ export function Results({ state, playerId, onLeave }: Props) {
   const iWon = state.winnerIds.includes(playerId);
   const isDraw = winners.length > 1;
 
+  // 出題された問題と答えの一覧（ヨコ→タテ、番号順）
+  const clues = state.puzzle
+    ? [...state.puzzle.words].sort(
+        (a, b) =>
+          (a.direction === b.direction ? 0 : a.direction === 'across' ? -1 : 1) ||
+          a.number - b.number
+      )
+    : [];
+
   // 下位から1行ずつ発表。revealedFrom はこのインデックス以降を表示する。
   const [revealedFrom, setRevealedFrom] = useState(sorted.length);
   // 1位（先頭）まで出たら祝う演出を解禁
@@ -89,6 +98,21 @@ export function Results({ state, playerId, onLeave }: Props) {
           );
         })}
       </ol>
+
+      {clues.length > 0 && (
+        <div className="result-answers">
+          <h2>出題された問題</h2>
+          <ul className="answer-list">
+            {clues.map((w) => (
+              <li key={w.id}>
+                <span className="dir">{w.direction === 'across' ? 'ヨコ' : 'タテ'}{w.number}</span>
+                <span className="clue">{w.clue}</span>
+                <span className="answer">{w.answer ?? ''}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
 
       <button className="primary" onClick={onLeave}>
         ホームに戻る

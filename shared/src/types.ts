@@ -14,6 +14,8 @@ export type Genre =
   | 'music'
   | 'geography'
   | 'history'
+  | 'anatomy'
+  | 'sports'
   | 'random';
 
 /** ジャンルの表示名と説明 */
@@ -29,6 +31,8 @@ export const GENRES: { id: Genre; label: string; desc: string }[] = [
   { id: 'music', label: '音楽', desc: '楽器・音楽ジャンル・名曲・音楽用語など' },
   { id: 'geography', label: '地理・世界', desc: '国・首都・都市・名所・山や川など' },
   { id: 'history', label: '歴史', desc: '歴史上の人物・出来事・時代・遺跡など' },
+  { id: 'anatomy', label: '人体', desc: '臓器・骨・筋肉・体の部位など' },
+  { id: 'sports', label: 'スポーツ', desc: '競技・用具・ルール用語など' },
 ];
 
 export type Direction = 'across' | 'down';
