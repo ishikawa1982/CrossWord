@@ -37,7 +37,7 @@ export function Home({ onCreate, onJoin, onSolo, error, connected }: Props) {
   return (
     <div className="screen home">
       <h1 className="home-title">
-        <img src={logoUrl} alt="みんなのクロスワードパズル VS" className="home-logo" />
+        <img src={logoUrl} alt="みんなのクロスワードパズル" className="home-logo" />
       </h1>
       <p className="tagline">最大4人で早押し対戦。マスを自分の色で塗りつぶそう！</p>
 
