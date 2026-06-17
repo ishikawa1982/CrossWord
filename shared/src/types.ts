@@ -16,6 +16,12 @@ export type Genre =
   | 'history'
   | 'anatomy'
   | 'sports'
+  | 'science'
+  | 'business'
+  | 'mythology'
+  | 'space'
+  | 'proverbs'
+  | 'travel'
   | 'random';
 
 /** ジャンルの表示名と説明 */
@@ -33,6 +39,12 @@ export const GENRES: { id: Genre; label: string; desc: string }[] = [
   { id: 'history', label: '歴史', desc: '歴史上の人物・出来事・時代・遺跡など' },
   { id: 'anatomy', label: '人体', desc: '臓器・骨・筋肉・体の部位など' },
   { id: 'sports', label: 'スポーツ', desc: '競技・用具・ルール用語など' },
+  { id: 'science', label: '科学・テクノロジー', desc: '元素・発明・IT用語・テクノロジーなど' },
+  { id: 'business', label: '経済・ビジネス', desc: '株式・企業・経済用語・お金にまつわる言葉など' },
+  { id: 'mythology', label: '神話・伝説', desc: 'ギリシャ神話・日本神話・妖怪・伝説など' },
+  { id: 'space', label: '宇宙・天体', desc: '星座・惑星・宇宙開発・天文用語など' },
+  { id: 'proverbs', label: 'ことわざ・四字熟語', desc: 'ことわざ・四字熟語・慣用句など' },
+  { id: 'travel', label: '旅行・世界遺産', desc: '観光地・世界遺産・各国の名所など' },
 ];
 
 export type Direction = 'across' | 'down';
